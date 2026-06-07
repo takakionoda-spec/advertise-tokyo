@@ -103,8 +103,8 @@ export const siteConfig = {
      *  domain — once registered, and update Vercel NEXT_PUBLIC_SITE_URL). */
     siteUrl: "https://advertise-tokyo.vercel.app",
     subject: {
-      en: "the global advertising and marketing conversation — translated into Japanese and read through a Tokyo marketer's lens, every morning",
-      ja: "世界の広告とマーケティングの最新情報を毎朝日本語に翻訳し、東京のマーケッター目線で読み解くバイリンガル・ディレクトリ"
+      en: "the world's cutting-edge marketing — delivered to every marketer in Japan, in both English and Japanese, every morning, for free",
+      ja: "世界の最先端マーケティングを、東京にいながら実感できる無料のバイリンガル WEB メディア。すべての日本のマーケッターへ毎朝お届けします"
     },
     city: { en: "Tokyo", ja: "東京" },
     keywords: [
@@ -131,10 +131,22 @@ export const siteConfig = {
     ],
     /** Issue counter origin — masthead reads "Vol. xx — YYYY". Start in
      *  June 2026 so Vol. 01 corresponds to the launch month. */
-    issueBase: { year: 2026, month: 6 }
-    /* NOTE: brand.cta is intentionally omitted. The Header/Footer fallback
-     * handles its absence and no "Submit ..." link is surfaced. Re-enable
-     * later if a paid placement programme launches. */
+    issueBase: { year: 2026, month: 6 },
+
+    /** Primary CTA — surfaced in Header (utility row), Footer, and the home
+     *  page tail. Used here as the "submit your company / get covered" entry
+     *  point for Japanese marketing / ad-tech / AI firms that want to be
+     *  spotlighted alongside the global feed. Targets `/about#contact` so
+     *  the contact context is one page, indexable, and doesn't require a
+     *  separate route. */
+    cta: {
+      label: { en: "Submit Your Company", ja: "企業情報を掲載する" },
+      href: "/about#contact",
+      hint: {
+        en: "Free for every marketer in Japan — and your company can be featured alongside the global feed.",
+        ja: "日本のマーケッターに無料で。海外フィードと並べて、あなたの会社の情報も掲載できます。"
+      }
+    }
   },
 
   /* ------------------------------------------------------------------ LAYOUT
@@ -158,8 +170,8 @@ export const siteConfig = {
   /* ----------------------------------------------------------------- CHROME */
   chrome: {
     tagline: {
-      en: "The global advertising and marketing conversation, read from Tokyo. A bilingual directory bridging the world's brand work and Tokyo's media reality, every morning.",
-      ja: "世界の広告とマーケティングの会話を、東京から読む。毎朝、海外で動いた一次情報を日本語に翻訳し、東京のマーケッター視点で読み解くバイリンガル・ディレクトリ。"
+      en: "The world's cutting-edge marketing, delivered to every marketer in Japan for free. Bilingual, every morning, with a Tokyo perspective on the global feed — and a spotlight on Japan's own marketing, ad-tech and AI players.",
+      ja: "世界の最先端マーケティングを、東京から無料で。毎朝バイリンガルで、海外の動向に東京視点を加えて読み解き、さらに日本のマーケティング・アドテク・AI 企業の最新情報もキュレーションしてお届けします。"
     },
     legal: {
       en: "© 2026 ADVERTISE TOKYO. All rights reserved.",
@@ -184,12 +196,12 @@ export const siteConfig = {
     newsletter: {
       eyebrow: { en: "The Briefing", ja: "ブリーフィング" },
       heading: {
-        en: "World advertising, read from Tokyo. Once a week, in Japanese.",
-        ja: "世界の広告を、東京から。\n週に一通の日本語ブリーフィング。"
+        en: "World marketing, delivered to Tokyo. Free, weekly, in Japanese.",
+        ja: "世界のマーケティングを、東京へ。\n毎週、日本語の無料ブリーフィング。"
       },
       lede: {
-        en: "Each Friday: the five global advertising and marketing stories Japanese marketers should know about this week, translated and read through a Tokyo lens — what moved, what it means for the Japan market, what to brief next week.",
-        ja: "毎週金曜。日本のマーケッターが今週知っておくべき海外の広告・マーケティングニュースを5本厳選し、日本語に翻訳して東京視点で解説。何が動いたか、日本市場にとってどう意味があるか、来週のブリーフに何を入れるか。"
+        en: "Each Friday: the five global marketing stories every Japanese marketer should know — translated, read through a Tokyo lens, and paired with the Japan-side moves worth tracking this week. Free, no spam, unsubscribe anytime.",
+        ja: "毎週金曜。日本のマーケッターが今週知っておくべき海外マーケティングニュースを 5 本厳選し、日本語に翻訳して東京視点で解説。並行して、日本国内で追っておくべき動きも紹介します。無料、スパムなし、いつでも解除可能。"
       },
       placeholder: { en: "Your email address", ja: "メールアドレス" },
       cta: { en: "Subscribe", ja: "購読する" },
@@ -200,10 +212,10 @@ export const siteConfig = {
     },
     footer: {
       copy: {
-        en: "ADVERTISE TOKYO is a bilingual directory that bridges the global advertising and marketing conversation and Tokyo's media reality. We index the world's brand, creative, ad-tech and media stories every morning — from AdAge, Adweek, MarTech.org and Marketing Brew — translate the worth-knowing into Japanese, and add the layer machine translation can't: what this means for a marketer planning, briefing, or buying media in Tokyo today.",
-        ja: "ADVERTISE TOKYO は、世界の広告・マーケティングと東京のメディア現場をつなぐバイリンガル・ディレクトリです。AdAge、Adweek、MarTech.org、Marketing Brew から毎朝ブランド・クリエイティブ・アドテック・メディアのニュースを収集し、知っておくべき一次情報を日本語に翻訳します。さらに機械翻訳では届かないレイヤー —「これは東京で広告を企画・発注・出稿するマーケッターにとって何を意味するのか」— を東京の編集部が補完してお届けしています。"
+        en: "ADVERTISE TOKYO is a free bilingual media for every marketer in Japan. Each morning we translate the world's cutting-edge marketing news — from AdAge, Adweek, MarTech.org and Marketing Brew — into Japanese, add a Tokyo perspective, and spotlight the Japanese marketing, ad-tech and AI companies shaping the local landscape. If your company would like to be covered, please get in touch.",
+        ja: "ADVERTISE TOKYO は、すべての日本のマーケッターのための無料バイリンガル WEB メディアです。毎朝、世界の最先端マーケティング情報 — AdAge、Adweek、MarTech.org、Marketing Brew — を日本語に翻訳し、東京視点を加えてお届けします。さらに、日本のマーケティング・アドテク・AI 企業の最新情報もキュレーションして紹介。掲載をご希望の企業様はお気軽にご連絡ください。"
       },
-      strapline: "Tokyo · Bilingual · Marketer-Grade"
+      strapline: "Tokyo · Bilingual · Free for Marketers"
     },
     languageToggle: { en: "JA", ja: "EN" },
     notFound: {
@@ -221,8 +233,8 @@ export const siteConfig = {
         ja: "ADVERTISE TOKYO の最初のインデックスを\n組み立てています。"
       },
       lede: {
-        en: "Each morning, our pipeline pulls the advertising and marketing stories the world is talking about — from AdAge, Adweek, MarTech.org and Marketing Brew — translates the items worth knowing into Japanese, and adds the Tokyo marketer's angle that machine translation alone can't provide: what does this actually mean for a marketer working in Japan? The first index will appear here as soon as the next cycle completes.",
-        ja: "ADVERTISE TOKYO のパイプラインは毎朝、世界で話題の広告・マーケティング情報 — AdAge、Adweek、MarTech.org、Marketing Brew — を取得し、知っておくべき一次情報を日本語に翻訳します。さらに機械翻訳では届かない『これは日本のマーケッターにとって何を意味するのか』というレイヤーを、東京の編集部が加えてここに並べます。次回サイクルが完了次第、最初のインデックスが表示されます。"
+        en: "Each morning, our pipeline pulls the world's cutting-edge marketing news — from AdAge, Adweek, MarTech.org and Marketing Brew — translates the items worth knowing into Japanese, adds a Tokyo perspective, and spotlights Japanese marketing, ad-tech and AI companies alongside the global feed. Free for every marketer in Japan. The first index will appear here as soon as the next cycle completes.",
+        ja: "ADVERTISE TOKYO のパイプラインは毎朝、世界の最先端マーケティング情報 — AdAge、Adweek、MarTech.org、Marketing Brew — を取得し、知っておくべき一次情報を日本語に翻訳して東京視点で解説します。世界の動向と並べて、日本のマーケティング・アドテク・AI 企業の最新情報もキュレーションして紹介。すべての日本のマーケッターに、無料で。次回サイクルが完了次第、最初のインデックスが表示されます。"
       },
       nextDispatch: {
         en: "Next index: 04:30 JST",
@@ -234,45 +246,45 @@ export const siteConfig = {
   /* ------------------------------------------------------------------ ABOUT */
   about: {
     headline: {
-      en: "World advertising, read from Tokyo.",
-      ja: "世界の広告を、東京から読む。"
+      en: "The world's cutting-edge marketing, in Tokyo.",
+      ja: "世界の最先端マーケティングを、東京で。"
     },
     lede: {
-      en: "Every day, hundreds of advertising, brand, ad-tech and media stories ship in English. Most never reach Japanese marketers — and the few that do arrive as machine translation, missing the one layer a Tokyo marketer actually needs: what does this mean for planning, briefing or buying in the Japan market? ADVERTISE TOKYO closes both gaps. We translate the worth-knowing into Japanese every morning, then add the Tokyo marketer's lens that translation alone can't.",
-      ja: "毎日、世界では数百の広告・ブランド・アドテック・メディアのストーリーが英語でローンチされる。そのほとんどは日本のマーケッターに届かない。届いたとしても機械翻訳のままで、東京のマーケッターが本当に必要としているレイヤー —「これは日本市場の企画・ブリーフ・出稿にとって何を意味するのか」— が抜け落ちている。ADVERTISE TOKYO は、その 2 つのギャップを埋める。世界の広告とマーケティングを毎朝日本語に翻訳し、翻訳だけでは届かない『東京のマーケッター視点』を加えてお届けする。"
+      en: "ADVERTISE TOKYO is a free bilingual web media for every marketer in Japan. Each morning, we translate the world's cutting-edge marketing news into Japanese, read it through a Tokyo perspective, and spotlight Japanese marketing, ad-tech and AI companies alongside the global feed. No paywall, no signup, no agency relationship required — just the global marketing conversation, made available in Tokyo, in both languages, every morning.",
+      ja: "ADVERTISE TOKYO は、すべての日本のマーケッターのための無料バイリンガル WEB メディアです。毎朝、世界の最先端マーケティング情報を日本語に翻訳し、東京視点で読み解きます。さらに、世界の動向と並べて、日本のマーケティング・アドテク・AI 企業の最新情報もキュレーションして紹介。ペイウォールなし、登録不要、代理店契約も不要。世界のマーケティングの会話を、東京にいながら、両方の言語で、毎朝お届けします。"
     },
     blocks: [
       {
-        eyebrow: { en: "OUR LINE", ja: "編集の線" },
+        eyebrow: { en: "OUR PROMISE", ja: "私たちの約束" },
         heading: {
-          en: "Bilingual, not just translated.",
-          ja: "ただの翻訳ではなく、バイリンガル編集。"
+          en: "Free for every marketer in Japan.",
+          ja: "すべての日本のマーケッターに、無料で。"
         },
         body: {
-          en: "Machine translation can read English. It can't ask 'does this make sense in Tokyo?' ADVERTISE TOKYO is a bilingual editorial directory — not an automated feed, not a translation layer. We index the world's advertising and marketing news every morning, pick the items a Tokyo marketer should know about, and translate them into Japanese with the editorial judgement a translator alone can't bring: which stories matter, which are PR-fluff, which deserve a line of context about the Japan media landscape, and which are best summarised in one sentence and skipped.",
-          ja: "機械翻訳は英語を読める。しかし「これは東京で意味があるのか」という問いは立てられない。ADVERTISE TOKYO は、自動フィードでもなく単なる翻訳レイヤーでもない — バイリンガル編集のディレクトリだ。毎朝、世界の広告・マーケティングニュースをインデックスし、東京のマーケッターが知っておくべきトピックを選び、翻訳者単独では下せない編集判断を加えながら日本語に置き換える。どのストーリーが本当に意味を持つのか。どれが PR の誇張か。どれに「日本のメディア環境ではこう違う」という補足が必要で、どれは要約だけで十分か。"
+          en: "Most premium marketing intelligence in Japan sits behind a paywall, a corporate subscription, or an agency relationship. ADVERTISE TOKYO doesn't. Every morning, the world's cutting-edge marketing news gets translated into Japanese and posted here — free, bilingual, no signup required. A young creative at a JTC, a solo growth marketer at a Roppongi startup, a media planner at 電通 or 博報堂, a brand manager at an FMCG — same access, same morning, same depth.",
+          ja: "日本の優れたマーケティング情報の多くは、ペイウォール、企業契約、代理店との関係の中にしか流れていない。ADVERTISE TOKYO はそうではない。毎朝、世界の最先端マーケティング情報を日本語に翻訳して、ここに無料で並べる。バイリンガル、登録不要。JTC の若手クリエイティブも、六本木のスタートアップのソロ・グロースマーケッターも、電通や博報堂のメディアプランナーも、消費財ブランドのブランドマネージャーも、同じ朝、同じ情報、同じ深さでアクセスできる。"
         }
       },
       {
-        eyebrow: { en: "OUR CITY", ja: "私たちの街" },
+        eyebrow: { en: "OUR LENS", ja: "編集の視点" },
         heading: {
-          en: "Why a Tokyo desk picks the lens.",
-          ja: "なぜ、東京の編集部がレンズを決めるのか。"
+          en: "Tokyo, reading the world.",
+          ja: "東京から、世界を読む。"
         },
         body: {
-          en: "Advertising is mostly written in New York, London, and San Francisco — for those markets. Launches assume US media buying rails, Western audience segmentation, and agency structures built around the holding-company holdcos. Japanese readers don't see any of this from a translated press release. ADVERTISE TOKYO sits in the middle: bilingual enough to read the source, embedded enough in Tokyo's marketing reality to tell you which campaigns and tools actually fit a Japanese brief — and which ones assume a media ecosystem, audience behaviour, or budget scale that the Japan market doesn't share. That second judgement is the layer machine translation will never deliver.",
-          ja: "広告のほとんどは、ニューヨーク、ロンドン、サンフランシスコで書かれ、それらの市場のために書かれている。米国型のメディアバイ、欧米型のオーディエンス・セグメンテーション、ホールディング系代理店構造を当然のものとしている。日本の読者には、翻訳されたプレスリリースからそれは見えない。ADVERTISE TOKYO は、その中間に立つ — 一次情報を英語で読める程度にバイリンガルで、東京のマーケティングリアリティに足を置いている程度に現地的。だから「どのキャンペーン・ツールが日本のブリーフに合うのか」「どれが日本のメディア環境・オーディエンス行動・予算規模を前提にしていないのか」を見分けられる。機械翻訳が決して届けないのは、まさにこのレイヤーだ。"
+          en: "Translation alone doesn't bridge the gap. The world's marketing is written for US holdcos, European brands, and Silicon Valley audiences. ADVERTISE TOKYO adds the Tokyo layer machine translation can't: which campaigns fit a Japanese brief, which platforms actually serve Japan, which assumptions about audience or media don't translate, and which Japanese alternatives already solve the problem. Every entry gets the same four questions: what it actually is, who it's for, how it differs from the Japan play today, and the Tokyo Take.",
+          ja: "翻訳だけではギャップは埋まらない。世界のマーケティングは、US ホールディングス、欧米ブランド、シリコンバレーのオーディエンスのために書かれている。ADVERTISE TOKYO は、機械翻訳が届けない東京視点を加える — どのキャンペーンが日本のブリーフに合うのか、どのプラットフォームが日本で本当に機能するのか、どのオーディエンス・メディア前提が日本に通じないのか、すでに日本のどのプレイヤーがその問題を解いているのか。毎エントリー、同じ 4 つの問い — 本当のところそれが何なのか、誰のためなのか、現在の日本の手とどう違うのか、そして東京視点。"
         }
       },
       {
-        eyebrow: { en: "OUR METHOD", ja: "編集の方法" },
+        eyebrow: { en: "OUR SPOTLIGHT", ja: "国内スポットライト" },
         heading: {
-          en: "Four lines per story. Same four, every time.",
-          ja: "ひとつのトピックに、4 つの答え。毎回、同じ 4 つ。"
+          en: "Japan's own marketing, ad-tech, and AI — covered alongside.",
+          ja: "日本のマーケティング・アドテク・AI 企業も、並べて紹介。"
         },
         body: {
-          en: "Every entry in ADVERTISE TOKYO gets the same four structured fields answered: a tagline that says what it actually is (not what the campaign press release claims), who it applies to and for what work (which Tokyo marketer role and what part of their week), versus the Japan play (how this differs from what an established Japanese agency, brand, or media planner would do today), and the Tokyo Take — does this earn a slot in a Tokyo CMO's next brief, today, in Japanese, at Japanese media rates, with Japanese audience expectations? Same four questions, every entry. The press release voice is left at the door, and the source is always linked.",
-          ja: "ADVERTISE TOKYO の全エントリーには、同じ 4 つの構造化フィールドの答えが付く — タグライン（プレスリリースではなく、本当のところそれが何なのか）、使いどころ（どんな東京のマーケッターが、どんな業務で使うのか）、日本の現状との違い（既存の日本の代理店・ブランド・メディアプランナーが今やっていることとの違い）、そして東京視点（東京の CMO の次のブリーフに、日本語で、日本のメディアレートで、日本のオーディエンス期待で、今すぐ入れる価値があるか）。毎エントリー、同じ 4 つの問い。プレスリリースの声色は入口に置いてくる。原文へのリンクは必ず保つ。"
+          en: "The global feed is half the story. Japan has its own world-class marketing, ad-tech, and AI players — from 電通・博報堂 to サイバーエージェント, from PLAUD to Sakana AI, from Mercari's experimental ad units to LINEヤフー's identity stack. ADVERTISE TOKYO covers them in the same depth and on the same morning. If your company is shipping something Japanese marketers should know about — a launched product, a new agency capability, a research drop — we'd like to hear from you. Use the Contact section below.",
+          ja: "海外フィードは半分の話に過ぎない。日本にも、世界水準のマーケティング・アドテク・AI 企業がある — 電通・博報堂、サイバーエージェント、PLAUD、Sakana AI、Mercari の実験的な広告枠、LINE ヤフーのアイデンティティ・スタックまで。ADVERTISE TOKYO は、それらを同じ深さで、同じ朝に、並べて紹介する。日本のマーケッターが知っておくべきものをローンチしている企業の方 — 新プロダクト、新しい代理店ケイパビリティ、調査リリースなど — はぜひご連絡ください。下の Contact セクションからどうぞ。"
         }
       }
     ]
