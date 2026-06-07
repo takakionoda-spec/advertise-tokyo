@@ -42,7 +42,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   const orgJsonLd = buildOrganizationJsonLd();
   return (
     <html lang="en" suppressHydrationWarning>
-      <body className="bg-neutral-950 text-ink antialiased min-h-screen flex flex-col">
+      <body className="bg-void text-ink antialiased min-h-screen flex flex-col">
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(orgJsonLd) }}

@@ -47,7 +47,7 @@ function ArticleCover({ article, alt }: { article: Article; alt: string }) {
   const showTone = !article.cover.src || errored;
   return (
     <div
-      className="relative aspect-[16/9] overflow-hidden bg-neutral-900"
+      className="relative aspect-[16/9] overflow-hidden bg-paper-soft"
       style={{
         background: showTone
           ? `linear-gradient(135deg, ${tile}, #05060a)`
