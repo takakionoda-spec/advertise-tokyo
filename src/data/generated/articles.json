@@ -1,5 +1,111 @@
 [
   {
+    "slug": "martech-certification-is-not-transformation",
+    "category": "adtech",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-05T12:58:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://martech.org/searchengineland.com/wp-content/seloads/2025/11/semrush-one.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Martech Certification Is Not Transformation",
+      "ja": "プラットフォーム認定は変革ではない"
+    },
+    "dek": {
+      "en": "MarTech.org highlights the critical distinction between knowing a martech product and actually leveraging it for business impact, a common pitfall for global enterprise adoption.",
+      "ja": "MarTech.orgが指摘する、マーケティングテクノロジー製品の知識と事業成果への活用能力との決定的な違い。グローバルなエンタープライズ導入における一般的な落とし穴。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO, June 5, 2026",
+      "ja": "東京, 2026年6月5日"
+    },
+    "tags": [
+      {
+        "en": "martech",
+        "ja": "マーケティングテクノロジー"
+      },
+      {
+        "en": "adtech",
+        "ja": "アドテク"
+      },
+      {
+        "en": "implementation",
+        "ja": "導入"
+      },
+      {
+        "en": "organizational change",
+        "ja": "組織変革"
+      }
+    ],
+    "body": {
+      "en": [
+        "MarTech.org recently published an editorial piece underscoring a persistent challenge in marketing technology adoption: the frequent conflation of product expertise with genuine operational competence. Dated June 5, 2026, the article argues that simply understanding a martech platform's features or achieving vendor certification does not equate to successful business transformation.",
+        "The core issue, as the piece outlines, is that many organizations invest heavily in training their teams on specific martech products, believing that technical proficiency alone will drive desired outcomes. This approach often overlooks the more complex work of integrating these tools into existing workflows, aligning them with strategic business objectives, and fostering the necessary cross-functional collaboration that unlocks true value. Without operational competence, even the most advanced platforms remain underutilized.",
+        "## The operational gap",
+        "Product expertise typically focuses on the 'what' and 'how' of a specific tool – its interface, functionalities, and configuration options. Operational competence, conversely, addresses the 'why' and 'for whom' within the broader business context. It encompasses data governance, process redesign, change management, performance measurement, and the continuous optimization loops required to extract tangible ROI from technology investments.",
+        "> The biggest risk in martech implementation may be confusing product expertise with operational competence.",
+        "This distinction is particularly relevant in a landscape where martech vendors heavily promote certifications and feature sets. Companies, eager to demonstrate their adoption of new technologies, can fall into the trap of prioritizing these superficial markers over the deeper, more challenging work of organizational alignment and capability building. The result is often a costly platform sitting idle or delivering only a fraction of its promised potential.",
+        "The implications extend beyond the martech stack itself. This pattern is observable across various enterprise software implementations, from ERP to CRM systems. The article implicitly suggests that true 'transformation' stems from a strategic overhaul of how a business operates, not merely from swapping out one piece of technology for another. It demands a holistic view of people, process, and technology, with a clear roadmap for how each element supports the others.",
+        "## What comes next",
+        "Moving forward, marketers and IT leaders need to shift their focus from simply acquiring technical skills to developing a comprehensive operational strategy. This includes clearly defining success metrics before implementation, investing in robust change management programs, and building internal capabilities for continuous data analysis and optimization. The goal should be to cultivate an environment where technology serves strategic objectives, rather than becoming an end in itself."
+      ],
+      "ja": [
+        "MarTech.orgは最近、マーケティングテクノロジー導入における根深い課題について論説を発表した。それは、製品の専門知識と真の運用能力を混同してしまう傾向にあることだ。2026年6月5日付の記事は、特定のマーケティングテクノロジープラットフォームの機能を理解したり、ベンダー認定を取得したりするだけでは、ビジネスの変革には繋がらないと主張している。",
+        "記事が指摘する核心的な問題は、多くの組織が、技術的な熟練度だけで望ましい成果が得られると信じ、特定のマーケティングテクノロジー製品に関するチームのトレーニングに多額の投資をしていることにある。このアプローチは、ツールを既存のワークフローに統合し、戦略的なビジネス目標と連携させ、真の価値を引き出すために必要な部門横断的な協業を促進するといった、より複雑な作業を見落としがちだ。運用能力が伴わなければ、最先端のプラットフォームでさえ十分に活用されないままとなる。",
+        "## 運用上のギャップ",
+        "製品の専門知識は通常、特定のツールの「何を」「どのように」に焦点を当てる。つまり、そのインターフェース、機能、設定オプションだ。対照的に、運用能力は、より広範なビジネスコンテキスト内での「なぜ」「誰のために」に対処する。これには、データガバナンス、プロセス再設計、チェンジマネジメント、パフォーマンス測定、そしてテクノロジー投資から具体的なROIを引き出すために必要な継続的な最適化サイクルが含まれる。",
+        "「マーケティングテクノロジー導入における最大のリスクは、製品の専門知識と運用能力を混同することにある」",
+        "この区別は、マーケティングテクノロジーベンダーが認定制度や機能セットを積極的に宣伝する環境において特に重要だ。企業は新しいテクノロジーの導入意欲を示すため、これらの表面的な指標を優先し、組織的な連携や能力構築という、より深く困難な作業を後回しにするという罠に陥ることがある。その結果、高価なプラットフォームが遊休状態になったり、期待された可能性のほんの一部しか実現できなかったりする事態を招く。",
+        "この示唆は、マーケティングテクノロジーのスタック自体を超えて広がる。ERPからCRMシステムまで、様々なエンタープライズソフトウェアの実装においてこのパターンは観察される。記事は、真の「変革」が、単にテクノロジーを置き換えるのではなく、ビジネスの運営方法の戦略的な見直しから生まれることを暗に示唆している。それは、人材、プロセス、テクノロジーを包括的に捉え、各要素がどのように互いをサポートするかについて明確なロードマップを要求する。",
+        "## 次に注目すべき点",
+        "今後、マーケターとITリーダーは、単に技術スキルを習得するだけでなく、包括的な運用戦略を策定することに焦点を移す必要がある。これには、導入前に成功指標を明確に定義し、堅牢なチェンジマネジメントプログラムに投資し、継続的なデータ分析と最適化のための社内能力を構築することが含まれる。目標は、テクノロジーが自己目的化するのではなく、戦略目標に奉仕する環境を醸成することであるべきだ。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This MarTech.org piece speaks directly to a common challenge faced by Japanese companies adopting global martech platforms. While many large Japanese corporations (JTCs) invest heavily in training their teams on tools like Salesforce Marketing Cloud, Adobe Experience Cloud, or Oracle Eloqua, the focus often remains on technical certification rather than deep operational integration.",
+        "The issue is not a lack of effort or budget, but often a cultural and structural one. Siloed departments, a preference for vendor-led, hands-off implementation, and a reluctance to challenge established internal processes can prevent the necessary organizational redesign that truly leverages these platforms. Agencies like Dentsu or Hakuhodo might provide implementation support, but the core strategic and operational shifts must come from within the client organization. This means a gap in internal change management expertise and a tendency to view martech as an IT project rather than a business transformation driver.",
+        "For a Tokyo marketer today, this is a call to action: push beyond mere platform features. When evaluating new martech or reviewing existing stacks, prioritize clear operational design, cross-functional ownership, and measurable business outcomes over vendor-led training completion rates. The real competitive edge will come from how effectively a platform is integrated into the unique Japanese customer journey and internal workflows, not just from how many employees hold a certification."
+      ],
+      "ja": [
+        "MarTech.orgの記事は、グローバルなマーケティングテクノロジーを導入する日本企業が直面する共通の課題を直接的に示している。多くの大手日本企業（JTC）は、Salesforce Marketing Cloud、Adobe Experience Cloud、Oracle Eloquaといったツールに関するチームトレーニングに多額の投資を行っているが、その焦点は深い運用統合よりも技術的な認定に留まることが多い。",
+        "問題は努力や予算の不足ではなく、しばしば文化的・構造的なものにある。部門間のサイロ化、ベンダー主導の「お任せ」実装への傾倒、既存の社内プロセスを変えることへの抵抗などが、これらのプラットフォームを真に活用するために必要な組織再設計を妨げることがある。電通や博報堂のような代理店は導入支援を提供するかもしれないが、核となる戦略的・運用的な変革はクライアント組織内部から生じる必要がある。これは、社内でのチェンジマネジメント専門知識の不足や、マーケティングテクノロジーをビジネス変革の推進力としてではなく、ITプロジェクトとして捉える傾向があることを意味する。",
+        "今日の東京のマーケターにとって、これは行動への呼びかけである。単なるプラットフォームの機能を超えて考えるべきだ。新しいマーケティングテクノロジーを評価したり、既存のスタックを見直したりする際には、ベンダー主導のトレーニング完了率よりも、明確な運用設計、部門横断的なオーナーシップ、そして測定可能なビジネス成果を優先すること。真の競争優位性は、従業員がどれだけ多くの認定を持っているかではなく、プラットフォームが独自の日本の顧客体験と社内ワークフローにどれだけ効果的に統合されているかによって生まれるだろう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Martech certification is not operational competence.",
+        "ja": "認定は運用能力ではない。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo-based CMO or adtech lead planning a new martech stack implementation, this highlights the critical need to focus on operational design and internal change management over mere product training.",
+        "ja": "新しいマーケティングテクノロジーのスタック導入を計画する東京のCMOやアドテク責任者へ。単なる製品トレーニングではなく、運用設計と社内チェンジマネジメントに注力することの重要性を示す。"
+      },
+      "vsJapanPlay": {
+        "en": "This contrasts with the common Japanese practice of relying heavily on vendor-led training or agency implementation support from firms like CyberAgent or Septeni, without sufficient internal operational redesign.",
+        "ja": "これは、サイバーエージェントやSepteniのような代理店によるベンダー主導のトレーニングや実装支援に過度に依存し、十分な社内運用再設計を伴わない日本の一般的な慣行と対比される。"
+      },
+      "tokyoTake": {
+        "en": "The Japan market often prioritizes technical compliance and certification. However, without a robust internal strategy for integrating martech into existing business processes and fostering cross-functional collaboration, even the most advanced global platforms will struggle to deliver tangible ROI for Japanese brands.",
+        "ja": "日本市場では技術的な適合性や認定が優先されがちだ。しかし、マーケティングテクノロジーを既存のビジネスプロセスに統合し、部門横断的な協業を促進するための堅牢な社内戦略がなければ、最先端のグローバルプラットフォームでさえ、日本ブランドにとって具体的なROIをもたらすことは難しいだろう。"
+      }
+    },
+    "source": {
+      "name": "MarTech.org",
+      "url": "https://martech.org/why-platform-certification-doesnt-equal-martech-transformation/"
+    },
+    "sourceGuid": "https://martech.org/?p=409800",
+    "status": "published"
+  },
+  {
     "slug": "aura-beverages-reimagines-creative-workflow-with-hybrid-ai-assisted-model",
     "category": "creative",
     "issue": "Vol. 01",
