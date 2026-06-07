@@ -37,16 +37,14 @@ type VanguardEntry = {
 };
 function VanguardPreview() {
   const { lang } = useLanguage();
-  const vg = (siteConfig as typeof siteConfig & {
-    vanguard?: {
-      eyebrow: { en: string; ja: string };
-      headline: { en: string; ja: string };
-      entries: readonly VanguardEntry[];
-    };
-  }).vanguard;
-  if (!vg || vg.entries.length === 0) return null;
-
+  // Direct access — siteConfig.vanguard is declared in site.config.ts as a
+  // tuple of 2+ entries via `as const`, so length checks against 0 are
+  // statically impossible and produce a TS2367 error. We just need to be
+  // defensive against the property being stripped on sister templates.
+  const vg = siteConfig.vanguard;
+  if (!vg) return null;
   const picks = vg.entries.slice(0, 3);
+  if (picks.length === 0) return null;
 
   return (
     <Container className="pb-section">
