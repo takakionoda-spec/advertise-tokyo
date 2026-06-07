@@ -323,6 +323,55 @@ function extractItemImage(rawItem: string): string | undefined {
   return undefined;
 }
 
+/** Fetch a URL and extract its og:image / twitter:image meta tag. Used as a
+ *  fallback when the RSS feed didn't expose an image — almost every major
+ *  trade publisher (Adweek, Marketing Dive, Digiday, MarTech.org) emits a
+ *  proper og:image in their HTML even though the RSS payload itself omits
+ *  it. Returns undefined on network failure, missing tag, or non-2xx status.
+ *  Times out at 5 s per item so a slow source can't stall the whole pipeline.
+ *  This is the cheapest way to get article-relevant covers without resorting
+ *  to AI image generation or generic Unsplash fallbacks. */
+async function fetchOgImage(url: string): Promise<string | undefined> {
+  try {
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), 5000);
+    const res = await fetch(url, {
+      headers: {
+        "User-Agent": `${siteConfig.brand.name.replace(/\s+/g, "-").toUpperCase()}-CronPublisher/1.0 (+${siteConfig.brand.siteUrl})`,
+        Accept: "text/html, */*"
+      },
+      signal: controller.signal,
+      redirect: "follow"
+    });
+    clearTimeout(timer);
+    if (!res.ok) return undefined;
+    const html = await res.text();
+    // Look at the first ~200 KB of HTML so we don't burn memory on huge pages.
+    const head = html.slice(0, 200_000);
+    // og:image (either attribute order)
+    const ogMatch =
+      head.match(
+        /<meta\b[^>]*\bproperty=["']og:image["'][^>]*\bcontent=["']([^"']+)["']/i
+      ) ??
+      head.match(
+        /<meta\b[^>]*\bcontent=["']([^"']+)["'][^>]*\bproperty=["']og:image["']/i
+      );
+    if (ogMatch?.[1]) return ogMatch[1];
+    // twitter:image (either attribute order)
+    const twMatch =
+      head.match(
+        /<meta\b[^>]*\bname=["']twitter:image["'][^>]*\bcontent=["']([^"']+)["']/i
+      ) ??
+      head.match(
+        /<meta\b[^>]*\bcontent=["']([^"']+)["'][^>]*\bname=["']twitter:image["']/i
+      );
+    if (twMatch?.[1]) return twMatch[1];
+    return undefined;
+  } catch {
+    return undefined;
+  }
+}
+
 // ---------------------------------------------------------------
 // Source fetcher
 // ---------------------------------------------------------------
@@ -1259,6 +1308,34 @@ async function main(): Promise<void> {
   });
 
   log("info", `total topical items fetched across sources`, { count: allItems.length });
+
+  // ---- 1.5) Enrich items without RSS image via og:image scraping ---
+  // Trade publishers (Adweek / Marketing Dive / Digiday / MarTech.org) emit
+  // proper og:image meta tags on their article HTML even when the RSS feed
+  // itself omits the image. Fetching the article URL and reading og:image
+  // gives us a real, topic-relevant cover for free — much better than the
+  // Unsplash fallback or a tone tile. Cheaper than AI image generation, and
+  // produces a per-article cover that actually matches the story.
+  const itemsNeedingImage = allItems.filter((it) => !it.imageUrl && it.link);
+  if (itemsNeedingImage.length > 0) {
+    log("info", `enriching ${itemsNeedingImage.length} item(s) via og:image scrape`);
+    const enrichmentResults = await Promise.allSettled(
+      itemsNeedingImage.map(async (it) => {
+        const og = await fetchOgImage(it.link);
+        if (og) it.imageUrl = og;
+        return { link: it.link, found: !!og };
+      })
+    );
+    const foundCount = enrichmentResults.filter(
+      (r): r is PromiseFulfilledResult<{ link: string; found: boolean }> =>
+        r.status === "fulfilled" && r.value.found
+    ).length;
+    log("info", `og:image scrape complete`, {
+      attempted: itemsNeedingImage.length,
+      found: foundCount,
+      stillMissing: itemsNeedingImage.length - foundCount
+    });
+  }
 
   // ---- 2) Triage with reason logging -------------------------
   const seenSet = new Set(state.seen);

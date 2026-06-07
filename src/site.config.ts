@@ -506,6 +506,11 @@ export const siteConfig = {
       "**.morningbrew.com",
       "**.brewdaily.com",
 
+      // --- Marketing Dive / Industry Dive ---
+      "marketingdive.com",
+      "**.marketingdive.com",
+      "**.industrydive.com",
+
       // --- Digiday (optional source) ---
       "digiday.com",
       "**.digiday.com",
