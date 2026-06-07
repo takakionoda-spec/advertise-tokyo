@@ -14,26 +14,11 @@ const nextConfig: NextConfig = {
       { protocol: "https", hostname: "images.unsplash.com" },
       { protocol: "https", hostname: "source.unsplash.com" },
 
-      // --- Product Hunt — imgix-hosted product thumbnails -----------------
-      { protocol: "https", hostname: "ph-files.imgix.net" },
-      { protocol: "https", hostname: "ph-static.imgix.net" },
-      { protocol: "https", hostname: "**.producthunt.com" },
-      { protocol: "https", hostname: "**.imgix.net" },
-
-      // --- Hacker News -----------------------------------------------------
-      { protocol: "https", hostname: "news.ycombinator.com" },
-
-      // --- TechCrunch / Wordpress-VIP -------------------------------------
-      { protocol: "https", hostname: "techcrunch.com" },
-      { protocol: "https", hostname: "**.techcrunch.com" },
-      { protocol: "https", hostname: "**.tcrn.io" },
+      // --- WordPress-VIP CDN (used by Adweek / MarTech / Marketing Dive
+      //     / Marketing Brew — most marketing-trade publishers are on WP) -
       { protocol: "https", hostname: "**.wp.com" },
       { protocol: "https", hostname: "**.wordpress.com" },
       { protocol: "https", hostname: "**.wpengine.com" },
-
-      // --- VentureBeat -----------------------------------------------------
-      { protocol: "https", hostname: "venturebeat.com" },
-      { protocol: "https", hostname: "**.venturebeat.com" },
 
       // --- Adweek (og:image is on static-www.adweek.com) ------------------
       { protocol: "https", hostname: "adweek.com" },
