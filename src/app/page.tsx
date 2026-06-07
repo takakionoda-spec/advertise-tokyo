@@ -21,6 +21,89 @@ import {
 } from "@/data/articles";
 import { siteConfig, CATEGORY_ORDER, getLayoutMode } from "@/site.config";
 
+/* ---------------------------------------------------------------------------
+   VanguardPreview — top-page strip surfacing the latest 3 hand-curated
+   editor's picks from siteConfig.vanguard.entries. Doubles as the visible
+   marker that Tokyo-side companies are spotlighted alongside the global feed
+   even when the cron grid is empty. Links to /vanguard for the full list.
+   ------------------------------------------------------------------------- */
+type VanguardEntry = {
+  id: string;
+  name: string;
+  url: string;
+  tagline: { en: string; ja: string };
+  note: { en: string; ja: string };
+  tone: string;
+};
+function VanguardPreview() {
+  const { lang } = useLanguage();
+  const vg = (siteConfig as typeof siteConfig & {
+    vanguard?: {
+      eyebrow: { en: string; ja: string };
+      headline: { en: string; ja: string };
+      entries: readonly VanguardEntry[];
+    };
+  }).vanguard;
+  if (!vg || vg.entries.length === 0) return null;
+
+  const picks = vg.entries.slice(0, 3);
+
+  return (
+    <Container className="pb-section">
+      <SectionRule
+        label={vg.eyebrow[lang]}
+        action={
+          <Link href="/vanguard" className="hover:text-ink transition-colors">
+            {lang === "ja" ? "すべて見る →" : "View all →"}
+          </Link>
+        }
+      />
+      <p className="mt-6 max-w-2xl text-base text-ink-700 leading-relaxed">
+        {vg.headline[lang]}
+      </p>
+      <div className="mt-10 lg:mt-12 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-8">
+        {picks.map((entry, i) => (
+          <Link
+            key={entry.id}
+            href="/vanguard"
+            className="group block glass overflow-hidden"
+          >
+            <div
+              className="relative aspect-[4/3] overflow-hidden"
+              style={{
+                background: `linear-gradient(135deg, ${entry.tone}, var(--color-paper-soft))`
+              }}
+            >
+              <div className="absolute inset-0 flex flex-col items-center justify-center text-center p-5">
+                <span className="font-display font-extrabold text-ink text-[1.6rem] lg:text-[1.9rem] tracking-[0.04em] leading-none">
+                  {entry.name}
+                </span>
+                <span className="mt-4 font-mono text-[0.5625rem] tracking-[0.32em] uppercase text-ink-600">
+                  No. {String(i + 1).padStart(2, "0")}
+                </span>
+              </div>
+            </div>
+            <div className="p-5 lg:p-6">
+              <span className="font-mono text-[0.5625rem] tracking-[0.32em] uppercase text-accent">
+                Editor&apos;s Pick
+              </span>
+              <p className="mt-3 text-[0.95rem] text-ink-800 leading-snug line-clamp-3">
+                {entry.tagline[lang]}
+              </p>
+              <span
+                aria-hidden
+                className="mt-5 inline-block font-mono text-[0.625rem] tracking-[0.22em] uppercase text-ink-600 group-hover:text-accent transition-colors"
+              >
+                →
+              </span>
+            </div>
+          </Link>
+        ))}
+      </div>
+    </Container>
+  );
+}
+
 export default function HomePage() {
   const mode = getLayoutMode();
   return (
@@ -166,24 +249,29 @@ function DirectoryHome() {
   const all = getLatestArticles(pageSize);
 
   // Empty state — same copy/shape as Magazine, just no hero column.
+  // VanguardPreview is shown even here so the page never feels empty —
+  // hand-curated picks anchor the first impression while the cron warms.
   if (all.length === 0) {
     return (
-      <Container className="py-section">
-        <div className="max-w-[68ch]">
-          <p className="eyebrow">{empty.eyebrow[lang]}</p>
-          <h1 className="mt-6 font-display text-[clamp(2.75rem,6vw,5rem)] leading-[0.95] tracking-[-0.025em] whitespace-pre-line">
-            {empty.heading[lang]}
-          </h1>
-          <p className="mt-6 text-lg text-ink-600 leading-relaxed">
-            {empty.lede[lang]}
-          </p>
-          <div className="silver-rule mt-12" />
-          <p className="mt-10 byline">{empty.nextDispatch[lang]}</p>
-        </div>
-        <div className="mt-20">
+      <>
+        <Container className="py-section">
+          <div className="max-w-[68ch]">
+            <p className="eyebrow">{empty.eyebrow[lang]}</p>
+            <h1 className="mt-6 font-display text-[clamp(2.75rem,6vw,5rem)] leading-[0.95] tracking-[-0.025em] whitespace-pre-line">
+              {empty.heading[lang]}
+            </h1>
+            <p className="mt-6 text-lg text-ink-600 leading-relaxed">
+              {empty.lede[lang]}
+            </p>
+            <div className="silver-rule mt-12" />
+            <p className="mt-10 byline">{empty.nextDispatch[lang]}</p>
+          </div>
+        </Container>
+        <VanguardPreview />
+        <Container>
           <Newsletter />
-        </div>
-      </Container>
+        </Container>
+      </>
     );
   }
 
@@ -223,6 +311,11 @@ function DirectoryHome() {
           </DirectoryGrid>
         </div>
       </Container>
+
+      {/* TOKYO VANGUARD preview — hand-curated editorial picks sit below the
+          algorithmic grid so the page reads as: today's global news, then
+          the human-edited Japan-side selection. */}
+      <VanguardPreview />
 
       {/* Submit Tool CTA block — only if siteConfig.brand.cta is declared.
           Cyber-glass panel with neon outline CTA. */}
