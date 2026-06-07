@@ -55,7 +55,7 @@ jobs:
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-2.5-flash' }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4o-mini' }}
-          CRON_LOOKBACK_HOURS: ${{ vars.CRON_LOOKBACK_HOURS || '24' }}
+          CRON_LOOKBACK_HOURS: ${{ vars.CRON_LOOKBACK_HOURS || '168' }}
           CRON_MAX_PER_RUN: ${{ vars.CRON_MAX_PER_RUN || '6' }}
           NEXT_PUBLIC_SITE_URL: ${{ vars.NEXT_PUBLIC_SITE_URL || 'https://advertise-tokyo.vercel.app' }}
         run: |

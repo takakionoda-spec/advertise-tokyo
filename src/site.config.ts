@@ -212,8 +212,8 @@ export const siteConfig = {
     },
     footer: {
       copy: {
-        en: "ADVERTISE TOKYO is a free bilingual media for every marketer in Japan. Each morning we translate the world's cutting-edge marketing news — from AdAge, Adweek, MarTech.org and Marketing Brew — into Japanese, add a Tokyo perspective, and spotlight the Japanese marketing, ad-tech and AI companies shaping the local landscape. If your company would like to be covered, please get in touch.",
-        ja: "ADVERTISE TOKYO は、すべての日本のマーケッターのための無料バイリンガル WEB メディアです。毎朝、世界の最先端マーケティング情報 — AdAge、Adweek、MarTech.org、Marketing Brew — を日本語に翻訳し、東京視点を加えてお届けします。さらに、日本のマーケティング・アドテク・AI 企業の最新情報もキュレーションして紹介。掲載をご希望の企業様はお気軽にご連絡ください。"
+        en: "ADVERTISE TOKYO is a free bilingual media for every marketer in Japan. Each morning we translate the world's cutting-edge marketing news — from Adweek, MarTech.org, Digiday and Marketing Dive — into Japanese, add a Tokyo perspective, and spotlight the Japanese marketing, ad-tech and AI companies shaping the local landscape. If your company would like to be covered, please get in touch.",
+        ja: "ADVERTISE TOKYO は、すべての日本のマーケッターのための無料バイリンガル WEB メディアです。毎朝、世界の最先端マーケティング情報 — Adweek、MarTech.org、Digiday、Marketing Dive — を日本語に翻訳し、東京視点を加えてお届けします。さらに、日本のマーケティング・アドテク・AI 企業の最新情報もキュレーションして紹介。掲載をご希望の企業様はお気軽にご連絡ください。"
       },
       strapline: "Tokyo · Bilingual · Free for Marketers"
     },
@@ -233,8 +233,8 @@ export const siteConfig = {
         ja: "ADVERTISE TOKYO の最初のインデックスを\n組み立てています。"
       },
       lede: {
-        en: "Each morning, our pipeline pulls the world's cutting-edge marketing news — from AdAge, Adweek, MarTech.org and Marketing Brew — translates the items worth knowing into Japanese, adds a Tokyo perspective, and spotlights Japanese marketing, ad-tech and AI companies alongside the global feed. Free for every marketer in Japan. The first index will appear here as soon as the next cycle completes.",
-        ja: "ADVERTISE TOKYO のパイプラインは毎朝、世界の最先端マーケティング情報 — AdAge、Adweek、MarTech.org、Marketing Brew — を取得し、知っておくべき一次情報を日本語に翻訳して東京視点で解説します。世界の動向と並べて、日本のマーケティング・アドテク・AI 企業の最新情報もキュレーションして紹介。すべての日本のマーケッターに、無料で。次回サイクルが完了次第、最初のインデックスが表示されます。"
+        en: "Each morning, our pipeline pulls the world's cutting-edge marketing news — from Adweek, MarTech.org, Digiday and Marketing Dive — translates the items worth knowing into Japanese, adds a Tokyo perspective, and spotlights Japanese marketing, ad-tech and AI companies alongside the global feed. Free for every marketer in Japan. The first index will appear here as soon as the next cycle completes.",
+        ja: "ADVERTISE TOKYO のパイプラインは毎朝、世界の最先端マーケティング情報 — Adweek、MarTech.org、Digiday、Marketing Dive — を取得し、知っておくべき一次情報を日本語に翻訳して東京視点で解説します。世界の動向と並べて、日本のマーケティング・アドテク・AI 企業の最新情報もキュレーションして紹介。すべての日本のマーケッターに、無料で。次回サイクルが完了次第、最初のインデックスが表示されます。"
       },
       nextDispatch: {
         en: "Next index: 04:30 JST",
@@ -442,14 +442,6 @@ export const siteConfig = {
 
     sources: [
       {
-        name: "AdAge",
-        url: "https://adage.com/rss.xml",
-        parse: "rss",
-        category: "brand",
-        framing:
-          "(industry trade — AdAge frames everything through US holdcos and brand-side decisions; the underlying story is usually who-moved-where and what budget is shifting, not the press-release angle)"
-      },
-      {
         name: "Adweek",
         url: "https://www.adweek.com/feed/",
         parse: "rss",
@@ -466,23 +458,21 @@ export const siteConfig = {
           "(martech trade — vendor-funded ecosystem coverage; treat platform announcements skeptically and isolate what actually changes for an operator buying or running these stacks)"
       },
       {
-        name: "Marketing Brew",
-        url: "https://www.marketingbrew.com/feed",
+        name: "Digiday",
+        url: "https://digiday.com/feed/",
+        parse: "rss",
+        category: "media",
+        framing:
+          "(media-buying trade — Digiday is the operator's beat: trading desks, RMNs, retail media, attention economy; useful for media-side angles the brand-trade often misses)"
+      },
+      {
+        name: "Marketing Dive",
+        url: "https://www.marketingdive.com/feeds/news/",
         parse: "rss",
         category: "brand",
         framing:
-          "(newsletter-style roundup — Marketing Brew's tone is conversational and US-centric; mine for the underlying story not the witty intro, and ask 'does the trend cross the Pacific'?)"
+          "(brand & marketing trade — Marketing Dive covers brand-side moves, CMO transitions, agency M&A, and big-ticket campaigns; skip the press-release tone and isolate the budget signal or strategic shift)"
       }
-      // Optional 5th source — uncomment once steady state is reached to
-      // strengthen the `media` category coverage.
-      // ,{
-      //   name: "Digiday",
-      //   url: "https://digiday.com/feed/",
-      //   parse: "rss",
-      //   category: "media",
-      //   framing:
-      //     "(media-buying trade — Digiday is the operator's beat: trading desks, RMNs, attention economy; useful for media-side angles the brand-trade misses)"
-      // }
     ] as SourceDef[],
 
     /** Image hosts the deployed `next/image` is allowed to render. Mirror in
