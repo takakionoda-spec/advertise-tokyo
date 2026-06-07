@@ -290,6 +290,54 @@ export const siteConfig = {
     ]
   },
 
+  /* ------------------------------------------------------- TOKYO VANGUARD
+     Hand-curated editor's selection of Tokyo-based studios, consulting
+     firms and creative collectives that are shipping the next chapter of
+     Japanese marketing / branding / creative — independent of the holdco
+     model. Read by the /vanguard route. Append new entries to the array
+     to feature additional companies; no code change required. */
+  vanguard: {
+    eyebrow: { en: "TOKYO VANGUARD", ja: "TOKYO VANGUARD" },
+    headline: {
+      en: "Tokyo's marketing originals.",
+      ja: "東京から、次の世代のマーケティングをつくる人たち。"
+    },
+    lede: {
+      en: "An editor's selection of independent Tokyo-based studios, brand-consulting firms, and creative collectives that aren't waiting for the next foreign wave — they're shipping the work that defines what Japanese marketing, branding and creative looks like next. This list grows over time.",
+      ja: "次の海外の波を待つのではなく、いま、日本のマーケティング・ブランディング・クリエイティブの「次」を実装している東京の独立系スタジオ・ブランドコンサルティング・ファーム・クリエイティブ集団を、編集部視点でセレクト。このリストは継続的に追加します。"
+    },
+    entries: [
+      {
+        id: "cekai",
+        name: "CEKAI",
+        url: "https://cekai.jp/",
+        tagline: {
+          en: "A creative association — bound by one belief: we create good things.",
+          ja: "「いいものを、つくる」というその普遍的な思想だけで繋がる、創造的結社。"
+        },
+        note: {
+          en: "CEKAI is a collective rather than a company. Designers, directors, writers and producers from across Tokyo's creative class assemble for each project — a structure that lets the work demand who's on it, rather than who happens to be free this week at the agency. The output spans editorial design, brand identity, film, and digital — a useful counterweight to the holdco model when the brief calls for craft over scale.",
+          ja: "CEKAI は会社ではなく「結社」と名乗る。プロジェクトごとに、デザイナー、ディレクター、ライター、プロデューサーが東京のクリエイティブ各所から集結する構造で、案件の中身が「誰を呼ぶか」を決める ── 代理店の「今週空いてる人」で決まらない設計だ。アウトプットはエディトリアル、ブランドアイデンティティ、映像、デジタルに横断的。スケールよりクラフトが求められるブリーフでは、ホールディングス系の対抗軸として機能する。"
+        },
+        tone: "#1a2848"
+      },
+      {
+        id: "simone",
+        name: "SIMONE",
+        url: "https://simone.jp/",
+        tagline: {
+          en: "The Leading-edge Consulting Farm — vision, design, and technology, in one room.",
+          ja: "「ビジョン × デザイン × テクノロジー」を横断する、先進的なブランドコンサルティング・ファーム。"
+        },
+        note: {
+          en: "SIMONE — based out of Ebisu West — operates as a brand-consulting firm rather than an advertising agency. The portfolio (UNIQLO, Cartier, SHISEIDO, NEWoMan, GINZA SIX, UNDERCOVER, NEIGHBORHOOD, Mame Kurogouchi, DESCENTE) reads as a who's-who of the Tokyo brand world. Their pitch: brand strategy first, then every customer touchpoint — visual, digital, retail, e-commerce — designed under one direction. Worth following for marketers whose remit is the brand as a whole, not the next campaign.",
+          ja: "SIMONE は恵比寿西の独立系ブランドコンサルティング・ファーム。広告代理店ではない立て付けだ。UNIQLO、Cartier、資生堂、NEWoMan、GINZA SIX、UNDERCOVER、Mame Kurogouchi、DESCENTE など、東京のブランド地図そのもののようなクライアントリストが特徴。ピッチは「まずブランド戦略、そこから視覚・デジタル・店舗・EC までのすべての顧客接点をワンディレクションで設計する」というもの。次のキャンペーンではなく、ブランド全体を見るマーケッターは追っておくべき。"
+        },
+        tone: "#2a1d2e"
+      }
+    ]
+  },
+
   /* ------------------------------------------------------------- CATEGORIES
      Marketing taxonomy — 4 keys. coverPool IDs are inherited from the
      AITECH TOKYO template as neutral placeholders; replace with marketing-

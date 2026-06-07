@@ -40,6 +40,12 @@ export default function Header() {
           <span className="hidden md:inline tracking-[0.28em] text-ink-600">VOL.{issueLabel}</span>
         </div>
         <div className="flex items-center gap-4 md:gap-6">
+          {/* TOKYO VANGUARD — editorial picks of Japan-side studios / firms.
+              Surfaced as a permanent top-bar link so it stays discoverable
+              alongside About / Newsletter. */}
+          <Link href="/vanguard" className="hidden md:inline hover:text-ink transition-colors">
+            {lang === "ja" ? "VANGUARD" : "Vanguard"}
+          </Link>
           <Link href="/about" className="hidden md:inline hover:text-ink transition-colors">
             {dict.nav.about}
           </Link>
