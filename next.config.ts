@@ -35,6 +35,34 @@ const nextConfig: NextConfig = {
       { protocol: "https", hostname: "venturebeat.com" },
       { protocol: "https", hostname: "**.venturebeat.com" },
 
+      // --- Adweek (og:image is on static-www.adweek.com) ------------------
+      { protocol: "https", hostname: "adweek.com" },
+      { protocol: "https", hostname: "**.adweek.com" },
+
+      // --- MarTech.org ----------------------------------------------------
+      { protocol: "https", hostname: "martech.org" },
+      { protocol: "https", hostname: "**.martech.org" },
+      { protocol: "https", hostname: "**.thirddoor.com" },
+
+      // --- Marketing Dive / Industry Dive ---------------------------------
+      { protocol: "https", hostname: "marketingdive.com" },
+      { protocol: "https", hostname: "**.marketingdive.com" },
+      { protocol: "https", hostname: "**.industrydive.com" },
+
+      // --- Digiday --------------------------------------------------------
+      { protocol: "https", hostname: "digiday.com" },
+      { protocol: "https", hostname: "**.digiday.com" },
+      { protocol: "https", hostname: "**.digidaymedia.com" },
+
+      // --- AdAge / Crain (kept for back-compat with older feeds) ----------
+      { protocol: "https", hostname: "adage.com" },
+      { protocol: "https", hostname: "**.adage.com" },
+      { protocol: "https", hostname: "**.crain.com" },
+
+      // --- Marketing Brew / Morning Brew (kept for back-compat) -----------
+      { protocol: "https", hostname: "**.marketingbrew.com" },
+      { protocol: "https", hostname: "**.morningbrew.com" },
+
       // --- Common publisher CDNs (HN-linked outlets) ----------------------
       { protocol: "https", hostname: "**.medium.com" },
       { protocol: "https", hostname: "miro.medium.com" },
