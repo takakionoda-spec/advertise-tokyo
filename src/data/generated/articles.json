@@ -1,5 +1,111 @@
 [
   {
+    "slug": "openai-integrates-liveramp-for-ad-measurement-ahead-of-ipo",
+    "category": "adtech",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-10T18:00:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0b0b0d"
+    },
+    "title": {
+      "en": "OpenAI Integrates LiveRamp for Ad Measurement Ahead of IPO",
+      "ja": "OpenAI、LiveRampと提携し広告測定を強化 IPO前を見据え"
+    },
+    "dek": {
+      "en": "ChatGPT's nascent ad platform adds a critical layer of audience and campaign performance verification.",
+      "ja": "ChatGPT広告プラットフォームは、オーディエンスとキャンペーン効果の検証レイヤーを獲得。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO, June 10, 2026",
+      "ja": "東京, 2026年6月10日"
+    },
+    "tags": [
+      {
+        "en": "adtech",
+        "ja": "アドテク"
+      },
+      {
+        "en": "AI",
+        "ja": "AI"
+      },
+      {
+        "en": "measurement",
+        "ja": "測定"
+      },
+      {
+        "en": "programmatic",
+        "ja": "プログラマティック"
+      }
+    ],
+    "body": {
+      "en": [
+        "OpenAI, the company behind ChatGPT, has partnered with LiveRamp to integrate advanced measurement capabilities into its advertising platform. This move, announced in anticipation of OpenAI's eventual public offering, aims to provide advertisers with clearer insights into campaign performance.",
+        "The partnership addresses a fundamental challenge for new ad channels: proving efficacy. By incorporating LiveRamp's identity resolution and measurement solutions, OpenAI intends to offer advertisers a more robust way to track ad reach, frequency, and conversions within ChatGPT. This is a strategic step to attract larger brand budgets, which typically require independent verification of ad spend impact.",
+        "LiveRamp specializes in connecting disparate data sets without relying on third-party cookies, an increasingly vital capability in the evolving privacy landscape. Their platform allows advertisers to match their first-party data with ad exposures on publishers like OpenAI, enabling more precise audience targeting and campaign attribution. For OpenAI, this means moving beyond simple impression counts to demonstrate actual business outcomes for advertisers.",
+        "The integration suggests OpenAI is serious about scaling its advertising revenue. Without credible, third-party measurement, advertisers are often hesitant to commit significant media budgets to new or unproven platforms. This partnership signals OpenAI's intent to become a measurable, accountable advertising environment, competing for budgets traditionally allocated to established digital players.",
+        "The move is also critical for OpenAI's financial trajectory.",
+        "> Working with LiveRamp could help shore up OpenAI’s ad business ahead of its expected IPO, where revenue generation will be watched closely.",
+        "This direct link to IPO performance underscores the strategic importance of building a robust, measurable ad ecosystem, rather than just offering ad placements.",
+        "While the specific ad formats or inventory within ChatGPT were not detailed, the availability of LiveRamp's measurement framework implies a future where advertisers can apply sophisticated targeting and attribution models to conversational AI environments. This could range from ads delivered directly within chat interfaces to sponsored content or brand integrations powered by the underlying AI models.",
+        "For marketers, this development means that AI-driven platforms are not just content generators but are evolving into auditable media channels. The emphasis on identity and measurement suggests a more mature approach to ad monetization, moving away from experimental budgets towards mainstream media planning."
+      ],
+      "ja": [
+        "ChatGPTを開発するOpenAIは、LiveRampとの提携により、自社の広告プラットフォームに高度な測定機能を統合した。この動きは、OpenAIが将来的に株式公開を控える中で発表され、広告主に対してキャンペーン効果のより明確なインサイトを提供することを目的としている。",
+        "この提携は、新しい広告チャネルが直面する根本的な課題、すなわち効果の証明に対処するものだ。LiveRampのアイデンティティ解決および測定ソリューションを組み込むことで、OpenAIはChatGPT内での広告リーチ、フリークエンシー、コンバージョンをより堅牢に追跡する方法を広告主に提供する意向である。これは、通常、広告費の影響に関する独立した検証を必要とする大規模なブランド予算を引き付けるための戦略的な一歩と言える。",
+        "LiveRampは、サードパーティCookieに依存せず、異なるデータセットを接続することに特化しており、プライバシーの進化する環境においてますます重要な能力となっている。彼らのプラットフォームは、広告主が自社のファーストパーティデータとOpenAIのようなパブリッシャー上での広告露出をマッチングさせ、より正確なオーディエンスターゲティングとキャンペーンアトリビューションを可能にする。OpenAIにとって、これは単なるインプレッション数を超え、広告主への実際のビジネス成果を示すことを意味する。",
+        "この統合は、OpenAIが広告収益の拡大に真剣であることを示唆している。信頼できる第三者測定がなければ、広告主は新しい、あるいは未証明のプラットフォームに多額のメディア予算を投じることをためらうことが多い。この提携は、OpenAIが測定可能で説明責任のある広告環境となり、従来の主要なデジタルプレイヤーに割り当てられていた予算を競う意図を表明している。",
+        "この動きは、OpenAIの財務軌道にとっても極めて重要だ。",
+        "「LiveRampとの連携は、予想されるIPOを前にOpenAIの広告事業を強化するのに役立つ可能性があり、IPOでは収益創出が綿密に監視されるだろう。」",
+        "IPO実績へのこの直接的なリンクは、単に広告枠を提供するだけでなく、堅牢で測定可能な広告エコシステムを構築することの戦略的重要性を強調している。",
+        "ChatGPT内の具体的な広告フォーマットやインベントリについては詳細が明らかにされていないが、LiveRampの測定フレームワークの利用可能性は、広告主が会話型AI環境に対して高度なターゲティングおよびアトリビューションモデルを適用できる未来を示唆している。これは、チャットインターフェース内で直接配信される広告から、基盤となるAIモデルによって駆動されるスポンサーコンテンツやブランド統合まで多岐にわたる可能性がある。",
+        "マーケターにとって、この進展は、AI駆動型プラットフォームが単なるコンテンツ生成ツールではなく、監査可能なメディアチャネルへと進化していることを意味する。アイデンティティと測定への重点は、実験的な予算から主流のメディアプランニングへと移行する、より成熟した広告収益化アプローチを示唆している。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The immediate impact for Tokyo marketers is limited. ChatGPT's advertising offerings are still nascent globally, and their specific availability and ad units in the Japanese market are not yet clear.",
+        "However, the strategic signal is important. Japanese agencies like Dentsu and Hakuhodo, and major platforms like LINE Yahoo! and CyberAgent, are heavily invested in first-party data strategies and privacy-centric measurement. If ChatGPT's ad platform eventually scales in Japan, the LiveRamp integration would mean it could slot into existing data clean room and attribution frameworks already in use by major Japanese advertisers.",
+        "The challenge will be demonstrating unique value beyond current channels. Japanese consumers' interaction with AI platforms for brand discovery or purchase intent is still evolving. Marketers in Tokyo will need concrete case studies and clear ROI pathways, not just advanced measurement capabilities, before shifting significant budgets to a new AI-driven ad channel."
+      ],
+      "ja": [
+        "このニュースが東京のマーケターに与える直接的な影響は、現時点では限定的だろう。ChatGPTの広告サービスはグローバルで見てもまだ初期段階であり、日本市場での具体的な提供状況や広告ユニットはまだ不明確である。",
+        "しかし、その戦略的なシグナルは重要だ。電通や博報堂といった日本の大手広告会社や、LINEヤフー、サイバーエージェントのような主要プラットフォームは、ファーストパーティデータ戦略とプライバシー重視の測定に多大な投資をしている。もしChatGPTの広告プラットフォームが日本で本格展開された場合、LiveRampとの統合は、日本の主要広告主が既に利用しているデータクリーンルームやアトリビューションフレームワークにスムーズに組み込める可能性を示唆している。",
+        "課題は、既存チャネルを超える独自の価値をどう示すかだ。日本の消費者がブランド発見や購買意欲のためにAIプラットフォームとどのように相互作用するかはまだ発展途上である。東京のマーケターは、高度な測定機能だけでなく、具体的な成功事例と明確なROI経路が示されない限り、新たなAI駆動型広告チャネルに多額の予算を投入することには慎重になるだろう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "OpenAI ads get standard measurement for IPO.",
+        "ja": "OpenAI広告、IPOに向け測定標準化。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo-based performance marketer or media planner evaluating new digital channels, this signals OpenAI's move toward auditable ad inventory.",
+        "ja": "新しいデジタルチャネルを評価する東京の運用型マーケターやメディアプランナーにとって、OpenAIが測定可能な広告在庫へと移行するシグナル。"
+      },
+      "vsJapanPlay": {
+        "en": "This directly competes with the measurement assurances provided by major Japanese platforms like LINE Ads Platform or Yahoo! JAPAN Ads, which also offer robust first-party data integration and attribution tools.",
+        "ja": "LINE広告プラットフォームやYahoo! JAPAN広告など、ファーストパーティデータ統合とアトリビューションツールを提供する日本の主要プラットフォームの測定保証と直接競合する。"
+      },
+      "tokyoTake": {
+        "en": "While global, this move sets a standard for AI ad platforms. Tokyo marketers should watch for local ad unit availability and proof of consumer engagement within AI environments.",
+        "ja": "グローバルな動きだが、AI広告プラットフォームの標準を設定。東京のマーケターは、日本での広告ユニット提供状況とAI環境での消費者エンゲージメントの証拠に注目すべき。"
+      }
+    },
+    "source": {
+      "name": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/chatgpt-ads-get-measurement-boost-from-new-liveramp-partnership/822416/"
+    },
+    "sourceGuid": "https://www.marketingdive.com/news/chatgpt-ads-get-measurement-boost-from-new-liveramp-partnership/822416/",
+    "status": "published"
+  },
+  {
     "slug": "aether-living-pitches-lunar-luxury-beyond-earth-as-the-next-frontier-for-high-ne",
     "category": "brand",
     "issue": "Vol. 01",
