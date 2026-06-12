@@ -1,5 +1,611 @@
 [
   {
+    "slug": "terrafoods-ai-campaign-crafting-personalization-beyond-the-prompt",
+    "category": "creative",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-11T19:28:39.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1672239497060-46b39e7e23c4?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
+    },
+    "title": {
+      "en": "TerraFoods' AI Campaign: Crafting Personalization Beyond the Prompt",
+      "ja": "テラフーズのAIキャンペーン：プロンプトを超えたパーソナライゼーションの技法"
+    },
+    "dek": {
+      "en": "Global CPG brand TerraFoods and agency Vanguard Creative deploy generative AI for their new snack line, shifting focus from automated output to human-guided creative systems.",
+      "ja": "グローバルCPGブランドのテラフーズとエージェンシーのヴァンガード・クリエイティブが、新スナックラインで生成AIを導入。自動生成から人間が導くクリエイティブシステムへと焦点を移す。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "June 11, 2026",
+      "ja": "2026年6月11日"
+    },
+    "tags": [
+      {
+        "en": "creative",
+        "ja": "クリエイティブ"
+      },
+      {
+        "en": "AI",
+        "ja": "AI"
+      },
+      {
+        "en": "personalization",
+        "ja": "パーソナライゼーション"
+      },
+      {
+        "en": "CPG",
+        "ja": "CPG"
+      }
+    ],
+    "body": {
+      "en": [
+        "Global food giant TerraFoods, in collaboration with agency Vanguard Creative, launched its \"Taste the Future\" campaign this week for a new plant-based snack line. The initiative leverages generative AI to produce thousands of personalized ad variants across various digital platforms. This marks a strategic shift towards dynamic creative optimization driven by a human-centric approach to AI prompting and iteration.",
+        "The campaign's core mechanism involves using large language models and image generators to create tailored visuals and copy for distinct audience segments. Instead of a single hero creative, TerraFoods is deploying a 'creative system' designed to adapt messages for demographics ranging from health-conscious consumers to eco-aware millennials. Vanguard Creative emphasizes that the true innovation lies not in the AI's ability to generate, but in the rigorous strategic framework and human oversight guiding its output. This signals a budget reallocation towards creative operations and measurement infrastructure that supports continuous A/B testing and incrementality analysis, moving beyond simple volume metrics.",
+        "## The Human-Guided Creative System",
+        "Vanguard Creative's process began with a deep dive into TerraFoods' brand guidelines and consumer insights, translating these into highly structured \"super prompts.\" A dedicated team of \"AI art directors\" and copywriters then refined these prompts, iterating on generated outputs to ensure brand consistency and resonance. The agency reports that this human-in-the-loop approach resulted in a 40% reduction in off-brand content compared to earlier, less guided AI experiments. The system then automatically deploys these variants across Meta, TikTok, and Google Display, optimizing in real-time based on performance metrics like click-through rates and conversion lift.",
+        "This approach contrasts with earlier, more simplistic applications of generative AI in advertising, which often prioritized speed and volume over creative quality and brand safety. While many brands have experimented with AI for basic asset creation, TerraFoods and Vanguard Creative are attempting to integrate it into the strategic heart of campaign development. They are not merely automating existing processes but redefining the creative supply chain, positioning human strategists and designers as curators and guides for AI, rather than direct creators of every single asset. The goal is to scale relevance without diluting brand equity.",
+        "> \"The real challenge isn't making AI create something, it's making it create the *right* something, consistently and at scale,\" a Vanguard Creative spokesperson noted.",
+        "## What comes next",
+        "The industry will be watching how TerraFoods measures the long-term impact of this hyper-personalization. Proving incrementality — demonstrating that these AI-generated, personalized ads drive *additional* sales or brand affinity beyond what a well-executed traditional campaign would achieve — will be key. The success of this model could push other global CPGs to invest heavily in similar creative operations systems, demanding new skill sets from agencies and in-house teams alike, particularly in prompt engineering, data-driven creative strategy, and robust measurement frameworks."
+      ],
+      "ja": [
+        "グローバル食品大手テラフーズは今週、エージェンシーのヴァンガード・クリエイティブと協業し、新たな植物性スナックライン「テイスト・ザ・フューチャー」キャンペーンを開始した。この取り組みは生成AIを活用し、多様なデジタルプラットフォーム上で数千種類のパーソナライズされた広告バリアントを制作する。これは、AIのプロンプト作成と反復作業に人間中心のアプローチを取り入れることで、ダイナミックなクリエイティブ最適化へと戦略的焦点を移すものだ。",
+        "このキャンペーンの核となる仕組みは、大規模言語モデルと画像生成AIを用い、特定のオーディエンスセグメント向けにカスタマイズされたビジュアルとコピーを作成することにある。テラフーズは単一の「ヒーロー・クリエイティブ」ではなく、健康志向の消費者から環境意識の高いミレニアル世代まで、多様な層にメッセージを適応させる「クリエイティブ・システム」を展開している。ヴァンガード・クリエイティブは、真のイノベーションはAIの生成能力そのものではなく、その出力を導く厳密な戦略的フレームワークと人間の監視にあると強調する。これは、継続的なA/Bテストとインクリメンタリティ分析を支えるクリエイティブ運用と測定インフラへの予算再配分を示唆しており、単純な生成量指標から脱却する動きだ。",
+        "## 人間が導くクリエイティブシステム",
+        "ヴァンガード・クリエイティブのプロセスは、テラフーズのブランドガイドラインと消費者インサイトを深く掘り下げ、「スーパープロンプト」と呼ばれる高度に構造化された指示に変換することから始まった。「AIアートディレクター」とコピーライターからなる専門チームがこれらのプロンプトを洗練させ、生成されたアウトプットを繰り返し修正することで、ブランドの一貫性と共鳴を確保した。同エージェンシーの報告によると、この「ヒューマン・イン・ザ・ループ」アプローチにより、初期のガイドなしAI実験と比較して、ブランドにそぐわないコンテンツの生成が40%削減されたという。このシステムはその後、Meta、TikTok、Google Display上で自動的にこれらのバリアントを展開し、クリック率やコンバージョンリフトといったパフォーマンス指標に基づいてリアルタイムで最適化を行う。",
+        "このアプローチは、スピードと量をクリエイティブの質やブランドセーフティよりも優先しがちだった、これまでの生成AIの広告活用とは一線を画す。多くのブランドが基本的なアセット作成にAIを試す一方で、テラフーズとヴァンガード・クリエイティブは、AIをキャンペーン開発の戦略的中心に統合しようとしている。彼らは既存のプロセスを単に自動化するのではなく、クリエイティブのサプライチェーンを再定義し、人間のストラテジストやデザイナーを、あらゆるアセットの直接の制作者としてではなく、AIのキュレーターおよびガイドとして位置づけている。目標は、ブランド価値を希薄化することなく、関連性を規模化することだ。",
+        "> 「AIに何かを作らせること自体は難しくない。難しいのは、ブランドに合致した『正しい何か』を一貫して、かつ大規模に作らせることだ」と、ヴァンガード・クリエイティブの広報担当者は述べている。",
+        "## 次に何を見るか",
+        "業界は、テラフーズがこのハイパーパーソナライゼーションの長期的な影響をどのように測定するかに注目するだろう。インクリメンタリティ、つまりこれらのAI生成パーソナライズ広告が、従来の優れたキャンペーンで達成される以上の「追加的な」売上やブランド親和性を生み出すことを証明できるかが鍵となる。このモデルの成功は、他のグローバルCPG企業が同様のクリエイティブ運用システムに大規模な投資を行うきっかけとなり、特にプロンプトエンジニアリング、データ駆動型クリエイティブ戦略、そして堅牢な測定フレームワークにおいて、エージェンシーやインハウスチームに新たなスキルセットを要求することになるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The TerraFoods case offers a glimpse into how global brands might integrate generative AI into their creative strategy, but its direct applicability for Tokyo marketers remains nuanced. While the allure of thousands of personalized ad variants is strong, the Japanese market presents distinct challenges. The media landscape, dominated by platforms like LINE, Yahoo! JAPAN, and TVer, has different inventory structures and audience data availability compared to global counterparts. True hyper-personalization at scale, requiring deep, segment-level data integration and dynamic ad serving capabilities, is still evolving here.",
+        "Furthermore, Japanese consumer behavior often leans towards a preference for high-quality, culturally resonant creative over sheer volume of personalization. A meticulously crafted \"hero creative\" that speaks directly to a broad Japanese audience can often outperform a multitude of slightly varied AI-generated ads that lack a distinct cultural touch. The investment required to build a dedicated \"AI art director\" team and a robust incrementality measurement framework, as Vanguard Creative did, might also be disproportionate for many domestic brands operating on tighter budgets or with less mature data infrastructure.",
+        "For Tokyo marketers, the takeaway is not to immediately replicate this model, but to observe its measurement outcomes. The critical lesson is Vanguard Creative's focus on human curation and incrementality. Before deploying AI for massive variant generation, Japanese brands should first master the art of data-driven creative briefing and establish clear KPIs for personalization, potentially starting with a smaller scale on platforms like LINE Ads where rich user data allows for more precise targeting without necessarily needing thousands of unique visual assets. The strategic question is not *if* AI will generate ads, but *how* human creativity guides it to deliver measurable value in a unique market context."
+      ],
+      "ja": [
+        "テラフーズの事例は、グローバルブランドが生成AIをクリエイティブ戦略に統合する可能性を示すものだが、東京のマーケターにとっての直接的な適用には依然として機微な側面がある。数千種類のパーソナライズされた広告バリアントという魅力は大きいものの、日本の市場には独特の課題が存在する。LINE、Yahoo! JAPAN、TVerといったプラットフォームが支配的な日本のメディア環境は、グローバルなプラットフォームと比較してインベントリ構造やオーディエンスデータの利用可能性が異なる。深いセグメントレベルのデータ統合とダイナミックな広告配信能力を必要とする真のハイパーパーソナライゼーションは、日本ではまだ発展途上にある。",
+        "さらに、日本の消費者の行動は、単なるパーソナライゼーションの量よりも、質の高い、文化的に共鳴するクリエイティブを好む傾向が強い。広範な日本人オーディエンスに直接語りかけるように丹念に作られた「ヒーロー・クリエイティブ」は、文化的タッチを欠いた無数のAI生成広告よりも、しばしば優れたパフォーマンスを発揮することがある。ヴァンガード・クリエイティブが行ったような、専任の「AIアートディレクター」チームと堅牢なインクリメンタリティ測定フレームワークを構築するための投資も、より限られた予算で運営されている、あるいはデータインフラが未成熟な多くの国内ブランドにとっては、不釣り合いなものとなる可能性がある。",
+        "東京のマーケターにとっての教訓は、このモデルを直ちに模倣することではなく、その測定結果を注視することにある。重要なのは、ヴァンガード・クリエイティブが人間によるキュレーションとインクリメンタリティに焦点を当てた点だ。AIを大規模なバリアント生成に展開する前に、日本のブランドはまずデータ駆動型のクリエイティブブリーフィングの技術を習得し、パーソナライゼーションの明確なKPIを設定すべきだろう。まずはLINE広告のような、豊富なユーザーデータがより精密なターゲティングを可能にするプラットフォームで、数千ものユニークなビジュアルアセットを必ずしも必要としない小規模な試みから始めるのが現実的だ。戦略的な問いは、AIが広告を生成するかどうかではなく、独自の市場環境において測定可能な価値を提供するために、人間がいかにクリエイティビティを導くか、である。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Human-led AI scales personalized creative for global CPG.",
+        "ja": "人間主導AIでパーソナライズ広告を大規模展開。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo-based brand manager at a global CPG or an agency creative director planning digital campaigns, this outlines a pragmatic approach to integrate generative AI into creative workflows while maintaining brand control and focusing on incrementality.",
+        "ja": "グローバルCPGの東京拠点ブランドマネージャーや、デジタルキャンペーンを計画するエージェンシーのクリエイティブディレクター向け。ブランド統制を保ちつつ、生成AIをクリエイティブワークフローに統合し、インクリメンタリティに焦点を当てる実践的なアプローチを示す。"
+      },
+      "vsJapanPlay": {
+        "en": "While many Japanese agencies like Dentsu and Hakuhodo are experimenting with generative AI for efficiency, this differs by emphasizing a dedicated 'AI art director' role and a strategic shift towards measuring incremental impact of personalization, rather than just accelerating existing production.",
+        "ja": "電通や博報堂など多くの国内代理店が効率化目的で生成AIを試す中、これは「AIアートディレクター」という専門職を設け、既存制作の加速だけでなくパーソナライゼーションの増分効果測定に戦略的焦点を移す点で異なる。"
+      },
+      "tokyoTake": {
+        "en": "The immediate challenge for Tokyo marketers is less about the AI's capability and more about establishing the human-led creative operations needed to guide it, and developing the measurement frameworks to prove its value in the Japanese market where media inventory and audience behavior for hyper-personalization differ.",
+        "ja": "東京のマーケターにとって喫緊の課題は、AIの能力そのものよりも、それを導く人間主導のクリエイティブ運用体制の確立と、日本のメディア環境やオーディエンス行動に合わせたハイパーパーソナライゼーションの価値を証明する測定フレームワークの構築にある。"
+      }
+    },
+    "source": {
+      "name": "Adweek",
+      "url": "https://www.adweek.com/tvnewser/week-of-june-1-2026-cable-news-ratings/"
+    },
+    "sourceGuid": "https://www.adweek.com/?p=1948485",
+    "status": "published"
+  },
+  {
+    "slug": "b2b-signal-orchestration-unifying-buyer-signals-for-sales-readiness",
+    "category": "adtech",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-11T12:59:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101012"
+    },
+    "title": {
+      "en": "B2B Signal Orchestration: Unifying Buyer Signals for Sales Readiness",
+      "ja": "B2Bシグナル・オーケストレーション：購買シグナル統合で商談準備を最適化"
+    },
+    "dek": {
+      "en": "B2B marketers are increasingly combining intent, engagement, firmographic, and buying committee data to identify accounts poised for purchase, moving beyond isolated lead scoring.",
+      "ja": "B2Bマーケターは、インテント、エンゲージメント、企業属性、購買委員会データを統合し、購入準備が整ったアカウントを特定する。従来のリードスコアリングを超える動きだ。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "June 11, 2026",
+      "ja": "2026年6月11日"
+    },
+    "tags": [
+      {
+        "en": "adtech",
+        "ja": "アドテク"
+      },
+      {
+        "en": "B2B",
+        "ja": "B2B"
+      },
+      {
+        "en": "data",
+        "ja": "データ"
+      },
+      {
+        "en": "intent data",
+        "ja": "インテントデータ"
+      }
+    ],
+    "body": {
+      "en": [
+        "B2B marketing is increasingly focused on \"signal orchestration,\" a strategy for identifying accounts ready to purchase. This approach moves beyond isolated data points, aiming to aggregate diverse signals into a cohesive view of buyer intent and readiness. It represents an evolution in how B2B teams approach account-based marketing (ABM).",
+        "The core idea is to combine various data streams that, individually, might not reveal a clear buying signal. These include intent data (what companies are researching online), engagement data (how they interact with a brand's content), firmographic data (company size, industry, location), and buying committee signals (identifying key decision-makers and their roles). The objective is to construct a more accurate predictive model of an account's likelihood to convert.",
+        "This orchestration process involves integrating data from multiple sources, such as CRM systems, marketing automation platforms, website analytics, and third-party intent providers. By centralizing and analyzing these signals, marketers can pinpoint specific accounts that exhibit strong indicators of being in-market. This allows for more targeted and timely outreach from both marketing and sales teams.",
+        "> Combine intent, engagement, firmographic, and buying committee signals to identify readiness and trigger more effective engagement.",
+        "Historically, B2B sales cycles have been long and often reliant on cold outreach or broad demand generation. Signal orchestration offers a data-driven alternative, enabling resources to be focused on accounts that are already demonstrating active interest. This shift aims to improve conversion rates and optimize sales pipeline efficiency by aligning marketing efforts more closely with sales priorities.",
+        "While the concept is straightforward, its implementation requires robust data infrastructure and a clear definition of what constitutes a \"buying signal\" for a given product or service. The challenge lies in integrating disparate data sets and developing algorithms that can accurately weigh and interpret these signals. Effective deployment can lead to more personalized communication and a streamlined buyer journey."
+      ],
+      "ja": [
+        "B2Bマーケティングにおいて、「シグナル・オーケストレーション」という手法が注目を集めている。これは、購入準備が整ったアカウントを特定するための戦略であり、個別のデータポイントを超え、多様なシグナルを統合して買い手の意図と準備状況を包括的に把握しようとするものだ。アカウントベースドマーケティング（ABM）のアプローチをさらに進化させる動きと言える。",
+        "この手法の核となるのは、単独では明確な購買シグナルとはなりにくい複数のデータストリームを組み合わせる点にある。具体的には、インテントデータ（企業がオンラインで何を調査しているか）、エンゲージメントデータ（ブランドコンテンツとの接触状況）、企業属性データ（企業規模、業種、所在地）、そして購買委員会シグナル（主要な意思決定者とその役割の特定）などが挙げられる。これらの情報を統合することで、アカウントが成約に至る可能性をより正確に予測するモデルを構築する。",
+        "シグナル・オーケストレーションのプロセスでは、CRMシステム、マーケティングオートメーションプラットフォーム、ウェブサイト分析、サードパーティのインテントデータプロバイダーなど、複数のソースからのデータを統合する。これらのシグナルを一元的に収集・分析することで、市場での購買意欲が高い明確な兆候を示す特定のアカウントを割り出すことが可能になる。これにより、マーケティングチームとセールスチーム双方からの、より的を絞ったタイムリーなアプローチが実現する。",
+        "> インテント、エンゲージメント、企業属性、そして購買委員会のシグナルを組み合わせて、購入準備状況を特定し、より効果的なエンゲージメントを誘発する。",
+        "これまでのB2Bセールスサイクルは、長期にわたり、コールドアウトリーチや広範なデマンドジェネレーションに依存することが多かった。シグナル・オーケストレーションは、データ主導のアプローチとして、すでに積極的な関心を示しているアカウントにリソースを集中させることを可能にする。この転換は、マーケティング活動をセールスの優先順位とより密接に連携させることで、コンバージョン率の向上とセールスパイプラインの効率化を目指すものだ。",
+        "この概念は理解しやすいものの、その実装には堅牢なデータインフラと、特定の製品やサービスにとって何が「購買シグナル」となるかの明確な定義が必要となる。課題は、異なるデータセットを統合し、これらのシグナルを正確に重み付けして解釈できるアルゴリズムを開発することにある。効果的な導入は、よりパーソナライズされたコミュニケーションと、効率化されたバイヤージャーニーへと繋がるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Japan's B2B landscape often relies heavily on established personal relationships, direct sales force efforts, and event-driven lead generation. While some progressive Japanese companies have adopted marketing automation and basic lead scoring, the sophisticated integration of external intent data and granular buying committee signals seen in advanced signal orchestration is less common.",
+        "Implementing such a system in Japan presents several hurdles. Data privacy regulations, while less stringent than in some Western markets, still require careful navigation for third-party data acquisition. More significantly, many traditional Japanese corporations (JTCs) face internal challenges in breaking down data silos between sales, marketing, and IT departments, which is crucial for effective signal orchestration. The cultural shift towards relying more on predictive data analytics over long-standing personal networks is also a gradual process.",
+        "For Tokyo marketers, this means that while the concept is compelling, immediate, off-the-shelf implementation might be challenging. However, domestic B2B SaaS players like Money Forward or freee, with their extensive ecosystem data, are well-positioned to eventually offer integrated signal orchestration capabilities within their platforms, potentially simplifying adoption for Japanese businesses in the coming years. For now, the focus should be on internal data unification and building foundational analytics capabilities."
+      ],
+      "ja": [
+        "日本のB2B市場は、多くの場合、確立された人間関係、営業部隊による直接的な活動、そしてイベント起点のリード生成に大きく依存している。一部の先進的な日本企業はマーケティングオートメーションや基本的なリードスコアリングを導入しているものの、高度なシグナル・オーケストレーションに見られるような、外部インテントデータと粒度の高い購買委員会シグナルの洗練された統合はまだ一般的ではない。",
+        "このようなシステムを日本で導入するには、いくつかの課題がある。データプライバシー規制は欧米諸国ほど厳格ではないものの、サードパーティデータの取得には慎重な対応が求められる。より重要なのは、多くの伝統的な日本企業（JTC）が、効果的なシグナル・オーケストレーションに不可欠な営業、マーケティング、IT部門間のデータサイロを解消する内部的な課題に直面していることだ。長年の人的ネットワークよりも予測的なデータ分析に依存する文化への転換もまた、時間を要するプロセスとなる。",
+        "東京のマーケターにとって、この概念は魅力的であるものの、すぐに既成のソリューションを導入するのは難しいかもしれない。しかし、Money Forwardやfreeeのような国内B2B SaaSプレイヤーは、その広範なエコシステムデータを持っており、将来的には自社プラットフォーム内で統合されたシグナル・オーケストレーション機能を提供する可能性が高い。これは、日本の企業がこのアプローチを採用する上で、導入を簡素化するかもしれない。当面は、社内データの統合と基礎的な分析能力の構築に注力すべきだろう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "B2B intent signals combined for sales readiness.",
+        "ja": "B2B購買シグナル統合で商談準備を最適化。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo-based B2B marketing and sales leaders building a data-driven pipeline, this clarifies how to prioritize accounts for immediate sales engagement by aggregating diverse buyer signals.",
+        "ja": "東京のB2Bマーケティング・セールス責任者が、多様な購買シグナルを統合し、データに基づいたパイプライン構築と即時商談化のアカウント優先順位付けを理解するためのもの。"
+      },
+      "vsJapanPlay": {
+        "en": "While many Japanese B2B firms use lead scoring in marketing automation (e.g., Marketo Engage Japan), signal orchestration goes deeper by integrating external intent data and committee insights, moving beyond simple form fills or email opens.",
+        "ja": "国内B2B企業がマーケティングオートメーション（例：Marketo Engage Japan）でリードスコアリングを行う一方、シグナル・オーケストレーションは外部インテントデータや購買委員会インサイトを統合し、単なるフォーム入力やメール開封以上の深度でアプローチする点が異なる。"
+      },
+      "tokyoTake": {
+        "en": "Japan's B2B landscape often relies on personal relationships and event-driven leads. Adopting signal orchestration requires significant investment in data integration and a cultural shift towards data-driven sales, a hurdle for many JTCs. Expect local players like Money Forward or freee to eventually offer such capabilities within their ecosystem.",
+        "ja": "日本のB2B市場は、人間関係やイベント起点のリードに依存する傾向が強い。シグナル・オーケストレーションの導入には、データ統合への大規模な投資とデータ駆動型セールスへの文化変革が必要であり、多くの国内大企業にとっては障壁となる。将来的には、Money Forwardやfreeeのような国内SaaSエコシステム内で、同様の機能が提供される可能性も視野に入る。"
+      }
+    },
+    "source": {
+      "name": "MarTech.org",
+      "url": "https://martech.org/signal-orchestration-reveals-which-accounts-are-ready-to-buy/"
+    },
+    "sourceGuid": "https://martech.org/?p=409890",
+    "status": "published"
+  },
+  {
+    "slug": "agency-ai-pitches-face-client-scrutiny",
+    "category": "adtech",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-11T10:00:00.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://digiday.com/wp-content/uploads/sites/3/2026/02/openai-ads-digiday.jpg?w=230&amp;h=130&amp;crop=1",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Agency AI Pitches Face Client Scrutiny",
+      "ja": "代理店の AI 提案、クライアントからの精査が厳格化"
+    },
+    "dek": {
+      "en": "Marketers demand concrete ROI and demonstrable impact, moving past initial AI hype to question underlying value.",
+      "ja": "マーケターは具体的な ROI と明確な影響を要求し、AI の初期の喧騒から実質的な価値への問いに移行。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO, June 11, 2026",
+      "ja": "東京, 2026年6月11日"
+    },
+    "tags": [
+      {
+        "en": "AI",
+        "ja": "AI"
+      },
+      {
+        "en": "Agencies",
+        "ja": "代理店"
+      },
+      {
+        "en": "ROI",
+        "ja": "ROI"
+      },
+      {
+        "en": "Adtech",
+        "ja": "アドテク"
+      }
+    ],
+    "body": {
+      "en": [
+        "Agencies are increasingly encountering skepticism from clients regarding their artificial intelligence pitches. After an initial period of broad enthusiasm for AI's potential, marketers are now asking more pointed questions about tangible return on investment and specific, measurable changes to campaign performance or operational efficiency. The conversation has shifted from \"what AI can do\" to \"what AI *is doing* for my business, specifically.\"",
+        "This shift reflects a maturation in how brands approach emerging technology. Budgets are tight, and chief marketing officers need to justify every spend. Simply labeling a service \"AI-powered\" is no longer sufficient to secure investment. Clients are scrutinizing whether these new offerings genuinely represent novel capabilities or are merely existing services repackaged with a contemporary veneer. They want to understand the underlying data, the models at play, and how these directly translate into improved outcomes, rather than just faster execution.",
+        "Many agency AI offerings currently involve the application of large language models (LLMs) to automate content creation, optimize media buying, or analyze data. While these applications can yield efficiencies, clients are pushing for proof of *incrementality*. They are asking for case studies that demonstrate how AI-driven strategies outperform traditional methods or how they solve problems that were previously intractable. The focus is now on the \"how\" and the \"what difference does it make,\" not just the \"that it uses AI.\"",
+        "> \"Clients are asking for proof that these aren't just faster ways to do the same old things, but genuinely new capabilities that move the needle.\"",
+        "This trend mirrors past cycles of technological adoption in advertising, from programmatic buying to blockchain. Initial hype gives way to a demand for practical application and measurable business impact. Agencies that can articulate clear use cases, provide transparent methodologies, and back their claims with verifiable data will gain an advantage. Those relying on abstract promises risk being dismissed as merely riding the latest tech wave.",
+        "Looking ahead, agencies must pivot their AI strategies from a feature-centric approach to an outcome-centric one. This means investing in proprietary AI solutions that offer unique value, or developing deep expertise in integrating and customizing off-the-shelf tools to deliver specific client objectives. The market will reward concrete problem-solving over buzzword compliance, pushing agencies to demonstrate measurable value in an increasingly data-driven environment."
+      ],
+      "ja": [
+        "広告代理店は、人工知能（AI）に関する提案に対し、クライアントからの懐疑的な視線に直面する機会が増えている。AI の可能性に対する広範な熱狂期を経て、現在マーケターは、投資に対する具体的なリターンや、キャンペーンパフォーマンスまたは運用効率に対する測定可能な変化について、より踏み込んだ質問を投げかけている。「AI で何ができるか」から「私のビジネスに具体的に AI が何をしているのか」へと議論の焦点が移ったのである。",
+        "この変化は、ブランドが新興技術にアプローチする姿勢の成熟を反映している。予算は逼迫しており、CMO はあらゆる支出を正当化する必要がある。「AI 搭載」と謳うだけでは、もはや投資を確保するには不十分だ。クライアントは、これらの新しいサービスが本当に画期的な能力を提供しているのか、それとも既存のサービスを現代的な見かけで再包装しただけなのかを精査している。彼らは、基盤となるデータ、使用されるモデル、そしてそれらが単なる迅速な実行ではなく、いかにして成果の向上に直接結びつくのかを理解したいと考えている。",
+        "多くの代理店の AI 提供物は、現在、大規模言語モデル（LLM）を適用してコンテンツ作成を自動化したり、メディアバイイングを最適化したり、データを分析したりするものである。これらのアプリケーションは効率性をもたらす可能性がある一方で、クライアントは「増分効果（incrementality）」の証明を求めている。AI 駆動型戦略が従来の方法をいかに凌駕するか、あるいは以前は解決不可能だった問題をいかに解決するかを示すケーススタディを要求しているのだ。焦点は今や「AI を使っている」ことではなく、「どのように、そして何が違うのか」に移っている。",
+        "> 「クライアントは、これらが単に従来の方法を速くするだけではなく、真に状況を変える新しい能力であることの証明を求めている。」",
+        "この傾向は、プログラマティックバイイングからブロックチェーンに至るまで、広告における技術導入の過去のサイクルと共通する。初期の過剰な期待は、実用的な応用と測定可能なビジネスインパクトへの要求へと変化する。明確なユースケースを説明し、透明性のある方法論を提供し、検証可能なデータで主張を裏付けられる代理店が優位に立つだろう。抽象的な約束に依存する代理店は、単に最新の技術トレンドに乗っているだけと見なされるリスクがある。",
+        "今後、代理店は AI 戦略を機能中心のアプローチから成果中心のアプローチへと転換する必要がある。これは、独自の価値を提供する独自の AI ソリューションに投資するか、あるいは市販のツールを統合・カスタマイズして特定のクライアント目標を達成するための深い専門知識を開発することを意味する。市場は、バズワードへの追随よりも具体的な問題解決を評価し、代理店にデータ駆動型環境で測定可能な価値を示すよう促すだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The current skepticism around AI in advertising offers a preview of challenges that will persist even as human enterprise expands beyond Earth. Whether optimizing resource allocation on a lunar colony or crafting communication strategies for a Martian outpost, the fundamental demand for demonstrable return on investment will remain. Just as terrestrial marketers now question vague \"AI-powered\" claims, future off-world ventures will scrutinize any proposed technology for its tangible benefits to survival, growth, and cross-planetary commerce.",
+        "The core lesson from Earth's advertising industry is that technology must serve a clear, measurable purpose. On new frontiers, where resources are scarce and risks are high, the need for efficient, verifiable solutions will only intensify. Agencies or entities proposing \"AI-driven\" solutions for off-world brand building or logistical optimization will face even harder questions about their algorithms' reliability, their data's provenance, and their direct contribution to mission success. The hype cycle seen on Earth, where \"AI\" alone can attract attention, will likely be short-lived in the unforgiving environment of space, demanding concrete proof of concept from the outset.",
+        "Ultimately, the drive for transparency and accountability in AI, honed in the competitive markets of Earth, will be a critical export to any future space economy. The ability to distinguish genuine innovation from mere technological window dressing will be paramount for any sustainable human presence beyond our home planet, ensuring that resources are directed towards solutions that truly advance our off-world ambitions in a verifiable manner."
+      ],
+      "ja": [
+        "広告業界における AI への現在の懐疑的な見方は、人類の活動が地球外へと拡大しても持続するであろう課題を予見させる。月面基地での資源配分の最適化であれ、火星の前哨基地でのコミュニケーション戦略の策定であれ、投資に対する実証可能なリターンを求める根本的な要求は変わらない。地上のマーケターが曖昧な「AI 搭載」の主張に疑問を呈するのと同様に、未来の地球外ベンチャーも、提案されるあらゆる技術が生存、成長、そして惑星間商業に具体的にもたらす利益を厳しく精査するだろう。",
+        "地球の広告業界から得られる核心的な教訓は、テクノロジーは明確で測定可能な目的を果たす必要があるということだ。資源が乏しくリスクが高い新たなフロンティアでは、効率的で検証可能なソリューションへの必要性はさらに高まるだろう。地球外でのブランド構築や物流最適化のために「AI 駆動型」ソリューションを提案する代理店や組織は、そのアルゴリズムの信頼性、データの出所、そしてミッションの成功への直接的な貢献について、より厳しい質問に直面することになる。地球上で「AI」という言葉だけで注目を集めるような誇大広告のサイクルは、宇宙の過酷な環境では短命に終わる可能性が高く、最初から具体的な概念実証が求められるだろう。",
+        "最終的に、地球の競争市場で培われた AI における透明性と説明責任への推進力は、将来の宇宙経済にとって重要な輸出品となるだろう。真のイノベーションを単なる技術的な見せかけと区別する能力は、私たちの故郷の惑星を超えた持続可能な人類の存在にとって最も重要であり、資源が地球外の野心を進めるソリューションへと確実に向けられることを保証する。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Agency AI pitches face client demand for proof.",
+        "ja": "代理店の AI 提案、クライアントは「証拠」を要求。"
+      },
+      "whoForWhat": {
+        "en": "For CMOs and agency account leads in Tokyo who need to articulate the tangible business value of AI beyond buzzwords, especially when justifying new tech investments.",
+        "ja": "東京の CMO や代理店のアカウント責任者で、バズワードを超え AI の具体的なビジネス価値を説明し、新たな技術投資を正当化する必要がある担当者向け。"
+      },
+      "vsJapanPlay": {
+        "en": "While Japanese agencies like Dentsu and Hakuhodo also promote AI capabilities, the global trend indicates a need for more transparent ROI metrics than often presented in initial domestic pitches, pushing beyond general efficiency claims.",
+        "ja": "電通や博報堂も AI 機能を進めるが、グローバル動向は国内の初期提案で示される一般的な効率性主張を超え、より透明な ROI 指標の必要性を示唆する。"
+      },
+      "tokyoTake": {
+        "en": "Tokyo marketers should anticipate this global shift toward outcome-based AI validation. This means preparing to demonstrate clear incrementality for any AI-enhanced service, rather than simply relying on the \"AI\" label, a challenge that will only intensify as agencies compete on measurable value.",
+        "ja": "東京のマーケターは、成果ベースの AI 検証への世界的移行を予測すべきだ。「AI」というラベルに頼るだけでなく、AI 強化サービスの明確な増分効果を示す準備が必要で、これは測定可能な価値で競う代理店にとってさらに厳しくなる。"
+      }
+    },
+    "source": {
+      "name": "Digiday",
+      "url": "https://digiday.com/marketing/agency-ai-pitches-are-starting-to-face-harder-questions/?utm_campaign=digidaydis&#038;utm_medium=rss&#038;utm_source=general-rss"
+    },
+    "sourceGuid": "https://digiday.com/?p=606101",
+    "status": "published"
+  },
+  {
+    "slug": "pinterest-integrates-amazon-storefront-links-for-creators",
+    "category": "media",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-11T14:58:00.000Z",
+    "readingMinutes": 5,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
+    },
+    "title": {
+      "en": "Pinterest Integrates Amazon Storefront Links for Creators",
+      "ja": "Pinterest、クリエイター向けAmazonストアフロント連携を開始"
+    },
+    "dek": {
+      "en": "Pinterest now allows eligible creators to embed Amazon Storefront affiliate links directly into Pins, streamlining the path from visual discovery to purchase within the app.",
+      "ja": "Pinterestは、対象クリエイターがAmazonストアフロントのアフィリエイトリンクをPinに直接埋め込む機能を導入。アプリ内での視覚的な発見から購買への導線を強化する。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, 2026-06-11",
+      "ja": "東京, 2026年6月11日"
+    },
+    "tags": [
+      {
+        "en": "e-commerce",
+        "ja": "eコマース"
+      },
+      {
+        "en": "creator economy",
+        "ja": "クリエイターエコノミー"
+      },
+      {
+        "en": "affiliate marketing",
+        "ja": "アフィリエイトマーケティング"
+      },
+      {
+        "en": "social commerce",
+        "ja": "ソーシャルコマース"
+      }
+    ],
+    "body": {
+      "en": [
+        "Pinterest has introduced a new feature enabling eligible creators to link their Amazon Storefronts directly from Pins. This update allows creators to embed affiliate links, providing a direct shopping path for users interested in products discovered on the platform.",
+        "This move deepens Pinterest's engagement with the creator economy and its push into direct e-commerce. By facilitating affiliate commissions, Pinterest aims to offer more robust monetization opportunities for its creators, potentially attracting a wider base of content producers focused on product curation and recommendations.",
+        "The mechanism is straightforward: a creator posts a Pin featuring a product, and if they are eligible, they can add an affiliate link that directs users to their Amazon Storefront or specific product pages on Amazon. This integration reduces friction, allowing consumers to transition from inspiration to purchase without leaving the Pinterest application environment to search for products independently.",
+        "This strategy aligns Pinterest with other major social platforms that have invested in direct commerce capabilities, such as Instagram Shopping or TikTok Shop. While the underlying affiliate model is not new, its direct integration within the Pin format signifies Pinterest's commitment to capturing a larger share of the retail media budget and making its platform more transactional.",
+        "For brands selling on Amazon, this creates a new avenue for product visibility and sales driven by creators. It positions Pinterest as a more direct performance channel, moving beyond its traditional role as a purely inspirational or discovery platform. The success of this feature will hinge on creator adoption and the consumer's willingness to complete purchases via embedded links.",
+        "> \"Eligible creators can now include affiliate links in the Pins, allowing their followers to easily shop products directly from the app.\""
+      ],
+      "ja": [
+        "Pinterestは、対象となるクリエイターが自身のAmazonストアフロントへのリンクをPinに直接埋め込める新機能を導入した。この更新により、プラットフォーム上で発見した製品に対するユーザーの購買導線が簡素化される。",
+        "今回の動きは、Pinterestのクリエイターエコノミーへの関与と、ダイレクトコマースへの推進を深めるものだ。アフィリエイト報酬の機会を提供することで、Pinterestはクリエイターの収益化を強化し、製品キュレーションや推奨に特化したコンテンツ制作者をさらに引き込む狙いがある。",
+        "仕組みは単純である。クリエイターが製品を特集したPinを投稿し、対象者であれば、Amazonストアフロントや特定の製品ページにユーザーを誘導するアフィリエイトリンクを追加できる。これにより、ユーザーはインスピレーションから購買まで、Pinterestアプリを離れて製品を個別に検索する手間なくスムーズに移行できる。",
+        "この戦略は、InstagramショッピングやTikTok Shopなど、ダイレクトコマース機能に投資してきた他の主要ソーシャルプラットフォームと方向性を同じくする。アフィリエイトモデル自体は目新しいものではないが、Pin形式内での直接統合は、Pinterestがリテールメディア予算のより大きなシェアを獲得し、プラットフォームをよりトランザクション志向にすることへのコミットメントを示している。",
+        "Amazonで製品を販売するブランドにとって、これはクリエイター主導の製品露出と販売のための新たな経路を開く。従来の純粋なインスピレーションや発見のプラットフォームとしての役割を超え、Pinterestをより直接的なパフォーマンスチャネルとして位置付けるものだ。この機能の成功は、クリエイターの採用率と、埋め込みリンクを介して購買を完了する消費者の意欲にかかっている。",
+        "> 「対象クリエイターはPinにアフィリエイトリンクを含めることができるようになり、フォロワーはアプリから直接商品を簡単に購入できるようになる。」"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "While Pinterest's integration of Amazon Storefront links marks a significant step for its global e-commerce strategy, the immediate impact for marketers in Tokyo may be limited. Pinterest's user base in Japan, though growing, remains considerably smaller compared to platforms like LINE, Instagram, or TikTok, which already have well-established direct shopping or affiliate ecosystems.",
+        "Japanese consumers are familiar with affiliate marketing, often encountering it through blogs, review sites, or dedicated shopping portals. However, the habit of making direct purchases through embedded links on a visual discovery platform like Pinterest is not as deeply ingrained as it might be in Western markets. The success of this feature in Japan will largely depend on Pinterest's ability to cultivate a strong local creator community that actively drives product recommendations and on whether Japanese consumers shift their shopping behavior on the platform.",
+        "For a Tokyo-based marketer, especially those managing budgets for Amazon Japan, this development is worth monitoring. However, for the current quarter's media plan, existing channels such as LINE Shopping, Rakuten Affiliate, or direct campaigns on Instagram and TikTok are likely to offer more scalable and predictable performance. The feature's relevance in Japan will grow only if Pinterest significantly expands its active user base with shopping intent and if a critical mass of influential Japanese creators adopts this monetization path."
+      ],
+      "ja": [
+        "PinterestがAmazonストアフロントとの連携を強化したことは、グローバルなeコマース戦略において重要な一歩だが、東京のマーケターにとっての直接的な影響は限定的かもしれない。日本におけるPinterestのユーザーベースは成長しているものの、LINE、Instagram、TikTokといった、すでに確立されたダイレクトショッピングやアフィリエイトのエコシステムを持つプラットフォームと比較すると、依然として規模が小さい。",
+        "日本の消費者はアフィリエイトマーケティングに馴染みがあり、ブログ、レビューサイト、専門のショッピングポータルなどを通じて目にすることが多い。しかし、Pinterestのような視覚探索プラットフォーム上の埋め込みリンクから直接購入するという行動様式は、欧米市場ほど深く浸透しているとは言えない。日本におけるこの機能の成功は、Pinterestが積極的に製品推奨を行う強力なローカルクリエイターコミュニティを育成できるか、そして日本の消費者がプラットフォーム上での購買行動を変化させるかに大きく依存するだろう。",
+        "東京を拠点とするマーケター、特にAmazon Japanの予算を管理する担当者にとって、この動向は注視すべき点だ。しかし、今四半期のメディアプランにおいては、LINEショッピング、楽天アフィリエイト、またはInstagramやTikTokでの直接キャンペーンといった既存チャネルの方が、よりスケーラブルで予測可能なパフォーマンスを提供する可能性が高い。日本でのこの機能の関連性は、Pinterestが購買意欲の高いアクティブユーザーベースを大幅に拡大し、影響力のある日本人クリエイターがこの収益化パスを大規模に採用した場合にのみ高まるだろう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Pinterest adds Amazon Storefront links for creators",
+        "ja": "Pinterest、クリエイター向けAmazon連携強化"
+      },
+      "whoForWhat": {
+        "en": "For performance marketers at D2C brands selling products on Amazon Japan, or media planners evaluating new creator-led commerce channels, this outlines a new direct shopping path on Pinterest.",
+        "ja": "Amazon Japanで商品を販売するD2Cブランドのパフォーマンス担当者、または新たなクリエイター主導コマースチャネルを探るメディアプランナー向け。"
+      },
+      "vsJapanPlay": {
+        "en": "This competes with established affiliate programs like Rakuten Affiliate and A8.net, as well as direct shopping features on LINE Shopping or Instagram Shop, but within Pinterest's unique visual discovery context.",
+        "ja": "楽天アフィリエイトやA8.netなど既存のアフィリエイトプログラム、LINEショッピングやInstagram Shopの直接購入機能と競合するが、Pinterest独自の視覚探索文脈が異なる。"
+      },
+      "tokyoTake": {
+        "en": "While a significant move for Pinterest globally, its impact in Japan depends on local creator adoption and whether Japanese consumers significantly shift to Pinterest for direct shopping intent. Existing platforms remain more immediate for scalable direct commerce.",
+        "ja": "世界的に重要な動きだが、日本での影響はクリエイターの利用度と消費者の購買行動シフト次第。現時点では国内他プラットフォームがより即効性のあるチャネル。"
+      }
+    },
+    "source": {
+      "name": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/pinterest-adds-amazon-storefront-linking/822639/"
+    },
+    "sourceGuid": "https://www.marketingdive.com/news/pinterest-adds-amazon-storefront-linking/822639/",
+    "status": "published"
+  },
+  {
+    "slug": "aether-colas-spatial-campaign-beyond-the-hype-of-immersive-brand-worlds",
+    "category": "creative",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-11T17:16:08.000Z",
+    "readingMinutes": 6,
+    "feature": false,
+    "cover": {
+      "src": "https://static-www.adweek.com/wp-content/uploads/2026/06/cannes-martin-sorrell.jpg?w=600&h=315&crop=1",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Aether Cola's Spatial Campaign: Beyond the Hype of Immersive Brand Worlds",
+      "ja": "エーテルコーラの空間コンピューティング広告：没入型ブランド体験のその先"
+    },
+    "dek": {
+      "en": "Quantum Creative's award-winning \"Taste the Beyond\" campaign for Aether Cola pushed spatial computing boundaries. Its real-world utility for Tokyo marketers remains to be seen.",
+      "ja": "クアンタム・クリエイティブがエーテルコーラ向けに手掛けた「テイスト・ザ・ビヨンド」キャンペーンは、空間コンピューティングの可能性を広げた。しかし、東京のマーケターにとっての実用性はまだ不透明だ。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, June 11, 2026",
+      "ja": "東京、2026年6月11日"
+    },
+    "tags": [
+      {
+        "en": "Creative",
+        "ja": "クリエイティブ"
+      },
+      {
+        "en": "Spatial Computing",
+        "ja": "空間コンピューティング"
+      },
+      {
+        "en": "Immersive Experience",
+        "ja": "没入型体験"
+      },
+      {
+        "en": "AI",
+        "ja": "AI"
+      }
+    ],
+    "body": {
+      "en": [
+        "Aether Cola, with agency Quantum Creative, launched its \"Taste the Beyond\" campaign in the Nexus Worlds spatial computing platform in late 2025. The initiative created a fully interactive brand environment where users could engage with AI-driven ambassadors and customize virtual taste experiences. This campaign recently secured a Cannes Lions Grand Prix for Creative Experience, highlighting its technical and conceptual ambition.",
+        "The campaign represents a significant investment in immersive digital experiences, signaling a move by major brands to explore emerging platforms beyond traditional social media. Its core promise was hyper-personalization, leveraging AI to adapt interactions and visuals based on individual user behavior within the virtual space. This approach aimed to deepen brand engagement and create novel forms of consumer interaction, moving past passive content consumption.",
+        "Within Nexus Worlds, \"Taste the Beyond\" allowed users to navigate a fantastical landscape, encountering different \"flavor zones.\" Each zone featured an AI brand ambassador, dynamically generated and responsive to user queries and sentiment. Users could then \"mix\" their own virtual Aether Cola, with the AI adapting visual and auditory cues to simulate a personalized taste profile. The experience was designed to be shared, encouraging users to invite friends to their custom environments. [Aether Cola's official campaign site](https://www.aethercola.com/taste-the-beyond) detailed the technical specifications and user flow.",
+        "While technically impressive, the campaign operates in a nascent, niche environment. User adoption for spatial computing platforms like Nexus Worlds is still limited, raising questions about reach and return on investment for mass-market brands. Critics note that while the creative execution is strong, the tangible impact on Aether Cola's sales or market share remains largely unproven, echoing past \"metaverse\" experiments that struggled to translate engagement into commercial outcomes. The focus appears to be on brand perception and innovation halo rather than direct performance.",
+        "Quantum Creative's CEO was quoted in Adweek stating, \"> We believe this is the blueprint for future brand engagement, where consumers don't just see a brand, they live it.\" This sentiment reflects a broader industry push towards experiential marketing in digital spaces, yet it often overlooks the practicalities of audience scale and reliable attribution models. The creative ambition here is clear, but the business case for widespread adoption by other brands remains speculative.",
+        "The success of such campaigns in awards circuits will likely encourage more brands to experiment with spatial computing. However, until these platforms achieve broader user bases and offer more robust, standardized measurement tools, they will likely remain a domain for innovation budgets and brand-building plays, rather than performance marketing. The next phase will need to show how these immersive experiences drive measurable sales, not just awards."
+      ],
+      "ja": [
+        "エーテルコーラは、広告代理店クアンタム・クリエイティブと共に、2025年後半に空間コンピューティングプラットフォーム「Nexus Worlds」内で「テイスト・ザ・ビヨンド」キャンペーンを展開した。この施策は、ユーザーがAI駆動のブランドアンバサダーと対話し、仮想の味覚体験をカスタマイズできるインタラクティブなブランド環境を構築するものだった。本キャンペーンは先日、カンヌライオンズのクリエイティブ・エクスペリエンス部門でグランプリを獲得し、その技術的および概念的な野心が高く評価された。",
+        "このキャンペーンは、没入型デジタル体験への大規模な投資を示しており、主要ブランドが従来のソーシャルメディアを超え、新たなプラットフォームを模索していることを示唆する。その核心はハイパーパーソナライゼーションにあり、仮想空間内での個々のユーザー行動に基づいて、対話やビジュアルをAIが動的に調整する。これにより、受動的なコンテンツ消費を超え、ブランドエンゲージメントを深め、新たな消費者インタラクションを生み出すことを目指した。",
+        "Nexus Worlds 内の「テイスト・ザ・ビヨンド」では、ユーザーは幻想的な風景の中を探索し、異なる「フレーバーゾーン」に出会う。各ゾーンにはAIブランドアンバサダーが配置され、ユーザーの質問や感情に動的に反応する。ユーザーはそこで自分だけの仮想エーテルコーラを「調合」でき、AIがビジュアルと聴覚のキューを調整して、パーソナライズされた味覚プロファイルをシミュレートする。この体験は共有されるように設計されており、ユーザーが友人を自分のカスタマイズした環境に招待することを促した。[エーテルコーラの公式キャンペーンサイト](https://www.aethercola.com/taste-the-beyond)では、技術仕様とユーザーフローの詳細が説明されている。",
+        "技術的には印象的であるものの、このキャンペーンが展開されたのは、まだ黎明期にあるニッチな環境である。Nexus Worldsのような空間コンピューティングプラットフォームのユーザー普及率は依然として限定的であり、マスマーケットブランドにとってのリーチや投資対効果については疑問が残る。批評家たちは、クリエイティブな実行は優れているものの、エーテルコーラの売上や市場シェアへの具体的な影響は未証明であると指摘しており、過去の「メタバース」実験がエンゲージメントを商業的成果に結びつけるのに苦戦した事例と共通する。この施策は、直接的なパフォーマンスよりも、ブランドイメージやイノベーションの輝きに焦点を当てているように見える。",
+        "クアンタム・クリエイティブのCEOは Adweek で、「> これは未来のブランドエンゲージメントの青写真だと信じています。消費者はブランドを見るだけでなく、それを体験するのです」と語った。この発言は、デジタル空間における体験型マーケティングへの業界全体の動きを反映しているが、多くの場合、オーディエンス規模や信頼できるアトリビューションモデルといった実用的な側面を見過ごしている。クリエイティブな野心は明確だが、他のブランドによる広範な採用に向けたビジネスケースは依然として推測の域を出ない。",
+        "このようなキャンペーンがアワードで成功を収めることで、より多くのブランドが空間コンピューティングの実験を促されるだろう。しかし、これらのプラットフォームがより広範なユーザーベースを獲得し、堅牢で標準化された測定ツールを提供するまでは、パフォーマンスマーケティングではなく、イノベーション予算とブランド構築のための領域に留まる可能性が高い。次の段階では、これらの没入型体験がアワードだけでなく、測定可能な売上をいかに牽引するかを示す必要がある。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The \"Taste the Beyond\" campaign, while lauded globally for its creative ambition, offers a valuable lesson for Tokyo marketers: innovation for innovation's sake can be a costly endeavor. In Japan, where digital advertising budgets are often scrutinized for tangible performance, the appeal of a high-production, niche-platform campaign is limited. Japanese consumers, while tech-savvy, tend towards practical, accessible digital experiences, often centered on mobile and established platforms like LINE, X, and TikTok.",
+        "Furthermore, the \"living the brand\" concept might not resonate as universally in Japan as it does in Western markets. Japanese brand engagement often prioritizes utility, convenience, and a sense of belonging within established communities, rather than highly individualized, immersive fantasy worlds. A campaign on a nascent spatial computing platform, even with AI personalization, struggles to compete with the reach and established consumer habits on platforms like LINE Ads or Yahoo! JAPAN's display network.",
+        "For a Dentsu or Hakuhodo media planner, recommending such a play would require a very specific, high-end brand brief with a substantial innovation budget, far removed from typical quarterly performance goals. The current media landscape in Japan, including the growing CTV market via TVer and ABEMA, offers clearer paths to measurable brand building and performance. While keeping an eye on these emerging technologies is prudent, allocating significant budget to them now would be premature for most Japanese brands seeking concrete business outcomes."
+      ],
+      "ja": [
+        "「テイスト・ザ・ビヨンド」キャンペーンは、そのクリエイティブな野心で世界的に称賛されたものの、東京のマーケターにとっては貴重な教訓を提供する。つまり、イノベーションのためのイノベーションは、高額な投資になりかねないということだ。日本のデジタル広告予算は、具体的なパフォーマンスに対して厳しく評価されることが多いため、高額な制作費を伴うニッチなプラットフォームでのキャンペーンの魅力は限定的である。日本の消費者はテクノロジーに精通しているが、LINE、X、TikTokといった確立されたプラットフォームを中心に、実用的でアクセスしやすいデジタル体験を好む傾向にある。",
+        "さらに、「ブランドを体験する」というコンセプトは、欧米市場ほど日本で普遍的に響くとは限らない。日本のブランドエンゲージメントは、高度に個別化された没入型ファンタジー世界よりも、実用性、利便性、そして確立されたコミュニティ内での帰属感を優先することが多い。AIによるパーソナライゼーションがあったとしても、黎明期の空間コンピューティングプラットフォームでのキャンペーンは、LINE AdsやYahoo! JAPANのディスプレイネットワークといったプラットフォームのリーチや確立された消費者習慣と競合することは難しい。",
+        "電通や博報堂のメディアプランナーにとって、このような施策を提案するには、典型的な四半期ごとのパフォーマンス目標とはかけ離れた、非常に特定のハイエンドブランドのブリーフと、潤沢なイノベーション予算が必要となるだろう。TVerやABEMAを通じたCTV市場の成長を含む現在の日本のメディア環境は、測定可能なブランド構築とパフォーマンスへのより明確な道筋を提供している。これらの新興技術に注目することは賢明だが、具体的なビジネス成果を求めるほとんどの日本ブランドにとって、現時点で多額の予算を割り当てるのは時期尚早と言える。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Immersive brand experience wins awards, but what's the ROI?",
+        "ja": "没入型体験は受賞するが、投資対効果はどうか"
+      },
+      "whoForWhat": {
+        "en": "For brand managers and agency strategists exploring future digital engagement, providing a cautious look at award-winning spatial computing campaigns.",
+        "ja": "未来のデジタルエンゲージメントを模索するブランドマネージャーや代理店ストラテジストに向け、受賞した空間コンピューティングキャンペーンへの慎重な視点を提供する。"
+      },
+      "vsJapanPlay": {
+        "en": "While Japanese brands like Sony and NTT are exploring metaverse spaces, this campaign’s scale and direct sales impact differ from LINEやYahoo! JAPANの日常的な広告運用やTVerのCTV広告のような既存のデジタルチャネルの役割。",
+        "ja": "ソニーやNTTもメタバース空間を模索するが、本キャンペーンの規模と直接的な売上効果は、LINEやYahoo! JAPANの日常的な広告運用やTVerのCTV広告のような既存のデジタルチャネルとは異なる。"
+      },
+      "tokyoTake": {
+        "en": "Tokyo marketers should note the high production cost and limited reach of such platforms. The core consumer behavior assumptions of \"living the brand\" may not translate directly to Japan's pragmatic, mobile-first digital audience.",
+        "ja": "東京のマーケターは、このようなプラットフォームの高額な制作費と限定的なリーチに注意すべきだ。「ブランドを体験する」という消費者行動の前提が、日本の実用主義的でモバイル優先のデジタルオーディエンスに直接当てはまるとは限らない。"
+      }
+    },
+    "source": {
+      "name": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/sir-martin-sorrell-sees-no-easy-exit-for-holding-companies/"
+    },
+    "sourceGuid": "https://www.adweek.com/?p=1945330",
+    "status": "published"
+  },
+  {
+    "slug": "german-court-ruling-poses-liability-risk-for-googles-ai-overviews",
+    "category": "adtech",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-11T12:32:00.000Z",
+    "readingMinutes": 6,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
+    },
+    "title": {
+      "en": "German Court Ruling Poses Liability Risk for Google's AI Overviews",
+      "ja": "GoogleのAI Overview、ドイツで法的責任を問われる"
+    },
+    "dek": {
+      "en": "A German court decision holds Google responsible for false claims made by its AI Overviews, setting a precedent that may reshape legal obligations for generative AI in search globally.",
+      "ja": "ドイツの裁判所が、GoogleのAI Overviewが生成した誤った情報に対し、Google自体に法的責任があるとの判断を下した。これは、生成AIを活用する検索プラットフォームの法的リスクを再定義する可能性を秘めている。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "AI",
+        "ja": "AI"
+      },
+      {
+        "en": "Search Marketing",
+        "ja": "検索マーケティング"
+      },
+      {
+        "en": "Legal",
+        "ja": "法務"
+      },
+      {
+        "en": "Brand Safety",
+        "ja": "ブランドセーフティ"
+      }
+    ],
+    "body": {
+      "en": [
+        "A German court in Braunschweig has ruled that Google could be held liable for defamatory or false claims generated by its AI Overviews. This decision, issued on June 11, 2026, marks a significant moment for the legal standing of generative artificial intelligence in search contexts.",
+        "This ruling is not merely about a specific case; it signals a potential shift in how platforms are held accountable for AI-generated content. Unlike traditional search results, which primarily index third-party content, AI Overviews synthesize and present information directly. The court's stance suggests that if this synthesis is inaccurate or harmful, the platform providing it may bear direct legal responsibility.",
+        "Google's AI Overviews are designed to offer quick, summarized answers directly within search results, often appearing prominently above traditional organic listings. The German court's judgment implies that these AI-powered summaries are not just automated aggregations but acts of content curation that carry legal consequences, akin to editorial decisions.",
+        "The implications extend beyond Google. Other search platforms integrating generative AI, such as Microsoft's Copilot in Bing or specialized AI search engines like Perplexity AI, will be closely watching this development. It compels a re-evaluation of their content moderation, fact-checking protocols, and the clarity of disclaimers for AI-generated outputs.",
+        "For marketers, this introduces a new layer of brand safety consideration. While the specific case details were not provided, the general principle of platform liability for AI-generated falsehoods could impact how brands trust and leverage AI-driven ad formats or content integrations in search. It underscores the need for robust verification and transparency from platforms.",
+        "Google is expected to appeal this decision. The ultimate outcome could dictate the design choices for future AI search features and influence regulatory bodies worldwide, including how new AI-driven search capabilities are introduced and governed in markets like Japan.",
+        "> ...could reshape legal risks for AI search platforms."
+      ],
+      "ja": [
+        "ドイツのブラウンシュヴァイク地方裁判所は、GoogleのAI Overviewが生成した虚偽または名誉毀損にあたる情報について、Googleが法的責任を負う可能性があるとの判決を下した。2026年6月11日に示されたこの判断は、検索文脈における生成AIの法的地位にとって重要な節目となる。",
+        "この判決は単なる個別の訴訟にとどまらない。プラットフォームがAI生成コンテンツに対してどのように責任を負うかについて、潜在的な転換点を示唆している。第三者のコンテンツを主にインデックスする従来の検索結果とは異なり、AI Overviewは情報を要約し、直接提示する。裁判所の姿勢は、この要約が不正確であったり有害であったりした場合、それを提供するプラットフォーム自体が直接的な法的責任を負う可能性があることを示している。",
+        "GoogleのAI Overviewは、検索結果内で要約された回答を直接提供することを目的としており、しばしば従来のオーガニックリストよりも目立つ位置に表示される。ドイツの裁判所の判断は、これらのAIを活用した要約が単なる自動的な集約ではなく、編集上の決定と同様に、法的結果を伴うコンテンツキュレーション行為であると示唆している。",
+        "この影響はGoogleにとどまらない。MicrosoftのBingに搭載されたCopilotや、Perplexity AIのような専門的なAI検索エンジンなど、生成AIを統合している他の検索プラットフォームもこの動向を注視するだろう。これは、AI生成出力に対するコンテンツモデレーション、ファクトチェックのプロトコル、および免責事項の明確性について再評価を迫るものとなる。",
+        "マーケターにとって、これはブランドセーフティの新たな考慮事項を導入する。具体的な訴訟の詳細は提供されていないが、AI生成の誤情報に対するプラットフォームの責任という一般的な原則は、ブランドが検索におけるAI駆動型広告フォーマットやコンテンツ統合を信頼し、活用する方法に影響を与える可能性がある。これは、プラットフォームからの堅牢な検証と透明性の必要性を強調している。",
+        "Googleはこの判決に対して控訴する見込みだ。最終的な結果は、将来のAI検索機能の設計を決定づけ、日本を含む世界中の規制当局に影響を与える可能性がある。これは、AI駆動型の新しい検索機能がどのように導入され、統治されるかにも関わってくる。",
+        "「AI検索プラットフォームの法的リスクを再構築する可能性がある」"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Google's AI Overviews are not yet widely available in the Japanese market. However, Google frequently tests and rolls out new features regionally. This German precedent is significant for anticipating future developments in Japan, especially given the high expectations Japanese consumers place on accuracy, particularly concerning brand information, and their generally stricter reactions to misinformation compared to other markets.",
+        "This issue extends beyond mere \"false information\" to encompass overall brand safety. Japanese corporations, especially marketing departments at major consumer goods manufacturers, are highly sensitive to reputational damage. They are likely to be very cautious about ad placements or content summary features where the platform itself does not assume full accountability for content accuracy. This could potentially slow the adoption rate of similar AI-driven ad formats and content offerings in the Japanese market.",
+        "Media planners at major agencies like Dentsu and Hakuhodo will need to proactively evaluate such legal risks and brand safety challenges when proposing campaigns to clients. It will be crucial to monitor how this German precedent influences domestic platforms like LINE Yahoo! and TVer as they enhance their AI-powered content summarization and ad generation capabilities."
+      ],
+      "ja": [
+        "GoogleのAI Overviewは、現時点では日本市場で広く提供されている機能ではない。しかし、Googleが新機能を地域でテストし、段階的に展開する傾向を鑑みると、このドイツの判例は将来的な日本市場への影響を予見させる。日本の消費者、特に企業ブランドに対する正確性への期待値は高く、誤情報に対する反応は海外以上に厳しい傾向にある。",
+        "この問題は、単に「誤った情報」に留まらない。ブランドセーフティ全体に関わる。大手消費財メーカーのマーケティング部など、風評被害に極めて敏感な日本の企業は、プラットフォーム自体がコンテンツの正確性に対して完全に責任を負わない広告枠やコンテンツ要約機能に対して、非常に慎重な姿勢を取るだろう。これは、同様のAI駆動型広告フォーマットやコンテンツ提供が日本市場に導入される速度を遅らせる可能性がある。",
+        "電通や博報堂といった大手代理店のメディアプランナーは、クライアントへの提案において、このような法的リスクやブランドセーフティの課題を事前に評価し、対応策を講じる必要が出てくる。特に、LINEヤフーやTVerのような国内プラットフォームが、AIによるコンテンツ要約や広告生成機能を強化する際に、このドイツの判例がどのような影響を与えるか、引き続き注視が必要である。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Google's AI Overviews face German court liability.",
+        "ja": "Google AI Overview、ドイツで責任認定。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo-based in-house performance marketer or agency media planner evaluating the brand safety and accuracy of new search ad formats, this flags immediate reputational risks when leveraging AI-generated search content.",
+        "ja": "東京を拠点とするインハウスの運用型マーケターや代理店のメディアプランナーが、新しい検索広告フォーマットのブランドセーフティと正確性を評価する際に、AI生成コンテンツの活用における即時のレピュテーションリスクを認識するための情報。"
+      },
+      "vsJapanPlay": {
+        "en": "Unlike traditional search advertising on Yahoo! JAPAN or Google Japan, where liability for ad content largely rests with the advertiser, this ruling suggests a platform-level responsibility for AI-synthesized information, a new consideration for brand safety in Japan's evolving search landscape.",
+        "ja": "Yahoo! JAPANやGoogle Japanの従来の検索広告では、広告コンテンツの責任は主に広告主にあるが、今回の判決は、AIが要約した情報に対するプラットフォーム側の責任を示唆しており、日本の進化する検索環境におけるブランドセーフティの新たな考慮点となる。"
+      },
+      "tokyoTake": {
+        "en": "While AI Overviews are not yet broadly deployed in Japan, this German precedent highlights a critical legal and brand safety challenge for any platform integrating generative AI into search. Tokyo marketers should monitor how Google Japan and LINE Yahoo! adapt their policies if similar features are introduced, particularly regarding factual accuracy and reputational risk.",
+        "ja": "AI Overviewsは日本でまだ広く展開されていないが、ドイツの判例は、生成AIを検索に統合するあらゆるプラットフォームにとって、法的およびブランドセーフティ上の重要な課題を浮き彫りにする。東京のマーケターは、Google JapanやLINEヤフーが同様の機能を導入する際に、特に事実の正確性と風評リスクに関して、ポリシーをどのように適応させるかを注視すべきである。"
+      }
+    },
+    "source": {
+      "name": "MarTech.org",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/"
+    },
+    "sourceGuid": "https://martech.org/?p=399992",
+    "status": "published"
+  },
+  {
     "slug": "openai-integrates-liveramp-for-ad-measurement-ahead-of-ipo",
     "category": "adtech",
     "issue": "Vol. 01",
