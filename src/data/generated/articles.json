@@ -1,5 +1,615 @@
 [
   {
+    "slug": "agentic-commerce-demands-direct-mail-discipline",
+    "category": "adtech",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-16T12:53:00.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://martech.org/wp-content/uploads/2025/04/Email-marketing-concept-Modern-collage-style.png",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Agentic Commerce Demands Direct Mail Discipline",
+      "ja": "エージェントコマース：ダイレクトメールが示す統制の教訓"
+    },
+    "dek": {
+      "en": "As AI agents increasingly mediate purchases, marketers face a loss of control. The discipline of direct mail provides a framework for re-establishing brand ownership and measurement in automated commerce.",
+      "ja": "AIエージェントが購買を仲介する時代、マーケターは統制の喪失に直面する。ダイレクトメールの規律は、自動化されたコマースにおいてブランドの所有権と測定を再確立するための枠組みを提供する。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, June 16, 2026",
+      "ja": "東京、2026年6月16日"
+    },
+    "tags": [
+      {
+        "en": "adtech",
+        "ja": "アドテック"
+      },
+      {
+        "en": "AI",
+        "ja": "AI"
+      },
+      {
+        "en": "e-commerce",
+        "ja": "Eコマース"
+      },
+      {
+        "en": "brand strategy",
+        "ja": "ブランド戦略"
+      }
+    ],
+    "body": {
+      "en": [
+        "MarTech.org reported on June 16, 2026, that marketers evaluating agentic commerce platforms should draw lessons from direct mail. The core challenge lies in maintaining brand ownership, precise measurement, and strategic control as AI agents mediate an increasing number of purchasing decisions.",
+        "Agentic commerce refers to a future state where AI systems, acting on behalf of consumers or businesses, autonomously discover, evaluate, and purchase products or services. This shift risks disintermediating brands from their customers, reducing direct touchpoints and obscuring attribution. The article posits that direct mail, despite its traditional nature, offers a robust framework for managing these concerns due to its inherent requirements for precise targeting, offer control, and response measurement.",
+        "The dispatch highlights three key areas where direct mail's principles apply to agentic commerce. First, brands must ensure they retain direct customer relationships and data, even when transactions are mediated by agents. Direct mail campaigns necessitate a clear understanding of customer lists and consent. Second, establishing clear, trackable metrics for agent-driven sales is crucial. Direct mail, with its unique offer codes and response mechanisms, provides a precedent for robust attribution in a fragmented environment. Third, marketers need to dictate the brand experience and messaging presented by agents, mirroring direct mail's control over creative, offer terms, and delivery.",
+        "> Before committing to new platforms, identify what your brand will still own, measure, and control when agentic commerce changes.",
+        "This discussion comes as large language models (LLMs) and generative AI are integrated into search, personal assistants, and e-commerce platforms. Google's Search Generative Experience (SGE), for example, already offers product comparisons and purchase links directly within search results, hinting at an agentic future. Amazon's evolving AI capabilities also point towards more autonomous shopping experiences. The challenge for brands is to ensure their value proposition is not lost in these agent-mediated interactions, where product features might be prioritized over brand equity by an AI optimizing for user utility.",
+        "The implications extend beyond Earth's consumer markets. As humanity expands into orbital habitats and lunar bases, agentic commerce will likely become standard for supply chain management and resource allocation in environments with latency issues or limited human oversight. Imagine AI agents negotiating resource contracts between a lunar colony and an orbital manufacturing hub, or autonomously procuring specialized equipment for a Mars mission. The same questions of brand ownership, verifiable measurement, and programmatic control will apply, scaled to an interplanetary economy where human intervention is costly and slow. Brands aiming for off-world presence must build their digital identities and agent-accessible data with these autonomous interactions in mind, ensuring their offerings are not merely discoverable but preferred by non-human decision-makers."
+      ],
+      "ja": [
+        "MarTech.orgは2026年6月16日、エージェントコマースプラットフォームを評価するマーケターは、ダイレクトメール（DM）から教訓を得るべきだと報じた。AIエージェントが購買意思決定をますます仲介する中で、ブランドの所有権、正確な測定、そして戦略的な統制を維持することが核となる課題だ。",
+        "エージェントコマースとは、AIシステムが消費者や企業に代わって自律的に製品やサービスを発見、評価、購入する未来の状態を指す。この変化は、ブランドを顧客から遠ざけ、直接的な接点を減らし、アトリビューションを不明瞭にするリスクを伴う。記事は、DMがその伝統的な性質にもかかわらず、正確なターゲティング、オファーの統制、反応測定といった本質的な要件から、これらの懸念を管理するための堅牢な枠組みを提供すると提言している。",
+        "記事は、DMの原則がエージェントコマースに適用される3つの主要な領域を強調する。第一に、取引がエージェントによって仲介される場合でも、ブランドは顧客との直接的な関係とデータを保持する必要がある。DMキャンペーンは、顧客リストと同意の明確な理解を必要とする。第二に、エージェント主導の販売における明確で追跡可能な指標の設定が不可欠だ。DMは、独自のオファーコードと反応メカニズムにより、断片化された環境での堅牢なアトリビューションの先例を提供する。第三に、マーケターは、クリエイティブ、オファー条件、配信に対するDMの統制を反映させ、エージェントが提示するブランド体験とメッセージングを指示する必要がある。",
+        "> 新しいプラットフォームにコミットする前に、エージェントコマースが変化しても、あなたのブランドが依然として何を所有し、測定し、統制できるかを特定しなさい。",
+        "この議論は、大規模言語モデル（LLM）や生成AIが検索、パーソナルアシスタント、Eコマースプラットフォームに統合される中で行われている。例えば、GoogleのSearch Generative Experience（SGE）は、検索結果内で直接製品比較や購入リンクを提供しており、エージェント主導の未来を示唆している。Amazonの進化するAI機能も、より自律的なショッピング体験へと向かっている。ブランドにとっての課題は、AIがユーザーの利便性を最適化するために製品機能をブランドエクイティよりも優先する可能性のある、これらのエージェント仲介のやり取りの中で、自社の価値提案が失われないようにすることだ。",
+        "その示唆は、地球上の消費者市場を超えて広がる。人類が軌道上の居住地や月面基地へと拡大するにつれて、エージェントコマースは、遅延問題や人間の監視が限定される環境におけるサプライチェーン管理や資源配分において標準となるだろう。月面コロニーと軌道上の製造ハブの間でAIエージェントが資源契約を交渉したり、火星ミッション用の特殊機器を自律的に調達したりする状況を想像してみよう。ブランドの所有権、検証可能な測定、プログラムによる統制といった同じ問題が、人間による介入が高価で遅い惑星間経済へとスケールアップして適用される。地球外での存在を目指すブランドは、これらの自律的な相互作用を念頭に置いてデジタルアイデンティティとエージェントがアクセス可能なデータを構築し、自社の提供物が単に発見されるだけでなく、非人間的な意思決定者によって選好されるようにする必要がある。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The concept of \"agentic commerce,\" where AI systems autonomously make purchasing decisions, might seem futuristic for the Japanese market. However, the underlying challenge it presents — maintaining brand control, direct customer relationships, and clear attribution in an environment mediated by powerful platforms — is already a daily reality for many Japanese marketers. Brands selling through Amazon Japan, Rakuten, or even leveraging LINE Ads and Yahoo! JAPAN Shopping already operate within ecosystems where the platform often owns the primary customer relationship and dictates data access.",
+        "The lessons from direct mail, emphasizing meticulous list management, clear offer tracking, and measurable response, are highly relevant. For a brand manager at a Japanese CPG, this means doubling down on first-party data strategies and exploring how to build direct customer engagement even within platform-centric environments. It's about designing campaigns that generate measurable signals, regardless of whether the final transaction is initiated by a human or an AI agent.",
+        "Furthermore, as AI capabilities advance globally, Japanese media agencies like Dentsu and Hakuhodo will need to develop sophisticated strategies for their clients to navigate these agent-mediated channels. This isn't just about media buying; it's about product data optimization, content strategy for AI consumption, and negotiating data-sharing agreements with platform providers to ensure brands retain visibility into their customer journey, even when an AI agent handles the purchase. The \"off-world\" implication, while speculative, underscores the need for robust, agent-friendly brand identities that can function across diverse, increasingly autonomous environments, from terrestrial e-commerce to future space-based supply chains."
+      ],
+      "ja": [
+        "AIシステムが自律的に購買を決定する「エージェントコマース」という概念は、日本の市場ではまだ未来的な響きがあるかもしれない。しかし、それが提示する根本的な課題 — 強力なプラットフォームに仲介される環境下で、ブランドの統制、顧客との直接的な関係、そして明確なアトリビューションを維持すること — は、多くの日本のマーケターにとって既に日常的な現実である。Amazon Japan、楽天、さらにはLINE広告やYahoo!ショッピングを通じて販売するブランドは、プラットフォームが主要な顧客関係を所有し、データアクセスを決定するエコシステムの中で活動している。",
+        "ダイレクトメールから得られる教訓、すなわち顧客リストの綿密な管理、明確なオファー追跡、測定可能な反応の重視は、極めて重要である。日本の消費財ブランドのブランドマネージャーにとって、これはファーストパーティデータ戦略を強化し、プラットフォーム中心の環境内でも直接的な顧客エンゲージメントを構築する方法を探求することを意味する。最終的な取引が人間によって開始されようと、AIエージェントによって開始されようと、測定可能なシグナルを生み出すキャンペーンを設計することが重要だ。",
+        "さらに、AI機能が世界的に進化するにつれて、電通や博報堂のような日本のメディアエージェンシーは、クライアントがこれらのエージェント仲介チャネルをナビゲートするための洗練された戦略を開発する必要があるだろう。これは単なるメディアバイイングにとどまらない。製品データ最適化、AI消費のためのコンテンツ戦略、そしてAIエージェントが購買を処理する場合でも、ブランドが顧客ジャーニーの可視性を維持できるように、プラットフォームプロバイダーとのデータ共有契約の交渉も含まれる。記事が触れる「地球外」への示唆は、地上のECから将来の宇宙ベースのサプライチェーンに至るまで、多様でますます自律的な環境で機能できる、堅牢でエージェントフレンドリーなブランドアイデンティティを構築する必要性を強調している。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Agentic commerce demands old-school control.",
+        "ja": "エージェントコマースにDMの規律を。"
+      },
+      "whoForWhat": {
+        "en": "For brand strategists and adtech leads at CPG or retail brands preparing for AI-driven purchase paths, this outlines how to maintain brand control and attribution in an agentic commerce future.",
+        "ja": "AI主導の購買パスに備える消費財ブランドや小売のブランド戦略担当者、アドテック責任者向け。エージェントコマース時代にブランドの統制とアトリビューションを維持する方法を提示する。"
+      },
+      "vsJapanPlay": {
+        "en": "While Japan's e-commerce is less agent-driven, this contrasts with existing platform-mediated sales on Amazon Japan or Rakuten, where brands already contend with limited direct customer data and platform control.",
+        "ja": "日本のECはまだエージェント主導ではないが、Amazon Japanや楽天といった既存プラットフォームでの販売と比較可能。ブランドは既に限定的な顧客データとプラットフォームの統制に直面している。"
+      },
+      "tokyoTake": {
+        "en": "Japanese marketers should view agentic commerce as an extension of platform-dependency challenges. The core issue is less about new tech and more about ensuring data ownership and measurable outcomes when LINE Ads or Yahoo! JAPAN Shopping mediate transactions.",
+        "ja": "日本のマーケターにとって、エージェントコマースはプラットフォーム依存の課題の延長線上にある。LINE広告やYahoo!ショッピングが取引を仲介する際、ブランドがデータ所有権と測定可能な成果を確保できるかどうかが本質的な問題だ。"
+      }
+    },
+    "source": {
+      "name": "MarTech.org",
+      "url": "https://martech.org/3-direct-mail-lessons-for-evaluating-agentic-commerce/"
+    },
+    "sourceGuid": "https://martech.org/?p=409994",
+    "status": "published"
+  },
+  {
+    "slug": "strategic-networking-at-cannes-2026",
+    "category": "brand",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-16T04:01:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://digiday.com/wp-content/uploads/sites/3/2026/06/disturb-cannes-digiday.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Strategic Networking at Cannes 2026",
+      "ja": "カンヌライオンズ2026：戦略的ネットワーキングの再考"
+    },
+    "dek": {
+      "en": "Beyond the spectacle, how introverted approaches to Cannes networking offer a blueprint for deeper professional connections.",
+      "ja": "華やかな祭典の裏側で、内向的なアプローチがカンヌでの深いプロフェッショナルな繋がりをいかに築くか。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, June 16, 2026",
+      "ja": "東京、2026年6月16日"
+    },
+    "tags": [
+      {
+        "en": "Events",
+        "ja": "イベント"
+      },
+      {
+        "en": "Networking",
+        "ja": "ネットワーキング"
+      },
+      {
+        "en": "Professional Development",
+        "ja": "プロフェッショナル開発"
+      },
+      {
+        "en": "Agency Strategy",
+        "ja": "代理店戦略"
+      }
+    ],
+    "body": {
+      "en": [
+        "Cannes Lions 2026 will present its usual confluence of creative showcases and industry networking, but a recent Digiday dispatch highlights a different angle: strategies for introverted attendees to maximize their experience. This perspective acknowledges that not all valuable connections are forged through large-scale social engagements.",
+        "The emphasis on deliberate, quality interactions over sheer volume signals a shift in how professional events are perceived. For agencies and brands investing significant resources to send delegates, the return on investment increasingly hinges on meaningful dialogue rather than just visibility. This pragmatic approach seeks to convert event attendance into tangible relationships and insights.",
+        "An \"introvert's guide\" suggests techniques like pre-scheduling focused meetings, identifying specific individuals or small groups for targeted conversations, and leveraging quieter moments for deeper engagement. This contrasts with the traditional advice of attending every party and shaking every hand, which can be exhausting and unproductive for many. The goal is to create authentic connections that extend beyond the event's duration.",
+        "> The true value of Cannes often lies not in the loudest moments, but in the quiet, focused conversations that build lasting professional bridges.",
+        "This focus on intentional networking resonates beyond personality types. It reflects a broader industry trend where quality of interaction and depth of relationship are prioritized. With the proliferation of digital communication, the unique selling proposition of physical events like Cannes is shifting towards curated experiences and high-value, in-person exchanges. It is less about the spectacle and more about the strategic advantage gained from direct access to key decision-makers and thought leaders.",
+        "The implications for agency new business teams or brand marketing leaders are clear. Attending Cannes becomes less about a broad presence and more about a surgical strike. Preparation involves not just identifying potential clients or partners, but also understanding how to engage them effectively in a setting that can be overwhelming. This means refining pitches for smaller, more intimate settings and valuing follow-up that builds on specific, shared insights from the festival.",
+        "This evolution in networking, prioritizing depth and intentionality, points to a future where professional connection transcends physical location and even traditional human interaction models. As we consider the potential for distributed workforces, metaverse-based collaboration, or even interactions with advanced AI entities, the lessons from an \"introvert's guide\" become profoundly relevant. Building meaningful relationships in novel, perhaps less intuitive, environments will require a similar strategic approach: identifying shared objectives, creating focused engagement points, and valuing the quiet space for genuine understanding. Whether connecting across continents or across simulated realities, the skill of fostering deep, purposeful bonds will remain paramount."
+      ],
+      "ja": [
+        "カンヌライオンズ2026は、例年通りクリエイティブの祭典と業界ネットワーキングの場となるが、Digidayの最近のレポートは、内向的な参加者がその経験を最大限に活かすための戦略に焦点を当てている。この視点は、価値ある繋がりが必ずしも大規模な社交活動を通じて築かれるわけではないことを認めている。",
+        "量よりも意図的で質の高い交流を重視する姿勢は、プロフェッショナルイベントの捉え方に変化があることを示唆する。多大なリソースを投じて代表者を派遣する代理店やブランドにとって、投資対効果は、単なる知名度ではなく、意味のある対話にかかっている。この実用的なアプローチは、イベント参加を有形な関係と洞察に結びつけることを目指す。",
+        "「内向的な人のためのガイド」は、事前に焦点を絞ったミーティングを設定したり、特定の個人や少人数のグループとの対話を見極めたり、より深い交流のために静かな時間を利用したりといったテクニックを提案する。これは、あらゆるパーティーに参加し、全員と握手するという従来の助言とは対照的で、多くの人にとって疲弊し、非生産的になりがちだった。目標は、イベント期間を超えて続く、本物の繋がりを築くことにある。",
+        "> カンヌの真の価値は、しばしば最も賑やかな瞬間ではなく、永続的なプロフェッショナルな架け橋を築く静かで集中した対話の中にある。",
+        "この意図的なネットワーキングへの焦点は、個人の性格タイプを超えて響く。それは、インタラクションの質と関係性の深さが優先される、より広範な業界トレンドを反映している。デジタルコミュニケーションが普及する中で、カンヌのような物理的なイベントの独自の価値提案は、キュレーションされた体験と、価値の高い対面での交流へと移行している。それはスペクタクルよりも、主要な意思決定者や思想的リーダーへの直接的なアクセスから得られる戦略的優位性にかかっている。",
+        "代理店の新規事業開発チームやブランドのマーケティングリーダーにとって、その示唆は明確だ。カンヌへの参加は、広範なプレゼンスよりも、外科手術のような精密なアプローチとなる。準備には、潜在的なクライアントやパートナーを特定するだけでなく、圧倒されがちな環境で彼らと効果的に関わる方法を理解することが含まれる。これは、より小規模で親密な設定でのピッチを洗練させ、フェスティバルで得られた具体的な共通の洞察に基づくフォローアップを重視することを意味する。",
+        "このようなネットワーキングの進化、すなわち深さと意図性を優先する姿勢は、プロフェッショナルな繋がりが物理的な場所や従来の人間関係モデルを超越する未来を示唆している。分散型ワークフォース、メタバースを基盤としたコラボレーション、あるいは高度なAIエンティティとの対話を考えるとき、「内向的な人のためのガイド」から得られる教訓は深く関連してくる。新しい、おそらく直感的ではない環境で意味のある関係を築くには、同様の戦略的アプローチが必要となるだろう。共通の目的を特定し、集中的なエンゲージメントポイントを作り出し、真の理解のための静かな空間を大切にすること。大陸を越えて、あるいはシミュレートされた現実を越えて繋がる際にも、深く目的のある絆を育むスキルは依然として最も重要となる。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The \"introvert's guide\" perspective holds particular relevance for Tokyo marketers. Japanese business culture often values deep, sustained relationships over broad, superficial networking. At global events like Cannes, Japanese delegates may find themselves at a disadvantage if the primary mode of engagement is aggressive self-promotion or casual, high-volume interaction. This guide's emphasis on pre-planned, focused meetings and quality dialogue aligns more closely with traditional Japanese approaches to relationship building. For a Japanese brand manager or agency strategist, adopting these tactics could lead to more productive outcomes than simply attempting to blend into the Western-centric networking style.",
+        "Furthermore, the challenges of navigating a bustling international event for introverted individuals echo the broader reality of professional engagement in Tokyo. While domestic events might feel less overwhelming, the core principle of strategic, meaningful interaction remains vital. Agencies like Dentsu or Hakuhodo, which often have large delegations at global events, could integrate such strategies into their preparation, ensuring their team members, regardless of personality, can effectively represent their brand and build valuable connections. This shift from \"being seen\" to \"being heard\" is a nuanced but important one for Japanese professionals seeking to expand their global footprint.",
+        "Ultimately, this perspective suggests a move towards a more inclusive and effective model of professional interaction. It underscores that true influence comes from substance and connection, not just presence. For Tokyo marketers, this means prioritizing thoughtful engagement, whether at an international festival or a local industry gathering, and recognizing that the most impactful conversations often happen away from the main stage."
+      ],
+      "ja": [
+        "「内向的な人のためのガイド」という視点は、東京のマーケターにとって特に重要な意味を持つ。日本のビジネス文化は、広範で表面的なネットワーキングよりも、深く持続的な関係性を重視することが多い。カンヌのようなグローバルイベントでは、積極的な自己アピールやカジュアルで大量の交流が主なエンゲージメント様式である場合、日本の代表団は不利に感じることがあるかもしれない。このガイドが提唱する、事前計画に基づいた集中的なミーティングや質の高い対話は、日本の伝統的な関係構築のアプローチとより密接に一致する。日本のブランドマネージャーや代理店のストラテジストにとって、これらの戦術を採用することは、単に欧米中心のネットワーキングスタイルに溶け込もうとするよりも、より生産的な結果につながる可能性がある。",
+        "さらに、内向的な個人が賑やかな国際イベントを乗り切るという課題は、東京におけるプロフェッショナルなエンゲージメントのより広範な現実と重なる。国内イベントはそれほど圧倒的ではないかもしれないが、戦略的で意味のある交流という核心原則は依然として不可欠だ。電通や博報堂のように、グローバルイベントに大規模な代表団を派遣することが多い代理店は、このような戦略を準備に組み込むことで、チームメンバーが個人の性格にかかわらず、効果的にブランドを代表し、価値ある繋がりを築くことができるだろう。「見られること」から「聞かれること」へのこの移行は、グローバルな足跡を拡大しようとする日本のプロフェッショナルにとって、微妙だが重要な変化である。",
+        "最終的に、この視点は、より包摂的で効果的なプロフェッショナル交流モデルへの移行を示唆している。真の影響力は、単なる存在感ではなく、中身と繋がりから生まれることを強調する。東京のマーケターにとって、これは国際的なフェスティバルであろうと地元の業界イベントであろうと、思慮深いエンゲージメントを優先し、最も影響力のある会話が往々にしてメインステージから離れた場所で起こることを認識することに繋がる。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Quality over quantity in event networking.",
+        "ja": "イベントでのネットワーキングは量より質。"
+      },
+      "whoForWhat": {
+        "en": "For agency new business leads and brand marketing managers planning to attend global industry events, seeking to maximize ROI through focused relationship building.",
+        "ja": "グローバルな業界イベントへの参加を計画している代理店の新規事業担当者やブランドのマーケティングマネージャーが、集中的な関係構築を通じてROIを最大化するために。"
+      },
+      "vsJapanPlay": {
+        "en": "This contrasts with the broad, social-heavy networking often seen at major Japanese ad industry events, offering a more deliberate, relationship-focused alternative to casual exchange.",
+        "ja": "日本の主要な広告業界イベントでよく見られる広範で社交中心のネットワーキングとは異なり、カジュアルな交流よりも意図的で関係性を重視したアプローチを提案する。"
+      },
+      "tokyoTake": {
+        "en": "Tokyo marketers can apply these strategies to global events, aligning with a local business culture that values deep, sustained relationships over superficial interactions. It offers a practical framework for effective engagement.",
+        "ja": "東京のマーケターは、表面的な交流よりも深く持続的な関係を重んじる日本のビジネス文化と合致するこれらの戦略をグローバルイベントに応用できる。効果的なエンゲージメントのための実用的な枠組みを提供する。"
+      }
+    },
+    "source": {
+      "name": "Digiday",
+      "url": "https://digiday.com/marketing/an-introverts-guide-to-navigating-cannes-lions-2026/?utm_campaign=digidaydis&#038;utm_medium=rss&#038;utm_source=general-rss"
+    },
+    "sourceGuid": "https://digiday.com/?p=606438",
+    "status": "published"
+  },
+  {
+    "slug": "the-macallan-targets-gen-z-for-luxury-occasion-spending",
+    "category": "brand",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-16T12:57:58.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1593344484962-796055d4a3a4?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#1a1a1a"
+    },
+    "title": {
+      "en": "The Macallan Targets Gen Z for Luxury Occasion Spending",
+      "ja": "ザ・マッカラン、Z世代の「特別な日の贅沢」を狙う新戦略"
+    },
+    "dek": {
+      "en": "Ultra-premium whisky brand Macallan launches a campaign focused on younger consumers' willingness to splurge on high-end products for significant life events, a strategic shift from traditional luxury marketing.",
+      "ja": "超高級ウイスキーブランドのザ・マッカランが、人生の節目における高額消費に意欲的な若年層をターゲットにしたキャンペーンを展開。従来の高級品マーケティングからの戦略的転換を示す。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, June 16, 2026",
+      "ja": "東京、2026年6月16日"
+    },
+    "tags": [
+      {
+        "en": "Brand Strategy",
+        "ja": "ブランド戦略"
+      },
+      {
+        "en": "Luxury Marketing",
+        "ja": "ラグジュアリーマーケティング"
+      },
+      {
+        "en": "Gen Z",
+        "ja": "Z世代"
+      },
+      {
+        "en": "Spirits Industry",
+        "ja": "スピリッツ業界"
+      }
+    ],
+    "body": {
+      "en": [
+        "The Macallan, the ultra-premium Scotch whisky brand, launched a new global campaign on June 16, 2026, featuring actor James Marsden. This initiative directly targets Generation Z consumers, aiming to capture their reported willingness for high-end splurges on special occasions.",
+        "The strategy pivots on a demographic insight: while the broader spirits market faces headwinds, the ultra-premium segment continues to show resilience and growth. Macallan is investing in the long term by cultivating a younger consumer base, betting that early engagement with luxury goods will translate into sustained brand loyalty as their purchasing power matures. This is a direct play for future market share, rather than solely relying on existing affluent demographics.",
+        "Historically, luxury spirits marketing has focused on established connoisseurs or aspirational figures depicting a certain lifestyle. Macallan's move acknowledges a shift in consumer behavior, where younger demographics, despite often having less disposable income, are prepared to invest significantly in specific, high-value experiences or products that align with personal milestones or celebrations. This contrasts with more traditional luxury marketing that emphasizes heritage and exclusivity to an older, wealthier demographic.",
+        "The campaign's choice of James Marsden, an actor with broad appeal but not necessarily synonymous with traditional luxury, suggests an effort to make the brand more approachable while retaining its premium aura. The focus on \"special occasion splurges\" moves away from everyday consumption and positions the whisky as an integral part of significant life events, a framing that resonates with Gen Z's documented preference for experience over mere possession. The campaign aims to embed Macallan into these celebratory moments, making it a symbol of achievement or commemoration.",
+        "This approach highlights a broader trend among luxury brands to expand their consumer base beyond traditional segments. Brands are increasingly recognizing that younger generations, while financially distinct from their predecessors, possess significant cultural influence and a different set of values around consumption. The challenge for Macallan, and other luxury brands following this path, will be to maintain exclusivity and brand mystique while broadening appeal and avoiding dilution. Success here could redefine how luxury categories approach demographic targeting for decades.",
+        "> The campaign, which features actor James Marsden, comes as ultra-premium whiskey continues to outperform the struggling spirits industry overall."
+      ],
+      "ja": [
+        "スコッチウイスキーの高級ブランド、ザ・マッカランは、2026年6月16日、俳優ジェームズ・マースデンを起用した新たなグローバルキャンペーンを開始した。この取り組みは、特に「特別な日の贅沢な出費」に意欲的なZ世代の消費者層を直接的に狙うものだ。",
+        "この戦略は、一般的なスピリッツ市場が逆風に直面する中で、超高級セグメントだけが堅調な成長を続けているという人口動態の洞察に基づいている。マッカランは、若年層の消費者を早期に高級品に引き込むことで、彼らの購買力が成熟した際に長期的なブランドロイヤルティを確立するという、将来への投資と見ている。これは、既存の富裕層だけに依存するのではなく、将来の市場シェアを確保するための直接的なアプローチである。",
+        "これまで高級スピリッツのマーケティングは、既存の愛好家や特定のライフスタイルを体現する憧れの人物像に焦点を当てることが多かった。マッカランの今回の動きは、消費行動の変化を認識したものだ。Z世代は、可処分所得が少ない傾向にあるにもかかわらず、個人的な節目や祝賀と結びつく特定の高価値な体験や製品には、惜しみなく投資する準備がある。これは、単なる所有よりも経験を重視するZ世代の特性と合致している。",
+        "キャンペーンに起用されたジェームズ・マースデンは、伝統的な高級ブランドの顔というよりは、幅広い層に親しまれる俳優だ。この選択は、ブランドの高級感を保ちつつも、より親しみやすいイメージを構築しようとする意図を示唆する。「特別な日の贅沢な出費」というフレーミングは、日常的な消費から距離を置き、ウイスキーを人生の重要なイベントに不可欠なものとして位置づける。これにより、マッカランは祝賀の瞬間に深く組み込まれ、達成や記念の象徴となることを目指す。",
+        "このアプローチは、高級ブランドが伝統的なセグメントを超えて顧客層を拡大しようとする広範なトレンドを浮き彫りにする。ブランドは、若年層が先行世代とは異なる財政状況にある一方で、文化的影響力が大きく、消費に対する価値観も異なることを認識し始めている。マッカラン、そしてこの道を辿る他の高級ブランドにとっての課題は、ブランドの神秘性と独占性を維持しつつ、魅力を広げ、希薄化を防ぐことにあるだろう。ここでの成功は、高級品カテゴリーが今後数十年間、人口統計学的ターゲティングにどうアプローチするかを再定義する可能性を秘めている。",
+        "「俳優ジェームズ・マースデンを起用したこのキャンペーンは、超高級ウイスキーが、低迷するスピリッツ業界全体を上回り続けている中で展開される。」"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The Macallan's strategic pivot towards Generation Z for \"special occasion splurges\" offers a salient point of comparison for Japanese luxury marketers. While Tokyo's premium spirits and luxury goods market is robust, the explicit targeting of younger consumers for high-ticket, celebratory purchases is less common. Japanese brands, particularly in traditional luxury sectors like sake, wagashi, or high-end apparel, often lean on heritage, craftsmanship, and an aspirational lifestyle narrative that appeals more broadly or to an established, older demographic.",
+        "This difference in approach is partly cultural. In Japan, luxury consumption by younger generations might manifest differently, perhaps through limited-edition collaborations, streetwear, or high-tech gadgets, rather than a direct, high-value spirits purchase for a personal milestone. Furthermore, media buying patterns in Japan for luxury brands tend to favor traditional high-reach platforms like prime-time TVCMs or high-end print media, coupled with digital strategies that often focus on brand storytelling or e-commerce integration, rather than explicit occasion-based targeting of specific youth segments via social platforms.",
+        "For a Tokyo marketer, the lesson here is not necessarily to immediately replicate Macallan's exact strategy, but to critically assess the nuanced motivations behind younger Japanese consumers' discretionary spending. Does a \"special occasion splurge\" translate to a premium whisky, or to a high-end omakase dinner, or a limited-edition sneaker? Understanding these cultural nuances is key. While the global trend points to Gen Z's growing influence, localizing the appeal and identifying the *actual* product categories and occasions they value for luxury spending remains the core challenge for brands and agencies like Dentsu or Hakuhodo here."
+      ],
+      "ja": [
+        "ザ・マッカランがZ世代の「特別な日の贅沢な出費」に戦略の軸足を置いたことは、日本の高級品マーケターにとって重要な比較点を提供する。東京の高級スピリッツおよび高級品市場は堅調だが、高額な祝賀目的の購入で若年層を明示的にターゲットにする動きは、まだ一般的とは言えない。日本のブランド、特に日本酒、和菓子、高級アパレルといった伝統的な高級品分野では、 heritage（遺産）、craftsmanship（職人技）、そしてより広範な層や既存の富裕層に訴求する憧れのライフスタイルという物語に重点を置く傾向がある。",
+        "このアプローチの違いは、部分的に文化的背景に起因する。日本では、若年層の高級品消費は、個人的な節目における高額なスピリッツの直接購入というよりも、限定コラボレーション、ストリートウェア、あるいはハイテクガジェットといった形で現れるかもしれない。さらに、日本の高級ブランドのメディアバイイングパターンは、ゴールデンタイムのTVCMや高級誌といった伝統的なリーチ重視のプラットフォームと、ブランドストーリーテリングやEC連携に焦点を当てたデジタル戦略を組み合わせることが多い。特定の若年層をソーシャルプラットフォーム経由で明確なオケージョンベースでターゲティングするケースはまだ少ない。",
+        "東京のマーケターにとって、ここでの教訓は、マッカランの戦略をそのまま模倣することではなく、日本の若年層消費者の裁量支出の背後にある微妙な動機を批判的に評価することにある。「特別な日の贅沢」は、高級ウイスキーを意味するのか、それとも高級おまかせディナーや限定版スニーカーを意味するのか。これらの文化的ニュアンスを理解することが重要だ。グローバルなトレンドがZ世代の影響力の増大を示唆している一方で、魅力をローカライズし、彼らが高級品として価値を置く「実際の」製品カテゴリーや機会を特定することが、電通や博報堂のようなブランドや代理店にとっての中核的な課題であり続けるだろう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Macallan targets Gen Z for luxury occasion spending.",
+        "ja": "マッカランがZ世代の贅沢消費を狙う。"
+      },
+      "whoForWhat": {
+        "en": "For a brand manager at a premium consumer goods company or a media planner crafting luxury sector briefs, this outlines a strategic shift in targeting younger demographics for high-value purchases, challenging conventional wisdom on luxury consumer acquisition.",
+        "ja": "高級消費財のブランドマネージャーや、ラグジュアリー分野のブリーフ作成に携わるメディアプランナー向け。従来の高級品消費者獲得の常識を覆し、若年層を高価値購買層としてターゲットにする戦略的転換を示す。"
+      },
+      "vsJapanPlay": {
+        "en": "This differs from typical Japanese luxury brand plays, which often emphasize heritage and aspirational figures for an older demographic, by explicitly seeking out younger consumers for specific, high-ticket celebratory moments, a segment less overtly pursued in Japan's premium alcohol market.",
+        "ja": "日本の高級ブランドの多くが、より年長の層に伝統や憧れのライフスタイルを訴求するのに対し、マッカランはZ世代の「特別な日の贅沢」に特化してアプローチ。日本の高級アルコール市場では、この明確な若年層ターゲティングはまだ一般的ではない点で異なる。"
+      },
+      "tokyoTake": {
+        "en": "While Tokyo's premium alcohol market is robust, the explicit targeting of Gen Z for 'splurge' occasions is less common; Japanese brands often prefer broader aspirational campaigns or direct appeals to established wealth.",
+        "ja": "東京の高級アルコール市場は堅調だが、Z世代の「贅沢消費」にここまで明示的に焦点を当てる動きは少ない。日本のブランドは、より広範な憧れを喚起するキャンペーンや、既存の富裕層への直接的なアピールを選ぶ傾向がある。"
+      }
+    },
+    "source": {
+      "name": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/the-macallan-latches-on-to-gen-zs-zeal-for-special-occasion-splurges/822940/"
+    },
+    "sourceGuid": "https://www.marketingdive.com/news/the-macallan-latches-on-to-gen-zs-zeal-for-special-occasion-splurges/822940/",
+    "status": "published"
+  },
+  {
+    "slug": "ai-output-quality-requires-organizational-strategy-not-just-prompts",
+    "category": "adtech",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-16T12:02:00.000Z",
+    "readingMinutes": 5,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
+    },
+    "title": {
+      "en": "AI Output Quality Requires Organizational Strategy, Not Just Prompts",
+      "ja": "AI成果物の品質はプロンプトでなく組織戦略が鍵"
+    },
+    "dek": {
+      "en": "Organizations struggle with managing generative AI's low-quality output. The issue is systemic, not merely about individual prompting skill.",
+      "ja": "生成AIの低品質な成果物管理に組織が苦慮している。問題は個別スキルではなく、システム的なものだ。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, June 16, 2026",
+      "ja": "東京, 2026年6月16日"
+    },
+    "tags": [
+      {
+        "en": "AI",
+        "ja": "AI"
+      },
+      {
+        "en": "Generative AI",
+        "ja": "生成AI"
+      },
+      {
+        "en": "Marketing Operations",
+        "ja": "マーケティングオペレーション"
+      },
+      {
+        "en": "Brand Consistency",
+        "ja": "ブランド一貫性"
+      }
+    ],
+    "body": {
+      "en": [
+        "MarTech.org recently addressed a critical challenge facing organizations adopting generative AI: the proliferation of \"AI workslop.\" This term describes the volume of low-quality, undifferentiated content generated by AI tools without adequate strategic oversight. The core argument is that simply refining individual prompts will not resolve this systemic issue.",
+        "The problem extends beyond the initial prompt. Many teams are finding that while AI can quickly produce content drafts, these outputs often lack brand voice consistency, strategic depth, or genuine insight. This leads to wasted time in editing, re-briefing, or discarding AI-generated material, negating much of the efficiency gain promised by these tools.",
+        "While solutions like prompt libraries, structured training programs, and technical guardrails are useful, they primarily address the individual user's interaction with AI. They improve the *input* quality but do not inherently solve the *output management* challenge across an entire marketing department or agency. The true bottleneck is the organizational flow of AI-generated knowledge.",
+        "The dispatch points to a deeper operational flaw: the absence of clear processes for integrating AI outputs into existing creative, approval, and distribution workflows. Without defined roles for AI-generated content, quality control mechanisms, and a centralized strategy for its deployment, organizations risk diluting their brand messaging and investing resources in managing rather than leveraging AI.",
+        "This situation mirrors previous technological shifts where initial excitement about new tools outpaced the development of robust operational frameworks. Marketers are now confronting the need to move beyond experimental AI use to establishing enterprise-level governance that ensures AI outputs align with strategic objectives and brand standards.",
+        "For marketers, this means shifting focus from individual prompt optimization to developing comprehensive AI integration strategies. It requires establishing new internal guidelines, investing in cross-functional training that covers more than just prompt engineering, and designing workflows that treat AI outputs as raw material requiring significant human curation and strategic alignment.",
+        "> \"The bigger problem is how AI knowledge moves through your organization.\" This statement underscores the need for a holistic approach, where AI is viewed as an integral part of the operational fabric, not just a tool for individual task automation."
+      ],
+      "ja": [
+        "MarTech.orgは最近、生成AIを導入する組織が直面する重要な課題、「AI workslop」（AIによる雑多な成果物）の増大について論じた。これは、戦略的な監督なしにAIツールが生成する、低品質で画一的なコンテンツの量を指す。記事の核心は、個々のプロンプトを洗練するだけでは、このシステム的な問題は解決しないという点にある。",
+        "問題は最初のプロンプト作成にとどまらない。多くのチームは、AIがコンテンツのドラフトを迅速に生成できる一方で、それらの成果物がブランドボイスの一貫性、戦略的深さ、あるいは真の洞察を欠くことが多いと認識している。これにより、AI生成物の編集、再指示、あるいは破棄に時間が費やされ、ツールの導入が約束した効率性の多くが相殺されている。",
+        "プロンプトライブラリ、構造化されたトレーニングプログラム、技術的なガードレールといったソリューションは有用だが、これらは主に個々のユーザーとAIの相互作用を改善するものだ。これらは入力の質を高めるが、マーケティング部門全体や代理店全体での出力管理の課題を本質的に解決するものではない。真のボトルネックは、AIが生成した知識の組織内での流通方法にある。",
+        "この記事は、AIの成果物を既存のクリエイティブ、承認、配信ワークフローに統合するための明確なプロセスが欠如しているという、より深い運用上の欠陥を指摘している。AI生成コンテンツの役割、品質管理メカニズム、展開のための集中戦略が定義されていなければ、組織はブランドメッセージを希薄化させ、AIを「活用する」よりも「管理する」ことにリソースを費やすリスクを冒すことになる。",
+        "この状況は、過去の技術変革期において、新しいツールへの初期の熱狂が堅牢な運用フレームワークの開発を上回った状況と似ている。マーケターは今、実験的なAI利用から、戦略目標やブランド基準にAIの成果物が確実に合致するような、企業レベルのガバナンスを確立する必要性に直面している。",
+        "マーケターにとって、これは個々のプロンプト最適化から、包括的なAI統合戦略の開発へと焦点を移すことを意味する。新しい社内ガイドラインの確立、プロンプトエンジニアリングだけでなく、より広範な領域をカバーする部門横断的なトレーニングへの投資、そしてAIの成果物を人間のキュレーションと戦略的整合性を必要とする「生素材」として扱うワークフローの設計が求められる。",
+        "> 「より大きな問題は、AI知識が組織内でどのように流通するかである。」この指摘は、AIを単なる個別タスク自動化ツールとしてではなく、組織の運用基盤の不可欠な一部として捉える、全体的なアプローチの必要性を強調している。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Japanese corporations, particularly large established firms (JTCs), often approach new technology with a strong emphasis on process and consensus-building. While this can sometimes slow adoption, it presents a potential advantage when it comes to managing \"AI workslop.\" Rather than individual teams experimenting in silos, a top-down, structured approach to AI governance — defining how AI outputs integrate into existing approval flows, brand guidelines, and legal reviews — could mitigate the very issues MarTech.org highlights.",
+        "However, the challenge for Tokyo marketers lies in moving beyond the initial excitement of \"AI tools\" to the more complex task of \"AI operationalization.\" Many Japanese agencies (電通, 博報堂, CyberAgent) are actively promoting AI integration, but often the focus remains on specific tools or prompt techniques. The broader conversation about enterprise-wide AI content strategy and workflow re-engineering is still nascent.",
+        "For a Tokyo marketer, the takeaway is clear: simply buying licenses for generative AI tools or sending teams to prompt engineering workshops is insufficient. The next quarter's focus should be on internal audits of AI output quality, establishing clear brand voice guidelines for AI-generated content, and designing a formal review process for all AI-assisted marketing materials. This shift from individual skill to organizational structure is where true efficiency and brand integrity will be found."
+      ],
+      "ja": [
+        "日本企業、特に大企業（JTC）は、新しい技術導入においてプロセスと合意形成を重視する傾向がある。これは時に導入速度を遅らせる要因となるが、「AI workslop」の管理においては潜在的な強みとなる可能性がある。個々のチームがサイロで実験するのではなく、AIの成果物を既存の承認フロー、ブランドガイドライン、法務レビューに統合する方法を定義する、トップダウンで構造化されたAIガバナンスのアプローチは、MarTech.orgが指摘する問題そのものを軽減できるかもしれない。",
+        "しかし、東京のマーケターにとっての課題は、「AIツール」の初期の興奮から、「AIの運用化」というより複雑なタスクへと意識を移行させることにある。多くの日本の代理店（電通、博報堂、サイバーエージェント）はAI統合を積極的に推進しているが、その焦点は依然として特定のツールやプロンプト技術に留まることが多い。企業全体のAIコンテンツ戦略やワークフロー再構築に関するより広範な議論は、まだ始まったばかりだ。",
+        "東京のマーケターにとっての教訓は明確だ。生成AIツールのライセンスを購入したり、チームをプロンプトエンジニアリングの研修に送るだけでは不十分である。次の四半期は、AI成果物の品質に関する内部監査、AI生成コンテンツに対する明確なブランドボイスガイドラインの確立、そしてAIが支援する全てのマーケティング資料に対する正式なレビュープロセスの設計に焦点を当てるべきだ。個々のスキルから組織構造へのこの転換こそが、真の効率性とブランドの整合性をもたらすだろう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "AI output needs organizational strategy, not just better prompts.",
+        "ja": "AI成果物には組織戦略が必要、プロンプトだけではない。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo-based marketing operations lead or a CMO at a JTC struggling to integrate generative AI tools effectively across their teams and maintain brand consistency.",
+        "ja": "生成AIツールをチーム全体で効果的に統合し、ブランド一貫性を維持することに苦慮している、東京を拠点とするマーケティングオペレーション責任者や日系企業のCMO向け。"
+      },
+      "vsJapanPlay": {
+        "en": "Unlike the typical focus on individual prompt engineering seminars offered by Japanese agencies or tech vendors, this highlights the need for a broader organizational framework, akin to implementing a new CDP or DAM system, rather than just a tool.",
+        "ja": "国内の代理店やテクノロジーベンダーが提供する個別のプロンプトエンジニアリングセミナーとは異なり、この記事は、新しいCDPやDAMシステムを導入するような、より広範な組織的フレームワークの必要性を強調する。"
+      },
+      "tokyoTake": {
+        "en": "Japanese companies, particularly JTCs, often prioritize process and consensus. This inherent structure could be an advantage in developing robust AI governance, but only if they move beyond tool adoption to systemic workflow integration.",
+        "ja": "日本企業、特に大企業は、プロセスと合意形成を重視する傾向がある。この構造は、堅牢なAIガバナンスを構築する上で有利に働く可能性があるが、それはツール導入からシステム的なワークフロー統合へと意識が転換した場合に限られるだろう。"
+      }
+    },
+    "source": {
+      "name": "MarTech.org",
+      "url": "https://martech.org/better-prompts-wont-fix-your-workslop-problem/"
+    },
+    "sourceGuid": "https://martech.org/?p=410217",
+    "status": "published"
+  },
+  {
+    "slug": "electronic-arts-builds-in-house-ad-server-for-direct-monetization",
+    "category": "adtech",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-16T04:01:00.000Z",
+    "readingMinutes": 5,
+    "feature": false,
+    "cover": {
+      "src": "https://digiday.com/wp-content/uploads/sites/3/2025/06/Copy-of-gaming-owned-business-digiday-1.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Electronic Arts Builds In-House Ad Server for Direct Monetization",
+      "ja": "Electronic Arts、自社広告サーバーを構築し、ゲーム内広告の直接販売を強化"
+    },
+    "dek": {
+      "en": "Video game giant EA is moving to a direct-to-brand model for its extensive in-game advertising inventory, aiming for greater control and higher yield.",
+      "ja": "ゲーム大手EAが、広範なゲーム内広告在庫についてブランドへの直接販売モデルに移行。広告収益の最大化と在庫管理の強化を目指す。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "Ad Tech",
+        "ja": "アドテク"
+      },
+      {
+        "en": "Gaming",
+        "ja": "ゲーム"
+      },
+      {
+        "en": "Programmatic",
+        "ja": "プログラマティック"
+      },
+      {
+        "en": "First-Party Data",
+        "ja": "ファーストパーティデータ"
+      }
+    ],
+    "body": {
+      "en": [
+        "Electronic Arts (EA) has developed and launched its own proprietary ad server, signaling a strategic shift to directly monetize its vast in-game advertising inventory. This move positions the video game publisher to bypass third-party ad technology vendors, taking full control over ad delivery, data, and direct sales relationships with brands.",
+        "The decision reflects a broader industry trend where major publishers and content owners are internalizing their ad technology stacks. By owning the ad server, EA can optimize yield, offer more sophisticated targeting capabilities leveraging its first-party player data, and provide advertisers with greater transparency into campaign performance within its popular titles like FIFA, Madden NFL, and F1.",
+        "This initiative allows EA to sell ad placements directly to brands, circumventing the traditional agency trading desk model that often involves multiple intermediaries. It also enables more granular control over ad formats and placement, potentially opening avenues for deeper integration of brand messages that feel native to the gaming experience, rather than intrusive banner ads.",
+        "The scale of EA's audience provides significant leverage. With millions of active players across its sports simulations and action titles, the company represents a substantial reach for advertisers looking to engage a global, often young, demographic. The direct model promises to deliver higher revenue per impression by cutting out the ad tech 'tax' typically paid to third-party platforms.",
+        "EA's strategy mirrors the evolution seen in retail media networks (RMNs), where retailers like Amazon and Walmart built their own ad platforms to monetize first-party customer data and on-site inventory. Gaming companies are increasingly recognizing the value of their captive audiences and the data generated from player interactions. This is a play for margin and control, not just scale.",
+        "> \"They want to control their own destiny,\" one executive noted.",
+        "What comes next for EA will be the challenge of scaling direct sales operations to match the demand for its inventory, and proving the efficacy of its first-party data targeting to advertisers. For brands, this could mean more direct access to specific gaming audiences, but also potentially a more complex buying process if it necessitates negotiating with individual publishers rather than consolidated platforms."
+      ],
+      "ja": [
+        "Electronic Arts（EA）は、自社開発の広告サーバーを稼働させ、膨大なゲーム内広告在庫を直接収益化する戦略的転換を図っている。この動きは、サードパーティの広告テクノロジーベンダーを介さず、広告配信、データ管理、そしてブランドとの直接販売関係を完全に自社でコントロールすることを目指すものだ。",
+        "この決定は、主要なパブリッシャーやコンテンツ所有者が自社の広告テクノロジー基盤を内製化するという、業界全体の広範なトレンドを反映している。自社で広告サーバーを保有することで、EAは収益を最適化し、FIFA、Madden NFL、F1といった人気タイトルにおけるプレイヤーのファーストパーティデータを活用した、より洗練されたターゲティング機能を提供できるようになる。これにより、広告主はキャンペーンパフォーマンスに対する透明性を高めることが可能となる。",
+        "この取り組みにより、EAは広告枠をブランドに直接販売できるようになり、複数の仲介業者を介する従来の広告代理店のトレーディングデスクモデルを回避する。また、広告フォーマットや配置に対するより詳細な制御が可能となり、単なる邪魔なバナー広告ではなく、ゲーム体験に自然に溶け込むブランドメッセージの深い統合への道を開く可能性もある。",
+        "EAのオーディエンス規模は、大きな影響力を持つ。スポーツシミュレーションやアクションゲームの数百万人のアクティブプレイヤーを抱える同社は、グローバルで、多くの場合若年層のターゲットにリーチしたい広告主にとって、重要な媒体となる。直接販売モデルは、サードパーティプラットフォームに支払われる広告テクノロジーの「税金」を削減することで、インプレッションあたりの収益を向上させることを目指す。",
+        "EAの戦略は、AmazonやWalmartのような小売業者がファーストパーティの顧客データと自社サイトの広告在庫を収益化するために独自の広告プラットフォームを構築した、リテールメディアネットワーク（RMN）の進化を反映している。ゲーム会社は、囲い込んだオーディエンスとプレイヤーのインタラクションから生成されるデータの価値をますます認識している。これは単なる規模の追求ではなく、マージンとコントロールを確保するための戦略である。",
+        "> 「彼らは自分たちの運命をコントロールしたいと考えている」とある幹部は述べている。",
+        "EAにとって次に課題となるのは、自社の広告在庫に対する需要に見合う直接販売体制の規模拡大、そしてファーストパーティデータターゲティングの有効性を広告主に証明することだろう。ブランドにとっては、特定のゲームオーディエンスに直接アクセスできる可能性が高まる一方で、統合されたプラットフォームではなく、個々のパブリッシャーと交渉する必要が生じる場合、購入プロセスがより複雑になる可能性も考えられる。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "For a Tokyo marketer, EA's move to an in-house ad server presents a fascinating, though not immediately actionable, case study. While Japan has a robust gaming market, the monetization strategies of major Japanese publishers (like Nintendo, Sony Interactive Entertainment, Square Enix, or mobile-first players like LINE Games) have traditionally leaned heavily on in-app purchases, gacha mechanics, or console/game sales, rather than extensive in-game advertising beyond basic mobile formats. The direct sales model for in-game advertising as envisioned by EA is less prevalent here.",
+        "The primary challenge for a Japanese marketer would be the scale and integration. While EA is a global giant, its Japan presence for direct ad sales might not yet match the reach or ease of buying through established local media platforms like LINE Ads, Yahoo! JAPAN Ads, or even through major agencies like Dentsu and Hakuhodo, which have deep relationships with publishers and their own proprietary ad solutions. Japanese agencies often act as a critical layer for navigating complex media landscapes, and a direct-to-publisher model would require significant investment in local sales teams and integration capabilities from EA.",
+        "Furthermore, consumer behavior around in-game ads differs. Japanese gamers, particularly in mobile, are accustomed to a different value exchange, often tolerating rewarded video ads for in-game currency but less receptive to intrusive brand messaging within core gameplay. Unless EA Japan can offer highly contextual, non-disruptive ad units that resonate with local tastes and integrate seamlessly into popular titles, a direct approach might face adoption hurdles. For now, this remains an interesting global trend to monitor, rather than a Q4 media planning shift for most Tokyo brands."
+      ],
+      "ja": [
+        "東京のマーケターにとって、EAの自社広告サーバー構築の動きは、すぐに実行に移せるものではないが、興味深いケーススタディとなる。日本には強固なゲーム市場があるものの、任天堂、ソニー・インタラクティブエンタテインメント、スクウェア・エニックス、あるいはLINE Gamesのようなモバイル中心のパブリッシャーの収益化戦略は、従来、基本的なモバイルフォーマット以外のゲーム内広告よりも、アプリ内課金、ガチャ、またはコンソール/ゲーム販売に大きく依存してきた。EAが構想するようなゲーム内広告の直接販売モデルは、日本ではまだそれほど一般的ではない。",
+        "日本のマーケターにとっての主な課題は、規模と統合性だろう。EAはグローバルな大手だが、日本での直接広告販売のプレゼンスは、LINE広告、Yahoo! JAPAN広告、あるいはパブリッシャーとの深い関係を持つ電通や博報堂といった大手広告代理店を通じて購入する際のリーチや容易さにはまだ及ばないかもしれない。日本の広告代理店は、複雑なメディア環境をナビゲートする上で重要な役割を果たすため、パブリッシャーへの直接販売モデルは、EAが日本でローカルセールスチームと統合機能を大幅に強化する必要があるだろう。",
+        "さらに、ゲーム内広告に対する消費者の行動も異なる。日本のゲーマー、特にモバイルでは、ゲーム内通貨のためのリワード動画広告には慣れているが、コアなゲームプレイ中に割り込むようなブランドメッセージにはあまり抵抗がある場合が多い。EAジャパンが、日本の嗜好に合致し、人気タイトルにシームレスに統合される、非常に文脈に即した、邪魔にならない広告ユニットを提供できない限り、直接アプローチは導入の障壁に直面する可能性がある。現時点では、これは東京の多くのブランドにとって、Q4のメディアプランニングを変えるものではなく、注視すべき興味深いグローバルトレンドに留まるだろう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "EA builds direct ad server for in-game inventory.",
+        "ja": "EA、ゲーム内広告を自社サーバーで直販。"
+      },
+      "whoForWhat": {
+        "en": "For media planners at agencies or in-house marketers targeting gaming audiences, this signals a shift in how premium in-game inventory might be bought directly from publishers.",
+        "ja": "ゲームオーディエンスをターゲットとする代理店のメディアプランナーやインハウスマーケターにとって、ゲーム内広告在庫をパブリッシャーから直接購入する動向を示唆する。"
+      },
+      "vsJapanPlay": {
+        "en": "This contrasts with the prevalent model in Japan where mobile game advertising is often brokered through large agencies like CyberAgent or ad platforms like LINE Ads, rather than direct publisher-side ad serving.",
+        "ja": "日本のモバイルゲーム広告がサイバーエージェントのような大手代理店やLINE広告のようなプラットフォームを介することが多いのに対し、パブリッシャー側の自社広告サーバーによる直接販売とは異なる。"
+      },
+      "tokyoTake": {
+        "en": "While a logical move for EA globally, the Japanese market's unique game monetization (gacha, IAP) and agency-centric media buying mean this direct model is unlikely to immediately alter how Tokyo marketers plan or buy media this quarter.",
+        "ja": "EAにとってグローバルでは理にかなった動きだが、日本の独自のゲーム収益化モデル（ガチャ、IAP）と代理店中心のメディアバイイング環境を鑑みると、この直接モデルが東京のマーケターのメディアプランニングや購入方法を今期すぐに変える可能性は低い。"
+      }
+    },
+    "source": {
+      "name": "Digiday",
+      "url": "https://digiday.com/media-buying/electronic-arts-has-built-its-own-ad-server-in-a-renewed-push-for-ad-dollars/?utm_campaign=digidaydis&#038;utm_medium=rss&#038;utm_source=general-rss"
+    },
+    "sourceGuid": "https://digiday.com/?p=606414",
+    "status": "published"
+  },
+  {
+    "slug": "ais-data-mandate-accuracy-trumps-scale-for-marketers",
+    "category": "adtech",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-16T12:30:00.000Z",
+    "readingMinutes": 5,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
+    },
+    "title": {
+      "en": "AI's Data Mandate: Accuracy Trumps Scale for Marketers",
+      "ja": "AI時代のデータ戦略：マーケターが求める「データ量」から「精度」への転換"
+    },
+    "dek": {
+      "en": "As AI integrates deeper into marketing, Epsilon's Gillian MacPherson argues that the quality and relevance of data now outweigh sheer volume, fundamentally altering data investment priorities.",
+      "ja": "AIがマーケティングに深く浸透するにつれ、EpsilonのGillian MacPhersonは、データ投資の優先順位が量から質と関連性へと根本的に変化していると指摘する。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "adtech",
+        "ja": "アドテク"
+      },
+      {
+        "en": "data strategy",
+        "ja": "データ戦略"
+      },
+      {
+        "en": "AI in marketing",
+        "ja": "マーケティングAI"
+      },
+      {
+        "en": "CDP",
+        "ja": "CDP"
+      }
+    ],
+    "body": {
+      "en": [
+        "EpsilonのGillian MacPhersonは最近、AIがキャンペーン実行に深く統合される中で、マーケティングデータ戦略における重要な転換点、すなわち「量の多さよりもデータの精度が重要である」という点を強調した。",
+        "The argument posits that while large datasets were once the goal, AI systems, when fed inaccurate or irrelevant information, do not merely underperform; they amplify errors at scale. This necessitates a re-evaluation of data acquisition and hygiene practices, shifting focus from accumulation to curation.",
+        "For marketers, the challenge is no longer just collecting as much data as possible, but ensuring its recency, relevance, and provenance. Generic third-party segments, for example, may introduce more noise than signal into AI models designed for precise targeting or personalization. The implications extend to how data is sourced, stored, and prepared for algorithmic consumption.",
+        "This perspective pushes beyond traditional data management platforms (DMPs) towards robust customer data platforms (CDPs) that can unify and cleanse first-party data. The goal is to ensure the inputs for AI-driven creative optimization, media buying, and audience segmentation are clean enough to yield meaningful outputs, rather than propagating biases or inefficiencies.",
+        "The shift also implies a reallocation of resources. Instead of chasing ever-larger data lakes, brands may need to invest more in data governance, validation tools, and the specialized personnel capable of ensuring data quality. This is not a new concept; data scientists have long warned against \"garbage in, garbage out.\"",
+        "> In an automated world, bad data not only misleads marketing teams but also accelerates mistakes.",
+        "However, AI's acceleration capabilities make the consequences of poor data more immediate and impactful for marketing outcomes. The implication is a move towards more deliberate, quality-controlled data strategies, emphasizing first-party relationships and transparent data sourcing as foundational elements for effective AI integration."
+      ],
+      "ja": [
+        "EpsilonのGillian MacPhersonは最近、AIがキャンペーン実行に深く統合される中で、マーケティングデータ戦略における重要な転換点、すなわち「量の多さよりもデータの精度が重要である」という点を強調した。",
+        "この主張は、かつては大規模なデータセットが目標とされていたものの、不正確または無関係な情報がAIシステムに供給されると、単にパフォーマンスが低下するだけでなく、エラーが大規模に増幅されるというものだ。これにより、データ収集とデータ衛生の慣行を再評価する必要が生じ、データ蓄積からキュレーションへの焦点を移すことが求められる。",
+        "マーケターにとっての課題は、もはや可能な限り多くのデータを集めることではなく、データの鮮度、関連性、そして出所（プロベナンス）を確保することに移った。例えば、一般的なサードパーティセグメントは、正確なターゲティングやパーソナライゼーションのために設計されたAIモデルに、シグナルよりも多くのノイズをもたらす可能性がある。この影響は、データがどのように収集され、保存され、アルゴリズムが利用できるよう準備されるかにまで及ぶ。",
+        "この視点は、従来のDMP（データ管理プラットフォーム）を超え、ファーストパーティデータを統合し、クレンジングできる堅牢なCDP（カスタマーデータプラットフォーム）の重要性を高める。AI駆動のクリエイティブ最適化、メディアバイイング、オーディエンスセグメンテーションへの入力が、偏りや非効率性を増幅させることなく、意味のある出力を生み出すのに十分な精度であることを保証することが目標となる。",
+        "この変化は、リソースの再配分も示唆する。より大きなデータレイクを追い求めるのではなく、ブランドはデータガバナンス、検証ツール、そしてデータ品質を確保できる専門人材への投資を増やす必要があるかもしれない。これは新しい概念ではない。データサイエンティストは「ゴミを入れればゴミが出る（garbage in, garbage out）」と長年警告してきた。",
+        "「自動化された世界では、不正確なデータはマーケティングチームを誤解させるだけでなく、間違いを加速させる。」",
+        "しかし、AIの加速能力は、劣悪なデータがマーケティング成果に与える影響をより即座に、より大きくするものだ。このことは、より意図的で品質管理されたデータ戦略への移行を意味し、効果的なAI統合の基盤として、ファーストパーティとの関係と透明性のあるデータソースの確保を重視する。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Japan's data landscape presents a unique context for this shift. Many large Japanese corporations (JTCs) possess rich, often siloed, first-party customer data through their extensive loyalty programs, e-commerce operations, and direct customer interactions. The challenge for these entities is not necessarily data acquisition volume, but rather the internal integration, cleansing, and validation of these diverse datasets to meet AI's stringent accuracy demands.",
+        "For agencies like Dentsu and Hakuhodo, which manage vast pools of client data and proprietary insights, the emphasis on data accuracy means a heightened focus on the provenance and ongoing quality control of their aggregated datasets. Investment in advanced data science capabilities, data governance frameworks, and AI-ready data pipelines will become even more critical to maintain their competitive edge and deliver effective AI-driven campaigns for clients.",
+        "Smaller Japanese brands or those heavily reliant on broad third-party segments for media buying will find this shift a compelling argument to accelerate their first-party data strategies. This involves building direct customer relationships, implementing robust consent mechanisms, and investing in CDPs that can unify and activate high-quality, permission-based data. The Japanese consumer's strong privacy consciousness naturally aligns with a focus on quality, consent-driven data over indiscriminate scale, making this argument particularly resonant in the local market.",
+        "Ultimately, for a Tokyo marketer, this isn't just a theoretical debate; it's a call to action to audit their existing data infrastructure. It suggests that budgets previously allocated to simply expanding data pools might be better spent on data quality assurance, specialized data talent, and the tools that ensure AI is fed precise, relevant information. The goal is to prevent AI from amplifying local market nuances or consumer behaviors into costly misfires, ensuring campaigns are not just automated but intelligently informed."
+      ],
+      "ja": [
+        "日本のデータ環境は、この変化に対して独特の文脈を提供する。多くの大手日本企業（JTC）は、広範なロイヤルティプログラム、Eコマース運営、直接的な顧客接点を通じて、豊富で時にサイロ化されたファーストパーティ顧客データを保有している。これらの企業にとっての課題は、必ずしもデータ収集量ではなく、AIの厳格な精度要求を満たすための、これらの多様なデータセットの内部統合、クレンジング、および検証にある。",
+        "電通や博報堂のような、膨大なクライアントデータと独自のインサイトプールを管理する代理店にとって、データ精度への重点は、集約されたデータセットの出所と継続的な品質管理に一層の注意を払うことを意味する。高度なデータサイエンス能力、データガバナンスフレームワーク、そしてAI対応のデータパイプラインへの投資は、競争力を維持し、クライアントに効果的なAI駆動型キャンペーンを提供するために、これまで以上に重要となるだろう。",
+        "中小規模の日本ブランドや、メディアバイイングにおいて広範なサードパーティセグメントに大きく依存してきた企業は、この変化をファーストパーティデータ戦略を加速させる説得力のある根拠と捉えるだろう。これには、顧客との直接的な関係構築、堅牢な同意メカニズムの導入、そして高品質で同意に基づいたデータを統合・活用できるCDPへの投資が含まれる。日本の消費者の高いプライバシー意識は、無差別のデータ規模よりも、質と同意に基づいたデータに焦点を当てることと自然に合致し、この議論を特にローカル市場で響かせる可能性がある。",
+        "結局のところ、東京のマーケターにとって、これは単なる理論的な議論ではない。既存のデータインフラを監査するための行動要請である。データプールを単に拡大することに以前割り当てられていた予算は、データ品質保証、専門的なデータ人材、そしてAIに正確で関連性の高い情報が供給されることを確実にするツールに費やすべきだと示唆している。目標は、AIがローカル市場のニュアンスや消費者の行動を増幅させて高価な失敗につながるのを防ぎ、キャンペーンが単に自動化されるだけでなく、インテリジェントに情報に基づいて実行されるようにすることだ。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "AI's data mandate: accuracy trumps scale.",
+        "ja": "AI時代のデータ戦略：量は質に劣る。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo-based adtech lead or brand manager evaluating their data infrastructure, this clarifies the shift from quantity to quality in data assets, influencing CDP investments and data governance budgets this quarter.",
+        "ja": "データインフラを評価する東京のAdtech責任者やブランドマネージャー向け。今四半期のCDP投資やデータガバナンス予算において、データ資産が量から質へ転換する方向性を明確にする。"
+      },
+      "vsJapanPlay": {
+        "en": "This challenges the traditional \"bigger data lake\" approach often seen in some agency-led data initiatives, pushing towards more rigorous first-party data cleansing akin to advanced CDP implementations by domestic players like KARTE or Treasure Data.",
+        "ja": "一部の代理店主導の「ビッグデータレイク」戦略に一石を投じ、KARTEやTreasure Dataのような国内CDPベンダーが進めるような、より厳格なファーストパーティデータクレンジングの重要性を強調する。"
+      },
+      "tokyoTake": {
+        "en": "While Japanese companies often have rich first-party data, the rigor of AI-ready data validation is a new frontier. This means investing in data scientists and governance, not just data collection, to ensure AI models built for the Japan market don't amplify local market nuances into costly errors.",
+        "ja": "日本企業は豊富なファーストパーティデータを保有する一方、AI対応のためのデータ検証の厳格さは新たな領域。単なるデータ収集だけでなく、データサイエンティストとガバナンスへの投資が求められ、日本市場向けAIモデルがローカルの機微を増幅させ、高価なエラーにつながらないよう注意が必要だ。"
+      }
+    },
+    "source": {
+      "name": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/why-data-accuracy-matters-more-than-data-scale-amid-the-rise-of-ai/821798/"
+    },
+    "sourceGuid": "https://www.marketingdive.com/news/why-data-accuracy-matters-more-than-data-scale-amid-the-rise-of-ai/821798/",
+    "status": "published"
+  },
+  {
     "slug": "aura-cola-pioneers-immersive-brand-experience-on-cosmoplane",
     "category": "creative",
     "issue": "Vol. 01",
