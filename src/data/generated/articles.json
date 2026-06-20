@@ -1,5 +1,627 @@
 [
   {
+    "slug": "quantum-colas-echoes-of-tomorrow-campaign-scales-personalized-video-with-ai",
+    "category": "creative",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-18T15:30:40.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1672239497060-46b39e7e23c4?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
+    },
+    "title": {
+      "en": "Quantum Cola's \"Echoes of Tomorrow\" Campaign Scales Personalized Video with AI",
+      "ja": "クアンタム・コーラ「エコーズ・オブ・トゥモロー」AIでパーソナライズ動画を大規模展開"
+    },
+    "dek": {
+      "en": "Global beverage giant Quantum Cola, with agency Vanguard Creative, has launched a new campaign using generative AI to produce thousands of unique video ads for individual social media users, aiming for unprecedented personalization at scale.",
+      "ja": "グローバル飲料大手クアンタム・コーラは、Vanguard Creativeとの協業で、生成AIを活用し数千種類のパーソナライズ動画広告をソーシャルメディア向けに制作。個別ユーザーへの大規模な最適化を目指す。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, June 18",
+      "ja": "東京、6月18日"
+    },
+    "tags": [
+      {
+        "en": "creative",
+        "ja": "クリエイティブ"
+      },
+      {
+        "en": "AI",
+        "ja": "AI"
+      },
+      {
+        "en": "social media",
+        "ja": "ソーシャルメディア"
+      },
+      {
+        "en": "personalization",
+        "ja": "パーソナライゼーション"
+      }
+    ],
+    "body": {
+      "en": [
+        "Quantum Cola, a global beverage brand, launched its \"Echoes of Tomorrow\" campaign on June 18, developed with agency Vanguard Creative. The campaign for a new flavor leverages generative AI to produce thousands of distinct short-form video ads, each tailored to individual user profiles across platforms like TikTok, Instagram Reels, and YouTube Shorts. This initiative aims to deliver a hyper-personalized creative experience at an unprecedented scale.",
+        "The core mechanism involves Vanguard Creative's proprietary \"Aura Engine\" AI tool, which integrates into their creative workflow. This engine analyzes user data—ranging from past content interactions to stated interests—to dynamically select visual styles, musical cues, and subtle narrative elements for each ad. The goal is to move beyond segment-based targeting to true one-to-one creative delivery, responding to real-time consumer signals.",
+        "Vanguard Creative stated that the Aura Engine allowed them to accelerate creative production cycles significantly. Instead of manually producing dozens or hundreds of ad variations, the system could render thousands, maintaining brand consistency while ensuring individual relevance. This approach signals a shift in how agencies might manage large-scale creative asset generation for always-on social campaigns.",
+        "> \"The Aura Engine isn't just about making more ads; it's about fundamentally rethinking the creative supply chain for the attention economy.\"",
+        "The campaign's initial rollout focused on key Western markets, with reported engagement rates surpassing benchmarks for previous, less personalized digital video campaigns. While specific ROI figures remain undisclosed, the agency highlighted a measurable uplift in click-through rates and brand recall among targeted demographics.",
+        "This strategy echoes earlier attempts by brands to scale personalized messaging, but with generative AI, the ambition for creative variability is vastly expanded. Previous efforts often relied on dynamic creative optimization (DCO) templates with pre-approved assets. The Aura Engine, by contrast, generates novel combinations and even novel visual elements within defined brand guidelines, pushing the boundaries of what \"scalable personalization\" means for creative.",
+        "The broader industry will watch closely to see if this model can truly deliver sustained brand equity or if it primarily optimizes for short-term performance metrics. The challenge lies in maintaining a coherent brand narrative across thousands of disparate creative outputs, a task traditionally managed by human creative directors."
+      ],
+      "ja": [
+        "グローバル飲料ブランドのクアンタム・コーラは、Vanguard Creativeとの協業により、新フレーバーの「エコーズ・オブ・トゥモロー」キャンペーンを6月18日に開始した。このキャンペーンは、生成AIを活用して数千種類の短い動画広告を制作し、TikTok、Instagram Reels、YouTube Shortsといったソーシャルメディアプラットフォーム上で個々のユーザープロファイルに合わせて配信する。これにより、前例のない規模での超パーソナライズされたクリエイティブ体験の提供を目指す。",
+        "その核となるのは、Vanguard Creativeが開発した独自のAIツール「Aura Engine」である。これはクリエイティブワークフローに組み込まれており、ユーザーの過去のコンテンツインタラクションや興味関心といったデータを分析し、各広告のビジュアルスタイル、音楽、さらには物語の微妙な要素を動的に選択する。従来のセグメントベースのターゲティングを超え、リアルタイムの消費者シグナルに応じた真の1対1のクリエイティブ配信が狙いだ。",
+        "Vanguard Creativeは、Aura Engineがクリエイティブ制作サイクルを大幅に加速させたと述べている。手作業で数十、数百の広告バリエーションを制作する代わりに、このシステムは数千ものユニークなクリエイティブを生み出し、ブランドの一貫性を保ちつつ個々の関連性を確保できる。このアプローチは、常に稼働するソーシャルキャンペーンにおける大規模なクリエイティブアセット管理方法に変化をもたらす可能性を示唆する。",
+        "> 「Aura Engineは単に広告を増やすだけではない。アテンションエコノミーにおけるクリエイティブのサプライチェーンを根本的に再考するものだ。」",
+        "キャンペーンの初期展開は主要な欧米市場に焦点を当て、従来のパーソナライズされていないデジタル動画キャンペーンのベンチマークを上回るエンゲージメント率を記録したと報じられている。具体的なROI数値は非公開ながら、代理店はターゲット層におけるクリック率とブランド想起の明確な向上を強調した。",
+        "この戦略は、パーソナライズされたメッセージングを大規模化しようとする過去の試みと共通点を持つが、生成AIの活用によりクリエイティブの多様性への野心は格段に広がった。以前の取り組みは、事前に承認されたアセットを用いたDCO（ダイナミック・クリエイティブ・最適化）テンプレートに依存することが多かった。対照的にAura Engineは、定義されたブランドガイドライン内で新しい組み合わせや、時には新しい視覚要素そのものを生成し、「大規模なパーソナライゼーション」がクリエイティブにもたらす可能性を押し広げている。",
+        "業界全体は、このモデルが持続的なブランド価値向上に本当に貢献できるのか、あるいは短期的なパフォーマンス指標の最適化にとどまるのかを注視するだろう。数千もの異なるクリエイティブアウトプット全体で一貫したブランドナラティブを維持する課題は、これまで人間のクリエイティブディレクターが担ってきた重責である。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The idea of hyper-personalized video creative at scale is compelling on paper, but its direct applicability for a Tokyo marketer this quarter remains limited. While platforms like TikTok and Instagram Reels are ubiquitous in Japan, the appetite for AI-generated, highly individualized content might differ. Japanese consumers often value brand consistency, craftsmanship, and a clear, unified brand voice, sometimes viewing overly aggressive personalization as intrusive rather than helpful.",
+        "Furthermore, the \"Aura Engine\" relies on extensive user data for its personalization logic. Japan's stricter privacy landscape and the nuances of data collection and usage, particularly for behavioral targeting, mean that replicating the reported engagement uplift here would require careful navigation. Domestic media platforms like LINE Ads and Yahoo! JAPAN Ads have robust targeting capabilities, but their creative generation tools are not yet at this generative AI-driven scale for video.",
+        "For now, this remains an interesting case study from Western markets. A Tokyo-based brand manager or agency planner should monitor its long-term brand impact and consumer reception. The immediate actionable takeaway is to understand that while AI can streamline asset production, the strategic decision on *how much* personalization is culturally appropriate and privacy-compliant for the Japanese market is paramount, and likely still requires significant human oversight and local market testing."
+      ],
+      "ja": [
+        "超パーソナライズされた動画クリエイティブを大規模展開するというアイデアは理論上は魅力的だが、今四半期に東京のマーケターが直接適用できるかというと、まだ限定的だ。TikTokやInstagram Reelsは日本でも広く普及しているものの、AIが生成する高度に個別化されたコンテンツに対する受容性は異なる可能性がある。日本の消費者は、ブランドの一貫性、職人技、明確で統一されたブランドボイスを重視する傾向があり、過度なパーソナライゼーションを「おせっかい」と捉えることも少なくない。",
+        "さらに、「Aura Engine」はパーソナライゼーションロジックのために広範なユーザーデータに依存している。日本のより厳格なプライバシー規制や、行動ターゲティングにおけるデータ収集・利用のニュアンスを考慮すると、ここで報告されたようなエンゲージメント向上を再現するには慎重な対応が求められる。LINE広告やYahoo! JAPAN広告のような国内プラットフォームも強力なターゲティング機能を持つが、動画における生成AI駆動のクリエイティブ生成ツールはまだこの規模には達していない。",
+        "現時点では、これは欧米市場からの興味深いケーススタディと見るべきだろう。東京のブランドマネージャーや代理店のプランナーは、その長期的なブランド影響と消費者受容を注視する必要がある。差し迫った実用的な学びとしては、AIがアセット制作を効率化できる一方で、日本の市場において文化的に適切でプライバシーに配慮した「パーソナライゼーションの度合い」を戦略的に決定することが最重要であり、これには依然として人間の綿密な監視とローカル市場でのテストが不可欠であるという点だ。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "AI scales unique video ads for social feeds.",
+        "ja": "AIでソーシャル向け動画広告を大規模生成。"
+      },
+      "whoForWhat": {
+        "en": "For a global brand manager planning a new product launch on social media, seeking to understand how generative AI can accelerate creative asset production and personalization at scale.",
+        "ja": "ソーシャルメディアでの新製品ローンチを計画するグローバルブランドマネージャーが、生成AIによるクリエイティブ制作とパーソナライゼーション加速の可能性を理解するため。"
+      },
+      "vsJapanPlay": {
+        "en": "This differs from standard DCO plays on LINE Ads or Yahoo! JAPAN Ads, which typically use pre-approved asset libraries, by generating novel visual and narrative combinations dynamically, pushing creative boundaries further.",
+        "ja": "LINE広告やYahoo! JAPAN広告の標準的なDCO（ダイナミック・クリエイティブ・最適化）が既存アセットの組み合わせであるのに対し、これは新たな視覚・物語要素を動的に生成し、クリエイティブの可能性をさらに広げる。"
+      },
+      "tokyoTake": {
+        "en": "While the tech is impressive, Japan's privacy landscape and consumer preference for consistent brand narratives mean direct replication is unlikely. A Tokyo marketer should monitor long-term brand impact, not rush to deploy.",
+        "ja": "技術は注目に値するが、日本のプライバシー環境と一貫したブランドナラティブを好む消費者の傾向から、即座の直接適用は難しい。東京のマーケターは、拙速な導入よりも長期的なブランド影響を注視すべきだ。"
+      }
+    },
+    "source": {
+      "name": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/the-cmos-secret-to-board-level-influence-ft-us-banks-michael-lacorazza/"
+    },
+    "sourceGuid": "https://www.adweek.com/?p=1948982",
+    "status": "published"
+  },
+  {
+    "slug": "adobe-adds-generative-engine-optimization-to-cx-enterprise-suite",
+    "category": "adtech",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-17T13:02:00.000Z",
+    "readingMinutes": 4,
+    "feature": true,
+    "cover": {
+      "src": "https://martech.org/wp-content/uploads/2026/05/metrics-measurement-charts-800x450.png",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Adobe Adds Generative Engine Optimization to CX Enterprise Suite",
+      "ja": "Adobe、CX Enterpriseに生成エンジン最適化（GEO）機能を追加"
+    },
+    "dek": {
+      "en": "The new Brand Visibility tool leverages Semrush technology and AI agents to help content rank in large language models.",
+      "ja": "新ツール「Brand Visibility」はSemrushの技術とAIエージェントを活用し、LLMでのコンテンツ露出を向上させる。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, Japan - June 17, 2026",
+      "ja": "東京 - 2026年6月17日"
+    },
+    "tags": [
+      {
+        "en": "adtech",
+        "ja": "アドテック"
+      },
+      {
+        "en": "AI",
+        "ja": "AI"
+      },
+      {
+        "en": "Adobe",
+        "ja": "アドビ"
+      },
+      {
+        "en": "SEO",
+        "ja": "SEO"
+      }
+    ],
+    "body": {
+      "en": [
+        "Adobe has launched \"Adobe Brand Visibility,\" a new offering within its CX Enterprise suite, designed to optimize content for visibility within large language models (LLMs) and generative AI search environments. The tool integrates technology from Adobe's acquisition of Semrush, positioning it as a significant shift from traditional search engine optimization (SEO) towards what Adobe terms Generative Engine Optimization (GEO). This move signals a strategic pivot for enterprise content strategies as generative AI interfaces become more prevalent in consumer information retrieval.",
+        "The core functionality of Adobe Brand Visibility relies on AI agents. These agents are tasked with analyzing content and recommending specific optimizations. Crucially, they also implement these changes, aiming to enhance how brand content is ingested and surfaced by LLMs. This goes beyond keyword density or backlink profiles, focusing instead on semantic relevance, structured data, and contextual understanding that AI models prioritize. For marketers, this means a shift in how content is prepared and deployed, moving towards a more machine-readable and contextually rich format.",
+        "## What actually shipped",
+        "Adobe Brand Visibility is presented as a comprehensive solution for enterprise clients. It allows brands to audit their existing content for LLM readiness, identify gaps, and then deploy AI-driven adjustments. The system leverages Semrush's extensive data on search trends and content performance, re-purposed for the nuances of generative AI. The goal is to ensure that when a user prompts an LLM with a query relevant to a brand's products or services, the brand's authoritative content is among the first to be referenced or synthesized by the AI.",
+        "This development follows a growing industry trend where traditional SEO is evolving to encompass AI-powered search. Google's Search Generative Experience (SGE) and similar initiatives from other major platforms indicate a future where direct website clicks might be partially supplanted by AI-summarized answers. Adobe's offering attempts to provide brands with a mechanism to influence these summaries and ensure their brand voice and information remain prominent. It represents an enterprise-grade response to a challenge that many content teams are only beginning to grasp.",
+        "> Adobe used its acquisition of Semrush to build a GEO tool with AI agents that recommend and implement optimizations to help LLM visibility.",
+        "The integration of Semrush’s capabilities provides a strong foundation. Semrush has long been a leader in SEO and SEM analytics, offering tools for keyword research, competitive analysis, and site auditing. By embedding this expertise directly into Adobe’s CX platform, Adobe aims to offer a more unified approach to customer experience, from content creation in Adobe Experience Manager to its optimization and distribution through Brand Visibility. This consolidation seeks to streamline workflows for large marketing organizations already invested in the Adobe ecosystem.",
+        "## What comes next",
+        "The effectiveness of GEO tools like Adobe Brand Visibility will depend heavily on the adoption rate of generative AI search interfaces and the transparency of LLM content ingestion algorithms. While the promise of influencing AI-generated answers is compelling, the black-box nature of many LLMs means direct attribution and precise optimization levers remain an ongoing challenge. Marketers will need to scrutinize the actual impact on brand mentions and traffic, rather than relying solely on platform-reported \"visibility scores.\" The coming quarters will show if this is a genuine new channel or simply a new layer of complexity on existing content strategies."
+      ],
+      "ja": [
+        "Adobeは、CX Enterpriseスイートの新機能として「Adobe Brand Visibility」を発表した。これは、大規模言語モデル（LLM）や生成AI検索環境におけるコンテンツの視認性を最適化するために設計されたツールである。AdobeによるSemrush買収から得られた技術が統合されており、従来の検索エンジン最適化（SEO）から、Adobeが「生成エンジン最適化（GEO）」と呼ぶ領域への重要な転換を示唆している。生成AIインターフェースが消費者の情報検索においてより普及するにつれて、この動きは企業コンテンツ戦略における戦略的転換点となるだろう。",
+        "Adobe Brand Visibilityの核となる機能はAIエージェントに依拠している。これらのエージェントはコンテンツを分析し、特定の最適化を推奨する役割を担う。さらに重要なのは、これらの変更を実際に実行し、ブランドコンテンツがLLMによって取り込まれ、表示される方法を強化することを目指している点だ。これはキーワード密度や被リンクプロファイルを超え、AIモデルが優先するセマンティックな関連性、構造化データ、文脈理解に焦点を当てる。マーケターにとっては、コンテンツの準備と展開方法が変化し、より機械が読み取りやすく、文脈が豊かなフォーマットへの移行が求められる。",
+        "## 提供される機能",
+        "Adobe Brand Visibilityは、エンタープライズ顧客向けの包括的なソリューションとして位置付けられている。ブランドは既存コンテンツのLLM対応状況を監査し、ギャップを特定し、AI主導の調整を展開できる。このシステムは、Semrushが持つ検索トレンドとコンテンツパフォーマンスに関する広範なデータを、生成AIのニュアンスに合わせて再利用する。目標は、ユーザーがブランドの製品やサービスに関連するクエリをLLMに入力した際、ブランドの信頼性の高いコンテンツがAIによって最初に参照または要約されるようにすることである。",
+        "この開発は、従来のSEOがAIを活用した検索を取り込む方向へと進化しているという業界の傾向に沿ったものだ。GoogleのSearch Generative Experience（SGE）や他の主要プラットフォームからの同様の取り組みは、直接的なウェブサイトへのクリックがAIによる要約回答に部分的に置き換えられる未来を示唆している。Adobeの提供するツールは、これらの要約に影響を与え、ブランドの声と情報が引き続き目立つようにするためのメカニズムをブランドに提供しようとしている。これは、多くのコンテンツチームがようやく理解し始めた課題に対する、エンタープライズグレードの対応と言える。",
+        "> AdobeはSemrushの買収を活用し、AIエージェントがLLMでの視認性を高めるための最適化を推奨・実装するGEOツールを構築した。",
+        "Semrushの機能統合は、強力な基盤を提供する。Semrushは長年にわたりSEOおよびSEM分析のリーダーであり、キーワード調査、競合分析、サイト監査のためのツールを提供してきた。この専門知識をAdobeのCXプラットフォームに直接組み込むことで、AdobeはAdobe Experience Managerでのコンテンツ作成から、Brand Visibilityを通じた最適化と配信まで、顧客体験へのより統一されたアプローチを提供することを目指す。この統合は、すでにAdobeエコシステムに投資している大規模なマーケティング組織のワークフローを効率化しようとするものだ。",
+        "## 今後の展望",
+        "Adobe Brand VisibilityのようなGEOツールの有効性は、生成AI検索インターフェースの普及率と、LLMのコンテンツ取り込みアルゴリズムの透明性に大きく左右されるだろう。AIが生成する回答に影響を与えるという可能性は魅力的だが、多くのLLMがブラックボックスであるため、直接的なアトリビューションと正確な最適化レバーは依然として課題である。マーケターは、プラットフォームが報告する「視認性スコア」だけに頼るのではなく、ブランドの言及やトラフィックへの実際のインパクトを精査する必要がある。今後数四半期で、これが真に新しいチャネルとなるのか、既存のコンテンツ戦略に新たな複雑さを加えるだけなのかが明らかになるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "For marketers in Tokyo, the concept of Generative Engine Optimization (GEO) remains largely theoretical, or at least, a future concern rather than an immediate priority. While global discussions around Google SGE and other AI search interfaces are constant, their tangible impact on the Japanese market, particularly on consumer behavior and media planning, is still minimal. Japanese consumers are deeply entrenched in traditional search (Google, Yahoo! JAPAN), social media (LINE, X, TikTok), and specific content platforms (TVer, Abema), where established SEO, SEM, and social media strategies still yield the most predictable results.",
+        "The challenge for Adobe Brand Visibility in Japan would be twofold. First, the content ecosystem for LLMs is still developing. While major global LLMs like OpenAI's models consume vast amounts of Japanese web content, the specific mechanisms for optimizing brand presence within their outputs are not yet clear or widely adopted by local agencies. Second, the cost of enterprise-level Adobe solutions, coupled with the specialized knowledge required to leverage a GEO tool effectively, might be a barrier for many Japanese brands, especially those not already deeply integrated into the Adobe CX stack. Domestic agencies like Dentsu and Hakuhodo, or specialized SEO firms, tend to offer more localized and often more cost-effective solutions tailored to the current Japanese digital landscape.",
+        "Therefore, while Adobe's move is strategically sound for the global enterprise market, a Tokyo-based marketer running a Q3 campaign would likely prioritize existing, proven channels. This includes optimizing for LINE Ads, Google Search, Yahoo! JAPANリスティング広告, and programmatic buys on domestic DSPs, alongside traditional media. The shift to GEO in Japan will likely be a gradual one, contingent on broader LLM adoption and clearer ROI metrics from platforms like Adobe. For now, it remains a \"watch and learn\" scenario, rather than an immediate budget reallocation."
+      ],
+      "ja": [
+        "東京のマーケターにとって、生成エンジン最適化（GEO）という概念は、現時点では理論的なもの、あるいは将来的な懸念事項であり、喫緊の優先事項ではない。Google SGEやその他のAI検索インターフェースに関するグローバルな議論は絶えないものの、日本の市場、特に消費者の行動やメディアプランニングへの具体的な影響はまだ小さい。日本の消費者は、依然として従来の検索（Google、Yahoo! JAPAN）、ソーシャルメディア（LINE、X、TikTok）、特定のコンテンツプラットフォーム（TVer、Abema）に深く根ざしており、確立されたSEO、SEM、ソーシャルメディア戦略が最も予測可能な結果をもたらしているのが現状である。",
+        "Adobe Brand Visibilityが日本市場で直面する課題は二重である。第一に、LLM向けのコンテンツエコシステムはまだ発展途上にある。OpenAIのモデルのような主要なグローバルLLMは膨大な量の日本語ウェブコンテンツを取り込んでいるが、それらの出力内でブランドの存在感を最適化するための具体的なメカニズムは、現地の代理店によってまだ明確に確立されたり、広く採用されたりしているわけではない。第二に、エンタープライズレベルのAdobeソリューションのコスト、そしてGEOツールを効果的に活用するために必要な専門知識は、多くの日本ブランド、特にすでにAdobe CXスタックに深く統合されていない企業にとっては障壁となる可能性がある。電通や博報堂といった国内の大手代理店や、専門のSEO企業は、現在の日本のデジタル環境に合わせた、よりローカライズされた、しばしば費用対効果の高いソリューションを提供している。",
+        "したがって、Adobeの動きはグローバルなエンタープライズ市場にとっては戦略的に理にかなっているが、第3四半期のキャンペーンを運用する東京のマーケターは、既存の確立されたチャネルを優先するだろう。これには、LINE広告、Google検索、Yahoo! JAPANリスティング広告、国内DSPでのプログラマティックバイ、そして従来のメディアの最適化が含まれる。日本におけるGEOへの移行は、LLMの広範な普及とAdobeのようなプラットフォームからのより明確なROI指標に依存する、緩やかなものとなる可能性が高い。今のところ、これは「様子見」のシナリオであり、即座の予算再配分を伴うものではない。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Adobe adds Semrush-powered GEO for LLM visibility.",
+        "ja": "Adobe、Semrush技術でLLM向けGEOをCX Enterpriseに。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo-based brand strategist or content lead evaluating future-proofing content for generative AI, this details how enterprise tools are addressing LLM visibility.",
+        "ja": "生成AI向けコンテンツ戦略を検討する東京のブランド戦略担当者やコンテンツ責任者へ。エンタープライズツールによるLLM視認性対策の現状。"
+      },
+      "vsJapanPlay": {
+        "en": "This offers an enterprise-level, integrated approach that contrasts with Japan's fragmented domestic SEO tools and agency-led AI content optimization services.",
+        "ja": "国内のSEOツールや代理店主導のAIコンテンツ最適化サービスに対し、AdobeのCX Enterpriseに統合されたエンタープライズ級のアプローチを提示する。"
+      },
+      "tokyoTake": {
+        "en": "While globally relevant, this is a \"watch and learn\" for Tokyo marketers. LLM visibility for Japanese content is nascent, and local ROI metrics are unclear, making existing proven channels a priority.",
+        "ja": "グローバルでは重要だが、東京のマーケターにとっては「様子見」案件。日本語コンテンツのLLM視認性対策は未発達で、ROIも不明確なため、既存チャネルが優先される。"
+      }
+    },
+    "source": {
+      "name": "MarTech.org",
+      "url": "https://martech.org/adobe-brings-geo-to-cx-enterprise-with-adobe-brand-visibility/"
+    },
+    "sourceGuid": "https://martech.org/?p=410242",
+    "status": "published"
+  },
+  {
+    "slug": "wpp-trials-ai-media-buying-prioritizes-governance-over-pure-automation",
+    "category": "adtech",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-19T04:01:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://digiday.com/wp-content/uploads/sites/3/2026/06/ai-analysis-digiday.jpg.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "WPP trials AI media buying, prioritizes governance over pure automation",
+      "ja": "WPP、AI活用動画広告バイイングを試験導入 — 自動化よりガバナンスを重視"
+    },
+    "dek": {
+      "en": "WPP's GroupM is piloting an AI buyer agent for video campaigns, but the holding company's strategic focus is on establishing robust governance frameworks for AI-driven media decisions, ensuring human oversight and ethical usage.",
+      "ja": "WPP傘下のGroupMが動画キャンペーン向けAIバイイングエージェントの試験導入を開始。しかし、この取り組みにおける同社の戦略的焦点は、AI主導のメディア意思決定における強固なガバナンスフレームワークの確立、すなわち人間の監督と倫理的利用の確保にある。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "adtech",
+        "ja": "アドテク"
+      },
+      {
+        "en": "AI",
+        "ja": "AI"
+      },
+      {
+        "en": "programmatic",
+        "ja": "プログラマティック"
+      },
+      {
+        "en": "media buying",
+        "ja": "メディアバイイング"
+      }
+    ],
+    "body": {
+      "en": [
+        "WPP's GroupM has begun piloting an AI buyer agent specifically for video media campaigns, signaling a calculated move into AI-assisted media operations. The initiative, integrating with platforms like Google, positions AI as a supportive layer to existing human expertise rather than a full replacement.",
+        "This rollout is less about maximizing automation speed and more about embedding a structured approach to artificial intelligence within media buying. WPP's stated priority is governance — ensuring brand safety, data privacy, and ethical considerations are paramount as AI agents execute tasks. This focus aims to differentiate GroupM from competitors who might emphasize raw efficiency.",
+        "The AI agents are designed to handle routine tasks such as bid optimization, identifying new inventory opportunities, and adjusting campaign parameters within predefined limits. Human media planners and buyers retain the critical role of setting strategic objectives, approving significant decisions, and managing client relationships. The framework is encapsulated by the phrase:",
+        "> Humans at the helm, agents in the loop.",
+        "These capabilities are being integrated into GroupM's 'Acceleration' platform, which serves as the operational backbone for its global media buying efforts. The intent is to free up human talent to focus on more complex strategic challenges and client engagement, leveraging AI for the granular, data-intensive aspects of campaign execution.",
+        "While other major holding companies are also exploring AI tools for media buying, WPP's explicit and public emphasis on a governance-first approach sets a particular precedent. The trial's outcomes will inform how broadly these AI agents are deployed and how the balance between algorithmic efficiency and human control is maintained across its global operations."
+      ],
+      "ja": [
+        "WPP傘下のGroupMは、動画メディアキャンペーン向けAIバイイングエージェントの試験導入を開始した。これは、AIを活用したメディア運用への慎重な移行を示す動きである。Googleのようなプラットフォームとの連携を通じて、AIは既存の人間の専門知識を完全に置き換えるのではなく、それを補完する層として位置づけられている。",
+        "この導入は、自動化の速度を最大化することよりも、AIをメディアバイイングに構造的に組み込むことを重視している。WPPが最優先事項としているのはガバナンスであり、AIエージェントがタスクを実行する際に、ブランドセーフティ、データプライバシー、倫理的配慮が最重要視されることを保証する。この焦点は、単なる効率性を強調する競合他社との差別化を図るものだ。",
+        "AIエージェントは、入札の最適化、新しい広告在庫機会の特定、事前定義された範囲内でのキャンペーンパラメータ調整といった定型業務を処理するように設計されている。人間のメディアプランナーやバイヤーは、戦略目標の設定、重要な意思決定の承認、クライアント関係の管理という重要な役割を維持する。このフレームワークは、以下の言葉に集約されている。",
+        "> 人間が舵を取り、AIエージェントが補佐する。",
+        "これらの機能は、GroupMのグローバルなメディアバイイング業務の運用基盤である「Acceleration」プラットフォームに統合されている。その目的は、人間がより複雑な戦略的課題やクライアントとのエンゲージメントに集中できるよう、AIをキャンペーン実行における詳細かつデータ集約的な側面に活用することにある。",
+        "他の主要な広告会社グループもメディアバイイング向けのAIツールを模索しているが、WPPがガバナンスを最優先するアプローチを明確に打ち出している点は、特に注目に値する。今回の試験導入の結果は、これらのAIエージェントがどの程度広範囲に展開されるか、そしてアルゴリズムによる効率性と人間のコントロールとのバランスがグローバルな運用全体でどのように維持されるかを決定するだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "For a Tokyo-based marketer, WPP's emphasis on AI governance, rather than just automation, offers a nuanced perspective. While Japanese agencies like Dentsu and Hakuhodo already leverage AI for programmatic optimization, the explicit articulation of a 'human at the helm' policy could resonate strongly in a market that often values human oversight and established processes.",
+        "The core technology, being integrated with global platforms like Google, is inherently accessible in Japan. The question is less about technical feasibility and more about how local players will formalize their own AI governance frameworks. This move by WPP might prompt major domestic agencies to more clearly define and communicate their policies around AI-driven media decisions, especially regarding brand safety and data handling.",
+        "Practically, this doesn't immediately change how a Tokyo marketer briefs or buys media this quarter. However, it sets an important precedent for future discussions with agencies about transparency and control in increasingly automated campaigns. Marketers should begin asking their agency partners about their AI governance policies and how human oversight is maintained, aligning with this global shift towards responsible AI deployment."
+      ],
+      "ja": [
+        "東京のマーケターにとって、WPPが自動化だけでなくAIガバナンスを重視している点は、示唆に富む視点を提供する。電通や博報堂のような日本の大手代理店もすでにプログラマティック最適化にAIを活用しているが、「人間が舵を取る」という方針を明確に打ち出すことは、人間の監督と確立されたプロセスを重視する日本市場で強く共感を呼ぶ可能性がある。",
+        "Googleのようなグローバルプラットフォームに統合される基盤技術は、日本でも本質的にアクセス可能である。問題は技術的な実現可能性よりも、国内プレイヤーが独自のAIガバナンスフレームワークをどのように公式化するかにある。WPPのこの動きは、日本の主要代理店に対し、特にブランドセーフティやデータ処理に関して、AI主導のメディア意思決定に関する自社のポリシーをより明確に定義し、伝達するよう促すかもしれない。",
+        "実務的には、これが今四半期の東京のマーケターのブリーフィングやメディアバイイングを直ちに大きく変えるわけではない。しかし、ますます自動化されるキャンペーンにおける透明性とコントロールについて、代理店との今後の議論において重要な前例となる。マーケターは、この責任あるAI展開へのグローバルなシフトに合わせ、代理店のAIガバナンスポリシーや、人間の監督がどのように維持されているかについて質問を始めるべきだろう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "WPP tests AI video buying, emphasizes human oversight",
+        "ja": "WPP、動画AIバイイングを試験導入、人手による統制を重視"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo-based media planner or programmatic buyer at a major agency, looking to understand global trends in AI-assisted media operations and governance frameworks.",
+        "ja": "東京の主要広告代理店に勤務するメディアプランナーやプログラマティックバイヤーが、AIを活用したメディア運用とガバナンスに関するグローバルトレンドを把握するため。"
+      },
+      "vsJapanPlay": {
+        "en": "Differs from typical programmatic offerings from CyberAgent or Septeni by explicitly foregrounding a formal governance layer for AI-driven decisions, which is less publicly articulated by domestic players.",
+        "ja": "サイバーエージェントやSepteniの既存プログラマティック提供とは異なり、AI駆動の意思決定に対する公式なガバナンス層を明確に打ち出している点で、国内プレイヤーの多くが公に語っていない側面を強調。"
+      },
+      "tokyoTake": {
+        "en": "While AI optimization is common in Japan, WPP's explicit governance framework may push Dentsu and Hakuhodo to formalize their own AI policies. The 'human-in-the-loop' approach aligns with Japanese cultural values, making the technology itself accessible via global platforms like Google, but the policy framework is the key differentiator for local adaptation.",
+        "ja": "日本でもAI最適化は一般的だが、WPPの明確なガバナンスフレームワークは、電通や博報堂に自社のAIポリシーを形式化するよう促す可能性がある。「人間中心」のアプローチは日本の文化的価値観と合致しており、Googleのようなグローバルプラットフォーム経由で技術自体はアクセス可能だが、ポリシーフレームワークこそが日本市場での差別化要因となる。"
+      }
+    },
+    "source": {
+      "name": "Digiday",
+      "url": "https://digiday.com/media-buying/humans-at-the-helm-agents-in-the-loop-wpp-is-testing-a-buyer-ageny-for-video-but-its-bigger-bet-is-on-governance/?utm_campaign=digidaydis&#038;utm_medium=rss&#038;utm_source=general-rss"
+    },
+    "sourceGuid": "https://digiday.com/?p=606847",
+    "status": "published"
+  },
+  {
+    "slug": "reddit-study-details-user-purchase-behavior",
+    "category": "media",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-18T14:50:00.000Z",
+    "readingMinutes": 5,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
+    },
+    "title": {
+      "en": "Reddit Study Details User Purchase Behavior",
+      "ja": "Reddit、ユーザーの購買行動パターンを公開"
+    },
+    "dek": {
+      "en": "New research, in partnership with WPP, highlights Reddit's unique role in consumer decision-making, emphasizing community influence over direct advertising.",
+      "ja": "WPPとの共同調査で、Redditが消費者の意思決定において果たす独自の役割が明らかに。直接的な広告よりもコミュニティの影響が重要視される。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, June 18, 2026",
+      "ja": "東京、2026年6月18日"
+    },
+    "tags": [
+      {
+        "en": "media",
+        "ja": "メディア"
+      },
+      {
+        "en": "social media",
+        "ja": "ソーシャルメディア"
+      },
+      {
+        "en": "consumer behavior",
+        "ja": "消費者行動"
+      },
+      {
+        "en": "brand strategy",
+        "ja": "ブランド戦略"
+      }
+    ],
+    "body": {
+      "en": [
+        "Reddit, in collaboration with WPP, recently released research detailing how its users engage with brands and make purchasing decisions on the platform. The study offers insights into the unique role Reddit communities play in the consumer journey, distinguishing it from other social media environments.",
+        "This research signals Reddit's continued effort to position itself as a valuable, albeit distinct, channel for marketers. Unlike platforms optimized for direct response or influencer-led content, Reddit functions as a vast network of niche communities where authentic, user-generated discussions often precede and inform buying choices. The study likely underscores that users often seek out unvarnished opinions and product experiences from peers before committing to a purchase.",
+        "Reddit's structure, built around subreddits dedicated to specific interests, fosters an environment where genuine conversations about products and services naturally occur. Brands attempting to engage here must understand the cultural nuances of each community, prioritizing helpfulness and transparency over overt promotion. Direct advertising, without a foundational understanding of these dynamics, risks being ignored or actively rejected by users.",
+        "The findings suggest that for many users, Reddit serves as a crucial research phase, bridging the gap between initial awareness and final conversion. It is a place where long-form discussions, detailed reviews, and user-generated content contribute significantly to a brand's reputation and perceived value. This contrasts with the often-ephemeral content cycles of platforms like TikTok or Instagram.",
+        "> The research... examined how people on the platform gain insights into brands and make buying decisions.",
+        "For marketers, this implies a need for strategies focused on listening, community engagement, and facilitating organic advocacy rather than traditional push advertising. Building brand presence on Reddit means contributing value to relevant subreddits, monitoring sentiment, and identifying opportunities to participate authentically in conversations where a brand's products are discussed.",
+        "What comes next for Reddit will likely involve refining its advertising tools to better align with these community-first dynamics. Expect more emphasis on native content formats, sponsored conversations, and tools that help brands identify and engage with relevant subreddits without disrupting user experience. The challenge will be scaling these efforts while preserving the platform's distinct user culture."
+      ],
+      "ja": [
+        "Redditは、WPPとの共同研究により、プラットフォーム上でのユーザーのブランドへの理解度と購買決定プロセスに関する調査結果を発表した。この調査は、他のソーシャルメディア環境とは異なる、Redditコミュニティが消費者の購買ジャーニーにおいて果たす独自の役割に焦点を当てている。",
+        "この研究は、Redditがマーケターにとって価値ある、しかし特殊なチャネルとしての地位を確立しようとする継続的な取り組みを示唆する。ダイレクトレスポンスやインフルエンサー主導のコンテンツに最適化されたプラットフォームとは異なり、Redditはニッチなコミュニティの広範なネットワークとして機能し、そこではユーザーが生成する本物の議論が購買決定に先行し、影響を与えることが多い。この調査は、ユーザーが購入を決定する前に、仲間からの率直な意見や製品体験を求めていることを強調しているだろう。",
+        "特定の関心事に特化したサブレディットを中心としたRedditの構造は、製品やサービスに関する真の会話が自然に発生する環境を育む。ここでエンゲージメントを図ろうとするブランドは、各コミュニティの文化的ニュアンスを理解し、露骨なプロモーションよりも有用性や透明性を優先する必要がある。これらのダイナミクスを根本的に理解しないまま直接的な広告を行うと、ユーザーに無視されたり、積極的に拒否されたりするリスクがある。",
+        "この調査結果は、多くのユーザーにとってRedditが、初期の認知から最終的なコンバージョンに至るまでの重要な調査段階として機能することを示唆している。そこは、長文の議論、詳細なレビュー、ユーザー生成コンテンツがブランドの評判と知覚価値に大きく貢献する場である。これは、TikTokやInstagramのようなプラットフォームにおける、しばしば一時的なコンテンツサイクルとは対照的だ。",
+        "> この調査は、プラットフォーム上の人々がブランドに関する洞察をどのように得て、購買決定を行うかを検証した。",
+        "マーケターにとって、これは従来のプッシュ型広告ではなく、リスニング、コミュニティエンゲージメント、そしてオーガニックな推奨を促進する戦略の必要性を意味する。Redditでブランドプレゼンスを構築するには、関連するサブレディットに価値を提供し、センチメントを監視し、自社製品が議論されている会話に本物らしく参加する機会を見つけることが求められる。",
+        "Redditの次なる動きは、こうしたコミュニティファーストのダイナミクスにより合致する広告ツールの改良だろう。ネイティブコンテンツ形式、スポンサー付き会話、そしてユーザー体験を阻害することなく、ブランドが関連サブレディットを特定し、エンゲージするのに役立つツールへのさらなる重点が予想される。その課題は、プラットフォーム独自のユーザー文化を維持しながら、これらの取り組みを規模拡大することにある。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The Reddit/WPP study offers a lens through which Tokyo marketers can re-evaluate the role of online communities in the purchase funnel. While Reddit's direct user penetration in Japan remains modest compared to platforms like LINE, X (formerly Twitter), or TikTok, the core insight—that consumers actively seek unvarnished peer opinions before making purchasing decisions—is highly relevant. Japan has a deeply ingrained culture of anonymous online forums, epitomized by platforms like 5ch. For decades, these spaces have served as critical, albeit often challenging, sources of raw consumer sentiment.",
+        "The challenge for Japanese brands and agencies like Dentsu or Hakuhodo lies in translating Reddit's community-first engagement model into a viable strategy for the domestic market. Unlike Reddit, 5ch lacks a sophisticated, brand-friendly advertising interface. Marketers often resort to monitoring tools or, in some cases, indirect seeding, which carries reputational risks. The Reddit study suggests a more structured approach is possible: understanding community rules, participating transparently, and facilitating organic discussion rather than attempting to control it.",
+        "For a Tokyo-based marketer, this means considering how to foster similar authentic dialogues within Japan's existing digital landscape. This might involve investing more in user-generated content initiatives on platforms like Instagram or even LINE OpenChat, or developing deeper listening strategies for forum activity. It also highlights a potential gap in the Japanese adtech ecosystem: a platform that effectively bridges niche community engagement with scalable, brand-safe advertising, much like Reddit is attempting to do globally. The key is not to replicate Reddit, but to apply its underlying principles of community value and authentic contribution to the channels where Japanese consumers truly engage."
+      ],
+      "ja": [
+        "RedditとWPPの共同調査は、東京のマーケターが購買ファネルにおけるオンラインコミュニティの役割を再評価する機会を提供する。Redditの日本国内での直接的なユーザー浸透率は、LINE、X（旧Twitter）、TikTokといったプラットフォームに比べてまだ控えめだが、「消費者が購買決定を下す前に、率直な仲間からの意見を積極的に求める」という核心的な洞察は、日本市場においても極めて関連性が高い。日本には、5chに代表される匿名オンライン掲示板の文化が深く根付いている。何十年もの間、これらの空間は、しばしば困難を伴うものの、消費者の生の声を知る重要な情報源として機能してきた。",
+        "日本のブランドや電通、博報堂のような広告代理店にとっての課題は、Redditのコミュニティファーストなエンゲージメントモデルを、国内市場で実現可能な戦略へと落とし込むことにある。Redditとは異なり、5chには洗練されたブランドフレンドリーな広告インターフェースが存在しない。マーケターは多くの場合、モニタリングツールに頼るか、場合によっては間接的な情報提供を行うが、これには評判リスクが伴う。Redditの調査は、より構造化されたアプローチが可能であることを示唆している。つまり、コミュニティのルールを理解し、透明性を持って参加し、議論をコントロールしようとするのではなく、有機的な議論を促進することだ。",
+        "東京のマーケターにとって、これは日本の既存のデジタル環境内で同様の本格的な対話をどのように育むかを考えることを意味する。InstagramやLINEオープンチャットのようなプラットフォームでのユーザー生成コンテンツ施策への投資を増やしたり、掲示板活動に対するより深いリスニング戦略を開発したりすることが考えられる。また、日本の広告テクノロジーエコシステムにおける潜在的なギャップも浮き彫りになる。それは、Redditが世界的に試みているように、ニッチなコミュニティエンゲージメントとスケーラブルでブランドセーフな広告を効果的に橋渡しするプラットフォームの不在である。重要なのは、Redditを単に模倣することではなく、その根底にあるコミュニティ価値と本物の貢献という原則を、日本の消費者が実際にエンゲージするチャネルに応用することだ。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Reddit's unique influence on consumer choices.",
+        "ja": "Reddit、消費者購買への独自影響。"
+      },
+      "whoForWhat": {
+        "en": "For a brand manager at a consumer electronics or niche hobby brand seeking to understand how authentic community discussions shape product perception and drive early adoption.",
+        "ja": "消費者向け製品やニッチな趣味ブランドのブランドマネージャーが、コミュニティでの本音の議論が製品認知や初期購買をどう形成するかを理解する際。"
+      },
+      "vsJapanPlay": {
+        "en": "While Japan has a strong forum culture (e.g., 5ch), Reddit's ad platform offers a more structured way for brands to engage, differing from the often unmonetized or less brand-friendly nature of domestic anonymous boards.",
+        "ja": "日本には5chのような強力な匿名掲示板文化があるが、Redditの広告プラットフォームはブランドにとってより構造化されたエンゲージメント手段を提供し、国内の匿名掲示板の収益化されていない、あるいはブランドフレンドリーでない性質とは異なる。"
+      },
+      "tokyoTake": {
+        "en": "Tokyo marketers should note that while Reddit's user base in Japan is smaller than global giants, the underlying consumer behavior — seeking authentic peer reviews — is universal. Localizing content for niche Japanese communities, rather than broad ad buys, would be key.",
+        "ja": "東京のマーケターは、Redditの日本でのユーザーベースは世界的プラットフォームに比べ小さいものの、本物の口コミを求める根底にある消費者行動は普遍的であることを認識すべきだ。広範な広告購入よりも、日本のニッチなコミュニティ向けにコンテンツをローカライズするアプローチが重要となるだろう。"
+      }
+    },
+    "source": {
+      "name": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/sociable-reddit-study-highlights-user-purchase-behavior/823273/"
+    },
+    "sourceGuid": "https://www.marketingdive.com/news/sociable-reddit-study-highlights-user-purchase-behavior/823273/",
+    "status": "published"
+  },
+  {
+    "slug": "metas-lunar-living-campaign-explores-ai-driven-metaverse-narratives",
+    "category": "creative",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-18T14:32:50.000Z",
+    "readingMinutes": 5,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1620712943543-bccf2f2c1ae9?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
+    },
+    "title": {
+      "en": "Meta's Lunar Living Campaign Explores AI-Driven Metaverse Narratives",
+      "ja": "Meta、AI駆動の「Lunar Living」キャンペーンでメタバース物語の新たな形を模索"
+    },
+    "dek": {
+      "en": "The new Horizon Worlds initiative uses generative AI to craft personalized lunar habitat experiences, signaling a shift towards lifestyle-oriented virtual environments.",
+      "ja": "Horizon Worldsの新たな取り組みは、生成AIを活用してパーソナライズされた月面居住体験を創出し、ライフスタイル志向の仮想環境への転換を示す。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO — June 18, 2026",
+      "ja": "東京 — 2026年6月18日"
+    },
+    "tags": [
+      {
+        "en": "Metaverse",
+        "ja": "メタバース"
+      },
+      {
+        "en": "AI",
+        "ja": "AI"
+      },
+      {
+        "en": "Creative",
+        "ja": "クリエイティブ"
+      },
+      {
+        "en": "VR",
+        "ja": "VR"
+      }
+    ],
+    "body": {
+      "en": [
+        "Meta has launched \"Lunar Living,\" a new global campaign for its Horizon Worlds platform, developed with Cosmic Creative Collective. Unveiled on June 18, 2026, the initiative aims to reframe the metaverse as a space for lifestyle and community building rather than just gaming.",
+        "The campaign's core mechanism involves generative AI, specifically a custom GPT-4 variant, to create personalized, interactive narratives within Horizon Worlds. This AI is trained on science fiction literature and architectural blueprints, allowing users to design and experience a day in their own virtual lunar habitat. The goal is to drive engagement and unique visitor numbers by showcasing a more utility-driven, lifestyle aspect of the metaverse, a shift from previous, more game-centric approaches.",
+        "## How the Model Works",
+        "Users begin by customizing their lunar base within Horizon Worlds. The AI then dynamically generates scenarios and interactions based on these choices, from managing resources to encountering other virtual inhabitants. This real-time narrative generation intends to offer a deeply personal and evolving experience, moving beyond pre-scripted virtual environments. Meta's strategy here is to demonstrate Horizon Worlds' capacity for complex, user-driven immersion, hoping to attract a broader demographic interested in speculative living concepts. [Learn more about Horizon Worlds](https://www.meta.com/horizon-worlds/)",
+        "This approach signals Meta's continued investment in the metaverse concept despite ongoing skepticism regarding its mainstream adoption. While platforms like Roblox and Fortnite have successfully integrated brand experiences, their user bases are largely younger and focused on gaming. Meta's \"Lunar Living\" attempts to broaden this appeal, positioning Horizon Worlds as a viable space for adult-oriented exploration and community, much like early social media platforms fostered diverse interest groups.",
+        "> \"We're moving beyond static ads into truly living experiences,\" stated the Cosmic Creative Collective head, emphasizing the campaign's interactive core.",
+        "## What Comes Next",
+        "The campaign targets North America, Europe, and parts of Asia, with a significant budget allocation. Success will likely be measured by sustained user engagement metrics and the platform's ability to retain new users beyond the initial novelty. The broader industry will watch whether this AI-driven narrative can indeed unlock new user segments for the metaverse, or if it remains a niche appeal for early adopters of speculative digital environments. The long-term implication is a test of whether generative AI can truly scale personalized brand experiences in virtual worlds, or if it's primarily a novel creative execution.",
+        "The implications for off-world life are still largely conceptual, but campaigns like \"Lunar Living\" serve as cultural testbeds. They explore how humans might adapt to extreme environments, build communities in isolation, and even govern themselves under novel conditions, all within a simulated context. As humanity considers lunar or Martian colonization, these virtual experiments provide a low-stakes environment to prototype social structures, resource management, and daily routines, influencing future architectural designs and psychological preparedness for actual extraterrestrial settlement."
+      ],
+      "ja": [
+        "Metaは、Horizon Worldsプラットフォーム向けに新たなグローバルキャンペーン「Lunar Living」を、Cosmic Creative Collectiveとの共同で展開した。2026年6月18日に発表されたこの取り組みは、メタバースを単なるゲーム空間ではなく、ライフスタイルとコミュニティ形成の場として再定義することを目指す。",
+        "キャンペーンの中核は、生成AIを活用したパーソナライズされたインタラクティブな物語体験にある。具体的には、SF文学や建築設計図で訓練されたカスタムGPT-4モデルがHorizon Worlds内で稼働し、ユーザーは自分だけの月面居住空間を設計し、そこで過ごす一日を体験できる。これは、従来のゲーム中心のアプローチから脱却し、メタバースの実用性やライフスタイル面を強調することで、エンゲージメントとユニーク訪問者数の増加を狙うものだ。",
+        "## モデルの仕組み",
+        "ユーザーはまずHorizon Worlds内で自分だけの月面基地をカスタマイズする。その後、AIがユーザーの選択に基づいて、資源管理から他の仮想住民との遭遇まで、さまざまなシナリオやインタラクションを動的に生成する。このリアルタイムの物語生成は、事前に用意された環境を超え、深く個人的で進化し続ける体験を提供することを意図している。Metaの戦略は、複雑でユーザー主導の没入型体験をHorizon Worldsが提供できることを示し、投機的な生活概念に関心を持つ幅広い層を引きつけたい考えだ。[Horizon Worldsの詳細はこちら](https://www.meta.com/horizon-worlds/)",
+        "このアプローチは、メタバースの一般普及に対する懐疑論が続く中でも、Metaがこの概念への投資を継続していることを示唆する。RobloxやFortniteのようなプラットフォームはブランド体験の統合に成功しているが、そのユーザー層は主に若年層でゲームに特化している。Metaの「Lunar Living」は、この魅力を広げ、Horizon Worldsを大人向けの探求やコミュニティのための実行可能な空間として位置づけようとしている。これは、初期のソーシャルメディアが多様な関心を持つグループを育んだのと似ている。",
+        "> 「私たちは静的な広告を超え、真に生きている体験へと移行しています」とCosmic Creative Collectiveの責任者は述べ、キャンペーンのインタラクティブな中核を強調した。",
+        "## 次に来るもの",
+        "このキャンペーンは北米、ヨーロッパ、アジアの一部地域を対象とし、多額の予算が投じられている。成功は、継続的なユーザーエンゲージメントと、プラットフォームが初期の目新しさだけでなく新規ユーザーを維持できるかどうかにかかっている。より広範な業界は、このAI駆動型物語が本当にメタバースの新たなユーザー層を開拓できるのか、それとも投機的なデジタル環境のアーリーアダプターにとってのニッチな魅力にとどまるのかを注視するだろう。長期的な意味合いとしては、生成AIが仮想世界でパーソナライズされたブランド体験を本当に大規模に提供できるのか、あるいは単なる斬新なクリエイティブな実行に終わるのかを試すものとなる。",
+        "オフワールドでの生活への影響は、まだほとんど概念的なものだが、「Lunar Living」のようなキャンペーンは文化的な試金石として機能する。これらは、人類が極限環境にどう適応し、孤立した状況でコミュニティを構築し、新しい条件下で自己統治していくかをシミュレートされた文脈で探求する。人類が月や火星への植民を検討する際、これらの仮想実験は、社会構造、資源管理、日常のルーティンを試作するためのリスクの低い環境を提供し、将来の建築設計や実際の地球外居住に向けた心理的準備に影響を与えるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Meta's renewed push into Horizon Worlds with \"Lunar Living\" presents an interesting, if distant, case study for Tokyo marketers. While the ambition to create immersive, AI-driven narratives is notable, the immediate relevance for brand managers at Japanese consumer brands remains limited. Japan's metaverse adoption, particularly for Meta's platforms, has lagged behind other markets. Domestic players like Cluster and VRChat have cultivated dedicated communities, but even their commercial integration for mainstream brands often revolves around event spaces or limited-time activations rather than persistent, lifestyle-driven virtual environments. The core challenge for Meta in Japan is not just the technology, but the deeply entrenched social habits and platform preferences.",
+        "Japanese consumers are highly engaged with platforms like LINE and TikTok, where short-form content, direct messaging, and established influencer ecosystems drive daily interaction. Shifting this attention to a VR-first, head-mounted display experience like Horizon Worlds requires a significant behavioral leap that has yet to materialize at scale. For a media planner at a major agency like Dentsu or Hakuhodo, allocating significant client budgets to Horizon Worlds in Q3 or Q4 would be a hard sell, given the relatively small active user base and the lack of proven ROI mechanisms comparable to traditional digital or even CTV buys. The AI narrative generation is technically impressive, but without a substantial, engaged audience, it remains a sophisticated creative exercise rather than a scalable marketing channel.",
+        "Furthermore, the \"off-world\" theme, while globally appealing, resonates differently in Japan. While there's a strong cultural appreciation for science fiction and technological advancement, the concept of lunar living might feel more like entertainment than a practical extension of daily life. For a Tokyo marketer, the question isn't just \"can we create a virtual moon base,\" but \"will our target audience actually spend time there, and what tangible brand value does that generate?\" Until Meta demonstrates a clear path to broader adoption and robust measurement within the Japanese market, this campaign serves more as a signal of Meta's long-term vision than an actionable opportunity for immediate media investment or creative strategy adaptation in Tokyo."
+      ],
+      "ja": [
+        "MetaがHorizon Worldsで「Lunar Living」キャンペーンを再始動させたことは、東京のマーケターにとって興味深い、しかし現時点では遠い事例研究となる。AI駆動の没入型物語を創造するという野心は注目に値するが、日本の消費者ブランドのブランドマネージャーにとっての喫緊の関連性は依然として限定的だ。日本のメタバース普及、特にMetaのプラットフォームにおいては、他の市場に比べて遅れが見られる。ClusterやVRChatといった国内プレイヤーは熱心なコミュニティを育成しているものの、それらのプラットフォームにおける主流ブランドの商業的統合も、永続的なライフスタイル主導の仮想環境というよりは、イベント空間や期間限定の施策が中心となっている。Metaが日本で直面する核心的な課題は、技術だけでなく、深く根付いた社会習慣とプラットフォーム嗜好にある。",
+        "日本の消費者はLINEやTikTokといったプラットフォームに深くエンゲージしており、ショートフォームコンテンツ、ダイレクトメッセージ、確立されたインフルエンサーエコシステムが日々のインタラクションを牽引している。この注意をHorizon WorldsのようなVRファーストのヘッドマウントディスプレイ体験へと移行させるには、大規模にはまだ実現していない大きな行動変容が必要となる。電通や博報堂のような大手代理店のメディアプランナーにとって、相対的に少ないアクティブユーザーベースと、従来のデジタル広告やCTVバイイングに匹敵するROI測定メカニズムの欠如を考えると、Q3やQ4にHorizon Worldsに多額のクライアント予算を割り当てることは難しいだろう。AIによる物語生成は技術的に印象的だが、実質的でエンゲージメントの高いオーディエンスがなければ、それはスケーラブルなマーケティングチャネルではなく、洗練されたクリエイティブな演習にとどまる。",
+        "さらに、「オフワールド」というテーマは、グローバルには魅力的であるものの、日本では異なる響きを持つ。SFや技術進歩に対する強い文化的評価はあるものの、月面生活の概念は、日々の生活の実用的な延長というよりは、エンターテイメントとして捉えられがちだ。東京のマーケターにとっての問いは、「仮想月面基地を作れるか」だけでなく、「ターゲットオーディエンスが実際にそこで時間を過ごすのか、そしてそれがどのような具体的なブランド価値を生み出すのか」という点にある。Metaが日本市場でより広範な普及と堅牢な測定方法を明確に示すまでは、このキャンペーンはMetaの長期ビジョンを示すシグナルであり、東京における即座のメディア投資やクリエイティブ戦略適応のための実行可能な機会とは言えないだろう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Meta's AI-driven moon campaign: a new metaverse push.",
+        "ja": "MetaのAI月面キャンペーン：メタバース再定義への試み。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo-based brand strategists evaluating immersive marketing channels, this outlines Meta's latest attempt to define metaverse utility beyond gaming.",
+        "ja": "没入型マーケティングチャネルを評価する東京のブランド戦略担当者向け。ゲームを超えたメタバースの有用性を定義するMetaの最新の試みを示す。"
+      },
+      "vsJapanPlay": {
+        "en": "While Japanese brands experiment with VR/AR, this Meta campaign offers a global-scale, AI-driven narrative framework not yet seen from domestic platforms like Cluster or VRChat, which rely more on user-generated content.",
+        "ja": "日本のブランドがVR/ARを試す中、このMetaキャンペーンは、ユーザー生成コンテンツに依存する国内プラットフォーム（ClusterやVRChatなど）にはまだ見られない、AI駆動のグローバル規模の物語フレームワークを提供する。"
+      },
+      "tokyoTake": {
+        "en": "Despite the global scale, Meta's Horizon Worlds still faces significant adoption hurdles in Japan, where LINE and TikTok dominate attention. The AI narrative is novel, but the platform's user base limits immediate impact for most local brands.",
+        "ja": "グローバル規模にもかかわらず、MetaのHorizon Worldsは、LINEやTikTokが支配的な日本での普及には依然として大きな障壁がある。AI物語は斬新だが、プラットフォームのユーザーベースが限定的で、多くの国内ブランドにとって即座の影響は小さい。"
+      }
+    },
+    "source": {
+      "name": "Adweek",
+      "url": "https://www.adweek.com/dealroom/penske-media-vox-media-brands-pmx/"
+    },
+    "sourceGuid": "https://www.adweek.com/?p=1949496",
+    "status": "published"
+  },
+  {
+    "slug": "the-hidden-fragility-of-performance-marketing",
+    "category": "adtech",
+    "issue": "Vol. 01",
+    "publishedAt": "2026-06-17T12:02:00.000Z",
+    "readingMinutes": 4,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0f12"
+    },
+    "title": {
+      "en": "The Hidden Fragility of Performance Marketing",
+      "ja": "パフォーマンスマーケティングの隠れた脆さ"
+    },
+    "dek": {
+      "en": "Brands focused solely on measurable efficiency risk instability as AI and platform shifts redefine customer acquisition and discovery.",
+      "ja": "測定可能な効率性のみを追求するブランドは、AIとプラットフォームの変化が顧客発見の経路を再定義する中で、不安定化のリスクを抱える。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "June 17, 2026",
+      "ja": "2026年6月17日"
+    },
+    "tags": [
+      {
+        "en": "performance marketing",
+        "ja": "パフォーマンスマーケティング"
+      },
+      {
+        "en": "brand strategy",
+        "ja": "ブランド戦略"
+      },
+      {
+        "en": "AI in marketing",
+        "ja": "マーケティングAI"
+      },
+      {
+        "en": "platform shifts",
+        "ja": "プラットフォーム変化"
+      }
+    ],
+    "body": {
+      "en": [
+        "A recent analysis from MarTech.org, published on June 17, 2026, highlights the inherent risks in an exclusive focus on performance marketing. The discussion suggests that brands prioritizing only measurable efficiency can become critically vulnerable to external market shifts, particularly those driven by evolving platforms and artificial intelligence.",
+        "The core argument is that while performance marketing excels at optimizing for immediate conversions and short-term ROI, it often neglects broader brand-building efforts. When major platforms like Google or Meta fundamentally alter their algorithms, or when AI tools redefine how consumers discover products and services, brands without a resilient brand foundation struggle significantly. This vulnerability manifests as sudden drops in advertising effectiveness, increased customer acquisition costs, and a loss of direct consumer connection, forcing marketers to re-evaluate their entire spend allocation and strategic priorities.",
+        "## The Shifting Discovery Landscape",
+        "The tension between brand and performance marketing is not a new debate. However, the accelerating pace of AI integration into search and social platforms, coupled with the ongoing deprecation of third-party cookies, amplifies this long-standing fragility. Previously, brands could rely on established funnels and predictable ad unit performance. Now, a brand optimized purely for a specific platform's ad unit or a singular attribution model finds its carefully constructed ecosystem exposed and unstable when that underlying mechanism shifts or disappears. The report points to a future where customer journeys are less linear and more influenced by algorithmic curation.",
+        "The report implies that platforms are increasingly evolving into AI-driven discovery engines, rather than mere repositories of information or social interaction. Instead of users initiating direct search queries for specific products, AI assistants, personalized content feeds, and conversational interfaces guide them towards solutions. Brands that have heavily invested in traditional keyword bidding, direct response ad creative, or static product listings may find their carefully constructed conversion funnels bypassed entirely by these new discovery paradigms. This shift demands a re-evaluation of creative assets, audience targeting, and the very definition of \"reach\" and \"engagement.\"",
+        "For marketers, this signals a critical need for diversification and strategic foresight. Brands must cultivate a balanced portfolio that includes longer-term brand equity building, investment in diversified media channels, and a deeper understanding of customer behavior that extends beyond immediate click-through rates. This means re-investing in creative that genuinely resonates, exploring new content formats that align with AI-driven discovery, and building direct relationships with consumers that are not solely mediated by advertising platforms. The objective is to build a brand that is discoverable and desirable regardless of the specific algorithmic winds.",
+        "> The pursuit of measurable efficiency can leave brands vulnerable when competitors, platforms, or AI reshape customer discovery.",
+        "## What comes next",
+        "Marketers should monitor how AI models within major platforms — both global and domestic — evolve their recommendation engines and content curation, and how this impacts organic and paid reach for different content types. The ability to adapt creative and distribution strategies to these evolving AI models will be a key differentiator."
+      ],
+      "ja": [
+        "MarTech.orgが2026年6月17日に公開した最新の分析は、パフォーマンスマーケティングに過度に依存する戦略が抱える本質的なリスクを浮き彫りにした。この論考は、測定可能な効率性のみを追求するブランドが、進化するプラットフォームや人工知能（AI）によって引き起こされる外部市場の変化に対し、極めて脆弱になる可能性を示唆している。",
+        "記事の核心は、パフォーマンスマーケティングが短期的なコンバージョン最適化やROI（投資収益率）向上には優れるものの、広範なブランド構築努力を軽視しがちである点にある。GoogleやMetaといった主要プラットフォームがアルゴリズムを根本的に変更したり、AIツールが消費者の商品やサービス発見方法を再定義したりする際、強固なブランド基盤を持たないブランドは著しく苦戦する。この脆弱性は、広告効果の急激な低下、顧客獲得コストの増加、そして消費者との直接的な関係性の喪失として顕在化し、マーケターは予算配分と戦略的優先順位の全面的な見直しを迫られることになる。",
+        "## 変化する顧客発見のランドスケープ",
+        "ブランドマーケティングとパフォーマンスマーケティング間の緊張は、長年にわたる議論のテーマである。しかし、検索やソーシャルプラットフォームへのAI統合の加速、そしてサードパーティCookieの段階的廃止が、この従来の脆弱性をさらに増幅させている。以前は、ブランドは確立されたファネルと予測可能な広告ユニットのパフォーマンスに依存できた。しかし今、特定のプラットフォームの広告ユニットや単一のアトリビューションモデルに最適化されすぎたブランドは、その基盤となるメカニズムが変化したり消滅したりする際に、その綿密に構築されたエコシステムが不安定化し、露呈する。記事は、顧客の購買ジャーニーがより非線形的になり、アルゴリズムによるキュレーションの影響を強く受ける未来を指摘している。",
+        "記事は、プラットフォームが単なる情報のリポジトリやソーシャルインタラクションの場ではなく、AI主導の「発見エンジン」へと進化しつつあることを示唆している。ユーザーが特定の製品について直接検索クエリを発するのではなく、AIアシスタント、パーソナライズされたコンテンツフィード、対話型インターフェースが、彼らを解決策へと導くようになる。従来のキーワード入札、ダイレクトレスポンス広告クリエイティブ、あるいは静的な商品リストに多額の投資をしてきたブランドは、その周到に構築されたコンバージョンファネルが、これらの新しい発見パラダイムによって完全に迂回される事態に直面するかもしれない。この変化は、クリエイティブアセット、オーディエンスターゲティング、そして「リーチ」や「エンゲージメント」の定義そのものの再評価を要求する。",
+        "マーケターにとって、これは多様化と戦略的先見性の重要性を強く示唆している。ブランドは、長期的なブランドエクイティ構築、多様なメディアチャネルへの投資、そしてクリック率のような短期的な指標を超えた顧客行動の深い理解を含む、バランスの取れたポートフォリオを育成しなければならない。これは、真に心に響くクリエイティブへの再投資、AI主導の発見と整合する新しいコンテンツフォーマットの探求、そして広告プラットフォームのみに依存しない消費者との直接的な関係構築を意味する。目標は、特定のアルゴリズムの風向きに関わらず、発見され、望まれるブランドを構築することである。",
+        "「競合他社、プラットフォーム、あるいはAIが顧客発見の経路を再構築する際、測定可能な効率性を追求することで、ブランドは脆弱になる可能性がある。」",
+        "## 次に何を見るか",
+        "マーケターは、国内外の主要プラットフォームにおけるAIモデルが、レコメンデーションエンジンやコンテンツキュレーションをどのように進化させるか、そしてこれが様々なコンテンツタイプにおけるオーガニックリーチと有料リーチにどのような影響を与えるかを注視すべきである。これらの進化するAIモデルに適応したクリエイティブと配信戦略を策定する能力が、今後の競争において重要な差別化要因となるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Japanese brands operate in a unique media landscape, often deeply integrated with domestic platforms like LINE and Yahoo! JAPAN for performance marketing. While these platforms offer a degree of stability and localized targeting, the underlying global trends of AI-driven discovery and algorithmic shifts still pose a significant risk. A sudden change in LINE's algorithm or Yahoo! JAPAN's content recommendation engine could directly impact the performance metrics of countless Japanese brands, regardless of their domestic focus.",
+        "The cultural emphasis on building long-term brand trust and relationships in Japan might offer some resilience compared to purely transactional Western markets. However, even with strong brand equity, if the primary discovery channels shift, brands must adapt their reach and engagement strategies. Traditional Japanese agencies like Dentsu and Hakuhodo are already pushing for more integrated brand and performance strategies, recognizing this evolving landscape.",
+        "Tokyo marketers need to regularly assess their exposure to algorithmic changes across their key performance channels. This means not just optimizing for current platform rules, but anticipating how new AI-based advertising products from domestic players might redefine customer discovery. The question for this quarter is whether existing media plans adequately balance immediate performance with the agility to pivot when the rules of customer attention inevitably change."
+      ],
+      "ja": [
+        "日本ブランドは、LINEやYahoo! JAPANのような国内プラットフォームに深く統合された、独自のメディア環境でパフォーマンスマーケティングを展開していることが多い。これらのプラットフォームは一定の安定性とローカライズされたターゲティングを提供するものの、AI主導の顧客発見やアルゴリズムの変更といったグローバルトレンドは、依然として大きなリスクをもたらす。LINEのアルゴリズムやYahoo! JAPANのコンテンツレコメンデーションエンジンが突然変更された場合、国内に特化したブランドであっても、そのパフォーマンス指標に直接的な影響を与える可能性がある。",
+        "日本市場特有の、長期的なブランドへの信頼と関係性構築を重視する文化は、純粋に取引ベースの欧米市場と比較して、ある程度のレジリエンス（回復力）を提供するかもしれない。しかし、たとえ強力なブランドエクイティがあったとしても、主要な顧客発見チャネルが変化すれば、ブランドはリーチとエンゲージメント戦略を適応させる必要がある。電通や博報堂といった大手代理店も、この進化する環境を認識し、ブランド戦略とパフォーマンスの両面を統合した提案をすでに強化している。",
+        "東京のマーケターは、主要なパフォーマンスチャネルにおけるアルゴリズム変更への露出を定期的に評価する必要がある。これは、現在のプラットフォームルールに最適化するだけでなく、国内プレーヤーが提供する新しいAIベースの広告プロダクトが、顧客発見の経路をどのように再定義するかを予測することをも意味する。今期の課題は、既存のメディアプランが、短期的なパフォーマンスと、顧客の注目を集めるルールが必然的に変化する際に迅速に対応できる機動性とのバランスを適切に取れているか、という点にあるだろう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Performance focus creates brand fragility.",
+        "ja": "パフォーマンス偏重がブランドの脆さを作る。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo-based performance marketers and brand strategists reviewing Q3 media plans, this highlights the risks of over-reliance on platform-specific tactics in a rapidly evolving AI-driven discovery landscape.",
+        "ja": "第3四半期のメディアプランを見直す東京のパフォーマンスマーケターやブランド戦略担当者向けに、AI主導の発見が進化する中で、プラットフォーム固有の戦術への過度な依存がもたらすリスクを強調する。"
+      },
+      "vsJapanPlay": {
+        "en": "Unlike typical CyberAgent or Septeni performance plays optimized for specific platforms, this urges a broader strategy, acknowledging that even local platforms like LINE or Yahoo! JAPAN can introduce algorithmic shifts that destabilize campaigns.",
+        "ja": "サイバーエージェントやセプテーニによるプラットフォーム最適化型のパフォーマンス施策とは異なり、LINEやYahoo! JAPANのような国内プラットフォームでも、アルゴリズム変更がキャンペーンを不安定化させる可能性を認識し、より広範な戦略を促す。"
+      },
+      "tokyoTake": {
+        "en": "Japanese brands, often deeply integrated with LINE or Yahoo! JAPAN for performance, need to assess their exposure to algorithmic changes. While domestic platforms offer stability, underlying AI advancements could still redefine customer discovery, requiring a re-evaluation of brand-building versus pure performance spend.",
+        "ja": "LINEやYahoo! JAPANに深く依存する日本のブランドは、アルゴリズム変更への露出を評価すべきだ。国内プラットフォームは安定性を提供しつつも、AIの進化が顧客発見を再定義し、ブランド構築と純粋なパフォーマンス支出の再評価を迫るだろう。"
+      }
+    },
+    "source": {
+      "name": "MarTech.org",
+      "url": "https://martech.org/the-hidden-fragility-of-performance-marketing/"
+    },
+    "sourceGuid": "https://martech.org/?p=410219",
+    "status": "published"
+  },
+  {
     "slug": "stardust-journeys-launches-echoes-from-orbit-blending-orbital-light-art-with-ter",
     "category": "creative",
     "issue": "Vol. 01",
@@ -1925,8 +2547,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#08080a"
     },
     "title": {
       "en": "AI Output Quality Requires Organizational Strategy, Not Just Prompts",
@@ -2129,8 +2751,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "AI's Data Mandate: Accuracy Trumps Scale for Marketers",
@@ -2339,8 +2961,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1556656793-08538906a9f8?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0d"
     },
     "title": {
       "en": "Beyond AI Tools: The Call for a Coherent Marketing Strategy",
@@ -2541,8 +3163,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1717501218385-55bc3a95be94?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "AI Disclosure Labels Do Not Impair Ad Performance",
@@ -3151,8 +3773,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#08080a"
+      "src": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0b0b0d"
     },
     "title": {
       "en": "Google Links YouTube Ads to Walmart Sales",
@@ -4166,8 +4788,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0b0b0d"
+      "src": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101010"
     },
     "title": {
       "en": "B2B Signal Orchestration: Unifying Buyer Signals for Sales Readiness",
@@ -4566,8 +5188,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101010"
+      "src": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "German Court Ruling Poses Liability Risk for Google's AI Overviews",
@@ -5802,8 +6424,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1620712943543-26fab76e6f5d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0c"
+      "src": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#161616"
     },
     "title": {
       "en": "Aura Beverages Reimagines Creative Workflow with Hybrid AI-Assisted Model",
@@ -5904,8 +6526,8 @@
     "readingMinutes": 7,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1717501218385-55bc3a95be94?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1620712943543-26fab76e6f5d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0c"
     },
     "title": {
       "en": "Starfront Ventures Unveils Lunar Living Campaign",
@@ -6106,8 +6728,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#121212"
     },
     "title": {
       "en": "Coca-Cola Amplifies World Cup Emotions Beyond Product Messaging",
