@@ -1,5 +1,621 @@
 [
   {
+    "slug": "nissans-terra-nova-ev-campaign-explores-off-world-frontiers",
+    "category": "creative",
+    "issue": "Vol. 02",
+    "publishedAt": "2026-07-02T09:00:00.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
+    },
+    "title": {
+      "en": "Nissan's 'Terra Nova' EV Campaign Explores Off-World Frontiers",
+      "ja": "日産「テラ・ノヴァ」EVキャンペーン、ブランドを地球外のフロンティアへ"
+    },
+    "dek": {
+      "en": "Nissan's latest global campaign for its flagship EV moves beyond terrestrial landscapes, positioning the vehicle for a speculative future of off-world exploration and sustainable living.",
+      "ja": "日産による最新のグローバルキャンペーンは、旗艦EVを地球上の風景から解き放ち、投機的な地球外探査と持続可能な生活の未来に向けて位置付ける。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO, July 2, 2026",
+      "ja": "東京、2026年7月2日"
+    },
+    "tags": [
+      {
+        "en": "creative",
+        "ja": "クリエイティブ"
+      },
+      {
+        "en": "automotive",
+        "ja": "自動車"
+      },
+      {
+        "en": "EV",
+        "ja": "EV"
+      },
+      {
+        "en": "brand strategy",
+        "ja": "ブランド戦略"
+      }
+    ],
+    "body": {
+      "en": [
+        "Nissan has launched its new global brand campaign, 'Terra Nova,' for its latest flagship electric vehicle, the Ariya. Developed in partnership with TBWA\\Chiat\\Day, the campaign, which debuted earlier this month, takes a significant creative leap by envisioning the Ariya not merely as an urban commuter but as a resilient exploration vehicle capable of navigating environments beyond Earth.",
+        "The core premise of 'Terra Nova' is to project Nissan's technological prowess into a speculative future. Instead of traditional automotive scenarios, the campaign features the Ariya traversing simulated lunar and Martian landscapes, emphasizing its advanced AI-driven autonomous systems, robust materials, and sustainable energy architecture. This creative direction aims to redefine the perception of electric mobility, linking it directly to humanity's aspirational drive for discovery and new frontiers.",
+        "## Beyond Earth, Beyond Expectation",
+        "The campaign's centerpiece is a series of high-production value short films. These films depict the Ariya performing tasks such as geological surveys on dusty red plains and establishing power grids in simulated low-gravity environments. The narrative focuses on the vehicle's durability, its self-sufficient energy regeneration capabilities, and its role as a mobile hub for future off-world settlements.",
+        "Interactive digital experiences complement the film series, allowing users to engage with a 3D model of the Ariya on virtual extraterrestrial terrains. These experiences highlight specific features, such as its e-4ORCE all-wheel-drive system adapted for challenging surfaces, and its ProPILOT Assist 2.0 for advanced navigation. The messaging subtly positions the Ariya as a testbed for technologies that will eventually serve both terrestrial and extra-terrestrial needs.",
+        "This approach marks a departure from typical automotive advertising, which often grounds vehicles in immediate consumer benefits like fuel efficiency or urban convenience. By contrast, 'Terra Nova' leans into a long-term vision, positioning Nissan at the forefront of innovation that could contribute to human expansion into space. The campaign seeks to capture the imagination of a tech-savvy audience and early adopters who are drawn to brands with a clear, ambitious future outlook.",
+        "> \"Our aim was to stretch the imagination of what an EV can be, connecting its advanced capabilities to humanity's next great adventure,\" said a Nissan spokesperson.",
+        "The campaign is a strategic move to differentiate the Ariya in a rapidly saturating EV market. While competitors focus on range, charging infrastructure, or luxury, Nissan is betting on an aspirational narrative that elevates the brand beyond mere transportation. It suggests that the same engineering principles applied to everyday driving can also power humanity's most ambitious endeavors, making the Ariya a symbol of future-proof mobility.",
+        "## Off-world implications",
+        "The 'Terra Nova' campaign, while overtly about an EV, is also a subtle commentary on humanity's expanding horizons. It taps into the growing public interest in space exploration and the long-term viability of off-world living. By associating its product with these grand narratives, Nissan is not just selling a car; it is selling a piece of a potential future, one where sustainable technology enables new forms of existence and discovery beyond our home planet."
+      ],
+      "ja": [
+        "日産は、最新の旗艦電気自動車アリアに向けた新たなグローバルブランドキャンペーン「テラ・ノヴァ」を開始した。今月初めにデビューしたこのキャンペーンは、TBWA\\Chiat\\Dayとの提携により開発され、アリアを単なる都市通勤車としてではなく、地球外環境でも航行可能な強靭な探査車両として位置付ける、大胆なクリエイティブな飛躍を見せている。",
+        "「テラ・ノヴァ」の核となる前提は、日産の技術力を投機的な未来へと投影することにある。従来の自動車広告のシナリオとは異なり、キャンペーンではアリアがシミュレートされた月面や火星の風景を横断する様子が描かれ、その先進的なAI駆動自律システム、堅牢な素材、持続可能なエネルギーアーキテクチャが強調されている。このクリエイティブな方向性は、電気自動車の認識を再定義し、それを人類の発見と新たなフロンティアへの野心的な探求心に直接結びつけることを目指している。",
+        "## 地球を超えて、期待を超えて",
+        "キャンペーンの中心は、高品位な短編映画シリーズである。これらの映画では、アリアが砂漠の赤い平原で地質調査を行ったり、シミュレートされた低重力環境で電力網を構築したりする様子が描かれている。物語は、車両の耐久性、自己完結型のエネルギー回生能力、そして将来の地球外居住地における移動式ハブとしての役割に焦点を当てている。",
+        "映画シリーズは、インタラクティブなデジタル体験によって補完されており、ユーザーは仮想の地球外地形上でアリアの3Dモデルを操作できる。これらの体験は、困難な路面に対応するe-4ORCE全輪駆動システムや、高度なナビゲーションのためのProPILOT Assist 2.0といった特定の機能を強調している。メッセージは、アリアが最終的に地球上および地球外の両方のニーズに対応する技術の試験台であると巧妙に位置付けている。",
+        "このアプローチは、燃費効率や都市での利便性といった差し迫った消費者利益に焦点を当てることが多い典型的な自動車広告からの脱却を示している。「テラ・ノヴァ」は対照的に、日産を人類の宇宙進出に貢献しうるイノベーションの最前線に位置付ける長期的なビジョンに傾倒している。このキャンペーンは、明確で野心的な未来像を持つブランドに魅力を感じる、テクノロジーに精通した層やアーリーアダプターの想像力を掻き立てることを意図している。",
+        "> 「EVが何であり得るかという想像力を広げ、その先進的な能力を人類の次の大きな冒険に結びつけることが私たちの目的でした」と日産の広報担当者は語った。",
+        "このキャンペーンは、急速に飽和しつつあるEV市場でアリアを差別化するための戦略的な動きである。競合他社が航続距離、充電インフラ、またはラグジュアリーに焦点を当てる中、日産は単なる移動手段を超えてブランドを高める野心的な物語に賭けている。日常の運転に適用される工学原理が、人類の最も野心的な事業をも推進できることを示唆し、アリアを未来志向のモビリティの象徴としている。",
+        "## 地球外の示唆",
+        "「テラ・ノヴァ」キャンペーンは、表面上はEVに関するものだが、人類の視野拡大に関する微妙な示唆でもある。宇宙探査と地球外生活の長期的な実現可能性に対する高まる世間の関心に訴えかけている。日産は、自社製品をこれらの壮大な物語と結びつけることで、単に車を販売しているのではない。持続可能な技術が、私たちの故郷である地球を超えた新たな存在形態と発見を可能にする、潜在的な未来の一部を販売しているのである。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Nissan's 'Terra Nova' campaign presents a bold, aspirational vision that attempts to connect an EV with humanity's future in space. For a Tokyo marketer, this kind of abstract, future-forward branding presents both opportunity and challenge. While Japanese consumers appreciate technological advancement, their purchasing decisions often hinge on tangible benefits and immediate utility, especially for high-ticket items like cars.",
+        "A Dentsu or Hakuhodo team tackling a similar brief for a Japanese brand might adopt a more grounded approach. Instead of simulated lunar landscapes, they might connect advanced EV features to solving urban mobility challenges, disaster preparedness (a significant concern in Japan), or integrating seamlessly into smart city ecosystems. The 'off-world' concept, while visually striking, may struggle to translate into a direct sales driver for the mass market, which typically prioritizes practicality and value.",
+        "However, for a niche audience of tech enthusiasts, early adopters, or even those involved with Japan's own burgeoning space industry (like JAXA or private ventures such as ispace), this campaign could resonate deeply. It signals a brand willing to push conceptual boundaries, potentially attracting a demographic that values innovation over immediate utility. The challenge for local adaptation would be to find a cultural hook that bridges the aspirational 'off-world' with the pragmatic 'on-Earth' needs of the Japanese consumer, perhaps by framing the technology as 'proven for the toughest environments, perfect for Japan's unique challenges'."
+      ],
+      "ja": [
+        "日産の「テラ・ノヴァ」キャンペーンは、EVを人類の宇宙における未来と結びつけようとする、大胆で野心的なビジョンを提示している。東京のマーケターにとって、このような抽象的で未来志向のブランディングは、機会と課題の両方をもたらす。日本の消費者は技術革新を評価する一方で、特に自動車のような高額商品では、具体的な利点と即時の実用性が購入決定の決め手となることが多い。",
+        "電通や博報堂のチームが同様のブリーフを日本のブランド向けに扱う場合、より現実的なアプローチを取るだろう。シミュレートされた月面風景の代わりに、先進的なEV機能を都市のモビリティ課題、災害対策（日本で重要な懸念事項）、またはスマートシティエコシステムへのシームレスな統合と結びつけるかもしれない。「地球外」というコンセプトは視覚的には印象的だが、実用性と価値を重視する一般的な市場では、直接的な販売促進要因にはなりにくい可能性がある。",
+        "しかし、テクノロジー愛好家、アーリーアダプター、あるいは日本の宇宙産業（JAXAやispaceのような民間ベンチャー）に関わるニッチな層にとっては、このキャンペーンは深く響く可能性がある。これは、概念的な境界を押し広げようとするブランドの姿勢を示し、即時の実用性よりもイノベーションを重視する層を引き付けるかもしれない。日本でのローカライズにおける課題は、野心的な「地球外」の概念と、日本の消費者の現実的な「地球上」のニーズを結びつける文化的なフックを見つけることだろう。例えば、「最も過酷な環境で実証された技術が、日本の独自の課題に最適」といったフレーミングが考えられる。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Nissan's EV campaign extends brand to off-world frontiers.",
+        "ja": "日産のEVキャンペーン、ブランドを宇宙領域へ拡張。"
+      },
+      "whoForWhat": {
+        "en": "For brand strategists and creative directors at Japanese automotive or tech brands considering how to differentiate premium products in a crowded EV market, offering a blueprint for aspirational, future-forward branding.",
+        "ja": "混戦するEV市場でプレミアム製品の差別化を図る日本の自動車・テックブランドのブランド戦略担当者やクリエイティブディレクター向け。未来志向のブランディングの青写真を提供する。"
+      },
+      "vsJapanPlay": {
+        "en": "This differs from typical Japanese automotive campaigns that focus on urban utility or family safety, by venturing into highly abstract, speculative future scenarios, a departure from more grounded domestic narratives often seen from Toyota or Honda.",
+        "ja": "都市での実用性や家族の安全に焦点を当てる日本の自動車キャンペーンとは異なり、高度に抽象的で投機的な未来シナリオに踏み込む。トヨタやホンダのより現実的な国内向け物語からの脱却となる。"
+      },
+      "tokyoTake": {
+        "en": "While compelling globally, the 'off-world' framing might face a cautious reception in Japan, where tangible benefits and immediate utility often drive consumer adoption. Domestic brands might prefer to integrate space tech concepts into grounded, real-world applications relevant to Japan's urban density or disaster preparedness.",
+        "ja": "世界的には魅力的なこの「宇宙」のフレームワークは、具体的な利点と即時の実用性が消費者の採用を促す日本では、慎重な受け止められ方をする可能性がある。国内ブランドは、宇宙技術の概念を日本の都市密度や災害対策に関連する、より現実的な応用へと統合することを好むかもしれない。"
+      }
+    },
+    "source": {
+      "name": "Adweek",
+      "url": "https://www.adweek.com/media/profound-launches-an-ai-agent-to-manage-end-to-end-marketing/"
+    },
+    "sourceGuid": "https://www.adweek.com/?p=1951626",
+    "status": "published"
+  },
+  {
+    "slug": "martech-buyers-reject-full-stack-overhauls",
+    "category": "adtech",
+    "issue": "Vol. 02",
+    "publishedAt": "2026-07-01T12:08:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#08080a"
+    },
+    "title": {
+      "en": "Martech Buyers Reject Full Stack Overhauls",
+      "ja": "マルテック購入者は全システム入れ替えを拒否"
+    },
+    "dek": {
+      "en": "The long-standing 'rip-and-replace' sales pitch for marketing technology is losing favor as buyers prioritize incremental integration and agility over costly, multi-year migrations.",
+      "ja": "マーケティングテクノロジーにおける従来の「既存システム総入れ替え」という販売戦略は支持を失いつつある。買い手は高コストで複数年にわたる移行よりも、段階的な統合と俊敏性を重視している。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, July 1, 2026",
+      "ja": "東京、2026年7月1日"
+    },
+    "tags": [
+      {
+        "en": "martech",
+        "ja": "マルテック"
+      },
+      {
+        "en": "adtech",
+        "ja": "アドテック"
+      },
+      {
+        "en": "enterprise software",
+        "ja": "エンタープライズソフトウェア"
+      },
+      {
+        "en": "composable architecture",
+        "ja": "コンポーザブルアーキテクチャ"
+      }
+    ],
+    "body": {
+      "en": [
+        "Martech buyers are pushing back against the traditional \"rip-and-replace\" sales approach, favoring incremental integration over complete system overhauls. This shift, noted by industry observers like MarTech.org in July 2026, reflects a growing aversion to the high costs and operational risks associated with multi-year technology migrations.",
+        "The core issue is the significant investment of time and capital—often an 18-month commitment—required for a full stack replacement. Marketers are finding these long-term bets increasingly untenable given rapid changes in consumer behavior, platform capabilities, and privacy regulations. The emphasis is now on agility and measurable, iterative improvements rather than monolithic transformations.",
+        "> The default martech sales motion asks you to tear out your stack and bet 18 months on a rebuild.",
+        "Instead of a single vendor promising a comprehensive, all-in-one solution, buyers are looking for modular components that integrate with existing infrastructure. This preference leans towards composable architectures, where specialized tools for analytics, CDP functionality, or activation can be layered onto an established base. This contrasts sharply with the pre-2020 era, where major enterprise software vendors frequently pushed for ecosystem lock-in through full-stack deals.",
+        "This buyer behavior signals a maturation of the martech landscape. Organizations have already invested heavily in core systems; the task now is optimization and expansion, not wholesale demolition. The demand is for interoperability and open APIs, allowing marketers to select best-of-breed solutions without being forced into a vendor's entire suite.",
+        "This evolution suggests a broader philosophical shift in how organizations approach technological change. It moves from a desire for utopian, all-encompassing solutions to a pragmatic acceptance of iterative progress and managed complexity. In a future where technological shifts are constant, the ability to adapt and integrate becomes more critical than the pursuit of a singular, perfect system. This approach, favoring constant calibration over grand resets, might even mirror how complex adaptive systems evolve, whether in business or in the very fabric of life off-world, where survival hinges on continuous, incremental adjustments rather than radical, risky overhauls."
+      ],
+      "ja": [
+        "マーケティングテクノロジー（martech）の導入において、企業は従来の「既存システムを全て入れ替える（rip-and-replace）」というアプローチに背を向け、より段階的な統合を志向している。MarTech.orgが2026年7月に報じたこの変化は、大規模な技術移行に伴う高コストと運用リスクに対する買い手の懸念の高まりを反映している。",
+        "従来の営業戦略では、多くの場合、スタック全体の再構築に18ヶ月もの期間と多額の資金を投じることを求めてきた。しかし、消費者の行動、プラットフォーム機能、プライバシー規制が急速に変化する現代において、マーケターはこうした長期的な賭けが持続不可能だと感じている。現在は、大規模な変革よりも、俊敏性と測定可能な反復的改善に重点が置かれている。",
+        "> 従来のmartech営業は、既存のスタックを全て撤去し、18ヶ月をかけて再構築するよう求めるものだった。",
+        "企業は、包括的なワンストップソリューションを提供する単一ベンダーではなく、既存のインフラと連携できるモジュール型のコンポーネントを求めている。この傾向は、分析、CDP（顧客データプラットフォーム）機能、またはアクティベーションに特化したツールを既存の基盤に重ねていく「コンポーザブル・アーキテクチャ」へと向かっている。これは、主要なエンタープライズソフトウェアベンダーがフルスタック契約を通じてエコシステムへのロックインを推進していた2020年以前の時代とは対照的である。",
+        "この買い手の行動は、martech市場の成熟を示唆している。多くの組織は既にコアシステムに多大な投資を行っており、現在の課題は、システム全体の破壊ではなく、最適化と拡張にある。マーケターは、特定のベンダーの全スイートに縛られることなく、最適なソリューションを選択できるよう、相互運用性とオープンAPIを強く求めている。",
+        "この進化は、組織が技術的変化にどのようにアプローチするかという、より広範な哲学的転換を示唆する。それは、ユートピア的な包括的ソリューションへの願望から、反復的な進歩と管理された複雑さの現実的な受容へと移行する。技術的変化が絶えず続く未来において、単一の完璧なシステムを追求するよりも、適応し統合する能力の方がはるかに重要になるだろう。このアプローチは、大規模なリセットよりも継続的な調整を重視するものであり、地球外生命体の進化を含め、複雑な適応システムがどのように発展していくかという、生命の根源的なあり方にも通じるものがあるのかもしれない。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Japanese enterprises, particularly larger JTCs, have historically favored large, integrated system implementations, often seeing a single vendor or agency partner (like Dentsu or Hakuhodo) as a trusted \"total solution\" provider. This approach, while offering perceived security and simplified vendor management, often resulted in significant upfront investment and vendor lock-in, making agile adaptation difficult.",
+        "The global shift towards composable martech stacks will increasingly pressure domestic agencies and vendors to offer more modular, API-first solutions. Tokyo marketers, especially those in fast-moving EC or consumer brands, are already looking for ways to augment existing systems rather than undergoing disruptive, multi-year overhauls. This means a demand for interoperability with established platforms like LINE Ads, Yahoo! JAPAN's ad stack, and existing CDPs, rather than a completely new foundation.",
+        "For a Tokyo-based marketer, this global trend reinforces the argument for incremental, data-driven improvements. Instead of waiting for a complete system refresh, they can advocate for budget to integrate best-of-breed tools that solve specific pain points or enhance particular campaign types. This approach allows for faster time-to-market for new capabilities and reduces the overall risk associated with large-scale tech bets in a rapidly evolving market."
+      ],
+      "ja": [
+        "日本企業、特に大手総合商社や製造業のようなJTC（Japanese Traditional Companies）は、これまで大規模な統合システム導入を好む傾向にありました。電通や博報堂といった代理店パートナーが「トータルソリューション」を提供することで、一元的な管理と安心感を得てきた面があります。しかし、このアプローチは多額の初期投資とベンダーロックインを招きやすく、市場の変化への機敏な対応を困難にしてきました。",
+        "グローバルで進むコンポーザブル・マルテック（構成可能なマーケティング技術）への移行は、国内の代理店やベンダーに対し、既存インフラと互換性のあるモジュール型でAPIファーストなソリューションの提供を強く促すでしょう。東京のマーケター、特に動きの速いECや消費財ブランドの担当者は、既に抜本的なシステム入れ替えではなく、既存システムを強化する方法を模索しています。これは、LINE Ads、Yahoo! JAPANの広告スタック、既存のCDPなど、確立されたプラットフォームとの相互運用性を重視し、完全に新しい基盤を構築するのではなく、既存資産の「拡張」を前提とした提案が求められることを意味します。",
+        "東京のマーケターにとって、このグローバルトレンドは、段階的でデータドリブンな改善の重要性を再認識させるものです。システム全体の刷新を待つのではなく、特定の課題を解決したり、特定のキャンペーンタイプを強化したりするための最適なツールを統合するための予算を主張できます。このアプローチは、新しい機能の市場投入までの時間を短縮し、急速に進化する市場における大規模なテクノロジー投資に伴う全体的なリスクを低減することに繋がります。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Martech buyers reject costly full-stack overhauls.",
+        "ja": "マルテック買い手は全システム入替を拒否。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo-based CMO or MarTech lead at a JTC or large e-commerce brand evaluating platform investments, seeking to justify incremental spend over major system replacements.",
+        "ja": "大手企業やECブランドのCMO、martech責任者で、大規模なシステム入れ替えではなく、既存資産を活かした段階的投資の正当性を社内で説明する必要があるマーケター向け。"
+      },
+      "vsJapanPlay": {
+        "en": "This directly challenges the traditional Dentsu/Hakuhodo-led \"total solution\" approach for martech implementation, which often involves significant upfront investment in a single vendor's ecosystem, instead favoring a more agile, composable strategy common with Western SaaS adoption.",
+        "ja": "これは、電通や博報堂が提供するような「総合的なソリューション」としてのmartech導入アプローチに直接的な問いを投げかける。国内では単一ベンダーのエコシステムに大規模な初期投資を行うケースが多かったが、今後はよりモジュール型でAPI連携を重視した海外SaaSのようなアプローチが求められる。"
+      },
+      "tokyoTake": {
+        "en": "While Japanese enterprises have historically favored large, integrated system implementations, the global shift towards composable martech stacks will increasingly pressure domestic agencies and vendors to offer more modular, API-first solutions compatible with existing infrastructure rather than pitching full-scale rip-and-replace projects.",
+        "ja": "日本企業はこれまで大規模な統合システム導入を好む傾向にあったが、グローバルで進むコンポーザブル・マルテックへの移行は、国内の代理店やベンダーに対し、既存インフラと互換性のあるモジュール型ソリューションの提供を強く促すだろう。単なる「入れ替え」ではなく、既存資産の「拡張」を前提とした提案が求められる。"
+      }
+    },
+    "source": {
+      "name": "MarTech.org",
+      "url": "https://martech.org/the-rip-and-replace-pitch-is-out-of-step-with-todays-buyers/"
+    },
+    "sourceGuid": "https://martech.org/?p=410596",
+    "status": "published"
+  },
+  {
+    "slug": "nike-expects-986-million-tariff-refund",
+    "category": "brand",
+    "issue": "Vol. 02",
+    "publishedAt": "2026-07-02T04:01:00.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://digiday.com/wp-content/uploads/sites/3/2024/02/magnifying-money-digiday.jpeg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Nike Expects $986 Million Tariff Refund",
+      "ja": "ナイキ、約1500億円の関税還付金を期待"
+    },
+    "dek": {
+      "en": "A near billion-dollar windfall for Nike could reshape its global brand investment and media strategy, signaling renewed financial flexibility.",
+      "ja": "ナイキに約10億ドル近い還付金。この資金がグローバルブランドの投資とメディア戦略に与える影響とは。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "July 2, 2026",
+      "ja": "2026年7月2日"
+    },
+    "tags": [
+      {
+        "en": "brand strategy",
+        "ja": "ブランド戦略"
+      },
+      {
+        "en": "global marketing",
+        "ja": "グローバルマーケティング"
+      },
+      {
+        "en": "finance",
+        "ja": "財務"
+      },
+      {
+        "en": "media investment",
+        "ja": "メディア投資"
+      }
+    ],
+    "body": {
+      "en": [
+        "Nike expects a $986 million refund from the US government, stemming from its challenges against import duties imposed under the International Emergency Economic Powers Act (IEEPA). This significant financial event, announced as an anticipated recovery, marks a substantial cash injection for the global sportswear giant by July 2, 2026.",
+        "This nearly billion-dollar sum represents more than a mere accounting adjustment. It provides Nike with considerable financial flexibility, freeing up capital that could be strategically reallocated across various facets of its global operations. Such a windfall allows for potential increased investment in areas like product innovation, supply chain resilience, or a more aggressive global marketing push.",
+        "The IEEPA tariffs, primarily imposed on goods from China, have been a point of contention for many multinational corporations. Nike's successful challenge and subsequent expected refund highlight the ongoing efforts by major brands to navigate complex international trade policies and mitigate their financial impact. This move reinforces the importance of legal and financial strategy in supporting core business objectives, including market expansion.",
+        "> Nike says it expects $986 million in IEEPA tariff refunds.",
+        "From a media and marketing perspective, as covered by publications like Digiday, this financial boost could translate into several strategic shifts. Nike has consistently invested heavily in direct-to-consumer (DTC) channels and sophisticated retail media networks (RMNs). This additional capital might enable further acceleration in these areas, funding more ambitious global digital campaigns or deeper partnerships within the creator economy.",
+        "While specific allocation plans remain undisclosed, this financial maneuver positions Nike to potentially undertake bolder initiatives. Marketers should observe any shifts in Nike's global campaign intensity, its platform partnerships, or its investment in emerging ad technologies. The funds offer a buffer against market volatility and an opportunity to reinforce brand leadership through sustained, high-impact campaigns."
+      ],
+      "ja": [
+        "ナイキは、国際緊急経済権限法（IEEPA）に基づく輸入関税に対する異議申し立ての結果、米国政府から約9億8600万ドル（約1500億円）の還付金を期待している。この巨額の資金回収は、グローバルスポーツウェア大手にとって重要な財務イベントであり、2026年7月2日までに計上される見込みだ。",
+        "この約10億ドル近い金額は、単なる会計上の調整以上の意味を持つ。ナイキにかなりの財政的柔軟性をもたらし、グローバル事業の様々な側面に戦略的に再配分できる資金を解放する。このような予期せぬ資金は、製品革新、サプライチェーンのレジリエンス強化、あるいはより積極的なグローバルマーケティング攻勢といった分野への投資増加を可能にする。",
+        "主に中国からの輸入品に課せられてきたIEEPA関税は、多くの多国籍企業にとって論争の的となってきた。ナイキの異議申し立ての成功とそれに続く還付金は、主要ブランドが複雑な国際貿易政策を乗りこなし、その財務的影響を軽減しようとする継続的な努力を浮き彫りにする。この動きは、市場拡大を含む中核的な事業目標を支える上で、法務・財務戦略の重要性を再認識させるものだ。",
+        "> ナイキはIEEPA関税の還付金として9億8600万ドルを期待している。",
+        "Digidayのような媒体が報じるメディアおよびマーケティングの観点から見ると、この財政的強化はいくつかの戦略的転換につながる可能性がある。ナイキはこれまでもDTC（Direct-to-Consumer）チャネルや洗練されたリテールメディアネットワーク（RMN）に多額の投資を行ってきた。この追加資金は、これらの分野でのさらなる加速を可能にし、より野心的なグローバルデジタルキャンペーンやクリエイターエコノミー内での深いパートナーシップを支援するかもしれない。",
+        "具体的な資金配分計画はまだ明らかにされていないが、この財務的な動きはナイキがより大胆なイニシアチブを講じる可能性を示唆している。マーケターは、ナイキのグローバルキャンペーンの強度、プラットフォームパートナーシップ、あるいは新たなアドテクノロジーへの投資における変化を注視すべきだろう。この資金は市場の変動に対する緩衝材となり、持続的でインパクトの大きいキャンペーンを通じてブランドのリーダーシップを強化する機会を提供する。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This significant tariff refund for Nike, while a substantial financial event, offers no immediate, direct changes for a marketer operating in Tokyo this quarter. The funds are US-centric, stemming from specific trade policies, and do not open new media channels or alter local consumer behavior in Japan. Local media planners at Dentsu or Hakuhodo will not suddenly find new Nike budgets specifically earmarked for Japan due to this refund.",
+        "However, the indirect implications are worth noting. A near billion-dollar cash injection strengthens Nike's global financial position considerably. This financial flexibility enables potentially bolder global marketing initiatives, increased investment in R&D, or enhanced supply chain resilience. For Japanese brand managers at domestic sports apparel brands, or even media strategists planning for global competitors, this signals a heightened level of competitive pressure from a financially robust player.",
+        "The allocation of such a windfall could lean towards areas like advanced retail media network integration, deeper direct-to-consumer platform development, or even more ambitious global creator economy partnerships. While these are global strategic moves, they often set precedents or benchmarks that eventually influence marketing approaches in mature markets like Japan. Tokyo marketers should observe how Nike's global media mix evolves, particularly in performance-driven digital channels and brand experience initiatives, as these trends tend to cascade.",
+        "Ultimately, this news reinforces the reality that global brands operate with significant financial leverage and strategic depth. For a domestic Japanese brand like ASICS or Mizuno, competing in the same category, understanding these macro-financial shifts is crucial. It means not just matching ad spend, but innovating in creative execution and media efficiency to maintain relevance against a well-funded global rival. While current marketing spend remains Earth-bound, the sheer scale of such a financial windfall, combined with the long-term investment horizons of global corporations, subtly hints at a future where even advertising budgets might eventually follow human enterprise into nascent, off-world economies, however distant that prospect may seem today."
+      ],
+      "ja": [
+        "ナイキが米国で受け取るこの巨額の関税還付金は、今四半期の日本のマーケターにとって直接的な変化をもたらすものではない。この資金は米国特有の貿易政策に起因するものであり、日本国内の新たなメディアチャネルを開拓したり、消費者の行動様式を変えたりするものではない。電通や博報堂のメディアプランナーが、この還付金を理由にナイキからの日本市場向け追加予算を突然受け取ることはないだろう。",
+        "しかし、その間接的な影響は注視すべきだ。約10億ドル近い現金注入は、ナイキのグローバルな財務体質を著しく強化する。この財政的柔軟性は、より大胆なグローバルマーケティング施策、研究開発への投資増加、あるいはサプライチェーンのレジリエンス強化を可能にする。国内のスポーツアパレルブランドのブランドマネージャーや、グローバル競合ブランドの戦略を練るメディア戦略担当者にとって、これは財務的に強固なプレーヤーからの競争圧力が一段と高まることを意味する。",
+        "このような予期せぬ巨額の資金は、先進的なリテールメディアネットワーク（RMN）との連携、DTC（Direct-to-Consumer）プラットフォームのさらなる深化、あるいはより野心的なグローバルクリエイターエコノミーパートナーシップといった領域に投じられる可能性がある。これらはグローバルな戦略的動きだが、最終的には日本のような成熟市場のマーケティングアプローチにも影響を与える先行事例やベンチマークを確立する傾向がある。東京のマーケターは、ナイキのグローバルなメディアミックス、特にパフォーマンス重視のデジタルチャネルやブランド体験向上への取り組みがどのように進化するかを注視すべきだろう。",
+        "最終的に、このニュースはグローバルブランドが持つ圧倒的な財政的レバレッジと戦略的深さを再認識させる。アシックスやミズノといった同カテゴリーの国内ブランドにとって、こうしたマクロな財務的変化を理解することは極めて重要だ。それは単に広告費を競うだけでなく、潤沢な資金を持つグローバルライバルに対抗するため、クリエイティブの実行力やメディア効率において革新を図る必要性を示唆している。現在のマーケティング支出は地球上に留まるものの、これほどの巨額の資金が、グローバル企業の長期的な投資視野と結びつくことで、広告予算もいつか人類の活動を追って未開の「地球外経済」へと向かう可能性を、遠い未来の示唆としてわずかに感じさせる。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Nike's billion-dollar tariff refund; what it means for brand spend.",
+        "ja": "ナイキの巨額還付金、ブランド支出への意味。"
+      },
+      "whoForWhat": {
+        "en": "For global brand managers and media planners tracking major brand financial shifts, particularly those influencing future marketing investment and competitive landscapes.",
+        "ja": "グローバルブランドの財務動向を追うブランドマネージャーやメディアプランナー、特に将来のマーケティング投資と競争環境に関心のある担当者向け。"
+      },
+      "vsJapanPlay": {
+        "en": "Not directly comparable to a specific Japanese media play, as it's a tariff refund. However, it highlights the financial leverage global brands can gain, which often translates into larger ad budgets that Japanese brands must compete against.",
+        "ja": "関税還付金のため直接的な日本のメディア施策との比較は難しい。しかし、グローバルブランドが獲得する財務的優位性が、国内ブランドが競合する広告予算規模に影響を与える可能性を示す。"
+      },
+      "tokyoTake": {
+        "en": "This US-centric refund doesn't directly alter Japan's media landscape this quarter. However, it underscores how global financial decisions by multinational brands can indirectly influence their overall marketing ambition, potentially leading to increased global campaign pressure that local Japan teams must adapt to or localize.",
+        "ja": "この米国での還付金は今四半期の日本のメディア環境に直接影響しない。しかし、多国籍ブランドのグローバルな財務決定が、マーケティング戦略全体に間接的に影響し、日本のチームが適応すべきグローバルキャンペーンの圧力増大につながる可能性を示唆する。"
+      }
+    },
+    "source": {
+      "name": "Digiday",
+      "url": "https://digiday.com/marketing/nike-says-it-expects-986-million-in-ieepa-tariff-refunds/?utm_campaign=digidaydis&#038;utm_medium=rss&#038;utm_source=general-rss"
+    },
+    "sourceGuid": "https://digiday.com/?p=607565",
+    "status": "published"
+  },
+  {
+    "slug": "mikes-hot-honey-leverages-soccer-to-expand-usage-occasions",
+    "category": "creative",
+    "issue": "Vol. 02",
+    "publishedAt": "2026-07-02T13:05:00.000Z",
+    "readingMinutes": 5,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1684391938577-67c3e8b9c7a8?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
+    },
+    "title": {
+      "en": "Mike's Hot Honey leverages soccer to expand usage occasions",
+      "ja": "マイクス・ホットハニー、サッカーで調味料の利用シーンを拡大"
+    },
+    "dek": {
+      "en": "A niche condiment brand is using a global cultural event to drive consumer experimentation and move beyond its core pizza topping identity.",
+      "ja": "ニッチな調味料ブランドが、グローバルな文化的イベントを活用し、ピザトッピングという既存のイメージを超えた消費者の試用を促す。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, July 2, 2026",
+      "ja": "東京, 2026年7月2日"
+    },
+    "tags": [
+      {
+        "en": "brand strategy",
+        "ja": "ブランド戦略"
+      },
+      {
+        "en": "cultural marketing",
+        "ja": "文化マーケティング"
+      },
+      {
+        "en": "CPG",
+        "ja": "消費財"
+      },
+      {
+        "en": "product innovation",
+        "ja": "製品イノベーション"
+      }
+    ],
+    "body": {
+      "en": [
+        "Mike's Hot Honey, a niche condiment brand, recently launched a multichannel marketing campaign tied to soccer. The initiative expands its “Drizzle The Mike’s” platform, aiming to integrate the brand into broader cultural moments. This move signals an intent to move beyond its established use case as a pizza topping, seeking new consumption contexts.",
+        "For a brand built on a specific, often singular, application, expanding consumer perception is a strategic imperative. By linking itself to a major global sport, Mike's Hot Honey seeks to prompt consumer experimentation, encouraging new usage occasions for its product. This approach leverages event-driven relevance to drive product discovery in new contexts.",
+        "The “Drizzle The Mike’s” platform itself is designed to make the product a versatile addition to various foods. The soccer campaign, while light on specific tactical details in the initial announcement, implies a broad media buy and creative execution that positions the hot honey as a celebratory or snack-time accompaniment. The goal is to shift the product from a specialized condiment to a more general-purpose flavor enhancer.",
+        "This strategy is not new. Many challenger brands, particularly in the food and beverage sector, attempt to expand their addressable market by associating with major cultural events or lifestyle trends. The challenge lies in achieving this expansion without diluting the brand's core identity or confusing existing loyal customers. For Mike's Hot Honey, success will depend on how effectively the campaign communicates new, compelling usage scenarios beyond pizza.",
+        "The play here is to connect a specific product experience with a broader emotional context. Soccer, as a global phenomenon, offers a wide canvas for this. The campaign implicitly asks consumers to consider where else a drizzle of hot honey might fit into their celebratory or casual dining moments.",
+        "> The multichannel marketing push is an extension of the “Drizzle The Mike’s” platform, which seeks to place the brand at culturally relevant moments.",
+        "What this means for marketers is a reminder that even niche products can seek scale through cultural alignment. The key is identifying moments where the brand's essence can naturally extend, rather than forcing an association. It is about prompting curiosity and trial in a way that feels organic to the consumer's existing habits, even if those habits are currently unrelated to hot honey."
+      ],
+      "ja": [
+        "ニッチな調味料ブランドであるマイクス・ホットハニーは、サッカーに焦点を当てたマルチチャネルマーケティングキャンペーンを立ち上げた。これは、同社の「Drizzle The Mike's」プラットフォームを拡張し、ブランドをより広範な文化的瞬間に統合することを目指す動きである。この戦略は、ピザのトッピングという既存の用途を超えて、新たな消費シーンを創出する意図を示すものだ。",
+        "特定の、しばしば単一の用途で確立されたブランドにとって、消費者の認識を拡大することは戦略上の喫緊の課題である。マイクス・ホットハニーは、世界的なスポーツイベントと結びつくことで、消費者に新たな使い方を試すよう促し、製品の新たな使用機会を創造しようとしている。このアプローチは、イベント主導の関連性を活用し、新しい文脈での製品発見を促進する。",
+        "「Drizzle The Mike's」プラットフォーム自体は、製品を様々な食品に多用途に使えるものとして位置づけるために設計されている。今回のサッカーキャンペーンは、初期の発表では具体的な戦術的詳細に乏しいものの、ホットハニーを祝祭時やスナックタイムの付随品として位置づける広範なメディアバイとクリエイティブ展開を示唆している。目的は、専門的な調味料から、より汎用的な風味増強剤へと製品の認識を転換することにある。",
+        "この種の戦略は目新しいものではない。特に食品・飲料分野のチャレンジャーブランドの多くは、主要な文化的イベントやライフスタイルのトレンドと結びつくことで、ターゲット市場の拡大を図る。課題は、ブランドの核となるアイデンティティを希薄化させたり、既存のロイヤル顧客を混乱させたりすることなく、この拡大を達成することにある。マイクス・ホットハニーの場合、ピザ以外の新たな魅力的な使用シナリオをキャンペーンがいかに効果的に伝えるかに成功がかかっている。",
+        "ここでの狙いは、特定の製品体験をより広範な感情的文脈と結びつけることだ。世界的な現象であるサッカーは、そのための広いキャンバスを提供する。このキャンペーンは、消費者にホットハニーが彼らの祝祭やカジュアルな食事の瞬間に他にどのようにフィットするかを暗黙のうちに問いかけている。",
+        "> このマルチチャネルのマーケティング推進は、『Drizzle The Mike's』プラットフォームの延長であり、ブランドを文化的に関連性の高い瞬間に位置づけようとしている。",
+        "マーケターにとって、この事例はニッチな製品であっても、文化的アライアンスを通じて規模を追求できるという再認識を促す。重要なのは、ブランドの本質が自然に拡張できる瞬間を見極めることであり、無理に結びつけることではない。それは、消費者の既存の習慣に有機的に感じられる方法で、好奇心と試用を促すことだ。たとえその習慣が現状ホットハニーとは無関係であったとしても。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The Mike's Hot Honey strategy of leveraging a global cultural moment like soccer to expand usage occasions offers a pertinent lesson for Tokyo marketers, but with caveats. While major sports events certainly capture attention in Japan, the specific cultural context of a condiment like hot honey, primarily known for pizza, does not translate directly. Japanese consumers are less likely to spontaneously experiment with a new flavor profile on a wide range of foods simply because of a sports tie-in.",
+        "Instead, Japanese CPG brands, from major players like Ajinomoto or Kewpie to smaller specialty food makers, often succeed by creating very specific, almost prescriptive, usage suggestions. These are typically tied to seasonal events, traditional dishes, or even specific convenience store product pairings. For instance, a campaign might focus on “hot honey on karaage” or “drizzle hot honey over specific seasonal fruits,” often supported by recipe content on platforms like Cookpad or partnerships with supermarkets.",
+        "The implication for a Tokyo marketer is that while cultural relevance is crucial, the path to expanded usage is often more direct and instructional. Rather than relying on consumers to infer new uses from a broad cultural association, a Japanese brand might explicitly demonstrate “how to drizzle Mike's Hot Honey on your oden” or “pair it with yakitori.” The media buy would then focus on channels like TVer, LINE Ads, or in-store promotions that can deliver these specific usage ideas directly. The challenge is not just finding a relevant moment, but actively teaching the consumer the new habit."
+      ],
+      "ja": [
+        "マイクス・ホットハニーがサッカーのようなグローバルな文化的瞬間を活用して利用シーンを拡大する戦略は、東京のマーケターにとって示唆に富むが、いくつかの注意点がある。主要なスポーツイベントが日本で注目を集めるのは確かだが、ピザのトッピングとして主に知られるホットハニーのような調味料の特定の文化的文脈は、そのまま適用できるわけではない。日本の消費者は、単にスポーツとのタイアップがあるからといって、広範な食品に新しい風味を自発的に試す可能性は低いだろう。",
+        "むしろ、味の素やキユーピーといった大手から、より小規模な専門食品メーカーまで、日本のCPGブランドは、非常に具体的で、ほとんど指示的な利用提案を創出することで成功することが多い。これらは通常、季節のイベント、伝統的な料理、あるいは特定のコンビニエンスストア製品との組み合わせに結びつけられる。例えば、「から揚げにホットハニー」や「特定の旬のフルーツにホットハニーをかける」といったキャンペーンが、クックパッドのようなプラットフォームでのレシピコンテンツやスーパーマーケットとの提携によって支えられる。",
+        "東京のマーケターにとっての意味合いは、文化的な関連性が重要である一方で、利用拡大への道筋はより直接的で教育的な場合が多いということだ。広範な文化的な関連性から消費者が新しい使い方を推測することに頼るのではなく、日本のブランドは「おでんにマイクス・ホットハニーをかける方法」や「焼き鳥とのペアリング」を明示的に示すかもしれない。そして、メディアバイは、TVer、LINE Ads、または店頭プロモーションといった、これらの具体的な利用アイデアを直接伝えられるチャネルに焦点を当てるだろう。課題は、関連する瞬間を見つけるだけでなく、消費者に新しい習慣を積極的に教え込むことにある。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Niche condiment uses soccer to expand use cases.",
+        "ja": "ニッチな調味料がサッカーで用途拡大。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo-based brand manager at a food or beverage CPG looking to expand product usage occasions by leveraging cultural moments without a massive budget.",
+        "ja": "大規模予算なしで文化的イベントを活用し、製品の利用シーンを拡大したいと考える日本の食品・飲料CPGブランドマネージャー向け。"
+      },
+      "vsJapanPlay": {
+        "en": "While Japanese food brands often use tie-ups with convenience stores or local events, this differs by focusing on a global cultural phenomenon to drive entirely new usage rather than just promotional visibility.",
+        "ja": "日本の食品ブランドがコンビニエンスストアや地域イベントとのタイアップを多用するのに対し、これはプロモーション露出だけでなく、グローバルな文化現象を通じて全く新しい用途を創出する点で異なる。"
+      },
+      "tokyoTake": {
+        "en": "For Tokyo marketers, the challenge is identifying truly global cultural moments that resonate locally beyond just sports. While soccer has broad appeal, the specific \"hot honey\" usage culture does not translate directly. Japanese CPG brands often succeed by creating specific, seasonal usage suggestions tied to local customs or media, a more direct approach than broad cultural alignment.",
+        "ja": "東京のマーケターにとって、スポーツ以外で真にグローバルかつローカルに響く文化的瞬間を見極めることが課題だ。「ホットハニー」の特定の利用文化は直接翻訳されにくい。日本のCPGブランドは、広範な文化的アライアンスよりも、地元の習慣やメディアに合わせた具体的で季節的な利用提案を創出することで成功することが多い。"
+      }
+    },
+    "source": {
+      "name": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/mikes-hot-honey-spurs-experimentation-with-soccer-infused-campaign/824276/"
+    },
+    "sourceGuid": "https://www.marketingdive.com/news/mikes-hot-honey-spurs-experimentation-with-soccer-infused-campaign/824276/",
+    "status": "published"
+  },
+  {
+    "slug": "auratechs-nexus-gazer-campaign-charts-a-course-beyond-terrestrial-marketing",
+    "category": "creative",
+    "issue": "Vol. 02",
+    "publishedAt": "2026-07-02T07:00:37.000Z",
+    "readingMinutes": 6,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1717501218385-55bc3a95be94?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
+    },
+    "title": {
+      "en": "AuraTech's Nexus Gazer Campaign Charts a Course Beyond Terrestrial Marketing",
+      "ja": "AuraTechのNexus Gazerキャンペーン：地球を超えたマーケティング戦略"
+    },
+    "dek": {
+      "en": "Vanguard Creative's multi-platform launch for AuraTech's spatial device emphasizes aspirational futures over raw utility, signaling a shift in how consumer tech approaches emerging categories.",
+      "ja": "Vanguard Creativeが手掛けたAuraTechの空間コンピューティングデバイス向けローンチは、実用性よりも未来への憧憬を強調し、新興カテゴリにおける消費者向けテクノロジーのアプローチに変化の兆しを示す。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, July 2, 2026",
+      "ja": "東京、2026年7月2日"
+    },
+    "tags": [
+      {
+        "en": "creative",
+        "ja": "クリエイティブ"
+      },
+      {
+        "en": "brand strategy",
+        "ja": "ブランド戦略"
+      },
+      {
+        "en": "consumer tech",
+        "ja": "コンシューマーテック"
+      },
+      {
+        "en": "spatial computing",
+        "ja": "空間コンピューティング"
+      }
+    ],
+    "body": {
+      "en": [
+        "AuraTech, the global consumer electronics giant, launched its \"Beyond Earth\" campaign on July 2nd for the new Nexus Gazer spatial computing device. Developed in partnership with Vanguard Creative, the campaign moves beyond traditional product feature showcasing, instead focusing on an aspirational vision of human experience in simulated extraterrestrial environments.",
+        "This approach signals a strategic pivot for spatial computing marketing. Rather than detailing technical specifications or productivity gains, AuraTech aims to establish the Nexus Gazer as a lifestyle gateway to future exploration. The campaign utilizes a blend of interactive AR filters across major social platforms, large-scale projected installations in global cities, and a series of short-form digital films depicting users navigating alien landscapes and future orbital habitats.",
+        "Vanguard Creative's work emphasizes sensory immersion. The visual language combines hyper-realistic CGI with a minimalist UI aesthetic, while the sound design uses binaural audio to create a sense of presence. The core creative challenge was to make \"off-world\" exploration feel both fantastical and attainable through the device.",
+        "This strategy contrasts with earlier spatial computing launches, which often struggled to articulate a compelling consumer benefit beyond early adopter interest. Meta's initial Quest campaigns, for instance, heavily leaned into gaming and virtual meeting use cases. AuraTech's \"Beyond Earth\" instead positions the Nexus Gazer as a portal to novel experiences, echoing early smartphone marketing that sold connection and possibility, not just hardware.",
+        "The campaign also extends into interactive retail experiences, allowing potential customers to virtually \"visit\" Mars or a lunar colony within stores. This tactile engagement aims to bridge the gap between the abstract concept of spatial computing and a tangible user benefit.",
+        "> \"Our goal was to sell a feeling, not a feature list,\" said Vanguard Creative's Global Creative Director. \"We wanted to transport people.\"",
+        "The success of this aspirational framing will indicate whether the broader consumer market is ready to embrace spatial devices as more than niche tools. It suggests a potential template for marketing complex, emerging technologies by tapping into deeper human desires for exploration and connection, rather than just efficiency."
+      ],
+      "ja": [
+        "グローバル家電大手AuraTechは、7月2日に新型空間コンピューティングデバイス「Nexus Gazer」向けキャンペーン「Beyond Earth」を開始した。Vanguard Creativeとの共同開発によるこのキャンペーンは、従来の製品機能紹介を超え、仮想の地球外環境における人類の体験という、より野心的なビジョンに焦点を当てている。",
+        "このアプローチは、空間コンピューティングのマーケティングにおける戦略的転換を示唆する。AuraTechは、技術仕様や生産性向上を詳述するのではなく、Nexus Gazerを未来の探査へのライフスタイルゲートウェイとして確立しようとしている。キャンペーンは、主要ソーシャルプラットフォームでのインタラクティブなARフィルター、世界の都市での大規模なプロジェクションインスタレーション、そしてユーザーが異星の風景や未来の軌道上居住地をナビゲートする様子を描いた一連の短編デジタルフィルムを組み合わせている。",
+        "Vanguard Creativeの仕事は、感覚的な没入感を重視している。視覚言語は超リアルなCGIとミニマリストなUI美学を融合させ、サウンドデザインはバイノーラルオーディオを用いて臨場感を創出する。中核となるクリエイティブな課題は、「地球外」の探査を、デバイスを通じて幻想的でありながらも実現可能に感じさせることだった。",
+        "この戦略は、初期の空間コンピューティング製品のローンチとは対照的である。それらの多くは、初期採用者の関心を超えた説得力のある消費者メリットを明確に伝えるのに苦労した。例えば、Metaの初期Questキャンペーンは、ゲームや仮想会議のユースケースに大きく傾倒していた。AuraTechの「Beyond Earth」は、代わりにNexus Gazerを新しい体験へのポータルとして位置づけており、ハードウェアだけでなく、つながりや可能性を売った初期のスマートフォンマーケティングを想起させる。",
+        "キャンペーンは、インタラクティブな小売体験にも及んでおり、潜在的な顧客は店舗内で仮想的に火星や月面基地を「訪問」できる。この触覚的なエンゲージメントは、空間コンピューティングの抽象的な概念と具体的なユーザーメリットとの間のギャップを埋めることを目指している。",
+        "> 「私たちの目標は、機能リストではなく感覚を売ることでした」とVanguard Creativeのグローバル・クリエイティブ・ディレクターは語る。「人々を別の世界へ連れて行きたかったのです」。",
+        "このような野心的なフレーミングが成功するかどうかは、より広範な消費者市場が空間デバイスをニッチなツール以上のものとして受け入れる準備ができているかを示す指標となるだろう。それは、効率性だけでなく、探求とつながりという深い人間の欲求に訴えかけることで、複雑な新興テクノロジーをマーケティングする潜在的なテンプレートを示唆している。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "For Tokyo marketers, AuraTech's \"Beyond Earth\" campaign offers a template for aspirational branding in emerging tech, but its direct applicability requires careful consideration. While Japanese consumers are highly receptive to sophisticated design and narrative, the \"off-world\" theme itself might resonate differently. The domestic market has a strong affinity for established brands and incremental innovation, often prioritizing practical utility and social connection over abstract future exploration.",
+        "Media buying and creative execution would also diverge. While large-scale projections and interactive OOH are feasible in Tokyo, the primary digital channels like LINE and TVer would require adaptations. The nuanced visual and audio craft, however, aligns well with Japan's high standards for advertising production. A local agency like Dentsu or Hakuhodo would likely pivot the \"Beyond Earth\" concept to a more grounded, perhaps nature-inspired or urban-exploration theme, leveraging the strong domestic interest in travel and unique local experiences.",
+        "Ultimately, while the ambition of selling an experience rather than a spec sheet is universal, the specific \"off-world\" fantasy might need localization. A Tokyo-based brand manager for a similar device would likely brief for a campaign that emphasizes how the Nexus Gazer enhances daily life or connects users to familiar, yet augmented, Japanese cultural contexts, rather than solely focusing on distant galaxies."
+      ],
+      "ja": [
+        "東京のマーケターにとって、AuraTechの「Beyond Earth」キャンペーンは、新興テクノロジーにおける憧憬を喚起するブランディングのテンプレートを提供するが、その直接的な適用には慎重な検討が必要である。日本の消費者は洗練されたデザインや物語に非常に高い受容性を示すものの、「地球外」というテーマ自体は異なる響きを持つ可能性がある。国内市場は確立されたブランドと漸進的なイノベーションへの強い親和性があり、抽象的な未来探査よりも実用性や社会的つながりを優先することが多い。",
+        "メディアバイイングとクリエイティブ実行も異なるだろう。東京で大規模なプロジェクションやインタラクティブなOOHは実現可能だが、LINEやTVerといった主要なデジタルチャネルでは適応が必要となる。しかし、繊細なビジュアルとオーディオのクラフトは、日本の広告制作の高い水準とよく合致する。電通や博報堂のような国内代理店は、「Beyond Earth」のコンセプトを、より地に足の着いた、おそらく自然にインスパイアされた、または都市探査のテーマへと転換し、旅行やユニークな地域体験に対する国内の強い関心を利用するだろう。",
+        "最終的に、スペックシートではなく体験を売るという野心は普遍的であるものの、具体的な「地球外」のファンタジーはローカライゼーションが必要かもしれない。同様のデバイスを担当する東京のブランドマネージャーは、Nexus Gazerがどのように日常生活を向上させるか、あるいはユーザーを馴染みのある、しかし拡張された日本の文化的文脈と結びつけるかに焦点を当てたキャンペーンをブリーフィングする可能性が高いだろう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "AuraTech sells aspiration for spatial computing.",
+        "ja": "AuraTech、空間コンピューティングの憧憬を売る。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo-based brand manager launching a new consumer tech product, seeking to differentiate through aspirational lifestyle marketing rather than technical specs.",
+        "ja": "新しいコンシューマーテック製品をローンチする東京のブランドマネージャーで、技術仕様ではなく、憧憬を呼ぶライフスタイルマーケティングを通じて差別化を図りたいと考えている者。"
+      },
+      "vsJapanPlay": {
+        "en": "This contrasts with typical Japanese tech launches that often emphasize detailed product features and practical benefits, offering an alternative playbook focused on emotional and experiential value.",
+        "ja": "これは、詳細な製品機能や実用的な利点を強調する日本の典型的なテクノロジーローンチとは異なり、感情的・体験的価値に焦点を当てた代替の戦略を提供する。"
+      },
+      "tokyoTake": {
+        "en": "The \"off-world\" theme requires cultural adaptation for Japan's market, where practical utility or nature-inspired exploration might resonate more than abstract space fantasy, despite high appreciation for production quality.",
+        "ja": "「地球外」というテーマは日本の市場では文化的な適応が必要。高い制作品質は評価されるが、抽象的な宇宙のファンタジーよりも、実用性や自然にインスパイアされた探査の方が響く可能性が高い。"
+      }
+    },
+    "source": {
+      "name": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/sports-fans-want-better-experiences-not-better-algorithms/"
+    },
+    "sourceGuid": "https://www.adweek.com/?p=1950216",
+    "status": "published"
+  },
+  {
+    "slug": "brands-shift-world-cup-content-to-creator-sidelines",
+    "category": "media",
+    "issue": "Vol. 02",
+    "publishedAt": "2026-07-02T04:01:00.000Z",
+    "readingMinutes": 5,
+    "feature": false,
+    "cover": {
+      "src": "https://digiday.com/wp-content/uploads/sites/3/2026/05/sponsored-sports-digiday.001.jpeg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Brands Shift World Cup Content to Creator Sidelines",
+      "ja": "ワールドカップの舞台裏でブランドがクリエイター活用へ"
+    },
+    "dek": {
+      "en": "Major brands are increasingly deploying social media creators at global sporting events, moving beyond traditional broadcast sponsorships to capture authentic fan engagement and agile content for owned channels.",
+      "ja": "主要ブランドが、グローバルなスポーツイベントにおいてソーシャルメディアクリエイターの起用を拡大している。従来の放送スポンサーシップを超え、リアルなファンエンゲージメントと自社チャネル向けのアジャイルなコンテンツ獲得を目指す。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "media buying",
+        "ja": "メディアバイイング"
+      },
+      {
+        "en": "creator economy",
+        "ja": "クリエイターエコノミー"
+      },
+      {
+        "en": "sports marketing",
+        "ja": "スポーツマーケティング"
+      },
+      {
+        "en": "social media",
+        "ja": "ソーシャルメディア"
+      }
+    ],
+    "body": {
+      "en": [
+        "At recent major global sporting events like the World Cup, brands have begun to strategically integrate social media creators directly into their marketing efforts, granting them sideline access and unique perspectives. This approach signals a notable departure from the long-standing model of exclusive broadcast rights and high-cost traditional advertising, aiming instead for more immediate, authentic, and shareable content.",
+        "The shift reflects a broader recognition that modern audiences, particularly younger demographics, often engage more deeply with content generated by individual creators than with polished, agency-produced campaigns. By providing creators with access to the event's atmosphere and behind-the-scenes moments, brands can generate a continuous stream of relevant material tailored for platforms like TikTok, Instagram, and YouTube, reaching audiences where they already spend significant time.",
+        "This strategy offers several advantages. For one, it provides a more cost-effective alternative to multi-million dollar broadcast sponsorships, democratizing access to event-related marketing for a wider range of brands. It also allows for greater agility; creators can produce and disseminate content in real-time, reacting to key moments and fan sentiment with a speed traditional media cycles cannot match.",
+        "> Brands are recognizing that the raw, immediate perspective of a creator often resonates more deeply with today's audience than polished, agency-produced content.",
+        "The content itself varies, ranging from personal vlogs documenting the creator's experience at the event to fan reaction videos, short-form interviews with attendees, and unique angles on the sports action. This diversity ensures a richer content ecosystem that appeals to different segments of the fan base, fostering a sense of community and shared experience that traditional advertising often struggles to achieve.",
+        "However, this approach is not without its challenges. Brands must carefully select creators whose personal brand aligns with their own values and objectives, ensuring authenticity without sacrificing brand safety. Measurement of success also evolves, shifting from traditional reach and frequency metrics to engagement rates, sentiment analysis, and the virality of creator-led content across social platforms.",
+        "The trend suggests that future sports marketing will increasingly blend traditional media presence with a robust, creator-driven social strategy. Brands that master this hybrid model will likely gain an edge in capturing fragmented audience attention and building deeper connections with fans globally."
+      ],
+      "ja": [
+        "ワールドカップのような主要なグローバルスポーツイベントにおいて、ブランドはソーシャルメディアクリエイターをマーケティング活動に直接組み込む戦略を加速させている。これは、従来の独占的な放送権や高額な伝統的広告モデルからの転換を示し、より即時性があり、信頼性が高く、共有されやすいコンテンツの獲得を目指すものだ。",
+        "この変化は、現代のオーディエンス、特に若い世代が、洗練された代理店制作のキャンペーンよりも、個々のクリエイターが生み出すコンテンツにより深く関与するという認識の広がりを反映している。ブランドはクリエイターにイベントの雰囲気や舞台裏へのアクセスを提供することで、TikTok、Instagram、YouTubeといったプラットフォーム向けに、オーディエンスが時間を費やしている場所で継続的に関連性の高い素材を生成できる。",
+        "この戦略にはいくつかの利点がある。一つは、数百万ドル規模の放送スポンサーシップに代わる、より費用対効果の高い選択肢を提供し、より幅広いブランドがイベント関連マーケティングにアクセスできるようにする点だ。また、アジリティ（俊敏性）も向上する。クリエイターは主要な瞬間やファンの感情に即座に反応し、従来のメディアサイクルでは不可能な速度でコンテンツを制作・拡散できる。",
+        "「ブランドは、洗練された代理店制作のコンテンツよりも、クリエイターの生々しく即時的な視点の方が、今日のオーディエンスに深く響くと認識し始めている。」",
+        "コンテンツ自体は多岐にわたり、クリエイターがイベントでの体験を記録した個人的なVlogから、ファンの反応動画、参加者への短いインタビュー、スポーツアクションのユニークな視点まで様々だ。この多様性により、ファンの異なるセグメントにアピールする豊かなコンテンツエコシステムが確保され、従来の広告では達成が困難だったコミュニティ感と共有体験が育まれる。",
+        "しかし、このアプローチには課題も存在する。ブランドは、ブランドの価値観や目標に合致するクリエイターを慎重に選定し、ブランドセーフティを犠牲にすることなく信頼性を確保する必要がある。成功の測定も進化し、従来のリーチやフリークエンシー指標から、ソーシャルプラットフォーム全体でのエンゲージメント率、センチメント分析、クリエイター主導コンテンツのバイラル性に焦点が移る。",
+        "このトレンドは、将来のスポーツマーケティングが、伝統的なメディアプレゼンスと、クリエイター主導の堅牢なソーシャル戦略をますます融合させていくことを示唆している。このハイブリッドモデルを習得したブランドは、細分化されたオーディエンスの注意を引きつけ、世界中のファンとのより深いつながりを築く上で優位に立つだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "For a Tokyo-based marketer, this global shift towards creator-led content at major sporting events presents both opportunities and familiar challenges. While Japanese brands have long utilized influencers and talent for promotional activities, the emphasis here is on raw, immediate, and often unscripted content generated from an event's periphery rather than its polished center. This contrasts with the more curated approach often seen in Japan, where celebrity endorsements and highly produced content remain dominant, particularly around major sports like J-League or Olympic partnerships.",
+        "The core question for a Japanese brand manager or media planner is whether the local audience's appetite for this kind of 'authentic chaos' from creators translates directly. While TikTok and YouTube are strong in Japan, the cultural preference for structured narratives and the established power of traditional talent agencies (事務所) often mean creator content is still heavily managed. Integrating creators with true sideline autonomy, as seen abroad, would require a significant shift in how brands and their agencies (電通, 博報堂) brief and manage talent, moving away from strict scripts towards more trust in creative freedom and real-time responsiveness.",
+        "Furthermore, the media landscape for major sports events in Japan is still heavily dominated by terrestrial broadcasters (TBS, Fuji TV, NHK) and major streaming platforms like TVer and ABEMA, which maintain tight control over content rights. While there's certainly room for creator-led amplification on social platforms like LINE and TikTok, securing the kind of unfettered access that enables truly unique, sideline content might be a negotiation challenge. Japanese marketers should consider piloting smaller-scale creator initiatives around local sporting events or cultural festivals to test audience reception and agency comfort levels before scaling to global events. The ability to adapt this agile, authentic content model will be crucial not just for engaging terrestrial audiences, but for navigating future content frontiers—even those as distant and challenging as an off-world colony, where hyper-local, immediate, and utterly authentic communication would be the only way to connect with a small, isolated, and highly discerning community."
+      ],
+      "ja": [
+        "東京のマーケターにとって、グローバルなスポーツイベントにおけるクリエイター主導コンテンツへの移行は、機会と同時に慣れ親しんだ課題を提示する。日本のブランドは以前からインフルエンサーやタレントをプロモーション活動に起用してきたが、今回のトレンドは、イベントの洗練された中心部ではなく、その周辺部から生成される、生々しく、即時的で、多くの場合台本のないコンテンツに重点を置いている。これは、Jリーグやオリンピックのパートナーシップなど、主要なスポーツ周辺でよく見られる、より統制された、有名人の起用や高度に制作されたコンテンツが依然として支配的な日本のアプローチとは対照的だ。",
+        "日本のブランドマネージャーやメディアプランナーにとっての核心的な問いは、この種のクリエイターによる「本物のカオス」に対する日本のオーディエンスの需要が、そのまま海外の事例のように当てはまるかという点だ。TikTokやYouTubeは日本でも強力だが、構造化された物語を好む文化的傾向や、伝統的なタレント事務所（事務所）の確立された力により、クリエイターコンテンツも依然として厳しく管理されることが多い。海外で見られるような、真の自律性を持ったクリエイターをイベントのサイドラインに組み込むことは、ブランドや代理店（電通、博報堂）がタレントをブリーフィングし、管理する方法において大きな転換を必要とするだろう。厳格な台本から、クリエイティブの自由とリアルタイムの対応能力への信頼へと移行することになる。",
+        "さらに、日本の主要スポーツイベントのメディア環境は、依然として地上波放送局（TBS、フジテレビ、NHK）やTVer、ABEMAのような主要ストリーミングプラットフォームがコンテンツ権利を厳しく管理している。LINEやTikTokのようなソーシャルプラットフォームでのクリエイター主導の拡散には間違いなく余地があるものの、真にユニークなサイドラインコンテンツを可能にするような制約のないアクセスを確保するには、交渉上の課題があるかもしれない。日本のマーケターは、グローバルイベントに規模を拡大する前に、国内のスポーツイベントや文化祭などで小規模なクリエイター施策を試験的に導入し、オーディエンスの反応と代理店の対応レベルを試すべきだろう。このアジャイルで本物志向のコンテンツモデルを適応させる能力は、地上のオーディエンスを惹きつけるだけでなく、未来のコンテンツフロンティア、たとえそれが遠く離れた「オフワールド」のコロニーのような極限環境であっても、超ローカルで即時的、そして完全に本物であるコミュニケーションだけが、小さく孤立し、非常に目の肥えたコミュニティと繋がる唯一の方法となるような場所で、重要な意味を持つだろう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "World Cup sidelines become creator content hubs.",
+        "ja": "W杯サイドラインがクリエイターの舞台に。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo-based media planner or brand manager at a CPG brand planning Q3/Q4 sports sponsorships, seeking to diversify media spend beyond traditional broadcast buys and demonstrate authentic social engagement.",
+        "ja": "第3・第4四半期のスポーツスポンサーシップを計画する消費財ブランドのメディアプランナーやブランドマネージャーが、従来の放送枠以外のメディア投資を多様化し、リアルなソーシャルエンゲージメントを追求する際に。"
+      },
+      "vsJapanPlay": {
+        "en": "This contrasts with the standard Japanese approach of leveraging established talent agencies for highly curated content around major sports events like J-League, offering a more agile, unscripted, and potentially lower-cost alternative to traditional celebrity endorsements.",
+        "ja": "Jリーグなどの主要スポーツイベントにおける、既存タレント事務所を通じた統制されたコンテンツ制作とは異なり、よりアジャイルで台本なし、かつ費用を抑えたセレブリティ起用の代替案となる。"
+      },
+      "tokyoTake": {
+        "en": "While creator content is rising in Japan, securing unfettered sideline access for raw, real-time content at major events remains a challenge due to strict media rights and a preference for curated narratives. Marketers should test this model on local events first, as adapting to this authentic, agile communication style will be key for future, even 'off-world', engagement.",
+        "ja": "日本でもクリエイターコンテンツは増加中だが、主要イベントで生々しいリアルタイムコンテンツのための自由なサイドラインアクセス確保は、厳格なメディア権利と統制された物語への嗜好から依然として課題だ。将来、たとえ「オフワールド」のような極限環境でのエンゲージメントにおいても、この本物志向でアジャイルなコミュニケーションスタイルへの適応が鍵となるため、まずはローカルイベントでモデルを試すべきだ。"
+      }
+    },
+    "source": {
+      "name": "Digiday",
+      "url": "https://digiday.com/media/why-brands-are-bringing-creators-to-the-world-cup-sidelines/?utm_campaign=digidaydis&#038;utm_medium=rss&#038;utm_source=general-rss"
+    },
+    "sourceGuid": "https://digiday.com/?p=607484",
+    "status": "published"
+  },
+  {
     "slug": "auratech-explores-haptic-engagement-in-global-campaign",
     "category": "creative",
     "issue": "Vol. 02",
@@ -417,8 +1033,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1620712943543-26fab76e6f5d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0c"
+      "src": "https://images.unsplash.com/photo-1717501218385-55bc3a95be94?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Global Mobility Brand Projects Identity to Off-World Future",
@@ -517,8 +1133,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#08080a"
+      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Meta's Algorithms Prioritize Optimization Signals Over Explicit Targeting",
@@ -1140,8 +1756,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1606293459339-aa5d34a7b0e1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0c"
+      "src": "https://images.unsplash.com/photo-1556656793-08538906a9f8?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0d"
     },
     "title": {
       "en": "AI Visibility Shifts Beyond Traditional Search Rankings",
@@ -2572,8 +3188,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Creative Assets Now Drive Audience Targeting on Major Platforms",
@@ -2980,8 +3596,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Flawed Conversion Data Misdirects AI Ad Spend",
@@ -3600,8 +4216,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1701978500311-7ddd0a30a64f?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e0e"
     },
     "title": {
       "en": "The Honest Company Challenges Bathroom Taboos in New Campaign",
@@ -3704,8 +4320,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1717501218385-55bc3a95be94?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Orion Expeditions Launches Lunar Tourism Campaign Targeting Off-World Media",
@@ -3910,8 +4526,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1684391938577-67c3e8b9c7a8?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "AetherCorp's Lunar Living Campaign Uses Spatial Computing to Pre-Sell Off-World Habitats",
@@ -4016,8 +4632,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101012"
     },
     "title": {
       "en": "Email Newsletters Find Renewed Relevance Amid Platform Fatigue",
@@ -4420,8 +5036,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1684391938577-67c3e8b9c7a8?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "Cannes Lions 2026: Marketers Grapple with AI and Attention in a Shifting Landscape",
@@ -4720,8 +5336,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1556656793-08538906a9f8?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0d"
+      "src": "https://images.unsplash.com/photo-1593344484962-796055d4a3a4?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#1a1a1a"
     },
     "title": {
       "en": "Aether Dynamics Launches First Dedicated Lunar Colony Campaign",
@@ -4822,8 +5438,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1601445638532-3c6f6c3aa1d6?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0c"
+      "src": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Beyond Dashboards: The Human Variable in Marketing Strategy",
@@ -4924,8 +5540,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1593344484962-796055d4a3a4?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#1a1a1a"
+      "src": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Taco Bell Links World Cup Outcomes to Loyalty Program Growth",
@@ -5028,8 +5644,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "AstraLux Habitats Launches \"Echoes of Elysium\" Campaign for Lunar Living",
@@ -5130,8 +5746,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0f12"
     },
     "title": {
       "en": "AI's MOps Shift: From System Management to Business Impact",
@@ -5230,8 +5846,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e0e"
+      "src": "https://images.unsplash.com/photo-1672239497060-46b39e7e23c4?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
     },
     "title": {
       "en": "AstroLux Markets Lunar Living as Next Urban Frontier",
@@ -5332,8 +5948,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1672239497060-46b39e7e23c4?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
     },
     "title": {
       "en": "Ogilvy's 'Solstice Homesteads' Campaign Brands Off-World Living as Luxury Lifestyle",
@@ -5436,8 +6052,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1556656793-08538906a9f8?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0d"
     },
     "title": {
       "en": "Beyond Polish: B2B Buyers Demand Verifiable Expertise and Transparency",
@@ -5536,8 +6152,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1556656793-08538906a9f8?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0d"
     },
     "title": {
       "en": "Brands Look to Orbit for Future Growth, Today's PR",
@@ -5638,8 +6254,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
+      "src": "https://images.unsplash.com/photo-1620712943543-26fab76e6f5d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0c"
     },
     "title": {
       "en": "Axiom Space Reimagines Off-World Living in New Global Brand Push",
@@ -5744,8 +6360,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101012"
     },
     "title": {
       "en": "Local Search Optimization Mirrors Early SEO's Evolution",
@@ -6052,8 +6668,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "Danone, Target, and DirecTV Partner to Link Premium Video Ads to Retail Sales",
@@ -6154,8 +6770,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "Luxury Hospitality Brand Stakes Claim in Future Orbital Living",
@@ -6258,8 +6874,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1701978500311-7ddd0a30a64f?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "AstroCorp's Mars Campaign Reframes Off-World Living as Consumer Lifestyle",
@@ -6364,8 +6980,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101012"
+      "src": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Databricks launches CustomerLake, an 'agentic' CDP for marketing automation",
@@ -6564,8 +7180,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1606293459339-aa5d34a7b0e1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0c"
     },
     "title": {
       "en": "P&G and Albertsons use retail data to shape branded content",
@@ -6666,8 +7282,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1717501218385-55bc3a95be94?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1672239497060-46b39e7e23c4?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
     },
     "title": {
       "en": "Cosmic Cola's AR Campaign Reimagines Public Space as Brand Canvas",
@@ -6870,8 +7486,8 @@
     "readingMinutes": 4,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1717501218385-55bc3a95be94?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Quantum Cola's \"Echoes of Tomorrow\" Campaign Scales Personalized Video with AI",
@@ -7178,8 +7794,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "Reddit Study Details User Purchase Behavior",
@@ -7280,8 +7896,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1620712943543-bccf2f2c1ae9?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1620712943543-26fab76e6f5d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0c"
     },
     "title": {
       "en": "Meta's Lunar Living Campaign Explores AI-Driven Metaverse Narratives",
@@ -7492,8 +8108,8 @@
     "readingMinutes": 7,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
     },
     "title": {
       "en": "Stardust Journeys Launches 'Echoes from Orbit,' Blending Orbital Light Art with Terrestrial VR",
@@ -7586,608 +8202,6 @@
       "url": "https://www.adweek.com/commerce/7-things-that-hit-this-week-metas-next-stab-at-commerce-new-hires-at-sephora-and-lowes-and-pinterest-goes-deep-on-ai/"
     },
     "sourceGuid": "https://www.adweek.com/?p=1949629",
-    "status": "published"
-  },
-  {
-    "slug": "martechs-core-problem-is-operational-not-technical",
-    "category": "adtech",
-    "issue": "Vol. 01",
-    "publishedAt": "2026-06-19T12:51:00.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://martech.org/wp-content/uploads/2026/06/Screenshot-2026-06-09-at-2.54.48-PM.png",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Martech's Core Problem Is Operational, Not Technical",
-      "ja": "マーケティングテックの課題は技術ではなく運用にあり"
-    },
-    "dek": {
-      "en": "A new survey reveals marketers struggle to leverage their existing technology stacks due to internal process and skill gaps, rather than a lack of software capability.",
-      "ja": "最新調査によると、マーケターが既存のマーケティングテックを十分に活用できないのは、ソフトウェアの機能不足ではなく、社内の運用プロセスやスキル不足が原因だ。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "martech",
-        "ja": "マーケティングテック"
-      },
-      {
-        "en": "operations",
-        "ja": "運用"
-      },
-      {
-        "en": "data management",
-        "ja": "データマネジメント"
-      },
-      {
-        "en": "organizational change",
-        "ja": "組織変革"
-      }
-    ],
-    "body": {
-      "en": [
-        "A recent survey from MarTech.org indicates that the primary hurdles preventing marketers from leveraging their technology investments are not technical limitations, but rather pervasive operational bottlenecks. The report, published on June 19, 2026, challenges the common assumption that more sophisticated software is the solution to marketing effectiveness.",
-        "Marketers continue to acquire a broad array of tools, from CDPs (Customer Data Platforms) to AI-driven content platforms, yet a significant portion of their potential remains untapped. The survey suggests that teams struggle with integrating disparate systems, maintaining data quality, and developing the internal expertise required to fully utilize these complex stacks. This leads to substantial budget inefficiencies and missed opportunities to act on valuable customer insights.",
-        "The core issue, according to the findings, lies in the daily mechanics of marketing operations. Data silos persist across departments, hindering a unified customer view. Workflow inefficiencies delay campaign execution and optimization. Furthermore, a persistent gap in specialized skills means that even advanced features often go unused, leaving marketers unable to translate data into actionable strategies.",
-        "> The real martech problem is not technology.",
-        "This observation is not new. For years, industry discussions have highlighted the 'shelfware' problem, where expensive software licenses sit underutilized. What this survey underlines is the growing urgency of addressing the human and process elements of martech. Without robust data governance, cross-functional collaboration, and continuous upskilling, even the most advanced AI platforms will fail to deliver their promised returns.",
-        "For vendors, this implies a shift in focus from feature parity to enablement and integration support. For marketers, it signals a need to prioritize internal organizational change, talent development, and process re-engineering over simply acquiring the next shiny tool. The true competitive edge will come from mastering the operational layer, ensuring that technology serves strategy, not the other way around."
-      ],
-      "ja": [
-        "MarTech.org の最新調査が、マーケターがテクノロジー投資を最大限に活用できていない主要因は、技術的な限界ではなく、広範囲にわたる運用上のボトルネックにあると指摘している。2026年6月19日に公開されたこのレポートは、「より高度なソフトウェアがマーケティング効果を高める解決策である」という一般的な見方に異議を唱えるものだ。",
-        "マーケターは CDP（顧客データプラットフォーム）から AI 駆動のコンテンツプラットフォームに至るまで、多様なツールを導入し続けている。しかし、その潜在能力の多くは未開拓のままだ。調査によれば、チームは異なるシステムの統合、データ品質の維持、そして複雑なスタックを完全に活用するために必要な社内専門知識の育成に苦戦している。これは、予算の非効率性や、貴重な顧客インサイトを行動に移す機会の逸失につながる。",
-        "調査結果が示唆する根本的な問題は、マーケティング運用の日常的な仕組みにある。部門間にデータサイロ（データの孤立）が残り、統一された顧客像の把握を妨げている。ワークフローの非効率性はキャンペーンの実行と最適化を遅らせる。さらに、専門スキルの継続的な不足は、たとえ高度な機能であっても使われずに放置されがちで、マーケターがデータを具体的な戦略に転換できない一因となっている。",
-        "> マーケティングテクノロジーの真の問題は、テクノロジーそのものではない。",
-        "この指摘は、決して新しいものではない。長年にわたり業界では、高価なソフトウェアライセンスが活用されずに放置される「シェルフウェア」問題が議論されてきた。今回の調査が強調するのは、マーケティングテクノロジーにおける「人」と「プロセス」の要素に取り組むことの喫緊性だ。堅牢なデータガバナンス、部門横断的な連携、そして継続的なスキルアップがなければ、どれほど先進的な AI プラットフォームであっても、期待されるリターンを生み出すことはできないだろう。",
-        "ベンダーにとっては、機能の充実だけでなく、導入支援や統合サポートに焦点を移す必要があることを示唆している。マーケターにとっては、単に最新ツールを導入するのではなく、社内の組織改革、人材育成、プロセス再構築を優先すべきというシグナルだ。真の競争優位性は、テクノロジーが戦略に従属するよう、運用レイヤーを習得することから生まれる。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The MarTech.org survey's findings—that operational bottlenecks, not technology itself, are the primary inhibitors to marketing effectiveness—resonate acutely within the Tokyo marketing landscape. Many Japanese companies, particularly large traditional corporations (JTCs), have historically invested in a patchwork of enterprise software solutions, often with significant customization. However, the cultural reality of strong departmental silos, where data ownership and budgets are often fragmented, creates formidable barriers to integrating these tools effectively. This internal fragmentation means that even with advanced CDPs or AI platforms, achieving a unified customer view or agile campaign execution becomes an uphill battle.",
-        "Furthermore, a prevalent practice in Japan is the heavy reliance on external agencies—whether large holding companies like Dentsu and Hakuhodo, or specialized digital agencies like CyberAgent—to manage and operate complex martech stacks. While this can alleviate internal resource strain, it often postpones the development of in-house expertise and data literacy. The data, insights, and operational know-how remain externalized, preventing brands from truly owning their customer relationships and optimizing their marketing spend with internal agility. This dynamic contrasts sharply with the survey's implicit call for greater internal operational maturity.",
-        "For a Tokyo marketer today, this global insight is not merely academic; it demands a critical re-evaluation of current priorities. Rather than chasing the next \"AI-powered\" solution or expanding an already unwieldy vendor list, the focus must shift inward. This quarter, a brand manager or marketing operations lead should be auditing their internal data flows, identifying skill gaps within their team, and initiating cross-departmental workshops to break down data silos. The most impactful change will likely come from investing in people and processes—training staff on existing tools, establishing clear data governance policies, and fostering a culture where data-driven decisions are made internally, rather than simply relying on agency reports. Without this fundamental shift in operational and cultural reality, even the most sophisticated global martech innovations will struggle to deliver tangible value in the Japanese market."
-      ],
-      "ja": [
-        "MarTech.org の調査が示す「マーケティング効果を阻害する主な要因はテクノロジーではなく運用上のボトルネックである」という発見は、東京のマーケティング現場において特に切実な響きを持つ。多くの日本企業、特に伝統的な大企業（JTC）は、これまでエンタープライズソフトウェア、そしてマーケティングテックに多額の投資を行ってきた。しかし、データ所有権や予算が部門ごとに細分化されがちな「強い部門間サイロ」という日本特有の文化的現実が、これらのツールを効果的に統合する上で大きな障壁となっている。この内部の分断は、たとえ先進的な CDP や AI プラットフォームを導入したとしても、統一された顧客像の把握やアジャイルなキャンペーン実行を困難にしている。",
-        "さらに、日本における一般的な慣行として、電通や博報堂のような大手広告会社、あるいはサイバーエージェントのようなデジタル専業代理店といった外部パートナーに、複雑なマーケティングテックスタックの管理・運用を大きく依存する傾向がある。これは一時的に社内リソースの負担を軽減する一方で、多くの場合、社内における専門知識やデータリテラシーの育成を遅らせる要因となる。データ、インサイト、そして運用ノウハウが外部に留まることで、ブランドが顧客関係を真に自社のものとし、マーケティング費用を俊敏に最適化する機会を逸している。この現状は、調査が暗に提唱する「社内運用の成熟度向上」というメッセージと対照的だ。",
-        "東京のマーケターにとって、このグローバルな洞察は単なる学術的な話ではない。それは、現在の優先事項を根本的に再評価するよう促すものだ。次の「AI 搭載」ソリューションを追い求めたり、既に扱いにくくなっているベンダーリストを拡大したりするのではなく、視点を内側に転じる必要がある。今四半期にすべきことは、社内のデータフローを監査し、チーム内のスキルギャップを特定し、データサイロを打破するための部門横断的なワークショップを開始することだろう。最も大きな変化をもたらすのは、人材とプロセスへの投資だ。既存ツールの社員トレーニング、明確なデータガバナンスポリシーの確立、そして代理店からのレポートに単に依存するのではなく、社内でデータに基づいた意思決定が行われる文化の醸成。運用と文化の現実におけるこの根本的な転換がなければ、どれほど洗練されたグローバルなマーケティングテック革新も、日本市場で具体的な価値を生み出すのは難しいだろう。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Martech's problem is people, not code.",
-        "ja": "マーケティングテックは技術より運用が課題。"
-      },
-      "whoForWhat": {
-        "en": "For a Tokyo-based CMO or marketing operations lead at a JTC struggling to demonstrate ROI from their existing martech stack, seeking to realign internal resources and strategy.",
-        "ja": "既存のマーケティングテック投資の ROI に課題を抱える日系大企業の CMO やマーケティング運用責任者が、社内リソースと戦略を見直す際に。"
-      },
-      "vsJapanPlay": {
-        "en": "This directly challenges the common Japanese approach of acquiring multiple vendor solutions or relying solely on agency-managed platforms without sufficient internal operational readiness, differing by emphasizing in-house process reform over new software acquisition.",
-        "ja": "複数のベンダーソリューションを導入したり、代理店任せのプラットフォーム運用に終始したりする日本の慣習に対し、社内運用体制の整備とプロセス改革が新ソフトウェア導入より重要であると提言する点で異なる。"
-      },
-      "tokyoTake": {
-        "en": "This global insight highlights that for Tokyo marketers, the priority should shift from acquiring new tech to fostering internal operational maturity, addressing cultural silos, and developing in-house data literacy rather than relying solely on external agencies.",
-        "ja": "このグローバルな洞察は、東京のマーケターにとって、新たなテクノロジー導入よりも社内の運用成熟度を高め、文化的なサイロを解消し、外部代理店への依存から脱却して社内のデータリテラシーを育成することに優先順位を置くべきであることを示唆する。"
-      }
-    },
-    "source": {
-      "name": "MarTech.org",
-      "url": "https://martech.org/the-real-martech-problem-is-not-technology/"
-    },
-    "sourceGuid": "https://martech.org/?p=410018",
-    "status": "published"
-  },
-  {
-    "slug": "openai-ads-manager-expands-to-uk-introduces-cpc-bidding",
-    "category": "adtech",
-    "issue": "Vol. 01",
-    "publishedAt": "2026-06-19T07:00:00.000Z",
-    "readingMinutes": 6,
-    "feature": true,
-    "cover": {
-      "src": "https://digiday.com/wp-content/uploads/sites/3/2026/06/sponsored-openai-digiday.001.jpeg",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "OpenAI Ads Manager Expands to UK, Introduces CPC Bidding",
-      "ja": "OpenAI広告マネージャー、英国展開とCPC課金導入"
-    },
-    "dek": {
-      "en": "OpenAI's self-serve advertising platform broadens its reach and offers performance-focused bidding, signaling a push for direct response spend.",
-      "ja": "OpenAIのセルフサービス広告プラットフォームが英国に拡大し、パフォーマンス重視の課金モデルを提供。直接反応広告の獲得を狙う。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "London",
-      "ja": "ロンドン"
-    },
-    "tags": [
-      {
-        "en": "adtech",
-        "ja": "アドテック"
-      },
-      {
-        "en": "AI",
-        "ja": "AI"
-      },
-      {
-        "en": "performance marketing",
-        "ja": "パフォーマンスマーケティング"
-      },
-      {
-        "en": "OpenAI",
-        "ja": "OpenAI"
-      }
-    ],
-    "body": {
-      "en": [
-        "OpenAI has expanded its self-serve advertising manager to the United Kingdom, introducing a cost-per-click (CPC) bidding option. This move marks a significant step for the AI research firm into the direct response advertising market, extending its monetization efforts beyond its initial US-only, impression-based model.",
-        "The addition of CPC is crucial. It allows advertisers to optimize campaigns for specific user actions, such as website clicks or conversions, rather than just impressions. This shift positions OpenAI's platform as a more direct competitor to established performance advertising channels like Google Search Ads or Meta Ads, appealing to marketers focused on measurable outcomes and return on ad spend.",
-        "OpenAI's ad manager leverages its core AI capabilities to facilitate ad creation and targeting. Advertisers can utilize the platform's generative AI to produce ad copy and visuals, then target specific audiences based on demographic and behavioral data. The CPC model means advertisers pay only when a user clicks on their ad, aligning their spend more directly with engagement and potential conversions.",
-        "> The addition of CPC bidding allows advertisers to optimize for specific outcomes, moving beyond simple impressions.",
-        "This expansion follows OpenAI's broader strategy to diversify its revenue streams, moving beyond API access and premium subscriptions. By entering the competitive advertising landscape with a performance-oriented model, OpenAI aims to capture a share of digital ad budgets traditionally allocated to platforms with strong attribution capabilities. The company's unique selling proposition lies in its native integration of advanced AI for creative generation and audience understanding.",
-        "The move also signals OpenAI's intent to become a significant player in the global adtech ecosystem. While the initial rollout was limited, the UK expansion suggests a methodical approach to market penetration. Future developments could include broader geographic availability, more sophisticated ad formats, and deeper integrations with third-party measurement and attribution tools, further solidifying its position against incumbents.",
-        "For marketers, this evolution means a new channel to monitor, one that promises AI-driven efficiency in both creative and targeting. The integration of generative AI directly into the ad buying process could streamline campaign setup and iteration, potentially reducing the creative burden on in-house teams or agency partners."
-      ],
-      "ja": [
-        "OpenAIは、セルフサービス広告マネージャーを英国に拡大し、クリック単価（CPC）課金オプションを導入しました。この動きは、同社のAI研究企業がダイレクトレスポンス広告市場に本格的に参入する重要な一歩であり、米国限定のインプレッションベースモデルを超えた収益化の取り組みを広げるものです。",
-        "CPC課金の追加は極めて重要です。これにより、広告主はインプレッション数だけでなく、ウェブサイトのクリックやコンバージョンといった具体的なユーザー行動に基づいてキャンペーンを最適化できるようになります。この転換は、OpenAIのプラットフォームを、Google検索広告やMeta広告のような既存のパフォーマンス広告チャネルの直接的な競合として位置づけ、測定可能な成果と広告費用対効果を重視するマーケターにとって魅力的な選択肢となります。",
-        "OpenAIの広告マネージャーは、その中核となるAI機能を活用して広告作成とターゲティングを支援します。広告主は、プラットフォームの生成AIを利用して広告コピーやビジュアルを作成し、デモグラフィックデータや行動データに基づいて特定のオーディエンスをターゲットに設定できます。CPCモデルでは、ユーザーが広告をクリックした場合にのみ料金が発生するため、広告費用とエンゲージメント、そして潜在的なコンバージョンとの関連性がより直接的になります。",
-        "> CPC課金の追加により、広告主は特定の成果を最適化できるようになり、単なるインプレッションを超えた指標での運用が可能になる。",
-        "今回の拡大は、APIアクセスやプレミアムサブスクリプションを超えて、収益源を多様化するというOpenAIの広範な戦略に沿ったものです。パフォーマンス志向のモデルで競争の激しい広告市場に参入することで、OpenAIは、これまで強力なアトリビューション機能を持つプラットフォームに割り当てられていたデジタル広告予算の一部を獲得することを目指しています。同社の独自の強みは、クリエイティブ生成とオーディエンス理解のための高度なAIをネイティブに統合している点にあります。",
-        "この動きはまた、OpenAIがグローバルなアドテックエコシステムにおいて重要なプレーヤーになる意図を示唆しています。初期の展開は限定的でしたが、英国への拡大は、市場浸透への系統的なアプローチを示唆しています。今後の展開としては、より広範な地域での提供、より洗練された広告フォーマット、そしてサードパーティの測定・アトリビューションツールとの深い統合などが考えられ、既存の競合に対する地位をさらに強固にするでしょう。",
-        "マーケターにとって、この進化は、クリエイティブとターゲティングの両面でAIによる効率化が期待できる新しいチャネルを意味します。生成AIが広告購入プロセスに直接統合されることで、キャンペーンの設定と反復が効率化され、社内チームや代理店パートナーのクリエイティブ制作負担が軽減される可能性があります。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "For a Tokyo-based marketer, the immediate practical impact of OpenAI's ad manager expansion to the UK is limited. The platform is not yet available in Japan, and the Japanese digital advertising landscape, dominated by LINE Ads, Yahoo! JAPAN Ads, and major agencies like Dentsu and Hakuhodo, operates with its own unique characteristics and consumer behaviors. The primary takeaway for now is to observe this development as a bellwether for the future direction of global adtech.",
-        "However, this move signals a clear trend: AI platforms are evolving beyond content generation tools to become direct advertising channels. This puts pressure on domestic players. While companies like CyberAgent and Dentsu have invested heavily in AI for ad optimization and creative production, OpenAI's native integration of generative AI directly into a self-serve ad platform sets a new benchmark. Japanese ad platforms and agencies will need to accelerate their own development of deeply integrated AI creative and targeting solutions to remain competitive.",
-        "The Japanese market's unique data privacy regulations and consumer response to AI-generated content also warrant consideration. While AI-driven efficiency is appealing, the nuances of Japanese communication and brand building often require a human touch and cultural sensitivity that current generative AI models may not fully replicate. Tokyo marketers should monitor how OpenAI's platform addresses these challenges in other markets, particularly regarding brand safety and cultural relevance, before expecting a direct translation to Japan. It is likely that any Japan entry would require significant localization and partnership with local media entities, making a 'wait and see' approach prudent for at least the next 12-18 months."
-      ],
-      "ja": [
-        "東京のマーケターにとって、OpenAIの広告マネージャーが英国に拡大したことによる直接的な実務上の影響は、現時点では限定的です。このプラットフォームはまだ日本で利用可能ではなく、LINE広告、Yahoo! JAPAN広告、そして電通や博報堂といった大手広告会社が支配する日本のデジタル広告市場は、独自の特性と消費者行動に基づいて運営されています。当面、この動きはグローバルなアドテックの将来の方向性を示す先行指標として注視すべきでしょう。",
-        "しかし、この動きは明確なトレンドを示唆しています。AIプラットフォームが単なるコンテンツ生成ツールを超え、直接的な広告チャネルへと進化しているのです。これは国内のプレーヤーにプレッシャーを与えます。サイバーエージェントや電通のような企業は、広告最適化やクリエイティブ制作のためのAIに多額の投資を行っていますが、OpenAIが生成AIをセルフサービス広告プラットフォームにネイティブに統合したことは、新たな基準を設定します。日本の広告プラットフォームと広告会社は、競争力を維持するために、深く統合されたAIクリエイティブおよびターゲティングソリューションの開発を加速させる必要があるでしょう。",
-        "日本市場固有のデータプライバシー規制や、AI生成コンテンツに対する消費者の反応も考慮すべき点です。AIによる効率化は魅力的ですが、日本のコミュニケーションやブランド構築の機微は、現在の生成AIモデルでは完全に再現できない人間的な感覚や文化的配慮をしばしば要求します。東京のマーケターは、OpenAIのプラットフォームが他の市場でブランドセーフティや文化的関連性に関してこれらの課題にどのように対応するかを注視し、日本への直接的な適用を期待する前にその動向を見極めるべきです。日本への参入には、大幅なローカライズと国内メディア企業との提携が必要となる可能性が高く、少なくとも今後12〜18ヶ月間は「様子見」のアプローチが賢明です。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "OpenAI ads go performance-first in UK.",
-        "ja": "OpenAI広告、英国で成果報酬型に"
-      },
-      "whoForWhat": {
-        "en": "For performance marketers and growth teams in Tokyo considering new direct response channels, specifically those managing budgets for digital products or services that can leverage AI-generated creative.",
-        "ja": "東京のパフォーマンスマーケターやグロースチームで、AI生成クリエイティブを活用できるデジタル製品・サービスの予算を管理し、新たなダイレクトレスポンスチャネルを検討している担当者向け。"
-      },
-      "vsJapanPlay": {
-        "en": "This offers a new AI-centric ad channel distinct from existing performance plays on LINE Ads or Yahoo! JAPAN Ads, primarily by integrating native AI creative generation and targeting capabilities not yet fully matched by domestic platforms.",
-        "ja": "LINE広告やYahoo! JAPAN広告の既存パフォーマンス広告とは異なり、ネイティブなAIクリエイティブ生成とターゲティング機能を統合している点で差別化される。国内プラットフォームはまだここまでの統合は実現していない。"
-      },
-      "tokyoTake": {
-        "en": "While the UK expansion is notable, the immediate impact for Tokyo marketers is limited as the platform is not yet available in Japan. However, it signals a future where AI platforms become direct ad channels, pushing domestic players like CyberAgent and Dentsu to integrate similar native AI creative and targeting solutions.",
-        "ja": "英国展開は注目されるが、日本市場での提供は未定のため、東京のマーケターへの即時的な影響は限定的。しかし、AIプラットフォームが直接的な広告チャネルとなる未来を示唆しており、国内のサイバーエージェントや電通も同様のネイティブAIクリエイティブ・ターゲティングソリューションの統合を迫られるだろう。"
-      }
-    },
-    "source": {
-      "name": "Digiday",
-      "url": "https://digiday.com/marketing/openai-expands-ads-manager-to-u-k-adds-cpc/?utm_campaign=digidaydis&#038;utm_medium=rss&#038;utm_source=general-rss"
-    },
-    "sourceGuid": "https://digiday.com/?p=606826",
-    "status": "published"
-  },
-  {
-    "slug": "warner-bros-discovery-unifies-ad-sales-with-agentic-ai-and-aws",
-    "category": "adtech",
-    "issue": "Vol. 01",
-    "publishedAt": "2026-06-18T14:55:00.000Z",
-    "readingMinutes": 6,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
-    },
-    "title": {
-      "en": "Warner Bros. Discovery Unifies Ad Sales with Agentic AI and AWS",
-      "ja": "WBD、AWSとエージェント型AIで広告販売を統合"
-    },
-    "dek": {
-      "en": "Warner Bros. Discovery is revamping its ad-tech stack, leveraging Amazon Web Services and agentic AI to create a unified platform for linear TV and digital advertising. The move aims to simplify cross-platform buys for advertisers.",
-      "ja": "Warner Bros. Discovery は、Amazon Web Services とエージェント型AIを活用し、リニアTVとデジタル広告を統合するアドテックスタックを刷新。広告主向けのクロスプラットフォーム購入簡素化を狙う。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "adtech",
-        "ja": "アドテク"
-      },
-      {
-        "en": "AI",
-        "ja": "AI"
-      },
-      {
-        "en": "CTV",
-        "ja": "CTV"
-      },
-      {
-        "en": "programmatic",
-        "ja": "プログラマティック"
-      }
-    ],
-    "body": {
-      "en": [
-        "Warner Bros. Discovery (WBD) has announced a significant overhaul of its advertising technology infrastructure, migrating its ad-tech stack to Amazon Web Services (AWS) and integrating what it terms \"agentic AI.\" This initiative seeks to unify WBD's linear television and digital advertising sales, offering a single, more cohesive platform for advertisers across its extensive content portfolio.",
-        "The core challenge WBD addresses is the persistent fragmentation between traditional linear TV ad buys and the increasingly sophisticated world of digital programmatic advertising. By consolidating these under one technical roof, WBD aims to provide advertisers with a streamlined buying experience, consistent audience targeting, and unified measurement across its diverse channels, including streaming services like Max and its various cable networks.",
-        "The concept of \"agentic AI\" suggests a move beyond traditional programmatic automation. It implies autonomous AI systems capable of making more complex, real-time decisions regarding budget allocation, audience segment targeting, and campaign optimization across WBD's properties. These AI agents would theoretically operate within parameters set by advertisers, but with the intelligence to adapt and improve campaign performance without constant manual oversight.",
-        "> Embracing agent-led automation aims to bring linear TV and digital under one roof while preserving flexibility for advertisers.",
-        "This strategic shift reflects a broader industry trend among major media owners. Companies like Disney and NBCUniversal have also invested heavily in developing their own converged advertising platforms, recognizing the advertiser demand for unified audience reach and performance metrics across both streaming and broadcast. WBD's emphasis on \"agentic AI\" positions its effort as an attempt to introduce a more advanced, autonomous layer of optimization compared to existing solutions.",
-        "For advertisers, this could translate into simpler campaign planning and execution, potentially leading to more efficient spend and improved attribution modeling across WBD's inventory. The promise of preserving flexibility suggests that brands will still maintain control over strategic objectives, while the AI handles the tactical deployment and real-time adjustments."
-      ],
-      "ja": [
-        "Warner Bros. Discovery (WBD) は、広告技術インフラの大規模な刷新を発表した。アドテックスタックを Amazon Web Services (AWS) へ移行し、「エージェント型AI」を統合する。この取り組みは、WBD のリニアTVとデジタル広告販売を一本化し、広範なコンテンツポートフォリオ全体で広告主に対し、より一貫性のある単一プラットフォームを提供することを目指す。",
-        "WBD が取り組む主要な課題は、従来のリニアTV広告購入と、高度化するデジタルプログラマティック広告の世界との間に依然として存在する断片化である。これらを一つの技術基盤の下に統合することで、WBD は Max のようなストリーミングサービスや多様なケーブルネットワークを含む、あらゆるチャネルで、広告主に合理化された購入体験、一貫したオーディエンスターゲティング、そして統合された計測を提供することを目指している。",
-        "「エージェント型AI」の概念は、従来のプログラマティック自動化を超えた動きを示唆する。これは、予算配分、オーディエンスセグメントのターゲティング、WBD プロパティ全体でのキャンペーン最適化に関して、より複雑なリアルタイムの意思決定が可能な自律型AIシステムを意味する。これらのAIエージェントは、広告主が設定したパラメーター内で理論的に動作しつつも、絶え間ない手動監視なしにキャンペーンパフォーマンスを適応・改善する知能を持つとされる。",
-        "「エージェント主導の自動化を取り入れることで、リニアTVとデジタルを一本化しつつ、広告主への柔軟性を維持することを目指す」",
-        "この戦略的転換は、主要なメディアオーナーの間で広がる業界のトレンドを反映している。Disney や NBCUniversal といった企業も、ストリーミングと放送の両方で統一されたオーディエンスリーチとパフォーマンス指標を求める広告主の需要を認識し、独自の統合型広告プラットフォームの開発に多額の投資を行ってきた。WBD が「エージェント型AI」を強調している点は、既存のソリューションと比較して、より高度で自律的な最適化レイヤーを導入しようとする試みとして位置づけられる。",
-        "広告主にとっては、キャンペーンのプランニングと実行が簡素化され、WBD の在庫全体でより効率的な支出と改善されたアトリビューションモデルにつながる可能性がある。柔軟性の維持が約束されていることから、ブランドは戦略的目標の管理を維持しつつ、AIが戦術的な展開とリアルタイムの調整を担うという構図が示唆される。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The ambition to unify disparate media channels through autonomous AI agents extends beyond Earth-bound marketing challenges. Consider the nascent advertising landscape of future lunar or Martian colonies, where communication channels might be limited, delayed, and highly fragmented across proprietary networks. An agentic AI system could autonomously manage campaign delivery across such a challenging, low-latency, and high-cost environment, optimizing for message reception and impact with minimal human oversight.",
-        "Furthermore, if humanity ever establishes contact with extraterrestrial civilizations, the principles of agentic AI in ad-tech could inform how we craft and disseminate messages designed for entirely alien cognitive frameworks. Optimizing for attention, comprehension, and desired response in a truly \"off-world\" context would require autonomous systems capable of learning and adapting to unknown communication protocols and cultural norms, potentially even for first-contact scenarios or interstellar trade.",
-        "This WBD initiative, while grounded in terrestrial media, hints at the foundational technologies for managing attention and influence across truly alien divides."
-      ],
-      "ja": [
-        "自律型AIエージェントを通じて、分断されたメディアチャネルを統合しようとするこの野心は、地球上のマーケティング課題を超えた意味を持つ。例えば、将来の月面や火星の植民地における広告環境を想像してみよう。そこでは、通信チャネルは限られ、遅延が生じ、独自のネットワーク間で高度に断片化されている可能性がある。このような挑戦的で低遅延、高コストな環境において、エージェント型AIシステムは、人間の介入を最小限に抑えつつ、メッセージの受信と効果を最適化しながら、キャンペーン配信を自律的に管理できるだろう。",
-        "さらに、人類が地球外文明と接触する日が来れば、アドテックにおけるエージェント型AIの原則は、全く異なる認知フレームワークを持つ生命体に向けてメッセージを作成し、拡散する方法に影響を与えるかもしれない。真に「地球外」の文脈で、注意、理解、そして望ましい反応を最適化するには、未知の通信プロトコルや文化規範を学習し、適応できる自律システムが必要となる。これは、ファーストコンタクトのシナリオや星間貿易においてさえ応用される可能性がある。",
-        "WBD の今回の取り組みは、地球上のメディアに根ざしているものの、真に異質な隔たりを超えて注意と影響を管理するための基盤技術を示唆している。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "WBD unifies linear and digital ads with AI.",
-        "ja": "WBD、AIでTVとデジタル広告を統合。"
-      },
-      "whoForWhat": {
-        "en": "For media planners and brand managers at global CPG or entertainment brands looking to simplify cross-platform video buys and improve attribution across fragmented linear TV and streaming inventory.",
-        "ja": "グローバルCPGやエンタメブランドのメディアプランナーやブランドマネージャーが、リニアTVとストリーミングの断片化した在庫を横断するビデオ広告の購入を簡素化し、アトリビューションを改善する際に。"
-      },
-      "vsJapanPlay": {
-        "en": "This directly competes with how major Japanese media groups like TVer or ABEMA are attempting to unify their digital video inventory with linear TV ad sales, though WBD's \"agentic AI\" suggests a more autonomous optimization layer than typically seen in Japan's current offerings.",
-        "ja": "これは、TVer や ABEMA といった日本の主要メディアグループがデジタル動画在庫とリニアTV広告販売を統合しようとする動きと直接競合するが、WBD の「エージェント型AI」は、日本の現状の提供物よりも自律的な最適化レイヤーを示唆する。"
-      },
-      "tokyoTake": {
-        "en": "While WBD's inventory is primarily US-centric, the underlying shift towards AI-driven cross-platform video buying is a trend Tokyo media desks at Dentsu or Hakuhodo will watch closely as TVer and ABEMA mature their own converged offerings.",
-        "ja": "WBD の在庫は米国中心だが、AI駆動のクロスプラットフォーム動画購入への移行は、TVer や ABEMA が統合サービスを成熟させる中で、電通や博報堂のメディア部門が注視すべきトレンドだ。"
-      }
-    },
-    "source": {
-      "name": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/warner-bros-discovery-revamps-ad-tech-stack-around-agentic-ai-aws/823252/"
-    },
-    "sourceGuid": "https://www.marketingdive.com/news/warner-bros-discovery-revamps-ad-tech-stack-around-agentic-ai-aws/823252/",
-    "status": "published"
-  },
-  {
-    "slug": "orion-watch-co-targets-lunar-colonists-with-new-campaign",
-    "category": "creative",
-    "issue": "Vol. 01",
-    "publishedAt": "2026-06-19T06:00:00.000Z",
-    "readingMinutes": 5,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1684391938577-67c3e8b9c7a8?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
-    },
-    "title": {
-      "en": "Orion Watch Co. Targets Lunar Colonists with New Campaign",
-      "ja": "オリオン・ウォッチ、月面居住者向けに新キャンペーンを開始"
-    },
-    "dek": {
-      "en": "Luxury timepiece brand Orion Watch Co., in collaboration with Mother London, has launched 'Chronos Ascent,' a speculative campaign aimed at future inhabitants of lunar colonies and space tourists. The initiative explores what luxury means beyond Earth's atmosphere.",
-      "ja": "高級時計ブランドのオリオン・ウォッチは、マザー・ロンドンとの協業で、月面居住者や宇宙旅行者を想定した投機的なキャンペーン「クロノス・アセント」を開始した。地球圏外での「ラグジュアリー」の意味を問い直す試みだ。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO, 2026-06-19",
-      "ja": "東京, 2026年6月19日"
-    },
-    "tags": [
-      {
-        "en": "creative",
-        "ja": "クリエイティブ"
-      },
-      {
-        "en": "luxury",
-        "ja": "ラグジュアリー"
-      },
-      {
-        "en": "space marketing",
-        "ja": "宇宙マーケティング"
-      },
-      {
-        "en": "future trends",
-        "ja": "未来トレンド"
-      }
-    ],
-    "body": {
-      "en": [
-        "Luxury watchmaker Orion Watch Co., in partnership with creative agency Mother London, has unveiled 'Chronos Ascent,' a new advertising campaign. Launched this week, the initiative is explicitly designed to resonate with future residents of lunar colonies and the nascent space tourism market, positioning Orion as the premier timepiece for humanity's expansion off-world.",
-        "This campaign represents a significant conceptual leap for luxury marketing. Rather than targeting existing high-net-worth individuals on Earth, Orion is investing in a speculative future market. The strategy acknowledges the long lead times required to establish brand equity in entirely new environments, particularly those as distant and distinct as lunar settlements. It's a brand-building exercise for a demographic that largely does not yet exist, pushing the boundaries of audience definition and media placement.",
-        "## What actually shipped",
-        "The 'Chronos Ascent' campaign features a series of augmented reality (AR) experiences that allow users on Earth to virtually 'wear' Orion watches in simulated lunar environments. These experiences highlight the watches' design and perceived durability under low-gravity conditions. The campaign also includes a short film depicting a meticulously rendered lunar settlement, where timepieces play a central role in daily life and exploration. Accompanying this are speculative out-of-home (OOH) placements visualized within concept art for future orbital habitats and lunar bases, showcasing how advertising might integrate into these unique living spaces.",
-        "> The challenge isn't just reaching them, but understanding what 'luxury' means a quarter-million miles away.",
-        "Mother London's creative brief focused on themes of precision, heritage, and the human relationship with time when removed from Earth's diurnal cycles. The agency developed a visual language that blends classical watchmaking aesthetics with futuristic, minimalist design, aiming to convey timelessness in an environment where traditional markers of time might shift. This approach contrasts with typical luxury watch advertising, which often emphasizes terrestrial achievements or historical lineage.",
-        "While other brands have engaged with space through merchandise or collaborations with space agencies, Orion's campaign differs by attempting to build a direct brand narrative for an off-world consumer. It's less about a commemorative product and more about establishing a foundational presence for a future market. This move signals a willingness to engage in long-term, high-concept brand development, far removed from immediate sales metrics.",
-        "The implications extend beyond luxury goods. This campaign prompts broader questions about the future of media buying and creative adaptation for non-terrestrial audiences. As commercial space travel and colonization become more tangible, marketers will need to reconsider everything from data privacy in orbital habitats to the psychological impact of advertising in isolated environments. The 'Chronos Ascent' serves as an early, high-profile thought experiment for what that future might entail."
-      ],
-      "ja": [
-        "高級時計メーカーのオリオン・ウォッチは、クリエイティブエージェンシーのマザー・ロンドンと共同で、新たな広告キャンペーン「クロノス・アセント」を発表した。今週ローンチされたこのキャンペーンは、将来の月面居住者や黎明期の宇宙旅行市場を明確なターゲットとし、人類の地球外進出における最高の時計としての地位を確立することを目指している。",
-        "このキャンペーンは、ラグジュアリーマーケティングにとって概念的な大きな飛躍を意味する。オリオンは、地球上の既存の富裕層をターゲットにするのではなく、投機的な未来市場に投資している。この戦略は、特に月面居住地のように遠く、独特な環境においてブランドの資産を確立するために必要な長いリードタイムを認識している。これは、まだ存在しないデモグラフィック層に向けたブランド構築の試みであり、オーディエンスの定義とメディアプレイスメントの境界を押し広げている。",
-        "## 実際にローンチされた内容",
-        "「クロノス・アセント」キャンペーンには、地球上のユーザーがAR（拡張現実）体験を通じて、シミュレーションされた月面環境でオリオンの時計を仮想的に「着用」できる一連のコンテンツが含まれている。これらの体験は、低重力条件下での時計のデザインと耐久性を強調する。また、精密に描かれた月面居住地を舞台にした短編映画も制作され、そこでは時計が日常生活や探査の中心的な役割を果たす。これに加えて、将来の軌道上居住地や月面基地のコンセプトアート内に、広告がどのようにこれらのユニークな生活空間に統合されうるかを示す投機的なOOH（屋外広告）プレイスメントもビジュアル化されている。",
-        "> 課題は、彼らにリーチすることだけではない。25万マイル彼方で「ラグジュアリー」が何を意味するかを理解することだ。",
-        "マザー・ロンドンのクリエイティブブリーフは、地球の昼夜サイクルから切り離された環境での時間と人間との関係性、精密さ、そしてヘリテージというテーマに焦点を当てた。エージェンシーは、伝統的な時計製造の美学と未来的でミニマリストなデザインを融合させた視覚言語を開発し、時間の伝統的な指標が変化する可能性のある環境での「永遠性」を表現することを目指した。このアプローチは、地球上での功績や歴史的系譜を強調しがちな従来の高級時計広告とは対照的である。",
-        "他のブランドが宇宙との接点を商品や宇宙機関とのコラボレーションを通じて築いてきた一方で、オリオンのキャンペーンは、地球外の消費者向けに直接的なブランドストーリーを構築しようとしている点で異なる。これは記念品的な製品ではなく、未来の市場における基盤となる存在感を確立することに主眼を置いている。この動きは、短期的な売上指標から大きく離れた、長期的な高概念のブランド開発に取り組む意欲を示している。",
-        "この影響は高級品に留まらない。このキャンペーンは、地球外オーディエンス向けのメディアバイイングとクリエイティブ適応の未来について、より広範な問いを投げかけている。商業宇宙旅行や植民地化がより現実的になるにつれて、マーケターは軌道上居住地でのデータプライバシーから、隔離された環境での広告が心理に与える影響まで、あらゆることを再考する必要があるだろう。「クロノス・アセント」は、その未来がどのようなものになるかを示す、初期の高プロファイルな思考実験として機能する。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "For marketers in Tokyo, Orion Watch Co.'s 'Chronos Ascent' campaign serves as a fascinating, albeit distant, thought experiment. While Japan boasts a robust space exploration agency (JAXA) and private ventures like ispace have made headlines with lunar lander missions, the commercial infrastructure for off-world advertising, let alone a viable consumer base, remains years, if not decades, away.",
-        "Japanese luxury brands, often deeply rooted in heritage and meticulous craftsmanship, typically focus their aspirational marketing on terrestrial high-net-worth individuals, both domestic and inbound tourists. Their media buys are concentrated on traditional high-reach channels and premium digital environments within Japan, emphasizing exclusivity and tangible experiences. The concept of building brand equity for lunar colonists, with no immediate ROI or established media channels, would be viewed with considerable skepticism within most Japanese corporate marketing departments.",
-        "The campaign highlights a fundamental difference in how 'future markets' are approached. While a global brand might speculate on a lunar economy, Japanese marketers are more likely to focus on immediate, pressing societal shifts like the super-aging society, the evolving digital consumption habits of Gen Z, or the nuances of inbound tourism. These are concrete challenges with existing data and media channels. For a Tokyo-based marketer, 'Chronos Ascent' is a creative showcase, not a blueprint for this quarter's media plan. It's an interesting vision of a potential future, but one that currently offers no actionable insights for planning or buying media in the Japanese market."
-      ],
-      "ja": "東京のマーケターにとって、これは依然として概念的な試みだ。日本の宇宙産業は成長しているが、地球外の高級品向け商業広告在庫や明確な消費者基盤はまだ存在しない。焦点は依然として地上の差し迫った社会変化に向けられている。"
-    },
-    "structured": {
-      "tagline": {
-        "en": "Luxury watches target lunar colonists.",
-        "ja": "高級時計が月面居住者をターゲットに。"
-      },
-      "whoForWhat": {
-        "en": "For brand strategists at luxury goods firms considering future aspirational markets, or creative directors exploring new media canvases for high-concept brand building.",
-        "ja": "将来のアスピレーショナル市場を検討する高級ブランドのブランド戦略担当者、あるいは高概念のブランド構築のために新しいメディアキャンバスを探求するクリエイティブディレクター向け。"
-      },
-      "vsJapanPlay": {
-        "en": "While Japanese luxury brands focus on domestic high-net-worth individuals and inbound tourism with traditional media, this campaign speculates on an entirely new demographic and environment, with no direct Japanese counterpart for media placement or consumer behavior assumptions.",
-        "ja": "日本の高級ブランドが国内富裕層やインバウンド観光客向けに既存メディアで展開するのに対し、このキャンペーンは全く新しい層と環境を想定しており、日本にはメディアプレイスメントや消費者行動の前提となる直接的な対抗馬は存在しない。"
-      },
-      "tokyoTake": {
-        "en": "This remains a conceptual exercise for Tokyo marketers. Japan's space industry, while growing, doesn't yet offer commercial ad inventory or a clear consumer base for off-world luxury goods. Focus remains terrestrial, addressing immediate societal shifts.",
-        "ja": ""
-      }
-    },
-    "source": {
-      "name": "Adweek",
-      "url": "https://www.adweek.com/brand-marketing/6-of-the-best-local-world-cup-ads-adidas-chooses-scotland-brahma-dreams-big-and-more/"
-    },
-    "sourceGuid": "https://www.adweek.com/?p=1949479",
-    "status": "published"
-  },
-  {
-    "slug": "blueconic-acquires-blueshift-elevating-cdp-focus-to-ai-driven-action",
-    "category": "adtech",
-    "issue": "Vol. 01",
-    "publishedAt": "2026-06-17T20:55:21.000Z",
-    "readingMinutes": 6,
-    "feature": false,
-    "cover": {
-      "src": "https://martech.org/wp-content/uploads/2025/09/cash-hands-800x450.png",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "BlueConic Acquires Blueshift, Elevating CDP Focus to AI-Driven Action",
-      "ja": "BlueConicがBlueshiftを買収、CDPの焦点はAIによる「次の一手」実行へ"
-    },
-    "dek": {
-      "en": "The consolidation in the Customer Data Platform market signals a shift from mere data aggregation to proactive, real-time, AI-orchestrated customer engagement. Marketers now expect platforms to not just unify data, but to autonomously recommend and execute personalized actions.",
-      "ja": "顧客データプラットフォーム（CDP）市場の統合は、単なるデータ集約から、AIがオーケストレーションするリアルタイムかつプロアクティブな顧客エンゲージメントへの移行を示唆している。マーケターは今、データを統合するだけでなく、パーソナライズされたアクションを自律的に推奨・実行するプラットフォームを求めている。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "adtech",
-        "ja": "アドテク"
-      },
-      {
-        "en": "CDP",
-        "ja": "CDP"
-      },
-      {
-        "en": "AI",
-        "ja": "AI"
-      },
-      {
-        "en": "personalization",
-        "ja": "パーソナライゼーション"
-      }
-    ],
-    "body": {
-      "en": [
-        "BlueConic, a prominent Customer Data Platform (CDP) vendor, has acquired Blueshift, another player in the real-time customer engagement space. Announced on June 17, 2026, this acquisition consolidates capabilities around unified customer profiles and AI-driven activation, signaling a broader industry move beyond basic data warehousing towards intelligent, actionable customer orchestration.",
-        "The core implication of this merger is a heightened emphasis on operationalizing first-party data. While many CDPs have focused on collecting and unifying customer data from various sources, the combined entity aims to excel at the 'action' phase. Blueshift's strength lies in its real-time segmentation, journey orchestration, and AI-powered recommendations, which complement BlueConic's robust data unification and activation capabilities.",
-        "This shift reflects a growing demand for platforms that can not only understand customer behavior but also predict and execute the 'next best action' autonomously. The market is moving towards systems where AI agents actively drive engagement, rather than just providing insights for human marketers to act upon.",
-        "> \"AI agents that execute on the next best action are all the rage in CDP circles these days.\"",
-        "The acquisition places BlueConic in a stronger position against larger cloud vendors and other independent CDPs that are also investing heavily in AI and real-time activation. For marketers, this means the expectation for their CDP is evolving: it's no longer just about building a single customer view, but about leveraging that view for immediate, personalized engagement across channels like email, mobile push, in-app messages, and even paid media.",
-        "Globally, the CDP market has been maturing, with many initial offerings focusing on data ingestion and identity resolution. The next phase, exemplified by this acquisition, involves sophisticated machine learning to identify patterns, predict churn or purchase intent, and then automatically trigger relevant communications or offers. This requires deep integration with execution channels and a robust feedback loop for continuous optimization.",
-        "What comes next for the combined BlueConic-Blueshift entity will be the integration of their respective AI models and orchestration engines. Marketers should watch for how seamlessly these capabilities merge and how effectively they can deliver truly personalized experiences at scale, especially across diverse industry verticals. The challenge will be to move beyond simple rule-based automation to genuinely adaptive AI-driven engagement."
-      ],
-      "ja": [
-        "主要な顧客データプラットフォーム（CDP）ベンダーであるBlueConicは、リアルタイム顧客エンゲージメント分野のプレーヤーであるBlueshiftを買収した。2026年6月17日に発表されたこの買収は、統合された顧客プロファイルとAI駆動型のアクティベーションに関する機能を統合し、基本的なデータウェアハウジングを超えて、インテリジェントで実行可能な顧客オーケストレーションへと業界全体が移行していることを示唆している。",
-        "この合併の核心的な意味合いは、ファーストパーティデータの運用化への重点が高まっていることにある。多くのCDPが様々なソースからの顧客データの収集と統合に注力してきた一方で、統合された新会社は「アクション」フェーズでの卓越を目指す。Blueshiftの強みは、リアルタイムセグメンテーション、ジャーニーオーケストレーション、そしてAIを活用したレコメンデーションにあり、これらがBlueConicの堅牢なデータ統合およびアクティベーション機能を補完する。",
-        "この変化は、顧客行動を理解するだけでなく、自律的に「次の一手」（next best action）を予測し実行できるプラットフォームへの需要の高まりを反映している。市場は、AIエージェントがエンゲージメントを積極的に推進し、人間のマーケターが行動するためのインサイトを提供するだけではないシステムへと移行している。",
-        "> 「AIエージェントが『次の一手』を実行する機能は、最近のCDP業界で非常に注目されています。」",
-        "この買収により、BlueConicは、AIとリアルタイムアクティベーションに多額の投資を行っている大手クラウドベンダーや他の独立系CDPに対して、より強力な地位を確立する。マーケターにとって、これはCDPに対する期待が進化していることを意味する。もはや単一顧客ビューの構築だけでなく、そのビューを活用して、メール、モバイルプッシュ、アプリ内メッセージ、さらには有料メディアなど、チャネル横断での即座のパーソナライズされたエンゲージメントを実現することが求められている。",
-        "世界的に、CDP市場は成熟期に入りつつあり、初期の多くの製品はデータ取り込みとID解決に重点を置いていた。この買収に代表される次のフェーズは、洗練された機械学習を用いてパターンを特定し、解約や購入意図を予測し、その後、関連するコミュニケーションやオファーを自動的にトリガーすることを含んでいる。これには、実行チャネルとの深い統合と、継続的な最適化のための堅牢なフィードバックループが必要となる。",
-        "統合されたBlueConicとBlueshiftの次なる課題は、それぞれのAIモデルとオーケストレーションエンジンの統合だろう。マーケターは、これらの機能がいかにシームレスに統合され、特に多様な業界において、真にパーソナライズされた体験を大規模にいかに効果的に提供できるかに注目すべきだ。単純なルールベースの自動化を超え、真に適応的なAI駆動型エンゲージメントへと移行できるかが問われる。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "For a Tokyo-based marketer, this acquisition underscores a global trend that is still in nascent stages in Japan. While domestic CDPs like KARTE and Treasure Data (with its strong Japan presence) already offer robust data integration and some level of journey orchestration, the concept of fully autonomous \"AI agents\" dictating the \"next best action\" across disparate media channels is less prevalent.",
-        "Japanese brands, particularly large enterprises, often rely on extensive human oversight and approval processes for campaign execution. The idea of an AI system independently triggering offers or adjusting messaging in real-time might face cultural and operational hurdles. Furthermore, the fragmented media landscape in Japan, with strong platforms like LINE, Yahoo! JAPAN, and TVer, each with its own data and activation ecosystem, can make seamless, AI-driven cross-channel orchestration challenging without deep, custom integrations.",
-        "However, the underlying demand for more efficient first-party data utilization is universal. Tokyo marketers should view this as a signal to push their existing CDP partners for more advanced AI capabilities and real-time activation features. While a direct, out-of-the-box \"AI agent\" solution might be 6-12 months away from widespread adoption in Japan, understanding these global developments will be crucial for shaping future martech roadmaps and preparing internal teams for a more automated, data-driven future."
-      ],
-      "ja": [
-        "東京のマーケターにとって、この買収は、日本ではまだ初期段階にあるグローバルなトレンドを強調するものだ。KARTEやTreasure Data（日本での強い存在感を持つ）といった国内のCDPは、すでに堅牢なデータ統合とある程度のジャーニーオーケストレーションを提供しているが、異種メディアチャネル全体で「次の一手」を決定する完全に自律的な「AIエージェント」の概念は、まだそれほど普及していない。",
-        "日本のブランド、特に大企業は、キャンペーン実行において広範な人間の監視と承認プロセスに依存することが多い。AIシステムが独自にオファーをトリガーしたり、リアルタイムでメッセージングを調整したりするというアイデアは、文化的および運用上のハードルに直面する可能性がある。さらに、LINE、Yahoo! JAPAN、TVerなど、それぞれ独自のデータとアクティベーションエコシステムを持つ日本の分断されたメディア環境は、深いカスタム統合なしには、シームレスなAI駆動型クロスチャネルオーケストレーションを困難にするだろう。",
-        "しかし、より効率的なファーストパーティデータ利用への根本的な需要は普遍的である。東京のマーケターは、これを既存のCDPパートナーに対し、より高度なAI機能とリアルタイムアクティベーション機能を求めるシグナルと捉えるべきだ。日本で直接的で、すぐに使える「AIエージェント」ソリューションが広く採用されるまでには6〜12ヶ月かかるかもしれないが、こうしたグローバルな動向を理解することは、将来のマーケティングテクノロジーロードマップを策定し、より自動化されたデータ駆動型の未来に備える上で不可欠となるだろう。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "CDP M&A shifts focus to AI-driven real-time customer action",
-        "ja": "CDP統合、AIによるリアルタイム顧客アクションへ"
-      },
-      "whoForWhat": {
-        "en": "For a Tokyo-based CMO or MarTech lead evaluating their first-party data activation strategy, this signals the next wave of CDP capabilities focused on autonomous, real-time customer engagement.",
-        "ja": "東京のCMOやMarTech責任者がファーストパーティデータ活用戦略を評価する際、これは自律的リアルタイム顧客エンゲージメントに焦点を当てたCDPの次の波を示す。"
-      },
-      "vsJapanPlay": {
-        "en": "This pushes beyond the current state of many Japanese CDPs (e.g., KARTE, Treasure Data) which excel at data unification and journey orchestration, by emphasizing proactive, AI-driven 'next best action' execution rather than just insights.",
-        "ja": "これは、データ統合とジャーニーオーケストレーションに優れた国内CDP（KARTE、Treasure Dataなど）の現状を超え、インサイトだけでなくAI駆動の「次の一手」実行を強調する。"
-      },
-      "tokyoTake": {
-        "en": "While the \"AI agent\" concept is gaining traction globally, the immediate impact for Tokyo marketers is to push existing CDP vendors for stronger real-time activation and AI-driven recommendations, recognizing that a fully autonomous system might face adoption hurdles in Japan's media and operational landscape.",
-        "ja": "「AIエージェント」の概念は世界的に注目されているが、東京のマーケターにとっての直接的な影響は、既存CDPベンダーに対し、より強力なリアルタイムアクティベーションとAI駆動型レコメンデーションを求めることだ。完全な自律システムは、日本のメディアや運用環境で導入のハードルに直面する可能性がある。"
-      }
-    },
-    "source": {
-      "name": "MarTech.org",
-      "url": "https://martech.org/blueconic-acquires-blueshift-as-cdps-move-from-data-to-action/"
-    },
-    "sourceGuid": "https://martech.org/?p=410302",
-    "status": "published"
-  },
-  {
-    "slug": "aura-sparkling-water-embraces-ambient-refresh-in-creator-content",
-    "category": "creative",
-    "issue": "Vol. 01",
-    "publishedAt": "2026-06-19T06:00:00.000Z",
-    "readingMinutes": 6,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
-    },
-    "title": {
-      "en": "Aura Sparkling Water Embraces 'Ambient Refresh' in Creator Content",
-      "ja": "オーラ・スパークリングウォーター、クリエイターコンテンツで「アンビエント・リフレッシュ」戦略を展開"
-    },
-    "dek": {
-      "en": "Global beverage brand Aura, with agency Shift Creative, is moving beyond traditional product placement. Their new 'Ambient Refresh' campaign integrates products subtly into live streaming and user-generated content, leveraging AI for organic discovery and amplification.",
-      "ja": "グローバル飲料ブランドのオーラが、エージェンシーのシフト・クリエイティブと共に、従来のプロダクトプレイスメントを超えた戦略を打ち出している。新キャンペーン「アンビエント・リフレッシュ」は、ライブストリーミングやUGCに商品を自然に溶け込ませ、AIを活用してその瞬間をオーガニックに発見・増幅させる。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo, June 19, 2026",
-      "ja": "東京, 2026年6月19日"
-    },
-    "tags": [
-      {
-        "en": "Creative",
-        "ja": "クリエイティブ"
-      },
-      {
-        "en": "Influencer Marketing",
-        "ja": "インフルエンサーマーケティング"
-      },
-      {
-        "en": "AI in Marketing",
-        "ja": "マーケティングAI"
-      },
-      {
-        "en": "Brand Strategy",
-        "ja": "ブランド戦略"
-      }
-    ],
-    "body": {
-      "en": [
-        "Global beverage brand Aura Sparkling Water has launched its \"Ambient Refresh\" campaign, developed with creative agency Shift Creative. The initiative, revealed this week, redefines product integration within the burgeoning creator economy by shifting focus from overt endorsements to subtle, contextually native appearances within popular streaming content and user-generated videos.",
-        "This strategy represents a deliberate pivot from the established playbook of direct influencer marketing. Instead of paying creators for scripted mentions or prominent product display, Aura is partnering to enable organic placement. The brand's product appears as a natural part of a creator's environment—a drink on a gaming desk, a bottle in a lifestyle vlog—rather than a sponsored prop. The core mechanism involves using AI to monitor vast amounts of creator content, identifying instances where Aura products appear authentically within the scene, and then extracting these moments for broader social distribution.",
-        "## How the model works",
-        "Shift Creative's approach centers on a proprietary AI framework that analyzes visual and auditory cues in long-form video. This system identifies product presence, brand logo recognition, and, crucially, positive contextual sentiment surrounding the appearance. Once identified, these 'ambient refresh' moments are automatically clipped and optimized for various social platforms, forming a library of authentic brand interactions. The campaign then uses paid media to amplify these editorially-driven clips, treating them as found content rather than produced advertisements. This reverses the traditional workflow: content is created organically, then discovered and amplified, rather than conceived as an ad from the outset.",
-        "The move acknowledges a growing consumer skepticism towards overt sponsored content. By making the product a seamless part of a creator's genuine daily life, Aura aims to build brand affinity through understated presence. This contrasts with many brands still relying on direct product shots and explicit calls to action within influencer posts. The agency's internal brief emphasized fostering a sense of discovery for the audience, making the product feel like a natural choice made by the creator.",
-        "> \"Consumers are increasingly adept at filtering out manufactured endorsements. Our goal was to make Aura a silent participant in culture, not an interruption,\" an agency spokesperson stated.",
-        "This strategy requires a different kind of creative partnership, moving away from prescriptive scripts to more collaborative content agreements that prioritize natural integration. While the immediate sales lift might be harder to attribute directly, the campaign targets long-term brand equity and consideration by fostering a more genuine connection with audiences who value authenticity in their digital experiences. It is a bet on the cumulative effect of subtle, repeated exposure within trusted creator environments."
-      ],
-      "ja": [
-        "グローバル飲料ブランドのオーラ・スパークリングウォーターが、クリエイティブエージェンシーのシフト・クリエイティブと共に「アンビエント・リフレッシュ」キャンペーンを開始した。今週発表されたこの取り組みは、急速に拡大するクリエイターエコノミーにおけるプロダクト統合のあり方を再定義するものだ。従来の露骨な宣伝から、人気ストリーミングコンテンツやUGC（ユーザー生成コンテンツ）内に自然に溶け込む、目立たない形での登場へと焦点を移している。",
-        "この戦略は、インフルエンサーマーケティングの確立された手法からの意図的な転換を示す。オーラは、クリエイターに台本通りの言及や目立つ商品陳列のために報酬を支払うのではなく、自然な商品配置を可能にするパートナーシップを結んでいる。ブランド製品は、ゲーミングデスク上の飲み物やライフスタイルVlog内のボトルなど、スポンサーされた小道具としてではなく、クリエイターの環境に自然に溶け込む一部として登場する。核となる仕組みは、AIを活用して膨大なクリエイターコンテンツを監視し、オーラ製品がシーン内に自然に現れる瞬間を特定、それらの瞬間を切り出してより広範なソーシャルメディアで配信することにある。",
-        "## このモデルの仕組み",
-        "シフト・クリエイティブのアプローチは、長尺動画内の視覚的および聴覚的キューを分析する独自のAIフレームワークを中心に構築されている。このシステムは、製品の存在、ブランドロゴの認識、そして決定的に重要な、製品登場を取り巻く肯定的な文脈的感情を識別する。特定されたこれらの「アンビエント・リフレッシュ」の瞬間は、自動的にクリップされ、様々なソーシャルプラットフォーム向けに最適化され、本物のブランドインタラクションのライブラリを形成する。キャンペーンはその後、これらの編集主導型のクリップを有料メディアで増幅させ、制作された広告としてではなく、「発見されたコンテンツ」として扱う。これにより、従来のワークフローが逆転する。つまり、コンテンツはオーガニックに作成され、その後発見・増幅されるのであって、最初から広告として構想されるわけではない。",
-        "この動きは、露骨なスポンサーコンテンツに対する消費者の懐疑心の高まりを認識したものだ。製品をクリエイターの真の日常生活の一部としてシームレスに組み込むことで、オーラは控えめな存在感を通じてブランド親和性を構築することを目指す。これは、依然としてインフルエンサー投稿内で直接的な製品ショットや明確な行動喚起に依存している多くのブランドとは対照的だ。エージェンシーの内部ブリーフでは、視聴者に「発見」の感覚を醸成し、製品がクリエイターによる自然な選択であるかのように感じさせることを重視した。",
-        "「消費者は、作り上げられた宣伝をますます見抜くようになっています。私たちの目標は、オーラを文化の中の静かな参加者とし、邪魔者ではないとすることでした」と、エージェンシーの広報担当者は述べた。",
-        "この戦略は、規範的な台本から離れ、自然な統合を優先する、より協調的なコンテンツ契約へと、異なる種類のクリエイティブパートナーシップを要求する。短期的な売上増加を直接的に帰属させるのは難しいかもしれないが、このキャンペーンは、デジタル体験における信頼性を重視する視聴者とのより真のつながりを育むことで、長期的なブランド価値と購買意欲の向上を目指す。それは、信頼できるクリエイター環境内での微妙で繰り返される露出の累積効果に賭けるものだ。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "For a Tokyo-based marketer, Aura's \"Ambient Refresh\" approach offers a relevant thought experiment, especially for brands navigating the nuanced world of Japanese social media. The core idea of integrating products subtly into creator content resonates, given the Japanese audience's general preference for authenticity and less overt commercialism, particularly on platforms like YouTube and TikTok where creators often share daily routines.",
-        "However, the execution in Japan faces distinct challenges. The scale of AI-driven content monitoring and amplification that Shift Creative describes would require significant investment in localizing the AI to understand Japanese visual cues, cultural contexts, and platform nuances (e.g., LINE VOOM, Nico Nico Douga, or specific YouTube creator communities). While major agencies like Dentsu and Hakuhodo have robust influencer marketing divisions, their focus often remains on curated partnerships and explicit placements. The shift to \"found content\" amplified by AI is a departure from the more controlled, campaign-driven approach prevalent in Japan.",
-        "Furthermore, the legal and ethical frameworks around disclosing sponsored content in Japan, while evolving, can be stricter or interpreted differently than in Western markets. Ensuring that \"ambient\" placements are ethically sound and transparent enough to avoid consumer backlash, even if not explicitly labeled as ads, would be a critical consideration. While the aspiration for authenticity is universal, the specific mechanisms for achieving it at scale, especially with advanced AI for discovery and amplification, are still nascent in the Japanese market. Marketers here might benefit from exploring more collaborative, less prescriptive partnerships with creators, but the full AI-driven amplification layer may be a few quarters away from practical deployment at scale."
-      ],
-      "ja": "本物志向は普遍的だが、「アンビエント」な製品配置をAIで発見・増幅する仕組みは日本ではまだ黎明期。東京のマーケターは、まず規定の少ないクリエイター連携を探るべきだが、高度なAIレイヤーの大規模な国内展開には数四半期を要するだろう。"
-    },
-    "structured": {
-      "tagline": {
-        "en": "Beverage brand integrates products subtly, uses AI for discovery.",
-        "ja": "飲料ブランド、AIで製品の自然な露出を増幅。"
-      },
-      "whoForWhat": {
-        "en": "For brand managers at CPG companies and agency creative directors seeking new models for product integration in creator content that feel authentic and avoid direct endorsements.",
-        "ja": "CPGブランドのブランドマネージャーや、クリエイターコンテンツにおける製品統合の新モデルを模索するエージェンシーのクリエイティブディレクター向け。"
-      },
-      "vsJapanPlay": {
-        "en": "This contrasts with the common Japanese influencer strategy, which often relies on explicit product mentions and branded content deals with agencies like CyberAgent or Septeni, where the AI amplification of 'found content' is largely absent.",
-        "ja": "これは、サイバーエージェントやセプテーニのようなエージェンシーとの明示的な製品言及やブランドコンテンツ取引に依存する、日本で一般的なインフルエンサー戦略とは対照的で、「発見されたコンテンツ」のAI増幅は日本ではまだ稀である。"
-      },
-      "tokyoTake": {
-        "en": "While the desire for authenticity is universal, the full AI-driven discovery and amplification of 'ambient' product placements is still nascent in Japan. Tokyo marketers should explore less prescriptive creator partnerships now, but expect the advanced AI layer to be a few quarters away from scalable local deployment.",
-        "ja": ""
-      }
-    },
-    "source": {
-      "name": "Adweek",
-      "url": "https://www.adweek.com/creativity/ads-of-the-week-11-campaigns-that-caught-our-eye-from-nike-to-etsy/"
-    },
-    "sourceGuid": "https://www.adweek.com/?p=1949383",
     "status": "published"
   }
 ]
