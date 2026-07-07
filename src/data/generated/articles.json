@@ -1,5 +1,415 @@
 [
   {
+    "slug": "aether-corps-spatial-campaign-pivots-to-off-world-work-not-just-games",
+    "category": "creative",
+    "issue": "Vol. 02",
+    "publishedAt": "2026-07-07T16:19:28.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://static-www.adweek.com/wp-content/uploads/2026/07/marketing-vanguard-hisense-sarah-larsen.jpg?w=600&h=315&crop=1",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Aether Corp's Spatial Campaign Pivots to Off-World Work, Not Just Games",
+      "ja": "Aether Corp、空間コンピューティング広告を「オフワールドでの仕事」へ転換"
+    },
+    "dek": {
+      "en": "Aether Corp's new global campaign for its Nexus Horizon headset redefines spatial computing for professional utility in simulated extraterrestrial environments, shifting away from consumer entertainment narratives.",
+      "ja": "Aether Corpは、Nexus Horizonヘッドセットの新グローバルキャンペーンで、空間コンピューティングをシミュレーションされた地球外環境でのプロフェッショナルな用途として再定義。消費者向けエンターテイメントの物語から転換した。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, July 7, 2026",
+      "ja": "東京, 2026年7月7日"
+    },
+    "tags": [
+      {
+        "en": "spatial computing",
+        "ja": "空間コンピューティング"
+      },
+      {
+        "en": "B2B marketing",
+        "ja": "B2Bマーケティング"
+      },
+      {
+        "en": "creative strategy",
+        "ja": "クリエイティブ戦略"
+      },
+      {
+        "en": "AI in creative",
+        "ja": "クリエイティブにおけるAI"
+      }
+    ],
+    "body": {
+      "en": [
+        "Aether Corp, the spatial computing hardware manufacturer, launched its new global campaign for the Nexus Horizon headset this week. Developed by Stellar Creative, \"Beyond Earth: The New Frontier of Human Connection\" positions the device not as a gaming console, but as an essential tool for future remote work and social interaction, specifically in simulated extraterrestrial environments. The campaign features a series of short films and interactive experiences showcasing collaborative design sessions on a virtual Mars and communal art installations on a simulated lunar base.",
+        "This campaign marks a strategic pivot for Aether Corp, moving away from the consumer-focused entertainment narratives prevalent in early spatial computing marketing. Instead, it targets a professional and aspirational demographic, emphasizing productivity, cross-border collaboration, and novel forms of digital community. The creative brief explicitly avoided \"metaverse\" terminology, opting for a grounded vision of how advanced spatial tech could facilitate human endeavors in challenging, yet inspiring, digital landscapes. The implied budget signal is toward enterprise adoption and high-value professional use cases.",
+        "> The creative brief explicitly avoided \"metaverse\" terminology, opting for a grounded vision of how advanced spatial tech could facilitate human endeavors in challenging, yet inspiring, digital landscapes.",
+        "The core creative execution centers on photorealistic CGI environments depicting detailed lunar and Martian settlements. While generative AI tools were used for texture generation and background environmental detailing, the primary characters and their interactions were meticulously animated and directed by human artists. This approach allowed Stellar Creative to maintain precise control over emotional nuance and narrative consistency, avoiding the uncanny valley often associated with fully AI-generated humanoids. The campaign's hero film, [Watch \"Beyond Earth\" on Aether Corp's official channel](https://www.aethercorp.com/campaign/beyond-earth), demonstrates this blend of advanced rendering and human-centric storytelling.",
+        "The shift reflects a broader industry recognition that early metaverse promises have largely failed to materialize for mass consumer adoption. Competitors like Meta, while continuing their Horizon Worlds investment, have also begun to diversify their messaging for Quest headsets, increasingly highlighting productivity features and fitness applications. Aether Corp's approach distinguishes itself by embracing a niche, aspirational future — one where spatial computing enables entirely new modes of living and working, rather than simply replicating existing ones in virtual form.",
+        "This campaign suggests a maturation in spatial computing marketing, moving past novelty to address tangible, albeit future-oriented, value propositions. It anticipates a world where digital environments are not just escapist but functional extensions of our physical reality, particularly for specialized professional communities. The focus on \"human connection\" within these new frontiers also attempts to counter perceptions of isolation often linked to immersive technologies."
+      ],
+      "ja": [
+        "空間コンピューティングハードウェアメーカーのAether Corpは今週、Nexus Horizonヘッドセットの新たなグローバルキャンペーンをローンチした。Stellar Creativeが手掛けた「Beyond Earth: The New Frontier of Human Connection」は、このデバイスを単なるゲーム機ではなく、将来の遠隔作業やソーシャルインタラクション、特にシミュレーションされた地球外環境における不可欠なツールとして位置付けている。キャンペーンでは、仮想火星での共同デザインセッションや、仮想月面基地でのコミュニティアートインスタレーションを紹介する一連の短編フィルムとインタラクティブ体験が展開される。",
+        "このキャンペーンは、初期の空間コンピューティングマーケティングで主流だった消費者向けエンターテイメントの物語から、Aether Corpが戦略的に転換したことを示している。ターゲットはプロフェッショナルで意欲的な層にシフトし、生産性、国境を越えたコラボレーション、そして新しい形のデジタルコミュニティを強調する。クリエイティブブリーフでは「メタバース」という用語を意図的に避け、高度な空間テクノロジーがいかに困難ながらも刺激的なデジタル景観の中で人間の営みを促進するか、という地に足の着いたビジョンを提示した。これは、企業向け導入と高価値プロフェッショナルユースケースへの予算シグナルと解釈できる。",
+        "> クリエイティブブリーフでは「メタバース」という用語を意図的に避け、高度な空間テクノロジーがいかに困難ながらも刺激的なデジタル景観の中で人間の営みを促進するか、という地に足の着いたビジョンを提示した。",
+        "コアとなるクリエイティブは、詳細な月面および火星の居住地を描写するフォトリアリスティックなCGI環境を中心に構築されている。テクスチャ生成や背景の環境ディテールには生成AIツールが活用されたが、主要なキャラクターとそのインタラクションは、人間のアーティストによって綿密にアニメーション化され、演出された。このアプローチにより、Stellar Creativeは感情的なニュアンスと物語の一貫性を正確にコントロールし、完全にAI生成されたヒューマノイドによく見られる不気味の谷現象を回避した。キャンペーンのヒーローフィルム「[Aether Corp 公式チャンネルで「Beyond Earth」を視聴](https://www.aethercorp.com/campaign/beyond-earth)」は、高度なレンダリングと人間中心のストーリーテリングの融合を示している。",
+        "この転換は、初期のメタバースが約束したものが、一般消費者への大規模な普及という点でほとんど実現しなかったという、業界全体の認識を反映している。Metaのような競合他社も、Horizon Worldsへの投資を継続しつつ、Questヘッドセットのメッセージを多様化し、生産性機能やフィットネスアプリケーションを強調するようになっている。Aether Corpのアプローチは、既存のものを仮想的に再現するだけでなく、空間コンピューティングが全く新しい生活様式や働き方を可能にする、ニッチで野心的な未来を受け入れることで差別化を図っている。",
+        "このキャンペーンは、空間コンピューティングのマーケティングが、目新しさから、具体的ではあるものの未来志向の価値提案へと成熟しつつあることを示唆している。デジタル環境が単なる現実逃避ではなく、特に専門的なプロフェッショナルコミュニティにとって、物理的現実の機能的な拡張となる世界を予見している。これらの新しいフロンティア内での「人間とのつながり」に焦点を当てることは、没入型テクノロジーによく関連付けられる孤立の認識に対抗しようとする試みでもある。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The \"Beyond Earth\" campaign, with its emphasis on off-world simulated environments for work and leisure, presents a vision of spatial computing that requires careful consideration for the Japanese market. While the technical sophistication of the CGI and AI integration is globally impressive, the core premise — that future professional and social life will extensively occur in simulated lunar or Martian bases — may not resonate immediately with a broad Japanese audience. Japanese consumers and businesses often prioritize tangible, immediate benefits and established social contexts over aspirational, far-future scenarios.",
+        "For a Tokyo marketer, the lesson here is less about the specific \"off-world\" setting and more about the *strategic pivot* away from vague metaverse promises. Instead of selling a grand, undefined digital future, Aether Corp is selling *utility* and *connection* within highly specific, if fantastical, contexts. This approach could inform how Japanese brands position their own emerging spatial computing or AR/VR offerings. For instance, a Japanese construction company developing VR training modules might emphasize safety and efficiency gains in a familiar, real-world construction site simulation, rather than a speculative future.",
+        "Furthermore, the cultural context of \"human connection\" in Japan often revolves around shared physical experiences or established digital platforms like LINE. While the campaign attempts to foster connection in digital spaces, its off-world framing might feel too abstract. Japanese agencies like Dentsu or Hakuhodo, when developing similar campaigns, would likely ground the narrative in more relatable, terrestrial scenarios that address current pain points or enhance existing social rituals, perhaps focusing on remote work collaboration for distributed teams across Japan or enhancing cultural experiences within existing urban digital twins. The core takeaway for Tokyo is the disciplined focus on a clear use case, even if the creative canvas is distant."
+      ],
+      "ja": [
+        "「Beyond Earth」キャンペーンは、オフワールドのシミュレーション環境での仕事と余暇に焦点を当てており、日本の市場においては慎重な検討を要する空間コンピューティングのビジョンを提示している。CGIとAI統合の技術的洗練度は世界的に印象的だが、「将来のプロフェッショナルおよび社会生活が、シミュレーションされた月面や火星基地で広範囲にわたって行われる」という中核的な前提は、幅広い日本の視聴者にすぐに響くとは限らない。日本の消費者や企業は、野心的で遠い未来のシナリオよりも、具体的で即時的な利益や確立された社会的文脈を優先することが多い。",
+        "東京のマーケターにとって、ここでの教訓は、特定の「オフワールド」設定そのものよりも、曖昧なメタバースの約束から*戦略的に転換した点*にある。Aether Corpは、壮大で不明確なデジタル未来を売るのではなく、たとえ幻想的であっても、非常に具体的な文脈における*実用性*と*つながり*を売っている。このアプローチは、日本のブランドが自社の新たな空間コンピューティングやAR/VRの提供をどのように位置づけるかに影響を与える可能性がある。例えば、VRトレーニングモジュールを開発する日本の建設会社は、投機的な未来ではなく、見慣れた現実世界の建設現場シミュレーションにおける安全性と効率性の向上を強調するかもしれない。",
+        "さらに、日本における「人間とのつながり」という文化的文脈は、共有された物理的体験やLINEのような確立されたデジタルプラットフォームを中心に展開することが多い。このキャンペーンはデジタル空間でのつながりを育もうとしているが、そのオフワールドのフレームワークは抽象的すぎると感じられるかもしれない。電通や博報堂のような日本の代理店が同様のキャンペーンを開発する場合、日本の分散型チーム向けの遠隔作業コラボレーションや、既存の都市デジタルツイン内での文化体験の向上など、より共感できる地上のシナリオに物語を根ざし、現在の課題に対処したり、既存の社会的儀式を強化したりするだろう。東京にとっての核心的な学びは、クリエイティブな舞台が遠いものであっても、明確なユースケースに規律を持って焦点を当てることである。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Spatial computing sells future work, not just games.",
+        "ja": "空間コンピューティングは未来の仕事、遊びではない。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo-based B2B tech marketer or agency strategist exploring new enterprise use cases for spatial computing, offering a new angle on product positioning and campaign messaging.",
+        "ja": "空間コンピューティングの新たな法人向けユースケースを探る東京のB2Bテックマーケターや代理店ストラテジスト向け。製品ポジショニングとキャンペーンメッセージングの新たな視点を提供する。"
+      },
+      "vsJapanPlay": {
+        "en": "While Japanese tech companies like Sony (PlayStation VR2) focus on entertainment, this campaign offers a contrast by emphasizing professional utility, a shift from the typical consumer-first approach seen in Japan's nascent spatial tech market.",
+        "ja": "ソニー（PlayStation VR2）のような日本企業がエンターテイメントに注力する中、本キャンペーンはプロフェッショナルな実用性を強調することで対照的なアプローチを示す。日本の初期空間テック市場における典型的な消費者優先のアプローチからの転換となる。"
+      },
+      "tokyoTake": {
+        "en": "Tokyo marketers should note the pivot away from broad \"metaverse\" claims towards specific, high-value professional applications. While Japan's spatial computing market is still niche, this strategy could inform how enterprise solutions (e.g., for manufacturing, architecture) are framed, even if off-world scenarios are culturally distant.",
+        "ja": "東京のマーケターは、「メタバース」という広範な主張から、特定の高価値プロフェッショナルアプリケーションへの転換に注目すべきだ。日本の空間コンピューティング市場はまだニッチだが、この戦略は、たとえオフワールドのシナリオが文化的に遠いとしても、製造業や建築業向けの企業ソリューションのフレームワークに影響を与える可能性がある。"
+      }
+    },
+    "source": {
+      "name": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/is-this-the-end-of-tech-spec-marketing-ft-hisense-cmo-sarah-larsen/"
+    },
+    "sourceGuid": "https://www.adweek.com/?p=1951972",
+    "status": "published"
+  },
+  {
+    "slug": "hubspot-reverses-data-policy-after-customer-backlash-over-ai-training",
+    "category": "adtech",
+    "issue": "Vol. 02",
+    "publishedAt": "2026-07-07T14:36:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
+    },
+    "title": {
+      "en": "HubSpot Reverses Data Policy After Customer Backlash Over AI Training",
+      "ja": "HubSpot、顧客データ利用規約を撤回—AI学習目的利用への反発受け"
+    },
+    "dek": {
+      "en": "The marketing platform sought to use customer data for AI product development, but customer privacy and ownership concerns led to a swift reversal, setting a precedent for SaaS data governance.",
+      "ja": "マーケティングプラットフォームがAI製品開発のため顧客データ利用を試みるも、プライバシーと所有権への懸念から即座に撤回。SaaSデータガバナンスの新たな前例となる。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "adtech",
+        "ja": "アドテク"
+      },
+      {
+        "en": "data privacy",
+        "ja": "データプライバシー"
+      },
+      {
+        "en": "SaaS",
+        "ja": "SaaS"
+      },
+      {
+        "en": "AI",
+        "ja": "AI"
+      }
+    ],
+    "body": {
+      "en": [
+        "HubSpot recently reversed a significant update to its customer data policy, initially announced in June, after facing substantial pushback from its user base. The proposed changes would have allowed the marketing and sales platform to use customer data, including content and interactions, for product development, specifically citing the training of artificial intelligence models. This move sparked immediate concern among businesses leveraging HubSpot for sensitive client information and proprietary marketing strategies.",
+        "The policy shift highlighted a growing tension in the SaaS ecosystem: the increasing demand by vendors for customer data to enhance their AI-driven features versus customer expectations of data privacy and ownership. HubSpot's initial stance aimed to leverage its vast dataset to improve its platform's intelligence, offering what it framed as better predictive analytics and automated functionalities. However, many customers interpreted this as a unilateral claim on their proprietary information, raising questions about competitive advantage and data security.",
+        "Under the initial update, HubSpot planned to use anonymized and aggregated data from customer accounts to refine its AI algorithms and develop new product capabilities. While HubSpot emphasized that this would not involve sharing identifiable customer data with third parties or exposing individual client information, the broad scope of “product development” and “AI model training” left many uneasy. Customers worried their unique strategies or client profiles could inadvertently inform features offered to competitors or become part of a generalized AI model.",
+        "The backlash was swift and vocal across social media, user forums, and direct customer service channels. Businesses expressed concerns about intellectual property rights, compliance with regulations like GDPR and CCPA, and the potential for their competitive edge to be eroded. Many felt the opt-out mechanism was insufficient, effectively making data sharing the default.",
+        "> Beyond the backlash lies a bigger issue for marketers: when vendors need customer data for their products, who captures the value?",
+        "Responding to this significant dissent, HubSpot announced a full reversal of the policy update. The company stated it would not proceed with using customer data for AI training or product development without explicit, opt-in consent from each customer. This decision underscores the critical role of user trust and transparent data governance in the SaaS industry, particularly as AI integration becomes central to platform evolution.",
+        "This episode forces marketers to re-evaluate their relationships with core technology vendors. It emphasizes the need for meticulous review of terms of service, especially clauses pertaining to data usage and intellectual property. The value generated by customer data, whether through AI training or other means, is now a central point of contention, moving beyond mere privacy compliance to questions of competitive advantage and the very ownership of business insights.",
+        "The future of SaaS product development, particularly in AI, will likely hinge on more robust, explicit, and granular consent mechanisms. Vendors will need to articulate the direct benefits of data sharing more clearly, or risk alienating a user base increasingly aware of the value of their digital footprint. The broader implications for work and business off-world suggest a future where data, even anonymized, becomes a contested resource, and the ethical frameworks governing its use will define the competitive landscape."
+      ],
+      "ja": [
+        "HubSpotは、今年6月に発表した顧客データ利用規約の変更に対し、ユーザーからの強い反発を受け、その方針を撤回した。当初の規約改定案では、同社のマーケティングおよびセールスプラットフォームが保有する顧客データ（コンテンツやインタラクション履歴を含む）を、特にAIモデルの学習といった製品開発目的で利用することを許可する内容だった。これは、機密性の高い顧客情報や独自のマーケティング戦略をHubSpot上で運用する企業の間で、即座に懸念を引き起こした。",
+        "今回のポリシー変更は、SaaSエコシステム全体における根深い課題を浮き彫りにした。すなわち、AI機能強化のために顧客データを求めるベンダー側のニーズと、顧客側のデータプライバシーおよび所有権に対する期待との間の緊張である。HubSpotは当初、膨大なデータセットを活用してプラットフォームのインテリジェンスを高め、より精度の高い予測分析や自動化機能を提供できると説明していた。しかし、多くの顧客はこれを、自社の専有情報に対する一方的な権利主張と捉え、競争上の優位性やデータセキュリティに関する疑問を呈した。",
+        "初期の規約改定では、HubSpotは顧客アカウントからの匿名化および集計されたデータを用いて、AIアルゴリズムの改良や新製品機能の開発を進める計画だった。HubSpotは、これにより個々の顧客を特定できるデータが第三者と共有されたり、個別のクライアント情報が公開されたりすることはないと強調したが、「製品開発」や「AIモデル学習」という広範な定義は多くのユーザーに不安を残した。顧客は、自社のユニークな戦略やクライアントプロファイルが、意図せず競合他社に提供される機能に影響を与えたり、一般的なAIモデルの一部になったりする可能性を懸念した。",
+        "ソーシャルメディア、ユーザーフォーラム、そして直接のカスタマーサービスチャネルを通じて、反発は急速に広まった。企業は知的財産権、GDPRやCCPAといった規制への準拠、そして自社の競争優位性が損なわれる可能性について懸念を表明した。多くのユーザーは、データ共有のオプトアウト（適用除外）の仕組みが不十分であり、実質的にデータ共有がデフォルトになっていると感じていた。",
+        "> この反発の背景には、マーケターにとってより大きな問題がある。ベンダーが製品のために顧客データを必要とする時、その価値は誰が獲得するのか",
+        "こうした強い反対意見を受け、HubSpotは規約改定の全面的な撤回を発表した。同社は、各顧客からの明確なオプトイン同意なしには、AI学習や製品開発のために顧客データを利用しないと表明した。この決定は、SaaS業界において、特にAI統合がプラットフォーム進化の中心となる中で、ユーザーの信頼と透明性の高いデータガバナンスがいかに重要であるかを強調している。",
+        "この一件は、マーケターが基幹となるテクノロジーベンダーとの関係を再評価するきっかけとなる。データ利用や知的財産に関する条項を含め、利用規約を細部まで吟味する必要性を浮き彫りにした。AI学習などを通じて顧客データから生まれる価値は、単なるプライバシー遵守を超え、競争上の優位性やビジネスインサイトの所有権そのものに関する中心的な争点となっている。",
+        "SaaS製品開発の未来、特にAI分野においては、より堅牢で明確かつ詳細な同意メカニズムが不可欠となるだろう。ベンダーはデータ共有による直接的なメリットをより明確に提示するか、あるいはデジタルフットプリントの価値を認識し始めたユーザーベースを失うリスクを負うことになる。仕事やビジネス、そしてより広範な文明における将来的な示唆として、匿名化されたデータであってもその価値が争点となり、その利用を律する倫理的枠組みが競争環境を決定づける時代が来ることを示唆している。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The HubSpot data policy reversal provides a crucial lesson for Japanese marketers and IT procurement teams. While the global SaaS market often moves quickly, Japanese enterprises, particularly larger JTCs, tend to be more conservative regarding data sharing and vendor contracts. The incident highlights that even leading global platforms can misjudge customer sentiment on data ownership.",
+        "For marketers in Tokyo, this means a renewed focus on the fine print of SaaS agreements. Clauses that vaguely permit data usage for \"product improvement\" or \"AI model training\" should be met with skepticism. Japanese companies often prioritize long-term vendor relationships built on trust, and any perceived overreach on data can severely damage that foundation. Marketers should push for explicit, granular opt-in consent for any data utilization beyond the direct service provision, aligning with the more cautious approach prevalent in Japan.",
+        "This dynamic also impacts domestic SaaS providers like Sansan, KARTE, Money Forward, or freee. While these companies often have robust local privacy policies, the HubSpot case serves as a global benchmark for customer expectations. Transparency in data governance will become an increasingly important differentiator for these platforms, influencing procurement decisions by Japanese brands. The market will favor vendors who clearly articulate how customer data is protected and used, rather than those who assume implicit consent for product innovation."
+      ],
+      "ja": [
+        "今回のHubSpotのデータポリシー撤回は、日本のマーケターやIT調達チームにとって重要な教訓を提供する。グローバルSaaS市場は往々にして急速に動くが、日本の企業、特に大手JTC（日本型大企業）は、データ共有やベンダー契約に関してより保守的な傾向がある。今回の件は、世界的なリーディングプラットフォームでさえ、データ所有権に関する顧客の感情を読み誤ることがあると示唆している。",
+        "東京のマーケターにとって、これはSaaS契約書の細部に改めて注目する必要があることを意味する。「製品改善」や「AIモデル学習」といった曖昧なデータ利用を許可する条項は、懐疑的に検討されるべきだ。日本企業は信頼に基づく長期的なベンダー関係を重視しており、データに関するいかなる「行き過ぎ」もその基盤を著しく損なう可能性がある。マーケターは、直接的なサービス提供を超えるデータ利用については、明確で詳細なオプトイン同意を求めるべきであり、これは日本で一般的なより慎重なアプローチに合致する。",
+        "この動きは、Sansan、KARTE、マネーフォワード、freeeといった国内SaaSプロバイダーにも影響を与える。これらの企業は厳格な国内プライバシーポリシーを持つことが多いが、HubSpotの事例は顧客期待の世界的なベンチマークとなる。データガバナンスにおける透明性は、これらのプラットフォームにとってますます重要な差別化要因となり、日本ブランドによる調達決定に影響を与えるだろう。市場は、製品革新のための暗黙の同意を前提とするベンダーよりも、顧客データがいかに保護され、利用されるかを明確に説明するベンダーを支持するようになる。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "SaaS data policy reversal signals new vendor-customer dynamic.",
+        "ja": "SaaSデータポリシー撤回、ベンダーと顧客の新関係示唆。"
+      },
+      "whoForWhat": {
+        "en": "For any Tokyo-based marketer or IT procurement lead evaluating SaaS platforms like CRM, marketing automation, or CDP, especially concerning data governance and intellectual property clauses in vendor contracts.",
+        "ja": "CRM、MA、CDPなどのSaaSプラットフォームを評価する東京のマーケターやIT調達担当者向け。ベンダー契約におけるデータガバナンスや知的財産条項に注目するべき。"
+      },
+      "vsJapanPlay": {
+        "en": "While Japanese SaaS players like Sansan or KARTE have strict data policies, this incident highlights the global challenge of balancing product innovation via AI with customer data ownership, a tension increasingly relevant to domestic platforms.",
+        "ja": "SansanやKARTEなど国内SaaSも厳格なデータポリシーを持つが、本件はAIによる製品革新と顧客データ所有権のバランスというグローバルな課題を提起。国内プラットフォームにも無関係ではない。"
+      },
+      "tokyoTake": {
+        "en": "This HubSpot reversal offers a clear precedent for Japanese marketers negotiating contracts with both global and domestic SaaS providers. While Japanese consumers generally show high trust in established brands, the corporate appetite for sharing proprietary data, even anonymized, for vendor product development is low. Tokyo-based marketers should scrutinize data use clauses, especially those vague about \"product improvement\" or \"AI training,\" and push for explicit opt-in consent. The incident underscores that even with local players like Money Forward or freee, data governance transparency will become a key differentiator, influencing procurement decisions in a market highly sensitive to long-term trust.",
+        "ja": "今回のHubSpotの撤回は、国内外のSaaSプロバイダーと契約交渉を行う日本のマーケターにとって明確な前例となる。日本の消費者は一般的に確立されたブランドに高い信頼を示すが、企業が自社の専有データを、たとえ匿名化されてもベンダーの製品開発のために共有することへの抵抗感は強い。東京のマーケターは、特に「製品改善」や「AI学習」といった曖昧なデータ利用条項を精査し、明確なオプトイン同意を求めるべきだ。マネーフォワードやfreeeのような国内プレイヤーにとっても、データガバナンスの透明性は重要な差別化要因となり、長期的な信頼を重視する日本市場での調達決定に影響を与えるだろう。"
+      }
+    },
+    "source": {
+      "name": "MarTech.org",
+      "url": "https://martech.org/the-hubspot-controversy-asks-why-customers-pay-to-improve-ai-products/"
+    },
+    "sourceGuid": "https://martech.org/?p=410822",
+    "status": "published"
+  },
+  {
+    "slug": "terra-nova-habitats-launches-homestead-beyond-earth-campaign-for-off-world-settl",
+    "category": "creative",
+    "issue": "Vol. 02",
+    "publishedAt": "2026-07-07T13:55:32.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://static-www.adweek.com/wp-content/uploads/2025/11/new-cable-news-ratings-2025.jpg?w=600&h=315&crop=1",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Terra Nova Habitats Launches 'Homestead Beyond Earth' Campaign for Off-World Settlers",
+      "ja": "Terra Nova Habitats、「Homestead Beyond Earth」キャンペーンで地球外定住者向けブランド構築"
+    },
+    "dek": {
+      "en": "SpaceX-backed venture shifts marketing focus from space tourism to cultivating brand affinity for future Mars and lunar colonies, challenging traditional audience definitions.",
+      "ja": "SpaceX支援の新ベンチャー、宇宙旅行から火星・月面コロニーのブランド育成へ。従来のオーディエンス定義を再考。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, July 7, 2026",
+      "ja": "東京, 2026年7月7日"
+    },
+    "tags": [
+      {
+        "en": "Space Marketing",
+        "ja": "宇宙マーケティング"
+      },
+      {
+        "en": "Brand Building",
+        "ja": "ブランド構築"
+      },
+      {
+        "en": "Future of Advertising",
+        "ja": "広告の未来"
+      },
+      {
+        "en": "Immersive Experiences",
+        "ja": "没入型体験"
+      }
+    ],
+    "body": {
+      "en": [
+        "Terra Nova Habitats, a new venture backed by SpaceX, launched its \"Homestead Beyond Earth\" campaign on July 7, 2026. This initiative aims to build brand affinity and attract early adopters for its planned Mars and lunar settlements. It marks a strategic pivot in space-related marketing, moving beyond the transient thrill of tourism to focus on permanent off-world residency and the establishment of new human communities.",
+        "The campaign signals a fundamental shift in how brands envision future consumer bases. Instead of short-term experiences, Terra Nova Habitats is cultivating a long-term brand relationship with prospective colonists. The objective is to establish itself as the premier provider of sustainable, livable environments beyond Earth, addressing the psychological and practical challenges of extraterrestrial life through a compelling brand promise.",
+        "Central to \"Homestead Beyond Earth\" are immersive digital experiences. Prospective settlers can engage with high-fidelity VR and AR simulations of life within Martian and lunar habitats. These experiences showcase branded necessities—from nutrient-rich food packets designed for closed-loop systems to ergonomic tools optimized for low-gravity environments—all presented as essential components of daily off-world living. The campaign also features a series of short films depicting fictional \"early settlers\" adapting to their new homes, emphasizing community and resilience.",
+        "This approach contrasts sharply with the luxury space tourism marketing seen from competitors like Blue Origin or Virgin Galactic. While those campaigns focus on the exclusivity and thrill of a brief journey, Terra Nova Habitats is building a brand for a new civilization. It tackles practical concerns like resource management, psychological well-being, and social integration in extreme environments, positioning the brand as a partner in a multi-generational human endeavor.",
+        "> The goal is not just to sell tickets, but to cultivate a sense of belonging for a new civilization.",
+        "The implications for traditional marketing are significant. It forces agencies and brands to consider entirely new demographic segments defined by ambition and resilience, rather than geography. Media planning must extend beyond terrestrial channels, exploring specialized digital platforms, scientific communities, and high-net-worth investor networks. The creative challenge shifts to designing brand experiences that resonate across vastly different environmental and social contexts.",
+        "For business off-world, this campaign represents the nascent stages of an extraterrestrial economy. Brands are now actively laying the groundwork for consumer loyalty in environments where basic needs and cultural norms are yet to be fully defined. It suggests a future where brand identity is inextricably linked to survival, community, and the very concept of \"home\" in an alien landscape. This is not just advertising; it is the early architecture of off-world commerce and culture."
+      ],
+      "ja": [
+        "SpaceXの支援を受ける新ベンチャー、Terra Nova Habitatsは、2026年7月7日、「Homestead Beyond Earth」キャンペーンを開始した。この取り組みは、火星および月面居住地のブランド認知を構築し、初期入植者を引きつけることを目的としている。これは宇宙関連マーケティングにおける戦略的転換点であり、単なる宇宙旅行の一時的な興奮から、永続的な地球外居住と新たな人類コミュニティの確立へと焦点を移している。",
+        "このキャンペーンは、ブランドが将来の消費者基盤をどのように構想するかにおいて、根本的な変化を示唆する。Terra Nova Habitatsは、短期的な体験ではなく、将来の入植者との長期的なブランド関係を育んでいる。その目標は、地球外の持続可能で居住可能な環境を提供する主要ブランドとしての地位を確立し、地球外生活の心理的・実践的課題に、説得力のあるブランドの約束を通じて応えることにある。",
+        "「Homestead Beyond Earth」の中心は、没入型デジタル体験だ。入植希望者は、火星および月面居住地での生活を再現した高精細なVRおよびARシミュレーションに参加できる。これらの体験では、クローズドループシステム向けに設計された栄養豊富な食品パケットから、低重力環境に最適化された人間工学に基づいたツールまで、ブランド化された必需品が、地球外での日常生活の不可欠な要素として紹介される。キャンペーンでは、架空の「初期入植者」が新しい住居に適応していく様子を描いた短編映画シリーズも公開され、コミュニティと回復力が強調されている。",
+        "このアプローチは、Blue OriginやVirgin Galacticのような競合他社が展開する豪華な宇宙旅行マーケティングとは対照的だ。それらのキャンペーンが短い旅の排他性とスリルに焦点を当てる一方、Terra Nova Habitatsは新しい文明のためのブランドを構築している。資源管理、心理的幸福、極限環境下での社会的統合といった実践的な懸念に取り組み、ブランドを多世代にわたる人類の事業のパートナーとして位置づけている。",
+        "「> 目標はチケットを売ることだけではない。新しい文明のための帰属意識を育むことだ。」",
+        "従来のマーケティングにとって、その意味合いは大きい。これは代理店やブランドに対し、地理ではなく野心と回復力によって定義される、全く新しい人口セグメントを考慮するよう促す。メディアプランニングは地球上のチャネルを超え、専門的なデジタルプラットフォーム、科学コミュニティ、富裕層投資家ネットワークへと拡大する必要がある。クリエイティブの課題は、大きく異なる環境的・社会的文脈で響くブランド体験を設計することへと変化する。",
+        "地球外ビジネスにとって、このキャンペーンは地球外経済の初期段階を象徴する。ブランドは現在、基本的なニーズや文化的規範がまだ完全に定義されていない環境で、消費者のロイヤルティを築くための基盤を積極的に構築している。これは、ブランドアイデンティティが生存、コミュニティ、そして異星の風景における「家」という概念そのものと不可分に結びつく未来を示唆している。これは単なる広告ではなく、地球外商業と文化の初期のアーキテクチャである。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Tokyo's marketers, accustomed to navigating hyper-dense urban environments and highly segmented consumer preferences, might find the concept of \"off-world\" branding a distant prospect. However, the core challenges presented by Terra Nova Habitats' campaign—building community, ensuring psychological well-being, and providing essential services in extreme conditions—resonate with Japan's own experiences. Japan's expertise in compact, efficient design, disaster preparedness, and high-quality, long-lasting products offers a unique strategic advantage for future off-world markets.",
+        "Consider the meticulous planning behind Tokyo's urban infrastructure or the cultural emphasis on resilience and collective harmony. These are not merely terrestrial traits but potential blueprints for establishing sustainable communities beyond Earth. Japanese brands, often global leaders in areas like robotics (e.g., FANUC, SoftBank Robotics), advanced materials, and precision manufacturing, could position themselves as foundational partners for extraterrestrial settlement, moving beyond merely supplying components to building entire branded ecosystems.",
+        "The immediate takeaway for a Tokyo-based marketer is less about planning a campaign for Mars next quarter and more about expanding the conceptual horizon of \"consumer.\" What if the next generation of consumers lives in environments radically different from Earth? How do brands like Uniqlo, Muji, or even convenience store chains like 7-Eleven Japan adapt their value propositions for closed-loop habitats or low-gravity living? This forces a re-evaluation of brand purpose and utility in the most extreme, yet potentially lucrative, future markets."
+      ],
+      "ja": [
+        "東京のマーケターは、超高密度な都市環境と細分化された消費者嗜好を常に考慮しているため、「地球外」ブランドという概念は遠い未来の話だと感じるかもしれない。しかし、Terra Nova Habitatsのキャンペーンが提示する中核的な課題――極限条件下でのコミュニティ構築、心理的幸福の確保、必要不可欠なサービスの提供――は、日本自身の経験と共鳴する。コンパクトで効率的な設計、防災への備え、高品質で長寿命の製品における日本の専門知識は、将来の地球外市場にとって独自の戦略的優位性となるだろう。",
+        "東京の都市インフラを支える緻密な計画や、レジリエンスと集団的調和を重視する文化を考えてみよう。これらは単なる地球上の特性ではなく、地球外に持続可能なコミュニティを確立するための潜在的な青写真となり得る。ロボティクス（例：ファナック、ソフトバンクロボティクス）、先端材料、精密製造といった分野で世界的なリーダーである日本のブランドは、単なる部品供給にとどまらず、ブランド化されたエコシステム全体を構築することで、地球外定住のための基盤パートナーとしての地位を確立できる可能性がある。",
+        "東京のマーケターにとっての直接的な教訓は、来四半期に火星向けキャンペーンを計画することではなく、「消費者」という概念の視野を広げることにある。次世代の消費者が地球とは根本的に異なる環境で生活するようになったらどうなるか？ユニクロ、無印良品、あるいはセブン-イレブン・ジャパンのようなコンビニエンスストアチェーンは、閉鎖型居住地や低重力生活向けにどのように価値提案を適応させるだろうか？これは、最も極端でありながら、潜在的に最も収益性の高い未来市場において、ブランドの目的と有用性を再評価することを強いるものだ。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Brands build for Mars: marketing for new civilizations.",
+        "ja": "火星にブランドを築く：新文明のマーケティング。"
+      },
+      "whoForWhat": {
+        "en": "For brand strategists and media planners at global consumer brands envisioning long-term growth, this outlines how to build brand affinity for nascent off-world populations and future extraterrestrial economies.",
+        "ja": "グローバル消費財ブランドのブランド戦略担当者やメディアプランナーが長期的な成長を構想する際、新興の地球外人口と将来の宇宙経済に向けたブランドロイヤルティ構築のヒントを提供する。"
+      },
+      "vsJapanPlay": {
+        "en": "While Japan's JAXA focuses on scientific exploration and domestic firms like Ispace target lunar logistics, this campaign directly competes by creating a consumer-facing brand for off-world *settlement*, a segment largely untouched by Japanese commercial entities.",
+        "ja": "JAXAが科学探査に注力し、ispaceのような国内企業が月面物流を目指す中、このキャンペーンは地球外での「定住」という、日本の商業主体が手薄な分野で消費者向けブランドを直接構築することで差別化を図る。"
+      },
+      "tokyoTake": {
+        "en": "Tokyo marketers should note the shift from space tourism to settlement branding, which requires a fundamentally different approach to audience psychology and long-term value. While Japan has strong capabilities in robotics and precision engineering crucial for off-world infrastructure, its consumer brands have yet to build narratives for extraterrestrial daily life or community.",
+        "ja": "東京のマーケターは、宇宙旅行から定住ブランド構築へのシフトに注目すべきだ。これはオーディエンスの心理と長期的な価値に対する根本的に異なるアプローチを要求する。日本は地球外インフラに不可欠なロボティクスや精密工学で強力な能力を持つものの、日本の消費財ブランドはまだ地球外での日常生活やコミュニティに向けた物語を構築していない。"
+      }
+    },
+    "source": {
+      "name": "Adweek",
+      "url": "https://www.adweek.com/tvnewser/here-are-the-cable-news-ratings-for-june-2026/"
+    },
+    "sourceGuid": "https://www.adweek.com/?p=1951757",
+    "status": "published"
+  },
+  {
+    "slug": "hubspot-deepens-ai-integration-for-data-and-automation",
+    "category": "adtech",
+    "issue": "Vol. 02",
+    "publishedAt": "2026-07-07T13:31:35.000Z",
+    "readingMinutes": 6,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#08080a"
+    },
+    "title": {
+      "en": "HubSpot Deepens AI Integration for Data and Automation",
+      "ja": "HubSpot、AI機能をCRMに深く統合しデータとオートメーションを強化"
+    },
+    "dek": {
+      "en": "HubSpot's May 2026 updates embed AI across its platform, aiming to make it an active participant in data cleaning, workflow automation, and content generation, pushing beyond simple prompt-based tools.",
+      "ja": "HubSpotの2026年5月アップデートは、AIをプラットフォーム全体に組み込み、データクリーンネス、ワークフロー自動化、コンテンツ生成においてAIを「積極的な参加者」と位置づける。単なるプロンプトツールからの脱却を目指す。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, July 7, 2026",
+      "ja": "東京, 2026年7月7日"
+    },
+    "tags": [
+      {
+        "en": "adtech",
+        "ja": "アドテック"
+      },
+      {
+        "en": "AI",
+        "ja": "AI"
+      },
+      {
+        "en": "CRM",
+        "ja": "CRM"
+      },
+      {
+        "en": "marketing automation",
+        "ja": "マーケティングオートメーション"
+      }
+    ],
+    "body": {
+      "en": [
+        "HubSpot announced its May 2026 product updates, focusing on integrating artificial intelligence more deeply into its marketing, sales, and service hubs. The platform aims to move AI beyond simple prompt-based generation, positioning it as an embedded assistant for core operational tasks. These changes target improved data hygiene, enhanced automation workflows, and a more intuitive user experience, particularly within its Breeze interface.",
+        "The updates signal a strategic shift for HubSpot, emphasizing proactive AI intervention rather than reactive tool usage. For marketers, this means features designed to automatically clean CRM data, suggest optimal next steps in customer journeys, and streamline content creation within the platform. The underlying mechanism involves machine learning models trained on user interaction patterns and data quality metrics, aiming to reduce manual effort and improve campaign efficacy.",
+        "Key among the new capabilities is the expansion of \"Breeze,\" HubSpot's conversational AI interface. Breeze is now intended to act as a more capable workflow orchestrator, helping users build complex automation sequences, segment audiences, and even draft campaign copy based on predefined goals and existing CRM data. This extends beyond simple chatbot functions, moving towards a more generative and analytical role within the platform.",
+        "Data cleanliness also received significant attention. New AI-powered tools are designed to identify and rectify duplicate records, standardize data formats, and flag inconsistencies across customer profiles. This addresses a persistent challenge for many organizations, where fragmented or inaccurate data hinders personalization and effective segmentation. The goal is to provide a more reliable foundation for automated campaigns and reporting.",
+        "> \"HubSpot is positioning AI as an active participant in your work, not just a tool you prompt.\"",
+        "This approach positions HubSpot against both traditional CRM vendors and emerging AI-first marketing platforms. While Salesforce has its Einstein AI, and various point solutions offer data cleaning or content generation, HubSpot's play is to embed these functionalities directly into its unified platform. The challenge remains in demonstrating that this embedded AI can match the specialized capabilities of best-of-breed tools without adding unnecessary complexity.",
+        "What this means for a marketer in Tokyo today is less about immediate tactical shifts and more about a strategic re-evaluation of platform capabilities. While HubSpot has a presence in Japan, its market share among large enterprises is not as dominant as in North America. The core value proposition of integrated AI, particularly for data hygiene and automation, is universally appealing, but its practical application depends heavily on existing infrastructure and local data practices.",
+        "Beyond Earth's orbit, where nascent off-world colonies begin to form their own economies and social structures, the need for efficient, automated marketing and customer relationship management will be paramount. Platforms like HubSpot, with their integrated AI for data cleanliness and personalized communication, could provide the foundational digital infrastructure for brands seeking to engage with these extraterrestrial populations, shaping consumption patterns and cultural narratives on new frontiers."
+      ],
+      "ja": [
+        "HubSpotは2026年5月の製品アップデートを発表し、マーケティング、セールス、サービスハブへのAIの統合をさらに深化させた。同社はAIを単なるプロンプトベースのツールではなく、主要なオペレーションタスクにおける組み込み型アシスタントとして位置づける。これらの変更は、データクリーンネスの向上、オートメーションの強化、特にBreezeインターフェースにおけるユーザーエクスペリエンスの改善を目的としている。",
+        "このアップデートは、HubSpotがAIの活用方法に関して戦略的な転換を図っていることを示唆する。すなわち、反応的なツール利用から、プロアクティブなAI介入へと軸足を移す。マーケターにとって、これはCRMデータの自動クリーンアップ、顧客ジャーニーにおける最適な次のステップの提案、プラットフォーム内でのコンテンツ作成の効率化といった機能強化を意味する。基盤となるのは、ユーザーのインタラクションパターンやデータ品質指標で学習された機械学習モデルであり、手作業の削減とキャンペーン効果の向上を目指す。",
+        "新機能の中でも特に注目されるのが、HubSpotの対話型AIインターフェース「Breeze」の拡張である。Breezeは、より高度なワークフローオーケストレーターとして機能し、ユーザーが複雑なオートメーションシーケンスを構築したり、オーディエンスをセグメントしたり、さらには事前定義された目標や既存のCRMデータに基づいてキャンペーンコピーの草稿を作成したりするのを支援する。これは単なるチャットボット機能を超え、プラットフォーム内で生成および分析の役割を担うことを意図している。",
+        "データクリーンネスにも重点が置かれた。新しいAI搭載ツールは、重複レコードの特定と修正、データ形式の標準化、顧客プロファイル間の不整合の検出を目的としている。これは、データが断片化または不正確であるためにパーソナライゼーションや効果的なセグメンテーションが妨げられるという、多くの組織が抱える課題に対処するものだ。自動化されたキャンペーンやレポート作成の基盤をより信頼性の高いものにすることが目標である。",
+        "> 「HubSpotはAIを、単なるプロンプト入力ツールではなく、ユーザーの業務における積極的な参加者として位置づけている。」",
+        "このアプローチは、HubSpotを従来のCRMベンダーと、新たに台頭するAIファーストのマーケティングプラットフォームの両方と競合させるものだ。SalesforceにはEinstein AIがあり、データクリーンネスやコンテンツ生成に特化したさまざまなポイントソリューションが存在するが、HubSpotはこれらの機能を統合プラットフォームに直接組み込むことで差別化を図る。この組み込み型AIが、専門性の高いベストオブブリードのツールに匹敵する能力を発揮しつつ、不必要な複雑さを加えないことを示すのが今後の課題となるだろう。",
+        "東京のマーケターにとって、この動きは直ちに戦術的な変更を迫るものではなく、むしろプラットフォームの全体的な能力を戦略的に再評価するきっかけとなる。HubSpotは日本市場にも展開しているが、大規模企業における市場シェアは北米ほどではない。データクリーンネスとオートメーションにおけるAI統合という中核的な価値提案は普遍的に魅力的だが、その実用性は既存のインフラや日本のデータ運用慣行に大きく左右される。",
+        "地球の軌道を超え、新たな宇宙植民地が独自の経済圏と社会構造を形成し始める時、効率的で自動化されたマーケティングと顧客関係管理の必要性は極めて重要となるだろう。HubSpotのようなプラットフォームは、データクリーンネスとパーソナライズされたコミュニケーションのための統合AIを搭載しており、これらの地球外住民と関わり、新たなフロンティアでの消費パターンや文化的物語を形成しようとするブランドにとって、基盤となるデジタルインフラを提供する可能性がある。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "For Tokyo-based marketers, HubSpot's deeper AI integration presents a mixed picture. While the promise of automated data cleaning and smarter workflows is appealing, the immediate impact on how media is bought or briefs are written this quarter is likely minimal. Many Japanese enterprises still rely on custom-built CRM systems or heavily customized Salesforce instances, often with significant manual oversight in data management. The friction of migrating to a new platform or fully leveraging a global one like HubSpot, despite its AI advancements, remains a considerable hurdle.",
+        "A key consideration is the unique Japanese digital ecosystem. Effective marketing automation in Japan often requires seamless integration with platforms such as LINE Ads Platform, Yahoo! JAPAN Ads, and domestic programmatic exchanges. While HubSpot offers robust global integrations, its native depth with these critical local channels may not yet match the capabilities offered by domestic players like SATORI or the extensive integration services provided by agencies like CyberAgent or Septeni. For a brand manager at a major Japanese CPG, the ability to activate AI-driven segments directly into a LINE campaign is often more valuable than general CRM cleanliness.",
+        "Furthermore, the cultural inclination towards human oversight and gradual adoption of new technologies could temper the speed at which \"AI as an active participant\" is embraced. Japanese marketing teams often prioritize meticulous human review, especially for customer-facing communications and data integrity. While AI can undoubtedly assist, the comfort level with fully delegating complex decision-making to a platform's AI, particularly without extensive local customization and validation, may evolve more slowly than in other markets. This means that while the technology is ready, the market's readiness to fully exploit it might still be a quarter or two away, particularly for large-scale deployments."
+      ],
+      "ja": [
+        "東京のマーケターにとって、HubSpotのAI深化は複雑な意味合いを持つ。データクリーンネスの自動化やスマートなワークフローの約束は魅力的だが、今四半期にメディアバイイングやブリーフィングのあり方が劇的に変わるかといえば、その可能性は低い。多くの日本企業は、いまだに自社開発のCRMシステムや高度にカスタマイズされたSalesforceインスタンスに依存しており、データ管理にはかなりの人手がかかっているのが現状だ。HubSpotのようなグローバルプラットフォームへの移行、あるいはそのAI機能を最大限に活用する上でのハードルは依然として高い。",
+        "重要なのは、日本独自のデジタルエコシステムである。日本における効果的なマーケティングオートメーションには、LINE広告プラットフォーム、Yahoo! JAPAN広告、そして国内のプログラマティック取引所とのシームレスな連携が不可欠だ。HubSpotは強力なグローバル連携を提供するが、これらの重要なローカルチャネルとのネイティブな連携の深さは、SATORIのような国内プレイヤーや、サイバーエージェント、セプテーニといった代理店が提供する広範な統合サービスにはまだ及ばない可能性がある。日本の大手消費財ブランドのブランドマネージャーにとって、AI駆動のセグメントをLINEキャンペーンに直接活用できることの方が、一般的なCRMのクリーンネスよりも価値が高い場合が多いだろう。",
+        "さらに、「AIが積極的な参加者となる」というコンセプトが日本市場でどれだけ速く受け入れられるかは、人間による監視を重視し、新技術の採用に慎重な文化的な傾向によって左右される可能性がある。日本のマーケティングチームは、特に顧客向けのコミュニケーションやデータ整合性において、綿密な人間によるレビューを優先する傾向がある。AIが支援できることは間違いないが、プラットフォームのAIに複雑な意思決定を完全に委ねることへの安心感は、広範なローカルカスタマイズと検証なしには、他の市場よりもゆっくりと進化するかもしれない。これは、技術は準備ができていても、市場がそれを完全に活用する準備が整うまでには、特に大規模な導入においては、さらに数ヶ月の期間を要する可能性があることを意味する。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "HubSpot embeds AI for cleaner data and smarter automation.",
+        "ja": "HubSpot、AIをCRMに深く統合しデータと自動化を強化。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo-based in-house performance marketer or agency strategist managing CRM data and automation workflows, seeking to improve data hygiene and streamline campaign execution without adding external tools.",
+        "ja": "CRMデータ管理とオートメーションに課題を持つ東京のインハウス・パフォーマンスマーケターや代理店のストラテジストが、外部ツールなしでデータクリーンネスとキャンペーン実行を効率化したい場合。"
+      },
+      "vsJapanPlay": {
+        "en": "This competes with Salesforce's Einstein AI capabilities, domestic marketing automation platforms like SATORI or Marketo Engage Japan, and custom data-cleaning scripts, offering a more tightly integrated, mid-market focused AI solution.",
+        "ja": "SalesforceのEinstein AI機能、SATORIやMarketo Engage Japanといった国内MAプラットフォーム、あるいはカスタムデータクリーンアップスクリプトと競合し、より統合された中堅企業向けAIソリューションを提供する。"
+      },
+      "tokyoTake": {
+        "en": "While the AI features are compelling, their impact in Japan depends on HubSpot's integration with local platforms like LINE and Yahoo! JAPAN, which remains a core challenge for global MA vendors. Data quality is a universal issue, but the appetite for full AI delegation in marketing tasks may vary.",
+        "ja": "AI機能は魅力的だが、日本での影響はLINEやYahoo! JAPANなど国内プラットフォームとの連携次第。これはグローバルMAベンダー共通の課題。データ品質は普遍的な問題だが、マーケティング業務におけるAIへの完全な委任意欲は日本市場で異なる可能性がある。"
+      }
+    },
+    "source": {
+      "name": "MarTech.org",
+      "url": "https://martech.org/hubspots-may-2026-updates-breeze-gets-serious-automation-gets-smarter-and-your-data-gets-cleaner/"
+    },
+    "sourceGuid": "https://martech.org/?p=410645",
+    "status": "published"
+  },
+  {
     "slug": "astrocorps-lunar-colony-campaign-reimagines-off-world-living",
     "category": "creative",
     "issue": "Vol. 02",
@@ -627,8 +1037,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Martech Buyers Reject Full Stack Overhauls",
@@ -1645,8 +2055,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101010"
     },
     "title": {
       "en": "Meta's Algorithms Prioritize Optimization Signals Over Explicit Targeting",
@@ -2676,8 +3086,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
+      "src": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "Dove Men+Care Leverages Strava for Product Relaunch",
@@ -3492,8 +3902,8 @@
     "readingMinutes": 4,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101012"
+      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "US States Continue Piecemeal Privacy Law Expansion",
@@ -4108,8 +4518,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Flawed Conversion Data Misdirects AI Ad Spend",
@@ -4314,8 +4724,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101010"
+      "src": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Synthetic Data: A Tool, Not a Replacement, for Customer Research",
@@ -4728,8 +5138,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1684391938577-67c3e8b9c7a8?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0c"
     },
     "title": {
       "en": "The Honest Company Challenges Bathroom Taboos in New Campaign",
@@ -4936,8 +5346,8 @@
     "readingMinutes": 7,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#121212"
     },
     "title": {
       "en": "AI Is Reshaping How Consumers Decide, Challenging Marketers to Rethink Trust",
@@ -5548,8 +5958,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#161616"
+      "src": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "Cannes Lions 2026: Marketers Grapple with AI and Attention in a Shifting Landscape",
@@ -5746,8 +6156,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "AI's Growing Reliance on DAM Reshapes Content Strategy",
@@ -5848,8 +6258,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#121212"
+      "src": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#161616"
     },
     "title": {
       "en": "Aether Dynamics Launches First Dedicated Lunar Colony Campaign",
@@ -5950,8 +6360,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1556656793-08538906a9f8?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0d"
+      "src": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e0e"
     },
     "title": {
       "en": "Beyond Dashboards: The Human Variable in Marketing Strategy",
@@ -6156,8 +6566,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1701978500311-7ddd0a30a64f?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "AstraLux Habitats Launches \"Echoes of Elysium\" Campaign for Lunar Living",
@@ -6258,8 +6668,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0b0b0d"
+      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0f12"
     },
     "title": {
       "en": "AI's MOps Shift: From System Management to Business Impact",
@@ -6358,8 +6768,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1717501218385-55bc3a95be94?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1620712943543-26fab76e6f5d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0c"
     },
     "title": {
       "en": "AstroLux Markets Lunar Living as Next Urban Frontier",
@@ -6460,8 +6870,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1620712943543-26fab76e6f5d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0c"
+      "src": "https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Ogilvy's 'Solstice Homesteads' Campaign Brands Off-World Living as Luxury Lifestyle",
@@ -6564,8 +6974,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e0e"
+      "src": "https://images.unsplash.com/photo-1601445638532-3c6f6c3aa1d6?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0c"
     },
     "title": {
       "en": "Beyond Polish: B2B Buyers Demand Verifiable Expertise and Transparency",
@@ -6664,8 +7074,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1601445638532-3c6f6c3aa1d6?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0c"
+      "src": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#121212"
     },
     "title": {
       "en": "Brands Look to Orbit for Future Growth, Today's PR",
@@ -6766,8 +7176,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1684391938577-67c3e8b9c7a8?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
+      "src": "https://images.unsplash.com/photo-1701978500311-7ddd0a30a64f?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Axiom Space Reimagines Off-World Living in New Global Brand Push",
@@ -6872,8 +7282,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0f12"
+      "src": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
     },
     "title": {
       "en": "Local Search Optimization Mirrors Early SEO's Evolution",
@@ -6974,8 +7384,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1672239497060-46b39e7e23c4?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0e10"
+      "src": "https://images.unsplash.com/photo-1717501218385-55bc3a95be94?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "Aperture Labs' Hyper-Local Sensor Campaign Reimagines OOH Relevance",
@@ -7180,8 +7590,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0f12"
+      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0e"
     },
     "title": {
       "en": "Danone, Target, and DirecTV Partner to Link Premium Video Ads to Retail Sales",
@@ -7282,8 +7692,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1620712943543-26fab76e6f5d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0c"
+      "src": "https://images.unsplash.com/photo-1672239497060-46b39e7e23c4?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0e10"
     },
     "title": {
       "en": "Luxury Hospitality Brand Stakes Claim in Future Orbital Living",
@@ -7386,8 +7796,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
+      "src": "https://images.unsplash.com/photo-1701978500311-7ddd0a30a64f?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "AstroCorp's Mars Campaign Reframes Off-World Living as Consumer Lifestyle",
@@ -7492,8 +7902,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0f12"
     },
     "title": {
       "en": "Databricks launches CustomerLake, an 'agentic' CDP for marketing automation",
@@ -7692,8 +8102,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1601445638532-3c6f6c3aa1d6?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0c"
+      "src": "https://images.unsplash.com/photo-1556656793-08538906a9f8?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0d"
     },
     "title": {
       "en": "P&G and Albertsons use retail data to shape branded content",
@@ -7784,418 +8194,6 @@
       "url": "https://www.marketingdive.com/news/pgs-latest-branded-microdrama-is-built-on-albertsons-retail-media-data/823121/"
     },
     "sourceGuid": "https://www.marketingdive.com/news/pgs-latest-branded-microdrama-is-built-on-albertsons-retail-media-data/823121/",
-    "status": "published"
-  },
-  {
-    "slug": "cosmic-colas-ar-campaign-reimagines-public-space-as-brand-canvas",
-    "category": "creative",
-    "issue": "Vol. 01",
-    "publishedAt": "2026-06-18T12:00:00.000Z",
-    "readingMinutes": 6,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
-    },
-    "title": {
-      "en": "Cosmic Cola's AR Campaign Reimagines Public Space as Brand Canvas",
-      "ja": "コズミック・コーラ、ARで公共空間をブランド体験のキャンバスに再定義"
-    },
-    "dek": {
-      "en": "Global beverage brand Cosmic Cola launched a large-scale augmented reality experience, 'Galactic Gateway,' in major city squares worldwide, signaling a shift towards spatial computing for brand engagement.",
-      "ja": "グローバル飲料ブランド「コズミック・コーラ」が、世界の主要都市広場で大規模AR体験「ギャラクティック・ゲートウェイ」を展開。ブランドエンゲージメントにおける空間コンピューティング活用の動きを示唆する。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "creative",
-        "ja": "クリエイティブ"
-      },
-      {
-        "en": "AR",
-        "ja": "AR"
-      },
-      {
-        "en": "experiential marketing",
-        "ja": "体験型マーケティング"
-      },
-      {
-        "en": "OOH",
-        "ja": "OOH"
-      }
-    ],
-    "body": {
-      "en": [
-        "Global beverage giant Cosmic Cola, in collaboration with creative agency Momentum Creative, recently launched \"Galactic Gateway,\" an ambitious augmented reality experience deployed across iconic city squares in New York, London, and Tokyo. The initiative coincided with the release of Cosmic Cola's new limited-edition \"Cosmic Berry\" flavor, aiming to blend physical presence with digital immersion.",
-        "The campaign transforms public spaces into interactive alien landscapes through geo-fenced AR overlays accessible via a standard smartphone. Users point their devices at designated areas to reveal animated exoplanets, alien flora, and fauna, allowing for real-time interaction and shareable content creation. This approach moves beyond traditional OOH advertising, seeking to engage younger demographics with a dynamic, participatory brand narrative.",
-        "A key technical challenge involved ensuring precise spatial mapping and persistent AR anchoring across diverse urban environments. Momentum Creative partnered with Nexus AR, a spatial computing startup, to develop a robust platform capable of rendering complex 3D assets seamlessly and consistently for thousands of simultaneous users. The goal was to create a transient portal, not just an ad.",
-        "> The goal was to create a transient portal, not just an ad.",
-        "This experiential strategy reflects a broader industry trend where brands are exploring how to leverage spatial computing to extend their presence beyond traditional media channels. Instead of merely displaying a product, Cosmic Cola is inviting consumers into a brand-created universe, utilizing public infrastructure as a stage for immersive storytelling. This mirrors similar efforts seen in retail and entertainment sectors experimenting with AR for enhanced customer journeys.",
-        "The significant investment in bespoke AR infrastructure and geo-fencing technology suggests that Cosmic Cola views this not as a one-off stunt, but as a strategic long-term play for an \"always-on\" brand presence in physical locations. It represents a shift from campaign-centric activations to building persistent, interactive layers over real-world environments, potentially setting a precedent for future brand engagement models.",
-        "What remains to be seen is how effectively such large-scale AR experiences translate into measurable sales uplift or sustained brand equity. While social media virality is a clear immediate outcome, the long-term impact on purchasing behavior and brand loyalty will be a critical metric for the industry to watch, particularly as direct attribution for these types of activations remains complex. Nexus AR's continued partnerships will also be a bellwether for this emerging category."
-      ],
-      "ja": [
-        "グローバル飲料大手「コズミック・コーラ」は、クリエイティブエージェンシー「モメンタム・クリエイティブ」との協業で、ニューヨーク、ロンドン、東京の象徴的な都市広場で大規模AR体験「ギャラクティック・ゲートウェイ」を展開した。この取り組みは、新限定フレーバー「コズミック・ベリー」の発売と連動し、物理的な存在感とデジタルな没入感を融合させることを目指している。",
-        "このキャンペーンは、標準的なスマートフォンを介してアクセスできるジオフェンスARオーバーレイを通じて、公共空間をインタラクティブな異星の風景に変える。ユーザーは指定されたエリアにデバイスを向けることで、アニメーション化された太陽系外惑星や異星の動植物を出現させ、リアルタイムでのインタラクションや共有可能なコンテンツ作成が可能になる。これは従来のOOH広告を超え、動的で参加型のブランドストーリーによって若年層を惹きつけることを狙ったものだ。",
-        "技術的な主要課題は、多様な都市環境全体で精密な空間マッピングとARアンカーの持続性を確保することだった。モメンタム・クリエイティブは、空間コンピューティングのスタートアップ「ネクサスAR」と提携し、何千人もの同時ユーザーに対して複雑な3Dアセットをシームレスかつ一貫してレンダリングできる堅牢なプラットフォームを開発した。",
-        "> 単なる広告ではなく、一時的なポータルを創り出すことが目標だった。",
-        "この体験型戦略は、ブランドが空間コンピューティングを活用し、従来のメディアチャネルを超えて存在感を拡張する方法を模索する、より広範な業界トレンドを反映している。コズミック・コーラは、単に製品を展示するのではなく、公共インフラを没入型ストーリーテリングの舞台として活用し、ブランドが創造した宇宙へと消費者を招き入れている。これは、顧客体験を向上させるためにARを実験している小売およびエンターテイメント分野で見られる同様の取り組みと共通する。",
-        "特注のARインフラとジオフェンシング技術への多大な投資は、コズミック・コーラがこれを単発のプロモーションではなく、物理的な場所における「常時稼働型」のブランドプレゼンスを構築するための戦略的な長期計画と見なしていることを示唆する。これはキャンペーン中心のアクティベーションから、現実世界の上に永続的でインタラクティブなレイヤーを構築することへの移行を意味し、将来のブランドエンゲージメントモデルの先例となる可能性がある。",
-        "今後注目されるのは、このような大規模AR体験が、測定可能な売上増加や持続的なブランド価値にどの程度効果的に結びつくかという点だ。ソーシャルメディアでの拡散は明確な即時成果だが、購入行動やブランドロイヤルティへの長期的な影響は、業界が注視すべき重要な指標となるだろう。特に、これらのタイプのアクティベーションに対する直接的なアトリビューションは依然として複雑だからだ。ネクサスARの今後の提携も、この新興カテゴリの指標となるだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "For Tokyo marketers, Cosmic Cola's \"Galactic Gateway\" concept highlights the growing potential of AR in urban environments, but also its inherent challenges in a dense city like Tokyo. While Japan has a high smartphone penetration and a culturally receptive audience for novel tech experiences, the regulatory landscape for public space activation is complex and often requires extensive negotiation with local authorities and property owners.",
-        "Unlike temporary pop-ups or one-off events, a persistent AR layer that transforms public space requires careful long-term planning. Domestic players like Dentsu and Hakuhodo have certainly experimented with AR filters for campaigns and localized experiential events, often leveraging partnerships with platforms like LINE or specific venue operators. However, scaling a persistent, geo-fenced AR experience across multiple, high-traffic public locations simultaneously—such as Shibuya Crossing, Shinjuku Station, or Ginza's main street—remains an operational and logistical hurdle that few have attempted at this scale.",
-        "The core question for a Japanese brand manager or media planner is not just creative ambition, but practical deployment: securing permits from diverse stakeholders, ensuring stable connectivity in notoriously crowded areas, and adapting content to local cultural nuances and real-time crowd dynamics. While the creative appeal is clear and the technology is available, the operational overhead, the fragmented nature of media rights in public spaces, and the specific liability concerns mean a similar large-scale, persistent AR installation would likely remain a one-off, high-impact event rather than a scalable, integrated media buy for the foreseeable future. It's a powerful statement, but not yet a routine channel."
-      ],
-      "ja": [
-        "東京のマーケターにとって、コズミック・コーラの「ギャラクティック・ゲートウェイ」のようなAR体験は、都市空間におけるARの可能性を示す一方で、東京のような高密度な都市での展開には特有の課題がある。日本はスマートフォン普及率が高く、新しいテクノロジー体験への受容性も高いが、公共空間でのアクティベーションに関する規制は複雑で、地方自治体や施設管理者との広範な交渉がしばしば必要となる。",
-        "一時的なポップアップや単発イベントとは異なり、公共空間を変容させる永続的なARレイヤーの展開には、慎重な長期計画が求められる。電通や博報堂といった国内大手代理店も、キャンペーン用のARフィルターや地域密着型の体験イベントを、LINEなどのプラットフォームや特定の施設運営者との提携を通じて試みている。しかし、渋谷スクランブル交差点や新宿駅、銀座の目抜き通りといった複数の人通りの多い公共空間で、永続的なジオフェンスAR体験を同時に大規模展開することは、運用面およびロジスティクス面で大きな障壁が残る。",
-        "日本のブランドマネージャーやメディアプランナーにとっての核心的な問いは、クリエイティブな野心だけでなく、実際の展開可能性にある。多様な関係者からの許可取得、混雑したエリアでの安定した接続確保、そしてコンテンツの文化的ニュアンスやリアルタイムの群衆ダイナミクスへの適応。クリエイティブな魅力は明白で技術も利用可能だが、運用上のオーバーヘッド、公共空間におけるメディア権の断片化、および特定の法的責任の問題を考えると、同様の大規模かつ永続的なARインスタレーションは、当面の間、スケーラブルで統合されたメディアバイではなく、単発のインパクトのあるイベントに留まる可能性が高いだろう。強力なメッセージではあるが、まだ日常的なチャネルではない。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "AR transforms public space into a dynamic brand experience.",
-        "ja": "ARで公共空間が動的なブランド体験に。"
-      },
-      "whoForWhat": {
-        "en": "For a Tokyo-based brand manager planning experiential activations or a media planner exploring innovative OOH, this showcases a new way to engage audiences in physical spaces.",
-        "ja": "体験型アクティベーションを計画するブランドマネージャーや、革新的なOOHを模索するメディアプランナーにとって、物理空間での新たなエンゲージメント手法を示す。"
-      },
-      "vsJapanPlay": {
-        "en": "While Japanese agencies like Dentsu have run AR filters for campaigns, this differs by creating a persistent, geo-fenced layer over public spaces, moving beyond temporary event-based activations.",
-        "ja": "電通などがキャンペーンでARフィルターを展開するが、これは一時的なイベント型を超え、公共空間に永続的なジオフェンスARレイヤーを構築する点で異なる。"
-      },
-      "tokyoTake": {
-        "en": "The creative ambition is high, but the operational complexity of scaling persistent public AR in Tokyo's dense, regulated urban environment means it's likely a one-off statement piece, not a scalable media channel for most brands this quarter.",
-        "ja": "クリエイティブな野心は高いが、東京の規制された高密度な都市環境で永続的な公共ARを大規模展開する運用上の複雑さを考えると、今四半期に多くのブランドが活用できるスケーラブルなメディアチャネルではなく、単発の声明的な取り組みに留まる可能性が高い。"
-      }
-    },
-    "source": {
-      "name": "Adweek",
-      "url": "https://www.adweek.com/convergent-tv/fox-close-upfront-market-leading-pricing-no-rollbacks/"
-    },
-    "sourceGuid": "https://www.adweek.com/?p=1949406",
-    "status": "published"
-  },
-  {
-    "slug": "soccer-marketing-demands-better-marketers-not-just-bigger-budgets",
-    "category": "brand",
-    "issue": "Vol. 01",
-    "publishedAt": "2026-06-19T04:01:00.000Z",
-    "readingMinutes": 6,
-    "feature": false,
-    "cover": {
-      "src": "https://digiday.com/wp-content/uploads/sites/3/2024/08/soccer-net-digiday.jpg",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Soccer Marketing Demands Better Marketers, Not Just Bigger Budgets",
-      "ja": "サッカーマーケティングの課題：予算ではなく「マーケター」の進化"
-    },
-    "dek": {
-      "en": "A Digiday briefing argues that the global appeal of soccer is not enough; brands must move beyond broad sponsorships to sophisticated, data-driven fan engagement.",
-      "ja": "Digidayの指摘によれば、サッカーの世界的な人気だけでは不十分であり、ブランドは広範なスポンサーシップからデータドリブンなファンエンゲージメントへと移行する必要がある。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "June 19, 2026",
-      "ja": "2026年6月19日"
-    },
-    "tags": [
-      {
-        "en": "sports marketing",
-        "ja": "スポーツマーケティング"
-      },
-      {
-        "en": "brand strategy",
-        "ja": "ブランド戦略"
-      },
-      {
-        "en": "fan engagement",
-        "ja": "ファンエンゲージメント"
-      },
-      {
-        "en": "data-driven marketing",
-        "ja": "データドリブンマーケティング"
-      }
-    ],
-    "body": {
-      "en": [
-        "Marketing efforts surrounding major global sporting events, particularly soccer, often fall short of their potential, according to a recent Digiday briefing. The core issue isn't a lack of marketing activity or budget, but rather a fundamental disconnect in how marketers approach these opportunities. Instead of leveraging the sport's immense cultural power and passionate fanbase with precision, many brands still opt for broad-stroke campaigns that prioritize visibility over genuine engagement.",
-        "This critique suggests that the traditional playbook for sports sponsorships—large-scale brand logos on jerseys, stadium hoardings, and generic TV commercials—is no longer sufficient. While these tactics generate awareness, they frequently fail to convert the intense emotional connection fans have with their sport into meaningful brand loyalty or measurable business outcomes. The emphasis, Digiday argues, should shift from simply buying exposure to strategically cultivating relationships with segmented fan groups.",
-        "The call for \"better marketers\" implies a need for deeper analytical capabilities and a more nuanced understanding of fan behavior. This involves moving beyond basic demographics to utilize first-party data, attention metrics, and advanced segmentation to tailor messages and experiences. Brands should aim to integrate themselves into the fan journey, offering value that resonates with specific interests, whether that's through exclusive content, interactive experiences, or community building.",
-        "> \"The problem isn't that soccer needs better marketing, but that marketers need a better understanding of soccer's audience and how to reach them authentically.\"",
-        "The global landscape for sports marketing is rapidly evolving, with digital platforms and social media now central to fan interaction. Yet, many brands continue to allocate significant portions of their budgets to legacy media buys that offer diminishing returns in terms of deep engagement. This contrasts sharply with sectors like retail media, where advertisers are increasingly leveraging granular shopper data to deliver highly personalized and measurable campaigns.",
-        "For the upcoming FIFA World Cup 2026 in North America, this perspective will be particularly relevant. Brands will face a highly diverse audience across three host nations, demanding sophisticated localization and cultural sensitivity beyond simple language translation. Success will likely hinge on the ability to activate fan segments across digital channels with contextually relevant content, rather than relying on a one-size-fits-all global campaign.",
-        "Ultimately, the challenge for brands is to view sports marketing not as a branding exercise alone, but as a complex data and engagement problem. This requires investing in talent, technology, and partnerships that can translate fan passion into measurable business value, moving beyond the mere presence to become an integral part of the fan experience."
-      ],
-      "ja": [
-        "サッカーをはじめとするグローバルなスポーツイベントにおけるマーケティングは、その潜在能力を十分に引き出せていないと、Digidayの最新ブリーフィングは指摘する。問題はマーケティング活動や予算の不足にあるのではなく、マーケターがこれらの機会にどうアプローチするかの根本的な認識のずれにあるという。スポーツが持つ計り知れない文化的影響力と熱狂的なファンベースを精密に活用する代わりに、多くのブランドは未だ、真のエンゲージメントよりも露出を優先する大雑把なキャンペーンを選択している。",
-        "この批判は、スポーツスポンサーシップの従来のやり方、すなわちジャージやスタジアムの広告板へのロゴ掲載、一般的なテレビCMだけではもはや不十分であることを示唆している。これらの戦術は認知度を高める一方で、ファンがスポーツに対して抱く強烈な感情的つながりを、意味のあるブランドロイヤルティや測定可能なビジネス成果に転換できていないことが多い。Digidayは、単に露出を買うことから、セグメント化されたファン層との関係を戦略的に構築することへと重点を移すべきだと主張する。",
-        "「より優れたマーケター」への要求は、より深い分析能力と、ファンの行動に対するより繊細な理解が必要であることを意味する。これは、基本的なデモグラフィック情報だけでなく、ファーストパーティデータ、アテンション指標、高度なセグメンテーションを活用して、メッセージや体験をパーソナライズすることを含む。ブランドは、限定コンテンツ、インタラクティブな体験、コミュニティ構築などを通じて、特定の興味に響く価値を提供し、ファンジャーニーに自らを組み込むことを目指すべきだ。",
-        "> 「問題はサッカーがより良いマーケティングを必要としているのではなく、マーケターがサッカーのオーディエンスと、彼らに真にリーチする方法をより深く理解する必要があるということだ。」",
-        "スポーツマーケティングのグローバルな状況は急速に進化しており、デジタルプラットフォームやソーシャルメディアがファンとの交流の中心となっている。しかし、多くのブランドは未だに、深いエンゲージメントの観点からは収益が減少している従来のメディアバイイングに予算の大部分を割り当て続けている。これは、小売メディアの分野で、広告主が詳細なショッパーデータを活用して高度にパーソナライズされ、測定可能なキャンペーンを展開している状況とは対照的である。",
-        "2026年に北米で開催されるFIFAワールドカップでは、この視点が特に重要になるだろう。ブランドは3つの開催国にまたがる非常に多様なオーディエンスに直面し、単純な言語翻訳を超えた高度なローカライゼーションと文化的感受性が求められる。成功は、画一的なグローバルキャンペーンに頼るのではなく、デジタルチャネルを通じてファンセグメントを文脈に合ったコンテンツで活性化する能力にかかっている可能性が高い。",
-        "最終的に、ブランドにとっての課題は、スポーツマーケティングを単なるブランディング活動としてではなく、複雑なデータとエンゲージメントの問題として捉えることだ。これには、ファンの情熱を測定可能なビジネス価値に変換できる人材、テクノロジー、パートナーシップへの投資が必要であり、単なる存在感を示すことから、ファン体験の不可欠な一部となることへの転換が求められる。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Japanese brands are significant players in global sports sponsorships, notably in soccer, but often adhere to a traditional model of broad awareness and brand exposure. This Digiday briefing serves as a timely reminder that the efficacy of such an approach is diminishing, even for a universally loved sport like soccer. For Tokyo marketers, the challenge is not just about securing a sponsorship slot, but fundamentally rethinking how they engage with fan communities.",
-        "The emphasis on first-party data, granular segmentation, and attention metrics highlights a gap that many Japanese agencies and brands still need to bridge. While major agencies like Dentsu and Hakuhodo excel at securing large-scale media placements, the sophisticated data infrastructure and analytical talent required for highly personalized fan engagement are often less developed compared to Western markets. This means Tokyo marketers must either demand more advanced data capabilities from their agency partners or invest in building these competencies in-house.",
-        "Furthermore, the Japanese media landscape, with its strong reliance on traditional TV and major digital platforms like LINE and Yahoo! JAPAN, needs to evolve to support more granular, contextually relevant activations around sports content. While platforms like TVer and ABEMA are growing, their capabilities for sophisticated, data-driven fan engagement beyond basic demographics for sports content still require maturation. For a Tokyo marketer, this suggests a need to actively push for new ad units, measurement capabilities, and data-sharing agreements to truly leverage the fan passion that exists within Japan's sports culture."
-      ],
-      "ja": [
-        "日本のブランドは、サッカーをはじめとするグローバルスポーツスポンサーシップにおいて重要な存在だが、多くの場合、広範な認知とブランド露出を重視する伝統的なモデルに固執している。Digidayのこのブリーフィングは、サッカーのような世界的に愛されるスポーツであっても、そのようなアプローチの有効性が低下していることを示唆する時宜を得た警告だ。東京のマーケターにとっての課題は、単にスポンサーシップ枠を確保することではなく、ファンコミュニティとのエンゲージメント方法を根本的に再考することにある。",
-        "ファーストパーティデータ、詳細なセグメンテーション、アテンション指標への重点は、日本の多くの代理店やブランドがまだ埋めるべきギャップを浮き彫りにしている。電通や博報堂のような大手代理店は大規模なメディアプレイスメントの確保に長けているが、高度にパーソナライズされたファンエンゲージメントに必要な洗練されたデータインフラと分析人材は、欧米市場に比べてまだ発展途上であることが多い。これは、東京のマーケターが代理店パートナーにより高度なデータケイパビリティを要求するか、あるいは社内でこれらの能力を構築するための投資を行う必要があることを意味する。",
-        "さらに、日本のメディア環境は、テレビやLINE、Yahoo! JAPANのような主要デジタルプラットフォームへの依存度が高く、スポーツコンテンツを巡るより詳細で文脈に即したアクティベーションをサポートするために進化する必要がある。TVerやABEMAのようなプラットフォームは成長しているものの、スポーツコンテンツにおける基本的なデモグラフィックを超えた、洗練されたデータドリブンなファンエンゲージメントのための機能はまだ成熟が必要だ。東京のマーケターは、日本のスポーツ文化に存在するファンの情熱を真に活用するため、新しい広告ユニット、測定機能、データ共有契約を積極的に推進する必要があるだろう。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Soccer marketing needs a new playbook.",
-        "ja": "サッカーマーケは戦略転換を。"
-      },
-      "whoForWhat": {
-        "en": "For CMOs and brand managers at consumer brands planning major event sponsorships, this highlights the need to evolve beyond broad awareness to data-driven fan engagement.",
-        "ja": "大規模イベントスポンサーシップを計画する消費財ブランドのCMOやブランドマネージャーが、従来の認知重視からデータドリブンなファンエンゲージメントへ移行するための視点。"
-      },
-      "vsJapanPlay": {
-        "en": "This challenges the traditional broad sponsorship model often seen with major Japanese sporting events, where agencies like Dentsu and Hakuhodo typically focus on mass reach and brand visibility rather than granular audience activation.",
-        "ja": "電通や博報堂が提供するような、日本の主要スポーツイベントにおける広範なリーチとブランド露出を主眼とする従来のスポンサーシップモデルに対し、より詳細なオーディエンス活性化の必要性を提起する。"
-      },
-      "tokyoTake": {
-        "en": "While Japanese brands heavily invest in sports sponsorships, the shift towards data-driven fan engagement and attention metrics is still nascent. Tokyo marketers should assess if their current agency partners can deliver beyond traditional media buys for events like the J-League or upcoming global tournaments, or if internal capability building is required. The infrastructure for granular fan data activation remains less mature than in some Western markets.",
-        "ja": "日本のブランドもスポーツスポンサーシップに多額を投じるが、データドリブンなファンエンゲージメントやアテンション指標への移行はまだ道半ばだ。東京のマーケターは、Jリーグや国際大会に向け、現在の代理店パートナーが従来のメディアバイイングを超えた価値を提供できるか、あるいは社内でのケイパビリティ構築が必要かを検討すべきだろう。詳細なファンデータ活用に向けたインフラは、欧米市場と比較してまだ発展途上にある。"
-      }
-    },
-    "source": {
-      "name": "Digiday",
-      "url": "https://digiday.com/marketing/future-of-marketing-briefing-soccer-doesnt-need-better-marketing-just-better-marketers/?utm_campaign=digidaydis&#038;utm_medium=rss&#038;utm_source=general-rss"
-    },
-    "sourceGuid": "https://digiday.com/?p=606820",
-    "status": "published"
-  },
-  {
-    "slug": "quantum-colas-echoes-of-tomorrow-campaign-scales-personalized-video-with-ai",
-    "category": "creative",
-    "issue": "Vol. 01",
-    "publishedAt": "2026-06-18T15:30:40.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1620712943543-bccf2f2c1ae9?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
-    },
-    "title": {
-      "en": "Quantum Cola's \"Echoes of Tomorrow\" Campaign Scales Personalized Video with AI",
-      "ja": "クアンタム・コーラ「エコーズ・オブ・トゥモロー」AIでパーソナライズ動画を大規模展開"
-    },
-    "dek": {
-      "en": "Global beverage giant Quantum Cola, with agency Vanguard Creative, has launched a new campaign using generative AI to produce thousands of unique video ads for individual social media users, aiming for unprecedented personalization at scale.",
-      "ja": "グローバル飲料大手クアンタム・コーラは、Vanguard Creativeとの協業で、生成AIを活用し数千種類のパーソナライズ動画広告をソーシャルメディア向けに制作。個別ユーザーへの大規模な最適化を目指す。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo, June 18",
-      "ja": "東京、6月18日"
-    },
-    "tags": [
-      {
-        "en": "creative",
-        "ja": "クリエイティブ"
-      },
-      {
-        "en": "AI",
-        "ja": "AI"
-      },
-      {
-        "en": "social media",
-        "ja": "ソーシャルメディア"
-      },
-      {
-        "en": "personalization",
-        "ja": "パーソナライゼーション"
-      }
-    ],
-    "body": {
-      "en": [
-        "Quantum Cola, a global beverage brand, launched its \"Echoes of Tomorrow\" campaign on June 18, developed with agency Vanguard Creative. The campaign for a new flavor leverages generative AI to produce thousands of distinct short-form video ads, each tailored to individual user profiles across platforms like TikTok, Instagram Reels, and YouTube Shorts. This initiative aims to deliver a hyper-personalized creative experience at an unprecedented scale.",
-        "The core mechanism involves Vanguard Creative's proprietary \"Aura Engine\" AI tool, which integrates into their creative workflow. This engine analyzes user data—ranging from past content interactions to stated interests—to dynamically select visual styles, musical cues, and subtle narrative elements for each ad. The goal is to move beyond segment-based targeting to true one-to-one creative delivery, responding to real-time consumer signals.",
-        "Vanguard Creative stated that the Aura Engine allowed them to accelerate creative production cycles significantly. Instead of manually producing dozens or hundreds of ad variations, the system could render thousands, maintaining brand consistency while ensuring individual relevance. This approach signals a shift in how agencies might manage large-scale creative asset generation for always-on social campaigns.",
-        "> \"The Aura Engine isn't just about making more ads; it's about fundamentally rethinking the creative supply chain for the attention economy.\"",
-        "The campaign's initial rollout focused on key Western markets, with reported engagement rates surpassing benchmarks for previous, less personalized digital video campaigns. While specific ROI figures remain undisclosed, the agency highlighted a measurable uplift in click-through rates and brand recall among targeted demographics.",
-        "This strategy echoes earlier attempts by brands to scale personalized messaging, but with generative AI, the ambition for creative variability is vastly expanded. Previous efforts often relied on dynamic creative optimization (DCO) templates with pre-approved assets. The Aura Engine, by contrast, generates novel combinations and even novel visual elements within defined brand guidelines, pushing the boundaries of what \"scalable personalization\" means for creative.",
-        "The broader industry will watch closely to see if this model can truly deliver sustained brand equity or if it primarily optimizes for short-term performance metrics. The challenge lies in maintaining a coherent brand narrative across thousands of disparate creative outputs, a task traditionally managed by human creative directors."
-      ],
-      "ja": [
-        "グローバル飲料ブランドのクアンタム・コーラは、Vanguard Creativeとの協業により、新フレーバーの「エコーズ・オブ・トゥモロー」キャンペーンを6月18日に開始した。このキャンペーンは、生成AIを活用して数千種類の短い動画広告を制作し、TikTok、Instagram Reels、YouTube Shortsといったソーシャルメディアプラットフォーム上で個々のユーザープロファイルに合わせて配信する。これにより、前例のない規模での超パーソナライズされたクリエイティブ体験の提供を目指す。",
-        "その核となるのは、Vanguard Creativeが開発した独自のAIツール「Aura Engine」である。これはクリエイティブワークフローに組み込まれており、ユーザーの過去のコンテンツインタラクションや興味関心といったデータを分析し、各広告のビジュアルスタイル、音楽、さらには物語の微妙な要素を動的に選択する。従来のセグメントベースのターゲティングを超え、リアルタイムの消費者シグナルに応じた真の1対1のクリエイティブ配信が狙いだ。",
-        "Vanguard Creativeは、Aura Engineがクリエイティブ制作サイクルを大幅に加速させたと述べている。手作業で数十、数百の広告バリエーションを制作する代わりに、このシステムは数千ものユニークなクリエイティブを生み出し、ブランドの一貫性を保ちつつ個々の関連性を確保できる。このアプローチは、常に稼働するソーシャルキャンペーンにおける大規模なクリエイティブアセット管理方法に変化をもたらす可能性を示唆する。",
-        "> 「Aura Engineは単に広告を増やすだけではない。アテンションエコノミーにおけるクリエイティブのサプライチェーンを根本的に再考するものだ。」",
-        "キャンペーンの初期展開は主要な欧米市場に焦点を当て、従来のパーソナライズされていないデジタル動画キャンペーンのベンチマークを上回るエンゲージメント率を記録したと報じられている。具体的なROI数値は非公開ながら、代理店はターゲット層におけるクリック率とブランド想起の明確な向上を強調した。",
-        "この戦略は、パーソナライズされたメッセージングを大規模化しようとする過去の試みと共通点を持つが、生成AIの活用によりクリエイティブの多様性への野心は格段に広がった。以前の取り組みは、事前に承認されたアセットを用いたDCO（ダイナミック・クリエイティブ・最適化）テンプレートに依存することが多かった。対照的にAura Engineは、定義されたブランドガイドライン内で新しい組み合わせや、時には新しい視覚要素そのものを生成し、「大規模なパーソナライゼーション」がクリエイティブにもたらす可能性を押し広げている。",
-        "業界全体は、このモデルが持続的なブランド価値向上に本当に貢献できるのか、あるいは短期的なパフォーマンス指標の最適化にとどまるのかを注視するだろう。数千もの異なるクリエイティブアウトプット全体で一貫したブランドナラティブを維持する課題は、これまで人間のクリエイティブディレクターが担ってきた重責である。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The idea of hyper-personalized video creative at scale is compelling on paper, but its direct applicability for a Tokyo marketer this quarter remains limited. While platforms like TikTok and Instagram Reels are ubiquitous in Japan, the appetite for AI-generated, highly individualized content might differ. Japanese consumers often value brand consistency, craftsmanship, and a clear, unified brand voice, sometimes viewing overly aggressive personalization as intrusive rather than helpful.",
-        "Furthermore, the \"Aura Engine\" relies on extensive user data for its personalization logic. Japan's stricter privacy landscape and the nuances of data collection and usage, particularly for behavioral targeting, mean that replicating the reported engagement uplift here would require careful navigation. Domestic media platforms like LINE Ads and Yahoo! JAPAN Ads have robust targeting capabilities, but their creative generation tools are not yet at this generative AI-driven scale for video.",
-        "For now, this remains an interesting case study from Western markets. A Tokyo-based brand manager or agency planner should monitor its long-term brand impact and consumer reception. The immediate actionable takeaway is to understand that while AI can streamline asset production, the strategic decision on *how much* personalization is culturally appropriate and privacy-compliant for the Japanese market is paramount, and likely still requires significant human oversight and local market testing."
-      ],
-      "ja": [
-        "超パーソナライズされた動画クリエイティブを大規模展開するというアイデアは理論上は魅力的だが、今四半期に東京のマーケターが直接適用できるかというと、まだ限定的だ。TikTokやInstagram Reelsは日本でも広く普及しているものの、AIが生成する高度に個別化されたコンテンツに対する受容性は異なる可能性がある。日本の消費者は、ブランドの一貫性、職人技、明確で統一されたブランドボイスを重視する傾向があり、過度なパーソナライゼーションを「おせっかい」と捉えることも少なくない。",
-        "さらに、「Aura Engine」はパーソナライゼーションロジックのために広範なユーザーデータに依存している。日本のより厳格なプライバシー規制や、行動ターゲティングにおけるデータ収集・利用のニュアンスを考慮すると、ここで報告されたようなエンゲージメント向上を再現するには慎重な対応が求められる。LINE広告やYahoo! JAPAN広告のような国内プラットフォームも強力なターゲティング機能を持つが、動画における生成AI駆動のクリエイティブ生成ツールはまだこの規模には達していない。",
-        "現時点では、これは欧米市場からの興味深いケーススタディと見るべきだろう。東京のブランドマネージャーや代理店のプランナーは、その長期的なブランド影響と消費者受容を注視する必要がある。差し迫った実用的な学びとしては、AIがアセット制作を効率化できる一方で、日本の市場において文化的に適切でプライバシーに配慮した「パーソナライゼーションの度合い」を戦略的に決定することが最重要であり、これには依然として人間の綿密な監視とローカル市場でのテストが不可欠であるという点だ。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "AI scales unique video ads for social feeds.",
-        "ja": "AIでソーシャル向け動画広告を大規模生成。"
-      },
-      "whoForWhat": {
-        "en": "For a global brand manager planning a new product launch on social media, seeking to understand how generative AI can accelerate creative asset production and personalization at scale.",
-        "ja": "ソーシャルメディアでの新製品ローンチを計画するグローバルブランドマネージャーが、生成AIによるクリエイティブ制作とパーソナライゼーション加速の可能性を理解するため。"
-      },
-      "vsJapanPlay": {
-        "en": "This differs from standard DCO plays on LINE Ads or Yahoo! JAPAN Ads, which typically use pre-approved asset libraries, by generating novel visual and narrative combinations dynamically, pushing creative boundaries further.",
-        "ja": "LINE広告やYahoo! JAPAN広告の標準的なDCO（ダイナミック・クリエイティブ・最適化）が既存アセットの組み合わせであるのに対し、これは新たな視覚・物語要素を動的に生成し、クリエイティブの可能性をさらに広げる。"
-      },
-      "tokyoTake": {
-        "en": "While the tech is impressive, Japan's privacy landscape and consumer preference for consistent brand narratives mean direct replication is unlikely. A Tokyo marketer should monitor long-term brand impact, not rush to deploy.",
-        "ja": "技術は注目に値するが、日本のプライバシー環境と一貫したブランドナラティブを好む消費者の傾向から、即座の直接適用は難しい。東京のマーケターは、拙速な導入よりも長期的なブランド影響を注視すべきだ。"
-      }
-    },
-    "source": {
-      "name": "Adweek",
-      "url": "https://www.adweek.com/brand-marketing/the-cmos-secret-to-board-level-influence-ft-us-banks-michael-lacorazza/"
-    },
-    "sourceGuid": "https://www.adweek.com/?p=1948982",
-    "status": "published"
-  },
-  {
-    "slug": "adobe-adds-generative-engine-optimization-to-cx-enterprise-suite",
-    "category": "adtech",
-    "issue": "Vol. 01",
-    "publishedAt": "2026-06-17T13:02:00.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://martech.org/wp-content/uploads/2026/05/metrics-measurement-charts-800x450.png",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Adobe Adds Generative Engine Optimization to CX Enterprise Suite",
-      "ja": "Adobe、CX Enterpriseに生成エンジン最適化（GEO）機能を追加"
-    },
-    "dek": {
-      "en": "The new Brand Visibility tool leverages Semrush technology and AI agents to help content rank in large language models.",
-      "ja": "新ツール「Brand Visibility」はSemrushの技術とAIエージェントを活用し、LLMでのコンテンツ露出を向上させる。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo, Japan - June 17, 2026",
-      "ja": "東京 - 2026年6月17日"
-    },
-    "tags": [
-      {
-        "en": "adtech",
-        "ja": "アドテック"
-      },
-      {
-        "en": "AI",
-        "ja": "AI"
-      },
-      {
-        "en": "Adobe",
-        "ja": "アドビ"
-      },
-      {
-        "en": "SEO",
-        "ja": "SEO"
-      }
-    ],
-    "body": {
-      "en": [
-        "Adobe has launched \"Adobe Brand Visibility,\" a new offering within its CX Enterprise suite, designed to optimize content for visibility within large language models (LLMs) and generative AI search environments. The tool integrates technology from Adobe's acquisition of Semrush, positioning it as a significant shift from traditional search engine optimization (SEO) towards what Adobe terms Generative Engine Optimization (GEO). This move signals a strategic pivot for enterprise content strategies as generative AI interfaces become more prevalent in consumer information retrieval.",
-        "The core functionality of Adobe Brand Visibility relies on AI agents. These agents are tasked with analyzing content and recommending specific optimizations. Crucially, they also implement these changes, aiming to enhance how brand content is ingested and surfaced by LLMs. This goes beyond keyword density or backlink profiles, focusing instead on semantic relevance, structured data, and contextual understanding that AI models prioritize. For marketers, this means a shift in how content is prepared and deployed, moving towards a more machine-readable and contextually rich format.",
-        "## What actually shipped",
-        "Adobe Brand Visibility is presented as a comprehensive solution for enterprise clients. It allows brands to audit their existing content for LLM readiness, identify gaps, and then deploy AI-driven adjustments. The system leverages Semrush's extensive data on search trends and content performance, re-purposed for the nuances of generative AI. The goal is to ensure that when a user prompts an LLM with a query relevant to a brand's products or services, the brand's authoritative content is among the first to be referenced or synthesized by the AI.",
-        "This development follows a growing industry trend where traditional SEO is evolving to encompass AI-powered search. Google's Search Generative Experience (SGE) and similar initiatives from other major platforms indicate a future where direct website clicks might be partially supplanted by AI-summarized answers. Adobe's offering attempts to provide brands with a mechanism to influence these summaries and ensure their brand voice and information remain prominent. It represents an enterprise-grade response to a challenge that many content teams are only beginning to grasp.",
-        "> Adobe used its acquisition of Semrush to build a GEO tool with AI agents that recommend and implement optimizations to help LLM visibility.",
-        "The integration of Semrush’s capabilities provides a strong foundation. Semrush has long been a leader in SEO and SEM analytics, offering tools for keyword research, competitive analysis, and site auditing. By embedding this expertise directly into Adobe’s CX platform, Adobe aims to offer a more unified approach to customer experience, from content creation in Adobe Experience Manager to its optimization and distribution through Brand Visibility. This consolidation seeks to streamline workflows for large marketing organizations already invested in the Adobe ecosystem.",
-        "## What comes next",
-        "The effectiveness of GEO tools like Adobe Brand Visibility will depend heavily on the adoption rate of generative AI search interfaces and the transparency of LLM content ingestion algorithms. While the promise of influencing AI-generated answers is compelling, the black-box nature of many LLMs means direct attribution and precise optimization levers remain an ongoing challenge. Marketers will need to scrutinize the actual impact on brand mentions and traffic, rather than relying solely on platform-reported \"visibility scores.\" The coming quarters will show if this is a genuine new channel or simply a new layer of complexity on existing content strategies."
-      ],
-      "ja": [
-        "Adobeは、CX Enterpriseスイートの新機能として「Adobe Brand Visibility」を発表した。これは、大規模言語モデル（LLM）や生成AI検索環境におけるコンテンツの視認性を最適化するために設計されたツールである。AdobeによるSemrush買収から得られた技術が統合されており、従来の検索エンジン最適化（SEO）から、Adobeが「生成エンジン最適化（GEO）」と呼ぶ領域への重要な転換を示唆している。生成AIインターフェースが消費者の情報検索においてより普及するにつれて、この動きは企業コンテンツ戦略における戦略的転換点となるだろう。",
-        "Adobe Brand Visibilityの核となる機能はAIエージェントに依拠している。これらのエージェントはコンテンツを分析し、特定の最適化を推奨する役割を担う。さらに重要なのは、これらの変更を実際に実行し、ブランドコンテンツがLLMによって取り込まれ、表示される方法を強化することを目指している点だ。これはキーワード密度や被リンクプロファイルを超え、AIモデルが優先するセマンティックな関連性、構造化データ、文脈理解に焦点を当てる。マーケターにとっては、コンテンツの準備と展開方法が変化し、より機械が読み取りやすく、文脈が豊かなフォーマットへの移行が求められる。",
-        "## 提供される機能",
-        "Adobe Brand Visibilityは、エンタープライズ顧客向けの包括的なソリューションとして位置付けられている。ブランドは既存コンテンツのLLM対応状況を監査し、ギャップを特定し、AI主導の調整を展開できる。このシステムは、Semrushが持つ検索トレンドとコンテンツパフォーマンスに関する広範なデータを、生成AIのニュアンスに合わせて再利用する。目標は、ユーザーがブランドの製品やサービスに関連するクエリをLLMに入力した際、ブランドの信頼性の高いコンテンツがAIによって最初に参照または要約されるようにすることである。",
-        "この開発は、従来のSEOがAIを活用した検索を取り込む方向へと進化しているという業界の傾向に沿ったものだ。GoogleのSearch Generative Experience（SGE）や他の主要プラットフォームからの同様の取り組みは、直接的なウェブサイトへのクリックがAIによる要約回答に部分的に置き換えられる未来を示唆している。Adobeの提供するツールは、これらの要約に影響を与え、ブランドの声と情報が引き続き目立つようにするためのメカニズムをブランドに提供しようとしている。これは、多くのコンテンツチームがようやく理解し始めた課題に対する、エンタープライズグレードの対応と言える。",
-        "> AdobeはSemrushの買収を活用し、AIエージェントがLLMでの視認性を高めるための最適化を推奨・実装するGEOツールを構築した。",
-        "Semrushの機能統合は、強力な基盤を提供する。Semrushは長年にわたりSEOおよびSEM分析のリーダーであり、キーワード調査、競合分析、サイト監査のためのツールを提供してきた。この専門知識をAdobeのCXプラットフォームに直接組み込むことで、AdobeはAdobe Experience Managerでのコンテンツ作成から、Brand Visibilityを通じた最適化と配信まで、顧客体験へのより統一されたアプローチを提供することを目指す。この統合は、すでにAdobeエコシステムに投資している大規模なマーケティング組織のワークフローを効率化しようとするものだ。",
-        "## 今後の展望",
-        "Adobe Brand VisibilityのようなGEOツールの有効性は、生成AI検索インターフェースの普及率と、LLMのコンテンツ取り込みアルゴリズムの透明性に大きく左右されるだろう。AIが生成する回答に影響を与えるという可能性は魅力的だが、多くのLLMがブラックボックスであるため、直接的なアトリビューションと正確な最適化レバーは依然として課題である。マーケターは、プラットフォームが報告する「視認性スコア」だけに頼るのではなく、ブランドの言及やトラフィックへの実際のインパクトを精査する必要がある。今後数四半期で、これが真に新しいチャネルとなるのか、既存のコンテンツ戦略に新たな複雑さを加えるだけなのかが明らかになるだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "For marketers in Tokyo, the concept of Generative Engine Optimization (GEO) remains largely theoretical, or at least, a future concern rather than an immediate priority. While global discussions around Google SGE and other AI search interfaces are constant, their tangible impact on the Japanese market, particularly on consumer behavior and media planning, is still minimal. Japanese consumers are deeply entrenched in traditional search (Google, Yahoo! JAPAN), social media (LINE, X, TikTok), and specific content platforms (TVer, Abema), where established SEO, SEM, and social media strategies still yield the most predictable results.",
-        "The challenge for Adobe Brand Visibility in Japan would be twofold. First, the content ecosystem for LLMs is still developing. While major global LLMs like OpenAI's models consume vast amounts of Japanese web content, the specific mechanisms for optimizing brand presence within their outputs are not yet clear or widely adopted by local agencies. Second, the cost of enterprise-level Adobe solutions, coupled with the specialized knowledge required to leverage a GEO tool effectively, might be a barrier for many Japanese brands, especially those not already deeply integrated into the Adobe CX stack. Domestic agencies like Dentsu and Hakuhodo, or specialized SEO firms, tend to offer more localized and often more cost-effective solutions tailored to the current Japanese digital landscape.",
-        "Therefore, while Adobe's move is strategically sound for the global enterprise market, a Tokyo-based marketer running a Q3 campaign would likely prioritize existing, proven channels. This includes optimizing for LINE Ads, Google Search, Yahoo! JAPANリスティング広告, and programmatic buys on domestic DSPs, alongside traditional media. The shift to GEO in Japan will likely be a gradual one, contingent on broader LLM adoption and clearer ROI metrics from platforms like Adobe. For now, it remains a \"watch and learn\" scenario, rather than an immediate budget reallocation."
-      ],
-      "ja": [
-        "東京のマーケターにとって、生成エンジン最適化（GEO）という概念は、現時点では理論的なもの、あるいは将来的な懸念事項であり、喫緊の優先事項ではない。Google SGEやその他のAI検索インターフェースに関するグローバルな議論は絶えないものの、日本の市場、特に消費者の行動やメディアプランニングへの具体的な影響はまだ小さい。日本の消費者は、依然として従来の検索（Google、Yahoo! JAPAN）、ソーシャルメディア（LINE、X、TikTok）、特定のコンテンツプラットフォーム（TVer、Abema）に深く根ざしており、確立されたSEO、SEM、ソーシャルメディア戦略が最も予測可能な結果をもたらしているのが現状である。",
-        "Adobe Brand Visibilityが日本市場で直面する課題は二重である。第一に、LLM向けのコンテンツエコシステムはまだ発展途上にある。OpenAIのモデルのような主要なグローバルLLMは膨大な量の日本語ウェブコンテンツを取り込んでいるが、それらの出力内でブランドの存在感を最適化するための具体的なメカニズムは、現地の代理店によってまだ明確に確立されたり、広く採用されたりしているわけではない。第二に、エンタープライズレベルのAdobeソリューションのコスト、そしてGEOツールを効果的に活用するために必要な専門知識は、多くの日本ブランド、特にすでにAdobe CXスタックに深く統合されていない企業にとっては障壁となる可能性がある。電通や博報堂といった国内の大手代理店や、専門のSEO企業は、現在の日本のデジタル環境に合わせた、よりローカライズされた、しばしば費用対効果の高いソリューションを提供している。",
-        "したがって、Adobeの動きはグローバルなエンタープライズ市場にとっては戦略的に理にかなっているが、第3四半期のキャンペーンを運用する東京のマーケターは、既存の確立されたチャネルを優先するだろう。これには、LINE広告、Google検索、Yahoo! JAPANリスティング広告、国内DSPでのプログラマティックバイ、そして従来のメディアの最適化が含まれる。日本におけるGEOへの移行は、LLMの広範な普及とAdobeのようなプラットフォームからのより明確なROI指標に依存する、緩やかなものとなる可能性が高い。今のところ、これは「様子見」のシナリオであり、即座の予算再配分を伴うものではない。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Adobe adds Semrush-powered GEO for LLM visibility.",
-        "ja": "Adobe、Semrush技術でLLM向けGEOをCX Enterpriseに。"
-      },
-      "whoForWhat": {
-        "en": "For a Tokyo-based brand strategist or content lead evaluating future-proofing content for generative AI, this details how enterprise tools are addressing LLM visibility.",
-        "ja": "生成AI向けコンテンツ戦略を検討する東京のブランド戦略担当者やコンテンツ責任者へ。エンタープライズツールによるLLM視認性対策の現状。"
-      },
-      "vsJapanPlay": {
-        "en": "This offers an enterprise-level, integrated approach that contrasts with Japan's fragmented domestic SEO tools and agency-led AI content optimization services.",
-        "ja": "国内のSEOツールや代理店主導のAIコンテンツ最適化サービスに対し、AdobeのCX Enterpriseに統合されたエンタープライズ級のアプローチを提示する。"
-      },
-      "tokyoTake": {
-        "en": "While globally relevant, this is a \"watch and learn\" for Tokyo marketers. LLM visibility for Japanese content is nascent, and local ROI metrics are unclear, making existing proven channels a priority.",
-        "ja": "グローバルでは重要だが、東京のマーケターにとっては「様子見」案件。日本語コンテンツのLLM視認性対策は未発達で、ROIも不明確なため、既存チャネルが優先される。"
-      }
-    },
-    "source": {
-      "name": "MarTech.org",
-      "url": "https://martech.org/adobe-brings-geo-to-cx-enterprise-with-adobe-brand-visibility/"
-    },
-    "sourceGuid": "https://martech.org/?p=410242",
     "status": "published"
   }
 ]
