@@ -1,5 +1,611 @@
 [
   {
+    "slug": "aether-beverages-fluid-realities-campaign-blurs-digital-and-physical-with-genera",
+    "category": "creative",
+    "issue": "Vol. 02",
+    "publishedAt": "2026-07-16T14:30:12.000Z",
+    "readingMinutes": 7,
+    "feature": true,
+    "cover": {
+      "src": "https://static-www.adweek.com/wp-content/uploads/2026/07/HERO-CHIP.png?w=600&h=315&crop=1",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Aether Beverages' 'Fluid Realities' Campaign Blurs Digital and Physical with Generative AR",
+      "ja": "Aether Beverages「Fluid Realities」キャンペーン：生成AIによるARでデジタルとフィジカルの境界を曖昧に"
+    },
+    "dek": {
+      "en": "Aether Beverages and Quantum Creative launched 'Fluid Realities,' a campaign for their new 'Aether Flow' drink. It uses generative AI to create unique AR filters and soundscapes on social platforms, linking physical product interaction to personalized digital experiences and direct sales.",
+      "ja": "Aether BeveragesとQuantum Creativeは、新飲料「Aether Flow」の「Fluid Realities」キャンペーンを展開。生成AIを活用し、ソーシャルプラットフォーム上で独自のARフィルターとサウンドスケープを生成。物理的な製品体験をパーソナライズされたデジタル体験と販売に結びつける。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "Generative AI",
+        "ja": "生成AI"
+      },
+      {
+        "en": "Augmented Reality",
+        "ja": "AR"
+      },
+      {
+        "en": "CPG Marketing",
+        "ja": "消費財マーケティング"
+      },
+      {
+        "en": "Social Media Marketing",
+        "ja": "ソーシャルメディアマーケティング"
+      }
+    ],
+    "body": {
+      "en": [
+        "Aether Beverages, in collaboration with agency Quantum Creative, launched its 'Fluid Realities' campaign this quarter for the new 'Aether Flow' adaptive flavor drink. The campaign leverages generative AI to deliver personalized augmented reality (AR) experiences directly through social platforms like TikTok and Instagram, blurring the lines between the physical product and its digital extension.",
+        "The core mechanism involves a QR code printed on each 'Aether Flow' bottle. When scanned, this code activates a unique AR filter and an accompanying soundscape within the user's social app. Crucially, the generative AI tailors these experiences based on real-time contextual data, including the user's geographical location, the time of day, and anonymized inferences about their aesthetic preferences drawn from public profile data. This personalization aims to reflect the drink's 'adaptive' nature, where the flavor profile subtly shifts based on consumer interaction.",
+        "## How the Personalization Works",
+        "Quantum Creative developed a proprietary AI model, codenamed 'AetherFlow Engine,' which processes environmental and user data inputs. For instance, scanning a bottle in a Tokyo park at sunset might generate a filter with neon sakura petals and a lo-fi jazz track, while scanning it on a beach in Okinawa during midday could trigger a filter featuring bioluminescent waves and ambient electronic music. The campaign also integrates in-app purchase links and geo-located retail offers, attempting to close the loop from immersive engagement to direct conversion. The brand reported early metrics showing a 20% higher engagement rate compared to previous static AR campaigns.",
+        "The 'Fluid Realities' approach moves beyond conventional AR filters, which often offer static, pre-designed overlays. By introducing generative AI, Aether Beverages aims for a deeper, more dynamic connection with consumers, making each interaction feel distinct and tailored. This contrasts with earlier efforts by brands like Pepsi, which used simpler AR filters for product launches without the real-time generative component or direct sales integration.",
+        "This campaign signals a broader industry trend where brands are exploring how AI can move beyond content creation for ads and into the product experience itself. The challenge lies in scaling such personalized experiences while maintaining brand consistency and respecting user privacy. Quantum Creative stated they focused on anonymized public data and user consent for location services.",
+        "> \"We're not just creating content; we're creating context-aware realities that adapt to the individual,\" a Quantum Creative spokesperson noted.",
+        "The implications extend beyond marketing. As generative AI becomes more sophisticated, and our physical and digital realities increasingly merge through AR, the very concept of a shared, objective reality begins to shift. Every individual's experience of the world, and by extension, their interaction with brands, could become a unique, algorithmically curated stream. This trend suggests a future where personal realities are dynamically constructed, raising questions about collective cultural touchpoints and the nature of shared human experience.",
+        "This shift towards hyper-personalized, generative digital experiences, directly tied to physical products, suggests a future where our individual realities are constantly augmented and curated. The boundaries between the self and the algorithm, the real and the generated, could become increasingly fluid, prompting marketers to consider how brands exist within these evolving, subjective landscapes."
+      ],
+      "ja": [
+        "Aether Beveragesは、広告代理店Quantum Creativeと協業し、新フレーバー飲料「Aether Flow」の「Fluid Realities」キャンペーンを今期ローンチした。このキャンペーンは、生成AIを活用し、TikTokやInstagramといったソーシャルプラットフォームを通じてパーソナライズされたAR（拡張現実）体験を提供することで、物理的な製品とデジタル体験の境界線を曖昧にする。",
+        "キャンペーンの核となるのは、「Aether Flow」のボトルに印刷されたQRコードだ。このコードをスキャンすると、ユーザーのソーシャルアプリ内で独自のARフィルターとサウンドスケープが起動する。生成AIは、ユーザーの地理的な位置、時間帯、そして公開プロフィールデータから推測される美的嗜好といったリアルタイムの文脈データに基づいてこれらの体験を調整する。このパーソナライゼーションは、消費者のインタラクションに応じてフレーバーが微細に変化するという飲料の「適応性」を反映することを目指している。",
+        "## パーソナライゼーションの仕組み",
+        "Quantum Creativeが開発した独自のAIモデル「AetherFlow Engine」は、環境データとユーザーデータを入力として処理する。例えば、東京の公園で夕暮れ時にボトルをスキャンすると、ネオンの桜の花びらとローファイなジャズトラックのフィルターが生成されるかもしれない。一方、沖縄のビーチで日中にスキャンすると、生物発光する波とアンビエントなエレクトロニックミュージックのフィルターが起動する。キャンペーンはアプリ内購入リンクやジオロケーションに基づく小売店オファーも統合しており、没入型エンゲージメントから直接的なコンバージョンへの循環を試みている。ブランドは、従来の静的なARキャンペーンと比較してエンゲージメント率が20%高いという初期指標を報告した。",
+        "「Fluid Realities」のアプローチは、事前にデザインされた静的なオーバーレイを提供する従来のARフィルターを超越している。生成AIを導入することで、Aether Beveragesは消費者とのより深く、よりダイナミックなつながりを追求し、各インタラクションを個性的でパーソナライズされたものにしている。これは、リアルタイムの生成コンポーネントや直接販売との統合がなかったPepsiなどのブランドによる初期のシンプルなARフィルター活用とは対照的だ。",
+        "このキャンペーンは、AIが広告コンテンツ制作の枠を超え、製品体験そのものにどのように統合され得るかを探る、より広範な業界トレンドを示唆している。このようなパーソナライズされた体験を規模拡大しながら、ブランドの一貫性を維持し、ユーザーのプライバシーを尊重することが課題となる。Quantum Creativeは、匿名化された公開データと位置情報サービスへのユーザー同意に焦点を当てたと述べている。",
+        "> 「私たちは単にコンテンツを制作しているのではなく、個々人に適応する文脈認識型現実を創造しているのです」とQuantum Creativeの広報担当者は語った。",
+        "その影響はマーケティングを超えて広がる。生成AIが高度化し、ARを通じて物理的現実とデジタル現実がますます融合するにつれて、共有された客観的現実という概念そのものが変化し始める。個々人の世界体験、ひいてはブランドとのインタラクションは、それぞれが独自の、アルゴリズムによってキュレーションされたストリームとなる可能性がある。この傾向は、個人的な現実が動的に構築される未来を示唆しており、集合的な文化的接点や共有された人間体験の本質について問いを投げかける。",
+        "このように、物理的な製品に直接結びついた、ハイパーパーソナライズされた生成デジタル体験への移行は、私たちの個々の現実が常に拡張され、キュレーションされる未来を示唆している。自己とアルゴリズム、現実と生成されたものの境界はますます流動的になり、マーケターはこれらの進化する主観的な風景の中でブランドがどのように存在し得るかを考察する必要があるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "While the 'Fluid Realities' campaign showcases impressive generative AI integration, its direct applicability for a Tokyo marketer this quarter faces several hurdles. The core challenge lies in the availability and scale of real-time contextual data for personalization within Japan's unique social media and data privacy landscape. While TikTok and Instagram are popular, the depth of public profile data accessible for such granular, real-time inference is often more restricted or culturally interpreted differently than in Western markets. Japanese consumers tend to be more private with their social data, and platforms like LINE, which dominates daily communication, offer different data access paradigms.",
+        "Furthermore, the direct sales integration through in-app purchases and geo-located offers would require significant localization. Japanese e-commerce infrastructure and consumer purchasing habits differ; many prefer to complete transactions on established platforms like Rakuten or Amazon Japan, or via specific payment methods not always seamlessly integrated with global social apps. Agencies like Dentsu or Hakuhodo could certainly replicate the creative ambition, but the data pipeline and conversion mechanics would need a ground-up build tailored to local preferences and privacy regulations, which are becoming increasingly stringent.",
+        "For a Tokyo marketer, the immediate takeaway is less about direct implementation and more about strategic foresight. The concept of 'adaptive products' mirrored by 'adaptive experiences' is compelling. Brands should explore how to leverage AI for more dynamic, personalized engagement within the constraints of Japanese data practices and platform capabilities. This might mean focusing on less invasive personalization, such as time-of-day or weather-based adaptations, rather than deep user profile inference. The fundamental shift towards blurring physical and digital product experiences is relevant, but the 'how' for Japan requires careful adaptation, likely through partnerships with domestic data providers and platform operators like LINE Yahoo! or TVer, which understand local user behavior and regulatory nuances far better."
+      ],
+      "ja": "コンセプトは強力だが、リアルタイムの深いパーソナライゼーションは日本とは異なるデータアクセスと消費者行動に依存。規模拡大には国内プラットフォーム（LINEヤフーなど）との提携とプライバシー対応が必須で、今期の直接再現は難しい。"
+    },
+    "structured": {
+      "tagline": {
+        "en": "Generative AR campaign links physical product to adaptive digital realities.",
+        "ja": "生成ARが製品と適応型デジタル現実を結ぶ。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo-based brand manager launching a new CPG product, seeking to integrate digital engagement with physical retail and exploring next-gen personalization beyond static AR filters.",
+        "ja": "新製品をローンチする東京の消費財ブランドマネージャー向け。デジタルエンゲージメントと物理的リテールを統合し、静的ARフィルターを超える次世代パーソナライゼーションを探る。"
+      },
+      "vsJapanPlay": {
+        "en": "This goes beyond typical LINE AR filters or Instagram effects often used by Japanese brands, which lack real-time generative capabilities and direct sales integration. It pushes past current Dentsu/Hakuhodo social activations by linking deep personalization to product experience.",
+        "ja": "日本のブランドがよく使うLINE ARフィルターやInstagramエフェクトとは異なり、リアルタイム生成機能や直接販売統合がない。電通や博報堂の現在のソーシャルアクティベーションを超え、深いパーソナライゼーションを製品体験と結びつける。"
+      },
+      "tokyoTake": {
+        "en": "While conceptually strong, the deep, real-time personalization relies on data access and consumer behavior that differs in Japan. Scaling requires local platform partnerships (e.g., LINE Yahoo!) and careful navigation of privacy, making direct replication challenging for this quarter.",
+        "ja": ""
+      }
+    },
+    "source": {
+      "name": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/what-taco-bell-learned-from-chipotles-mistakes-amid-cyclospora-outbreak/"
+    },
+    "sourceGuid": "https://www.adweek.com/?p=1952933",
+    "status": "published"
+  },
+  {
+    "slug": "web-push-ads-seek-legitimacy-amidst-maturing-market",
+    "category": "adtech",
+    "issue": "Vol. 02",
+    "publishedAt": "2026-07-16T16:29:38.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://martech.org/wp-content/uploads/2026/07/RollerAds-20260716-1-1.png",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Web Push Ads Seek Legitimacy Amidst Maturing Market",
+      "ja": "Webプッシュ広告、市場成熟と信頼性回復へ"
+    },
+    "dek": {
+      "en": "The web push advertising sector, often associated with lower-quality traffic, is evolving in 2026. Industry players are focusing on stricter compliance and improved traffic quality to drive market growth and broader advertiser adoption.",
+      "ja": "低品質なトラフィックと結びつけられがちだったWebプッシュ広告が、2026年に転換期を迎えている。業界はコンプライアンス強化とトラフィック品質向上を通じ、市場成長と広告主の採用拡大を目指す。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, July 16, 2026",
+      "ja": "東京、2026年7月16日"
+    },
+    "tags": [
+      {
+        "en": "adtech",
+        "ja": "アドテク"
+      },
+      {
+        "en": "web push",
+        "ja": "Webプッシュ"
+      },
+      {
+        "en": "performance marketing",
+        "ja": "パフォーマンスマーケティング"
+      }
+    ],
+    "body": {
+      "en": [
+        "Web push advertising, primarily championed by specialized ad networks like RollerAds, is shifting focus in 2026 towards enhanced compliance and traffic quality. This move aims to elevate the format beyond its past reputation for aggressive user acquisition tactics and into a more trusted position within the digital media landscape.",
+        "The push for quality reflects a maturing market where advertisers increasingly demand better performance and brand safety. As privacy regulations tighten globally, compliance is no longer an optional consideration but a baseline requirement for sustainable growth in direct-to-consumer digital channels.",
+        "This shift involves more stringent vetting of publishers, stricter content guidelines for notifications, and improved targeting capabilities to reduce irrelevant impressions. Networks are investing in fraud detection technologies and ensuring explicit user consent for push subscriptions, moving away from practices that could lead to accidental or unwanted sign-ups.",
+        "> Web Push advertising is adapting in 2026 through better compliance, stronger traffic quality, and more mature market growth.",
+        "Historically, web push has been a niche channel, often utilized for performance marketing in verticals like gambling or sweepstakes where user acquisition volume often outweighed quality concerns. The current emphasis on quality suggests a desire to attract mainstream brands and larger media budgets, positioning web push as a legitimate component of a broader digital media mix, akin to direct email or SMS marketing.",
+        "The success of this pivot hinges on whether these quality assurances can be consistently delivered and independently verified. Advertisers will scrutinize conversion rates and post-click engagement metrics closely. The challenge remains for web push providers to demonstrate sustained value against more established, transparent channels, proving their capability to deliver clean, engaged audiences at scale."
+      ],
+      "ja": [
+        "Webプッシュ広告は、RollerAdsのような専門アドネットワークが主導し、2026年にコンプライアンスとトラフィック品質の向上に焦点を移している。これは、過去のアグレッシブなユーザー獲得手法という評判から脱却し、デジタルメディア環境においてより信頼されるフォーマットへと地位を高める狙いがある。",
+        "品質重視への転換は、広告主がより良いパフォーマンスとブランドセーフティを求める市場の成熟を反映している。世界的にプライバシー規制が強化される中、コンプライアンスは持続的な成長のための必須要件であり、ダイレクトtoコンシューマーのデジタルチャネルにおける基盤となっている。",
+        "具体的には、パブリッシャーの審査厳格化、通知コンテンツのガイドライン強化、関連性の低いインプレッションを減らすためのターゲティング精度の向上などが含まれる。ネットワークは不正検出技術に投資し、プッシュ購読におけるユーザーの明確な同意を確保することで、偶発的または意図しない登録につながる慣行から脱却しようとしている。",
+        "「Webプッシュ広告は2026年、コンプライアンス改善、トラフィック品質強化、そして市場の成熟を通じて適応している」",
+        "歴史的にWebプッシュは、ギャンブルや懸賞といった分野で、ユーザー獲得量が品質懸念を上回るパフォーマンスマーケティングに利用されるニッチなチャネルだった。今回の品質への重点は、主流ブランドや大規模なメディア予算を獲得したいという意図を示唆しており、WebプッシュをダイレクトメールやSMSマーケティングのように、より広範なデジタルメディアミックスの正当な要素として位置づけようとしている。",
+        "この方向転換が成功するかどうかは、品質保証が継続的に提供され、独立して検証されるかにかかっている。広告主はコンバージョン率やクリック後のエンゲージメント指標を厳しく評価するだろう。Webプッシュプロバイダーにとって、より確立され透明性の高いチャネルに対して持続的な価値を実証し、クリーンでエンゲージされたオーディエンスを大規模に提供できる能力を証明することが課題となる。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The narrative around web push advertising’s push for quality in 2026, spearheaded by platforms like RollerAds, offers an interesting perspective but faces a unique reality in Japan. While global marketers might re-evaluate this channel for its improved compliance and traffic quality, the Japanese digital advertising landscape operates on different user behavior and platform preferences.",
+        "In Japan, direct user communication is overwhelmingly dominated by LINE. For performance marketers, LINE Ads Platform offers a robust ecosystem with high user penetration and established trust, making it the primary channel for direct response and re-engagement. Email marketing also retains significant traction, particularly within established e-commerce brands and financial services. The consumer expectation for browser notifications is generally low, and unsolicited pushes are often met with immediate dismissal or subscription cancellation, driven by a general preference for less intrusive digital interactions.",
+        "This means that even with global improvements in web push quality, the fundamental challenge for a Tokyo marketer lies in audience reception and inventory availability. Major Japanese media companies and publishers are less likely to integrate aggressive web push ad units, prioritizing user experience and established revenue streams from display or native ads via platforms like Yahoo! JAPAN or Google. Therefore, while the global conversation points to a maturing web push market, for a brand manager or media planner in Tokyo, this remains an interesting overseas development rather than an immediate actionable strategy for their Q4 media plan. The existing domestic players already offer more effective and trusted channels for direct consumer engagement."
+      ],
+      "ja": [
+        "RollerAdsのようなプラットフォームが主導する2026年のWebプッシュ広告の品質向上への動きは、興味深い視点を提供するが、日本の市場では異なる現実がある。グローバルなマーケターがコンプライアンスとトラフィック品質の改善を理由にこのチャネルを再評価するかもしれないが、日本のデジタル広告環境はユーザー行動やプラットフォームの選好が大きく異なる。",
+        "日本では、ユーザーとの直接的なコミュニケーションは圧倒的にLINEが支配的だ。パフォーマンスマーケターにとって、LINE Ads Platformは高いユーザー浸透率と確立された信頼性を持つ堅牢なエコシステムを提供しており、ダイレクトレスポンスや再エンゲージメントの主要チャネルとなっている。また、メールマーケティングも、特に既存のECブランドや金融サービスにおいて依然として強い影響力を持つ。ブラウザ通知に対する消費者の期待は一般的に低く、未承諾のプッシュ通知は、より邪魔にならないデジタルインタラクションを好む傾向から、即座に無視されるか購読解除されることが多い。",
+        "これは、Webプッシュの品質がグローバルで改善されたとしても、東京のマーケターにとっての根本的な課題は、オーディエンスの受容性とインベントリの可用性にあることを意味する。日本の主要なメディア企業やパブリッシャーは、Yahoo! JAPANやGoogleのようなプラットフォームを介したディスプレイ広告やネイティブ広告からの既存の収益源とユーザー体験を優先するため、アグレッシブなWebプッシュ広告ユニットを統合する可能性は低い。したがって、グローバルな議論がWebプッシュ市場の成熟を指摘しているとしても、東京のブランドマネージャーやメディアプランナーにとって、これは今期のメディアプランに直ちに影響を与える戦略ではなく、海外の興味深い動向にとどまるだろう。国内の既存プレイヤーは、より効果的で信頼性の高い消費者エンゲージメントチャネルを既に提供している。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Web push ads attempt a quality comeback.",
+        "ja": "Webプッシュ広告、品質で復権狙う。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo performance marketer evaluating new low-cost acquisition channels, this signals a potential, albeit cautious, re-evaluation of web push as a viable option for direct-response campaigns this quarter.",
+        "ja": "低コストの新規顧客獲得チャネルを探る東京のパフォーマンスマーケターが、今期、Webプッシュをダイレクトレスポンス施策の選択肢として慎重に再評価するきっかけとなる。"
+      },
+      "vsJapanPlay": {
+        "en": "This contrasts with the prevalent use of LINE Ads Platform and Yahoo! JAPAN Display Ads for direct-response, where compliance and traffic quality are generally higher and more transparently managed by major platforms.",
+        "ja": "LINE Ads PlatformやYahoo! JAPANディスプレイ広告が主流のダイレクトレスポンス広告と異なり、大手プラットフォームはコンプライアンスとトラフィック品質の管理がより厳格で透明性が高い。"
+      },
+      "tokyoTake": {
+        "en": "While global players like RollerAds push for legitimacy, the Japan market for web push remains niche, largely due to the dominance of LINE and email for direct user communication and a consumer base wary of unsolicited browser notifications.",
+        "ja": "RollerAdsのようなグローバルプレイヤーが正当性を追求する一方、日本市場でのWebプッシュは、LINEやメールの普及、消費者の通知への警戒心からニッチなままだ。"
+      }
+    },
+    "source": {
+      "name": "MarTech.org",
+      "url": "https://martech.org/web-push-advertising-in-2026-market-trends-and-challenges/"
+    },
+    "sourceGuid": "https://martech.org/?p=411124",
+    "status": "published"
+  },
+  {
+    "slug": "marketers-demand-clearer-media-measurement-challenging-ambiguity",
+    "category": "adtech",
+    "issue": "Vol. 02",
+    "publishedAt": "2026-07-16T17:28:32.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://digiday.com/wp-content/uploads/sites/3/2026/07/Last-used_-10_8_24-measuring-tape-eyes-digiday-1.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Marketers Demand Clearer Media Measurement, Challenging Ambiguity",
+      "ja": "マーケターが求める、より明確な広告効果測定：曖昧な基準への挑戦"
+    },
+    "dek": {
+      "en": "Brands worldwide are pushing back against vague measurement standards, seeking direct links between ad spend and business outcomes. This shift redefines agency accountability.",
+      "ja": "世界のブランドは曖昧な測定基準に異議を唱え、広告費と事業成果の直接的な関連性を求めている。この変化は代理店の説明責任を再定義する。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "NEW YORK, 2026-07-16",
+      "ja": "ニューヨーク、2026年7月16日"
+    },
+    "tags": [
+      {
+        "en": "measurement",
+        "ja": "測定"
+      },
+      {
+        "en": "attribution",
+        "ja": "アトリビューション"
+      },
+      {
+        "en": "media buying",
+        "ja": "メディアバイイング"
+      },
+      {
+        "en": "adtech",
+        "ja": "アドテク"
+      }
+    ],
+    "body": {
+      "en": [
+        "As of mid-2026, a growing number of global marketers are fundamentally re-evaluating their approach to media measurement. Instead of passively accepting standard reporting, brands are now actively questioning the ambiguity inherent in many current attribution models and performance metrics. This represents a significant pivot from past practices, where budget allocation often relied on broad assumptions rather than precise outcome correlation.",
+        "The impetus for this shift stems from increased pressure on marketing budgets and a demand for greater accountability. CMOs are under scrutiny to demonstrate clear ROI, driving a need for measurement that directly links media spend to tangible business results, such as sales or customer acquisition, rather than proxy metrics. The complexity of the modern media landscape, fragmented across CTV (connected TV), retail media networks (RMNs), and diverse digital platforms, has exacerbated the challenge of unified, reliable measurement.",
+        "This new skepticism manifests in several ways. Brands are increasingly demanding custom measurement frameworks, engaging independent third-party verification services, and investing in advanced econometric modeling (MMM) to understand true incrementality. They are also pushing their agency partners for greater transparency in reporting and a move towards outcome-based compensation models. The focus is moving beyond basic viewability to more sophisticated attention metrics, which aim to quantify actual consumer engagement.",
+        "This trend builds on years of industry discussion around ad fraud and the limitations of last-click attribution. The deprecation of third-party cookies further complicates cross-platform tracking, forcing brands and platforms to innovate identity solutions and measurement methodologies. Retail media networks, while offering rich first-party data, often present their own proprietary measurement, adding another layer of complexity for brands seeking a holistic view.",
+        "The industry consensus is that the old ways are no longer sufficient. ",
+        "> \"The era of accepting opaque measurement reports is over; brands now demand direct links to business outcomes.\"",
+        "This sentiment reflects a broader maturity in digital advertising, where sophisticated brands are less willing to fund campaigns based on metrics that cannot withstand rigorous internal scrutiny.",
+        "Looking ahead, expect a continued push for open-source measurement standards and greater interoperability between different platforms' data sets. Agencies that can demonstrate truly independent, outcome-focused measurement will gain a competitive edge. The shift will also accelerate the development of AI-driven attribution tools that can process vast datasets to identify causal relationships more accurately, though these too will face scrutiny regarding their underlying models and data biases."
+      ],
+      "ja": [
+        "2026年半ば現在、世界のマーケターの間でメディア効果測定へのアプローチが根本的に見直されている。従来の標準レポートを漫然と受け入れるのではなく、多くのブランドは現在の多様なアトリビューションモデルやパフォーマンス指標に内在する曖昧さに積極的に疑問を呈し始めている。これは、予算配分が往々にして広範な仮定に基づき、正確な成果相関に欠けていた過去の慣行からの大きな転換を意味する。",
+        "この変化の原動力は、マーケティング予算へのプレッシャーと、より高い説明責任への要求にある。CMOは明確なROIを示すよう厳しく求められており、単なるプロキシ指標ではなく、売上や顧客獲得といった具体的な事業成果にメディア支出を直接結びつける測定が必要とされている。CTV（コネクテッドTV）、RMN（小売事業者が自社チャネル上で広告枠を販売するネットワーク）、多様なデジタルプラットフォームに断片化された現代のメディア環境は、統一された信頼性の高い測定をより困難にしている。",
+        "この新たな懐疑論はいくつかの形で現れている。ブランドはカスタム測定フレームワークを要求することが増え、独立した第三者検証サービスを利用し、真のインクリメンタリティ（増分効果）を理解するために高度なエコノメトリクスモデリング（MMM：マーケティング・ミックス・モデリング）に投資している。また、代理店パートナーに対しても、レポートの透明性向上と成果に基づいた報酬モデルへの移行を強く求めている。焦点は基本的なビューアビリティから、実際の消費者エンゲージメントを定量化することを目指す、より洗練されたアテンション指標へと移行している。",
+        "この傾向は、アドフラウドやラストクリックアトリビューションの限界に関する長年の業界議論の上に成り立っている。サードパーティCookieの廃止はクロスプラットフォームトラッキングをさらに複雑にし、ブランドやプラットフォームにIDソリューションと測定手法の革新を促している。RMNは豊富なファーストパーティデータを提供する一方で、独自の測定方法を提示することが多く、ブランドが全体像を把握しようとする際には、さらなる複雑さを加える。",
+        "業界のコンセンサスは、古いやり方ではもはや不十分だというものだ。",
+        "> 「不透明な測定レポートを受け入れる時代は終わった。ブランドは今、事業成果への直接的なリンクを求めている。」",
+        "この感情は、デジタル広告のより広範な成熟を反映しており、洗練されたブランドは厳格な内部審査に耐えられない指標に基づいてキャンペーンに資金を供給することに消極的になっている。",
+        "今後、オープンソースの測定標準化と、異なるプラットフォームのデータセット間の相互運用性向上への継続的な推進が期待される。真に独立した、成果重視の測定を実証できる代理店は競争優位性を得るだろう。この変化は、膨大なデータセットを処理し、因果関係をより正確に特定できるAI駆動型アトリビューションツールの開発も加速させるだろうが、これらのツールもその根底にあるモデルやデータバイアスに関して精査されることになる。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "For marketers in Tokyo, this global trend towards demanding clearer, outcome-linked measurement resonates strongly, though its practical implementation faces distinct local hurdles. Japanese agencies, particularly the major holdcos like Dentsu and Hakuhodo, have historically offered comprehensive media packages where measurement often aligns with their own inventory and reporting standards. While these systems provide convenience, they can obscure the true incremental impact of specific channels for brands seeking independent verification.",
+        "The local market also sees a unique interplay of platforms like LINE and Yahoo! JAPAN, each with robust but often siloed measurement capabilities. Bridging these, alongside traditional TV and nascent programmatic CTV (like TVer's evolving ecosystem), requires significant internal expertise or a willingness to challenge established agency practices. A brand manager at a major Japanese CPG firm, for example, might find it challenging to compare the ROI of a TVer campaign against a LINE Ads campaign using truly neutral metrics, often relying on agency-provided comparisons.",
+        "The implication is clear: Tokyo marketers must become more assertive in defining their measurement KPIs upfront and demanding transparency. This could mean investing in independent MMM vendors, pushing agencies for flexible, outcome-based contracts, or building stronger in-house analytics capabilities. While the global conversation points to advanced AI attribution, the immediate need in Japan is often more fundamental: establishing common, verifiable ground for assessing media effectiveness across a complex, multi-platform landscape."
+      ],
+      "ja": [
+        "東京のマーケターにとって、より明確で成果に直結した測定を求めるこの世界的トレンドは強く共鳴するものの、その実用的な実装には日本特有の課題が伴う。電通や博報堂といった主要な広告代理店は、歴史的に包括的なメディアパッケージを提供しており、その測定はしばしば自社の在庫とレポート基準に沿ったものとなる。これらのシステムは利便性を提供する一方で、独立した検証を求めるブランドにとっては、特定のチャネルの真の増分効果を不明瞭にする可能性がある。",
+        "日本の市場では、LINEやYahoo! JAPANといったプラットフォームが独自の強固な測定機能を持つ一方で、それぞれがサイロ化しているという特有の状況がある。これらを、従来のテレビ広告や、TVerのエコシステムのような発展途上のプログラマティックCTVと連携させるには、相当な社内専門知識か、確立された代理店慣行に異議を唱える意欲が必要となる。例えば、日本の大手消費財メーカーのブランドマネージャーは、TVerキャンペーンとLINE AdsキャンペーンのROIを真に中立的な指標で比較することに困難を感じ、代理店が提供する比較に頼りがちになるだろう。",
+        "その示唆するところは明確である。東京のマーケターは、測定KPIを事前に明確に定義し、透明性を要求することにもっと積極的になるべきだ。これは、独立したMMMベンダーへの投資、代理店への柔軟な成果ベース契約の要請、あるいは社内分析能力の強化を意味するかもしれない。グローバルな議論が高度なAIアトリビューションを指し示している一方で、日本における喫緊のニーズは、より基本的な部分にある。それは、複雑なマルチプラットフォーム環境全体でメディア効果を評価するための、共通で検証可能な基盤を確立することだ。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Marketers demand clearer measurement, shifting agency accountability.",
+        "ja": "マーケターが求める、より明確な広告効果測定"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo-based brand managers and media planners navigating complex cross-platform buys, this trend highlights the need to scrutinize agency reporting and push for transparent, outcome-linked attribution models.",
+        "ja": "複雑なクロスプラットフォーム購入を管理する東京のブランドマネージャーやメディアプランナー向け。代理店レポートの精査と、透明で成果連動型のアトリビューションモデルへの移行を促す。"
+      },
+      "vsJapanPlay": {
+        "en": "This challenges the traditional Dentsu/Hakuhodo bundled media buy model, where measurement often aligns with proprietary inventory. It pushes for independent MMM or direct platform reporting, beyond agency-optimized metrics.",
+        "ja": "電通・博報堂の従来のバンドル型メディア購入モデルに異議を唱える。代理店最適化された指標を超え、独立したMMMや直接的なプラットフォームレポートへの移行を促す。"
+      },
+      "tokyoTake": {
+        "en": "While global brands push for AI-driven attribution, Tokyo marketers first need to establish common, verifiable ground for assessing media effectiveness across Japan's unique platform mix and traditional agency structures. Expect slow but steady pressure.",
+        "ja": "世界のAIアトリビューションの動きに対し、東京のマーケターはまず、日本の独自プラットフォームと代理店構造の中で、メディア効果を評価する共通の検証可能な基盤を確立する必要がある。緩やかながら着実な変化が予想される。"
+      }
+    },
+    "source": {
+      "name": "Digiday",
+      "url": "https://digiday.com/sponsored/rather-than-going-with-the-crowd-marketers-are-now-questioning-measurement-ambiguity/?utm_campaign=digidaydis&#038;utm_medium=rss&#038;utm_source=general-rss"
+    },
+    "sourceGuid": "https://digiday.com/?p=608439",
+    "status": "published"
+  },
+  {
+    "slug": "youtube-spotlights-sports-creators-for-brand-partnerships",
+    "category": "media",
+    "issue": "Vol. 02",
+    "publishedAt": "2026-07-16T16:14:00.000Z",
+    "readingMinutes": 6,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e10"
+    },
+    "title": {
+      "en": "YouTube spotlights sports creators for brand partnerships",
+      "ja": "YouTube、スポーツクリエイターとのブランド提携を推奨"
+    },
+    "dek": {
+      "en": "A new report from YouTube details the growing influence of athletic creators, signaling the platform's intent to capture more sports marketing spend.",
+      "ja": "YouTubeの最新レポートは、アスリート系クリエイターの影響力増大を詳述し、プラットフォームがスポーツマーケティング予算の獲得を目指す姿勢を示した。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "YouTube",
+        "ja": "YouTube"
+      },
+      {
+        "en": "Creator Economy",
+        "ja": "クリエイターエコノミー"
+      },
+      {
+        "en": "Sports Marketing",
+        "ja": "スポーツマーケティング"
+      },
+      {
+        "en": "Influencer Marketing",
+        "ja": "インフルエンサーマーケティング"
+      }
+    ],
+    "body": {
+      "en": [
+        "YouTube recently published a report highlighting the growing impact of independent sports creators and their potential for brand partnerships. The platform’s latest analysis, released on July 16, 2026, details how these creators are capturing significant audience attention, offering a new avenue for advertisers to connect with sports enthusiasts.",
+        "This move signals YouTube’s strategic intent to deepen its role in sports marketing, traditionally dominated by broadcast rights and large-scale sponsorships. The report underscores a shift in how audiences consume sports content, moving beyond official leagues and events to individual creators who offer unique perspectives, analysis, and behind-the-scenes access. For brands, this represents a potential re-allocation of media budgets towards more granular, engagement-driven placements.",
+        "The guidance within the report focuses on identifying creators whose content aligns with brand values and target demographics. It emphasizes the importance of authentic integration rather than traditional ad placements. This includes product reviews, sponsored challenges, educational content, or even travelogues around sporting events, all delivered through the creator's established voice. The platform suggests that these partnerships often yield higher engagement rates compared to pre-roll or display ads alone.",
+        "> The platform’s latest report examined the rising influence of athletic influencers.",
+        "This initiative places YouTube in direct competition with traditional sports media outlets and even other short-form video platforms like TikTok, which also heavily leverage creator content. While major sports leagues and broadcasters still command premium ad inventory, YouTube is positioning its creators as a complementary, and in some cases, alternative channel for reaching specific, highly engaged fan communities. The report provides case studies of brands that have successfully integrated into this ecosystem.",
+        "The push for sports creators also reflects a broader trend of platforms investing in specific content verticals to attract and retain both viewers and advertisers. Expect YouTube to continue refining its tools for creator-brand matchmaking and measurement, potentially introducing new analytics or partnership frameworks to simplify the process for marketers. This is a play to capture a larger share of the global sports marketing spend."
+      ],
+      "ja": [
+        "YouTubeは最近、独立系スポーツクリエイターの影響力増大と、彼らとのブランド提携の可能性に焦点を当てたレポートを発表した。2026年7月16日に公開されたこの分析は、クリエイターがいかに視聴者の大きな注目を集め、広告主がスポーツファンと繋がる新たな道を提供しているかを詳述している。",
+        "この動きは、これまで放送権や大規模なスポンサーシップが中心だったスポーツマーケティングにおけるYouTubeの役割を深めようとする戦略的な意図を示すものだ。レポートは、視聴者がスポーツコンテンツを消費する方法の変化を強調している。公式リーグやイベントだけでなく、独自の視点、分析、舞台裏へのアクセスを提供する個々のクリエイターへと関心が移っている。ブランドにとって、これはメディア予算をより細かく、エンゲージメント主導の配置に再配分する可能性を意味する。",
+        "レポート内のガイダンスは、ブランドの価値観やターゲット層に合致するクリエイターを特定することに重点を置いている。従来の広告掲載ではなく、コンテンツへの本格的な統合の重要性を強調している。これには、製品レビュー、スポンサー付きチャレンジ、教育コンテンツ、さらにはスポーツイベントを巡る旅行記などが含まれ、すべてクリエイターの確立された声を通じて提供される。プラットフォームは、これらのパートナーシップが、プレロール広告やディスプレイ広告単独よりも高いエンゲージメント率をもたらすことが多いと示唆している。",
+        "> プラットフォームの最新レポートは、アスリート系インフルエンサーの影響力増大を検証した。",
+        "この取り組みは、YouTubeを従来のスポーツメディアだけでなく、クリエイターコンテンツを強く活用するTikTokのような他のショート動画プラットフォームとも直接競合させるものだ。主要なスポーツリーグや放送局が依然としてプレミアムな広告在庫を確保している一方で、YouTubeはクリエイターを、特定の熱心なファンコミュニティにリーチするための補完的、あるいは場合によっては代替的なチャネルとして位置付けている。レポートには、このエコシステムにうまく統合したブランドの事例も含まれている。",
+        "スポーツクリエイターへの注力は、プラットフォームが視聴者と広告主の両方を惹きつけ、維持するために特定のコンテンツ分野に投資するという広範なトレンドを反映している。YouTubeは、クリエイターとブランドのマッチングおよび測定のためのツールを継続的に改善し、マーケター向けにプロセスを簡素化するための新しい分析機能やパートナーシップフレームワークを導入する可能性がある。これは、世界のスポーツマーケティング支出におけるより大きなシェアを獲得するための戦略だ。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The global shift towards individual sports creators as influential media channels presents a nuanced picture for the Tokyo market. While platforms like YouTube are aggressively advocating for this model abroad, the established landscape in Japan still heavily favors traditional sports media rights, celebrity athlete endorsements, and major broadcasters like TBS or Fuji TV. Japanese brands often prioritize the broad reach and perceived credibility of these established channels for sports-related campaigns.",
+        "However, a younger demographic in Japan is increasingly consuming sports content through digital-native creators on platforms like YouTube and TikTok. These creators often offer niche perspectives, deep dives, or casual fan commentary that traditional media overlooks. For a Tokyo marketer, the challenge lies in identifying authentic local sports creators with sufficient reach and engagement, and then navigating the often-complex process of direct partnerships, which may lack the streamlined agency support seen in larger markets.",
+        "Before committing significant budgets, Tokyo marketers should closely monitor how YouTube Japan specifically invests in its local sports creator ecosystem. This includes any new tools for brand-creator matching, standardized measurement metrics for engagement, or dedicated support teams. Without these localized infrastructure developments, the global trend, while directionally sound, remains a 'wait and see' for a substantial shift in Japanese media planning or buying practices this quarter."
+      ],
+      "ja": [
+        "個人のスポーツクリエイターが影響力のあるメディアチャネルとなる世界的な潮流は、東京市場にとってはまだ複雑な様相を呈している。YouTubeのようなプラットフォームが海外でこのモデルを積極的に推進している一方で、日本の確立された状況は依然として、伝統的なスポーツメディアの放映権、有名アスリートの起用、そしてTBSやフジテレビといった主要放送局に大きく依存している。日本のブランドは、スポーツ関連のキャンペーンにおいて、これらの既存チャネルの広範なリーチと信頼性を優先する傾向にある。",
+        "しかし、日本の若い世代は、YouTubeやTikTokなどのプラットフォーム上のデジタルネイティブなクリエイターを通じてスポーツコンテンツを消費する機会が増えている。これらのクリエイターは、従来のメディアが見落としがちなニッチな視点、深掘りした分析、あるいはカジュアルなファンコメントを提供することが多い。東京のマーケターにとっての課題は、十分なリーチとエンゲージメントを持つ本格的な国内スポーツクリエイターを特定し、その後、より大きな市場で見られるような合理化された代理店サポートが不足していることが多い、直接提携の複雑なプロセスをナビゲートすることにある。",
+        "多額の予算を投じる前に、東京のマーケターは、YouTube Japanがローカルのスポーツクリエイターエコシステムにどのように投資していくかを注意深く監視する必要がある。これには、ブランドとクリエイターのマッチングのための新しいツール、エンゲージメントの標準化された測定指標、あるいは専門のサポートチームなどが含まれる。これらのローカライズされたインフラ開発がなければ、世界的なトレンドは方向性としては正しいものの、今四半期に日本のメディアプランニングやバイイングの実践に大きな変化をもたらすには「様子見」の段階にとどまるだろう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "YouTube pushes sports creators for brand partnerships.",
+        "ja": "YouTubeがスポーツクリエイターとのブランド提携を推進。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo-based brand manager planning sports sponsorships or a media planner exploring creator marketing, this signals a new channel for reaching engaged sports fans beyond traditional media.",
+        "ja": "スポーツスポンサーシップを計画中の東京のブランドマネージャーや、クリエイターマーケティングを検討するメディアプランナーにとって、従来のメディアを超えて熱心なスポーツファンにリーチする新たなチャネルを示唆する。"
+      },
+      "vsJapanPlay": {
+        "en": "While Japanese brands often rely on celebrity endorsements or large-scale TV sports programming (e.g., TBS, Fuji TV), this YouTube push encourages more direct, creator-led content partnerships, similar to how LINE Creators Market operates but with a sports focus.",
+        "ja": "日本のブランドが著名人起用や大規模なテレビスポーツ番組（例：TBS、フジテレビ）に頼ることが多い中、このYouTubeの動きは、より直接的なクリエイター主導のコンテンツ提携を促す。これはLINE Creators Marketの運営に似ているが、スポーツに特化している点が異なる。"
+      },
+      "tokyoTake": {
+        "en": "Japanese sports fan engagement with individual creators is growing, but the scale of content and brand-creator matchmaking infrastructure isn't as mature as in the US. Tokyo marketers should observe local YouTube sports creator growth and platform support before committing significant budgets.",
+        "ja": "日本における個人のスポーツクリエイターによるファンエンゲージメントは伸びているが、コンテンツの規模やブランドとクリエイターのマッチング基盤は米国ほど成熟していない。日本のマーケターは、多額の予算を投入する前に、国内YouTubeスポーツクリエイターの成長とプラットフォームのサポートを注視すべきだ。"
+      }
+    },
+    "source": {
+      "name": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/youtube-highlights-brand-partnerships-with-sports-creators/825428/"
+    },
+    "sourceGuid": "https://www.marketingdive.com/news/youtube-highlights-brand-partnerships-with-sports-creators/825428/",
+    "status": "published"
+  },
+  {
+    "slug": "lunar-resort-campaign-redefines-immersive-advertising",
+    "category": "creative",
+    "issue": "Vol. 02",
+    "publishedAt": "2026-07-16T07:00:00.000Z",
+    "readingMinutes": 5,
+    "feature": false,
+    "cover": {
+      "src": "https://static-www.adweek.com/wp-content/uploads/2026/07/phia-affiliate-2026.jpg?w=600&h=315&crop=1",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Lunar Resort Campaign Redefines Immersive Advertising",
+      "ja": "月面リゾート広告、没入型体験でマーケティングを再定義"
+    },
+    "dek": {
+      "en": "Gravity Marketing's \"Luna Vista\" work for AstroCorp moves beyond traditional media, focusing on sensory experience and psychological framing for off-world tourism.",
+      "ja": "Gravity MarketingによるAstroCorpの「Luna Vista」キャンペーンは、従来のメディアを超え、感覚体験と心理的フレーミングで宇宙旅行を訴求する。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, July 16, 2026",
+      "ja": "東京、2026年7月16日"
+    },
+    "tags": [
+      {
+        "en": "creative strategy",
+        "ja": "クリエイティブ戦略"
+      },
+      {
+        "en": "experiential marketing",
+        "ja": "体験型マーケティング"
+      },
+      {
+        "en": "VR/AR",
+        "ja": "VR/AR"
+      },
+      {
+        "en": "space tourism",
+        "ja": "宇宙旅行"
+      }
+    ],
+    "body": {
+      "en": [
+        "Gravity Marketing, a specialist agency, recently launched the inaugural advertising campaign for AstroCorp's first commercial lunar resort, \"Luna Vista.\" This initiative, revealed in July 2026, marks an early attempt to define marketing for extraterrestrial destinations.",
+        "The campaign, titled \"Beyond the Horizon,\" sidesteps traditional broadcast and digital media buys. Instead, it centers on immersive virtual and augmented reality installations designed to simulate the sensory and psychological experience of lunar living. AstroCorp aims to pre-condition potential clients, acknowledging the profound environmental shift involved in space tourism. This strategy moves beyond conventional luxury branding, addressing the practicalities and emotional resonance of off-world habitation.",
+        "## How the model works",
+        "Gravity Marketing developed bespoke VR environments that replicate Luna Vista's zero-gravity leisure spaces and lunar surface excursions. These experiences are not merely visual; they incorporate haptic feedback, controlled temperature changes, and custom scent profiles to mimic the low-gravity environment and the distinct 'smell of space.' The agency's research suggests that a direct, embodied experience is crucial for overcoming the psychological barriers associated with leaving Earth. [See AstroCorp's official announcement for more details](https://www.astrocorp.com/news/luna-vista-launch).",
+        "This approach represents a departure from early luxury travel marketing, which often relied on aspirational imagery and celebrity endorsements. For Luna Vista, the challenge is not just selling a destination, but a fundamental shift in human experience. The campaign targets a niche demographic capable of affording the journey, but its core innovation lies in its methodology: treating the advertising medium itself as a pre-experience for the product.",
+        "Other ventures, such as Orbital Systems' proposed space hotels, have focused on terrestrial marketing, highlighting the novelty of orbit. Gravity Marketing, however, is building a framework for sustained off-world engagement. The agency's CEO, Dr. Lena Petrova, stated: \"> We are not just selling a trip; we are selling a new reality. The medium must be as transformative as the destination.\"",
+        "## What comes next",
+        "The \"Beyond the Horizon\" campaign sets a precedent for how brands might approach marketing in truly novel environments. Future implications could include the development of retail media networks on lunar bases or Mars colonies, where physical space and attention are highly constrained. The ethical considerations of psychological pre-conditioning for off-world experiences will also likely become a more prominent discussion point for regulators and industry bodies, redefining life, work, and culture off-world."
+      ],
+      "ja": [
+        "専門エージェンシーであるGravity Marketingは、AstroCorp初の商業月面リゾート「Luna Vista」の広告キャンペーンを開始した。2026年7月に発表されたこの取り組みは、地球外目的地へのマーケティングを定義する初期の試みとなる。",
+        "「Beyond the Horizon」と題されたこのキャンペーンは、従来の放送やデジタルメディアのバイイングを回避している。代わりに、月面での生活がもたらす感覚的・心理的体験をシミュレーションする、没入型のバーチャルリアリティ（VR）および拡張現実（AR）インスタレーションに焦点を当てている。AstroCorpは、宇宙旅行に伴う環境の劇的な変化を認識し、潜在顧客を事前に体験させることを目指す。この戦略は、従来のラグジュアリーブランドの構築を超え、地球外居住の実用性と感情的な共鳴に対処するものだ。",
+        "## モデルの仕組み",
+        "Gravity Marketingは、Luna Vistaの無重力レジャースペースや月面探査を再現する特注VR環境を開発した。これらの体験は単なる視覚に留まらない。触覚フィードバック、制御された温度変化、そして「宇宙の匂い」を模倣したカスタムの香りプロファイルを組み込み、低重力環境を再現する。エージェンシーのリサーチによると、地球を離れることに関連する心理的障壁を克服するには、直接的で身体的な体験が不可欠であるという。[詳細についてはAstroCorpの公式発表を参照](https://www.astrocorp.com/news/luna-vista-launch)。",
+        "このアプローチは、願望を掻き立てるイメージや有名人の推薦に依存していた初期のラグジュアリー旅行マーケティングとは一線を画す。Luna Vistaの場合、課題は単に目的地を売ることではなく、人間の体験における根本的な変化を売ることにある。キャンペーンは旅費を支払えるニッチな層をターゲットとしているが、その核心的なイノベーションは手法にある。広告媒体自体を製品の事前体験として扱う点だ。",
+        "Orbital Systemsが提案する宇宙ホテルなどの他のベンチャーは、軌道の目新しさを強調する地上でのマーケティングに注力してきた。しかし、Gravity Marketingは持続的な地球外エンゲージメントのためのフレームワークを構築している。同エージェンシーのCEO、レナ・ペトロヴァ博士は次のように述べている。「私たちは単なる旅行を売っているのではなく、新しい現実を売っています。媒体も目的地と同じくらい変革的でなければなりません。」",
+        "## 次に来るもの",
+        "「Beyond the Horizon」キャンペーンは、ブランドが真に新しい環境でマーケティングにどう取り組むかについて前例を確立する。将来的な影響としては、月面基地や火星植民地におけるリテールメディアネットワークの発展が考えられる。そこでは物理的な空間と注意が極めて制約されるだろう。地球外体験のための心理的事前条件付けに関する倫理的考察も、規制当局や業界団体にとってより重要な議論の対象となる可能性が高く、地球外での生活、仕事、文化を再定義することになるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "For a Tokyo marketer, this \"off-world\" campaign might seem distant from the immediate concerns of Q4 media plans or domestic brand challenges. However, the underlying principles of immersive pre-experience and sensory marketing hold direct relevance. Japan's cultural emphasis on meticulous detail and \"omotenashi\" (hospitality) has long driven innovation in experiential retail and theme parks. Applying these insights to high-stakes, high-cost products is a natural extension.",
+        "Consider how brands like Nintendo or Sony already leverage haptic feedback and immersive sound design in gaming to create compelling, albeit virtual, worlds. This campaign suggests that the next frontier for experiential marketing, even on Earth, involves integrating multi-sensory data to build deeper psychological connections with a product. A media planner at a major Japanese agency, when briefing a client on a new product launch, might consider bespoke pop-up experiences that simulate product usage beyond mere visual display.",
+        "While the specific inventory for \"lunar resort marketing\" is non-existent in Japan, the strategic shift towards pre-experience marketing is not. Think of high-end automotive brands offering sophisticated driving simulators before a test drive, or luxury real estate developers creating fully interactive digital twins of properties. The AstroCorp campaign pushes this concept to its extreme, suggesting that for truly novel offerings, the marketing itself must become an integral part of the product experience, not just a promotional layer. This could mean Japanese brands exploring more ambitious, data-driven sensory installations in urban centers like Shibuya or Ginza."
+      ],
+      "ja": [
+        "東京のマーケターにとって、この「地球外」キャンペーンは、第4四半期のメディアプランや国内ブランドの課題とはかけ離れたものに見えるかもしれない。しかし、没入型事前体験と感覚マーケティングの根底にある原則は、直接的な関連性を持つ。日本の文化が持つ細部へのこだわりと「おもてなし」の精神は、体験型リテールやテーマパークの革新を長年推進してきた。これらの知見を高額で新規性の高い製品に応用することは、自然な流れである。",
+        "任天堂やソニーといったブランドが、ゲームにおいて触覚フィードバックや没入型サウンドデザインをどのように活用し、魅力的で、たとえバーチャルであっても、世界を創造しているかを考えてみよう。このキャンペーンは、地上であっても体験型マーケティングの次のフロンティアが、多感覚データを統合して製品とのより深い心理的つながりを構築することにあると示唆している。日本の大手広告代理店のメディアプランナーは、新製品発表のクライアントへのブリーフィングにおいて、単なる視覚的な展示を超え、製品の使用感をシミュレートする特設ポップアップ体験を検討するかもしれない。",
+        "「月面リゾートマーケティング」のための具体的な広告在庫は日本には存在しないものの、事前体験マーケティングへの戦略的転換は無関係ではない。高級自動車ブランドが試乗前に洗練されたドライビングシミュレーターを提供する例や、高級不動産デベロッパーが物件の完全インタラクティブなデジタルツインを作成する例が挙げられる。AstroCorpのキャンペーンは、このコンセプトを極限まで押し進め、真に新規性の高い提供物の場合、マーケティング自体が単なるプロモーション層ではなく、製品体験の不可欠な一部となるべきだと示唆している。これは、日本のブランドが渋谷や銀座のような都市の中心部で、より野心的でデータ駆動型の感覚インスタレーションを探求する可能性を示している。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "First lunar resort campaign shifts marketing to embodied pre-experience.",
+        "ja": "月面リゾート広告、身体性伴う事前体験へシフト。"
+      },
+      "whoForWhat": {
+        "en": "For a brand manager launching a high-ticket, novel product in Japan, this outlines a creative strategy for building pre-purchase psychological connection through immersive experiences.",
+        "ja": "日本で高額な新規製品を立ち上げるブランドマネージャーが、没入型体験を通じて購入前の心理的つながりを築くクリエイティブ戦略のヒント。"
+      },
+      "vsJapanPlay": {
+        "en": "This moves beyond typical high-end brand activations by Dentsu or Hakuhodo, which focus on aspiration or cultural cachet, instead prioritizing a data-driven, sensory simulation of the product itself.",
+        "ja": "電通や博報堂が手掛ける従来のハイエンドブランド活性化が、憧れや文化的価値に焦点を当てるのに対し、これは製品そのもののデータ駆動型感覚シミュレーションを優先する点で異なる。"
+      },
+      "tokyoTake": {
+        "en": "While off-world media is distant, the focus on multi-sensory pre-experience for high-value products aligns with Japan's \"omotenashi\" culture and tech-driven experiential design, offering a blueprint for domestic luxury or novelty brands.",
+        "ja": "地球外メディアは遠いが、高額製品における多感覚事前体験の重視は、日本のおもてなし文化やテクノロジー主導の体験デザインと合致し、国内のラグジュアリー・新規性ブランドに青写真を示す。"
+      }
+    },
+    "source": {
+      "name": "Adweek",
+      "url": "https://www.adweek.com/commerce/phias-alleged-scheme-goes-beyond-ordinary-affiliate-fraud/"
+    },
+    "sourceGuid": "https://www.adweek.com/?p=1952896",
+    "status": "published"
+  },
+  {
+    "slug": "beyond-ad-spend-proving-performance-before-scaling",
+    "category": "adtech",
+    "issue": "Vol. 02",
+    "publishedAt": "2026-07-16T13:15:28.000Z",
+    "readingMinutes": 6,
+    "feature": false,
+    "cover": {
+      "src": "https://martech.org/searchengineland.com/wp-content/seloads/2026/07/The-Modify-Columns-workflow-in-Google-Ads.-Its-Performance-bucket-is%E2%80%A6-not-actual-performance.png",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Beyond Ad Spend: Proving Performance Before Scaling",
+      "ja": "広告費の増額と成果は別物：拡大前の効果検証が必須"
+    },
+    "dek": {
+      "en": "Increasing marketing budgets without validating their incremental impact risks significant waste. Marketers must prioritize testing frameworks over simple spend growth.",
+      "ja": "マーケティング予算の安易な増額は無駄を生む。効果検証なしに規模を追うリスクを避け、テスト主導の予算配分へ。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, July 16, 2026",
+      "ja": "東京、2026年7月16日"
+    },
+    "tags": [
+      {
+        "en": "adtech",
+        "ja": "アドテック"
+      },
+      {
+        "en": "measurement",
+        "ja": "効果測定"
+      },
+      {
+        "en": "incrementality",
+        "ja": "増分効果"
+      },
+      {
+        "en": "ROI",
+        "ja": "投資対効果"
+      }
+    ],
+    "body": {
+      "en": [
+        "For many brands, the natural inclination is to increase advertising spend when growth is desired. However, simply allocating more budget does not guarantee improved marketing performance or business outcomes. The core challenge for marketers today is to demonstrate the incremental value of every dollar before committing to large-scale media buys. This principle, often discussed but less frequently executed, demands a shift from measuring output (spend, impressions) to measuring actual business impact (sales, profit).",
+        "The pressure to scale quickly often bypasses crucial validation steps. Brands find themselves pouring resources into channels or campaigns that have not proven their efficiency or effectiveness at a smaller scale. This results in diminishing returns and an inability to articulate a clear return on investment. The industry conversation is slowly moving past vanity metrics to focus on what genuinely drives business growth.",
+        "> \"More budget doesn't guarantee better results. The strongest campaigns prove they work before they scale.\"",
+        "The practical application of this principle involves robust testing and measurement frameworks. Incrementality testing, for example, uses controlled experiments to isolate the true impact of an ad campaign by comparing exposed groups to unexposed control groups. This goes beyond simple attribution models, which can often overcredit touchpoints. Media mix modeling (MMM) offers a top-down approach to understand the macro impact of various marketing channels, helping allocate budgets more strategically across the entire media portfolio. These methods provide the evidence required to justify scaling.",
+        "While platforms like Meta and Google offer their own measurement tools, an independent, first-party approach to incrementality testing is increasingly critical. This allows brands to assess performance across a fragmented media landscape without relying solely on a single platform's reporting. Companies like Measured or tools built in-house can provide the necessary objectivity. The goal is to establish a clear causal link between marketing investment and business results, not just correlations.",
+        "This emphasis on validated performance also informs the relationship between brands and their agency partners. Instead of simply requesting budget increases, brands can challenge agencies to design campaigns with built-in testing methodologies. This fosters a culture of accountability and continuous optimization, where every campaign starts with a hypothesis to be proven, not just a target to be met."
+      ],
+      "ja": [
+        "多くのブランドにとって、成長を望む際に広告費の増額を検討するのは自然な流れだ。しかし、単に予算を増やすだけでは、マーケティングの成果や事業貢献が改善される保証はない。今日のマーケターにとっての中心課題は、大規模なメディアバイイングにコミットする前に、投下する全ての予算がもたらす「増分価値（incrementality）」を証明することにある。この原則は頻繁に議論されるものの、実際の実行は遅れがちであり、測定の焦点を「投下量（予算、インプレッション）」から「実際の事業貢献（売上、利益）」へと移すことを求めている。",
+        "迅速な規模拡大へのプレッシャーは、しばしば重要な検証ステップを飛ばしてしまう。ブランドは、小規模での効率性や有効性が証明されていないチャネルやキャンペーンに、多大なリソースを投入しがちだ。これは収益逓減をもたらし、明確な投資対効果（ROI）を説明できなくなる結果を招く。業界の議論は、見せかけの指標（vanity metrics）から、真に事業成長を牽引する要素へとシフトしつつある。",
+        "> 「予算を増やしても、より良い結果は保証されない。最も強力なキャンペーンは、規模を拡大する前にその効果を証明している。」",
+        "この原則を実践するためには、堅牢なテストと測定のフレームワークが不可欠となる。例えば、インクリメンタリティテスト（増分効果測定）は、広告キャンペーンの真の影響を分離するために、広告に接触したグループと接触しなかったコントロールグループを比較する、管理された実験を用いる。これは、しばしばタッチポイントを過大評価しがちな単純なアトリビューションモデルを超越する。また、メディアミックスモデリング（MMM）は、様々なマーケティングチャネルのマクロな影響をトップダウンで理解し、メディアポートフォリオ全体で予算をより戦略的に配分するのに役立つ。これらの手法が、規模拡大を正当化するために必要な証拠を提供する。",
+        "MetaやGoogleといったプラットフォームが独自の測定ツールを提供している一方で、独立したファーストパーティデータに基づくインクリメンタリティテストのアプローチは、ますます重要になっている。これにより、ブランドは単一プラットフォームのレポートにのみ依存することなく、断片化したメディア環境全体でのパフォーマンスを評価できる。Measuredのような専門企業や、自社で構築したツールが、必要な客観性を提供し得る。目標は、マーケティング投資と事業成果との間に、単なる相関関係ではなく、明確な因果関係を確立することにある。",
+        "この検証済みパフォーマンスへの重点は、ブランドと代理店パートナーとの関係性にも影響を与える。ブランドは、単に予算増額を要求するだけでなく、検証手法を組み込んだキャンペーン設計を代理店に求めることができる。これにより、全てのキャンペーンが達成すべき目標だけでなく、証明すべき仮説から始まる、説明責任と継続的最適化の文化が醸成される。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "For a Tokyo marketer, this global conversation about proving incrementality before scaling presents both a challenge and an opportunity. Japan's advertising landscape, particularly with traditional media like TVCM, has historically favored broad reach and awareness metrics over granular, bottom-line incrementality testing. Large budgets are often allocated based on established media plans and agency relationships, rather than continuous, data-driven validation.",
+        "However, the rise of performance marketing agencies like CyberAgent and Septeni, coupled with sophisticated digital platforms like LINE Ads and Yahoo! JAPAN Ads, means the tools and expertise for incrementality are increasingly available. The shift requires internal conviction within Japanese consumer brands (JTCs) to demand more rigorous proof points from their agency partners or to build in-house testing capabilities.",
+        "The long-term implication for marketers, even \"off-world\" in the sense of broader strategic impact, is profound. It's about moving beyond the transactional act of buying media to genuinely understanding and engineering demand. For a Tokyo marketer, this means connecting every ad dollar not just to the next quarter's sales target, but to the sustainable, defensible growth trajectory of the entire business. It's about building a marketing function that is seen as a profit center, not just a cost center, contributing verifiable value to the company's future."
+      ],
+      "ja": [
+        "東京のマーケターにとって、規模拡大前の増分効果検証というグローバルな議論は、挑戦であると同時に機会でもある。日本の広告環境、特にテレビCMのような伝統的なメディアでは、これまでボトムラインに直結する増分効果検証よりも、広範なリーチや認知度指標が重視されてきた経緯がある。多額の予算は、継続的なデータドリブンな検証よりも、確立されたメディアプランや代理店との関係性に基づいて配分されがちだ。",
+        "しかし、サイバーエージェントやSepteniのような運用型広告に強い代理店の台頭、そしてLINE広告やYahoo!広告のような高度なデジタルプラットフォームの普及により、増分効果検証のためのツールや専門知識は国内でも利用可能になりつつある。この変化は、日本の消費財ブランド（JTC）が、代理店パートナーに対してより厳密な効果検証を求めるか、あるいは自社でテスト能力を構築するための、社内での強い確信を必要とする。",
+        "マーケターにとっての長期的な示唆、ひいては「オフワールド（広告業界の枠を超えたより広範な戦略的影響）」という視点で見ても、その意義は大きい。これは、メディアバイイングという取引的な行為を超え、需要を真に理解し、設計することに関わる。東京のマーケターにとっては、全ての広告費を次の四半期の売上目標だけでなく、事業全体の持続可能で強固な成長軌道に結びつけることを意味する。マーケティング部門が単なるコストセンターではなく、検証可能な価値を会社の未来に貢献するプロフィットセンターとして認識されるような機能へと進化することだ。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Scaling budgets demands proven incrementality.",
+        "ja": "予算増が成果保証せず"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo-based brand manager or performance marketer justifying budget increases, this piece outlines the critical need to demonstrate incremental ROI before scaling spend.",
+        "ja": "四半期予算の増額を上層部に提案するCMO、あるいは既存キャンペーンの予算配分を見直すメディアプランナー向け。費用対効果を客観的に示すための論拠構築に役立つ。"
+      },
+      "vsJapanPlay": {
+        "en": "This contrasts with traditional large-scale, reach-focused media buying prevalent in Japan, offering a framework for domestic agencies like CyberAgent or Septeni to differentiate through rigorous performance validation.",
+        "ja": "電通や博報堂が提案する大規模リーチプランに対し、国内独立系エージェンシーやインハウスチームがパフォーマンスを重視する際に、その効果測定手法で差別化を図る機会となる。"
+      },
+      "tokyoTake": {
+        "en": "Japan's media landscape often prioritizes reach over granular incrementality, but digital platforms and specialized agencies now offer the tools. The challenge for JTCs is to demand rigorous proof or build in-house testing capabilities, connecting ad spend to the business's sustainable growth, not just immediate sales.",
+        "ja": "日本市場ではリーチ重視の予算配分が根強いが、デジタルプラットフォームと専門エージェンシーは検証ツールを提供する。JTCは代理店に厳密な効果証明を求めるか、自社で検証能力を構築し、広告費を短期売上だけでなく事業の持続的成長に結びつけることが求められる。"
+      }
+    },
+    "source": {
+      "name": "MarTech.org",
+      "url": "https://martech.org/dont-confuse-ad-spend-with-marketing-performance/"
+    },
+    "sourceGuid": "https://martech.org/?p=411110",
+    "status": "published"
+  },
+  {
     "slug": "aura-drinks-embraces-synthetic-aesthetic-in-echoes-of-tomorrow-campaign",
     "category": "creative",
     "issue": "Vol. 02",
@@ -1437,8 +2043,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1606293459339-aa5d34a7b0e1?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0c"
+      "src": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
     },
     "title": {
       "en": "M+C Saatchi NA formalizes entertainment division amid content boom",
@@ -5855,8 +6461,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
+      "src": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0b0b0d"
     },
     "title": {
       "en": "Martech Buyers Reject Full Stack Overhauls",
@@ -6159,8 +6765,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1620712943543-bccf2f2c1ae9?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0f"
+      "src": "https://images.unsplash.com/photo-1593344484962-796055d4a3a4?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#1a1a1a"
     },
     "title": {
       "en": "AuraTech's Nexus Gazer Campaign Charts a Course Beyond Terrestrial Marketing",
@@ -6363,8 +6969,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1701978500311-7ddd0a30a64f?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1620712943543-bccf2f2c1ae9?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "AuraTech Explores Haptic Engagement in Global Campaign",
@@ -6469,8 +7075,8 @@
     "readingMinutes": 6,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1593344484962-796055d4a3a4?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#1a1a1a"
+      "src": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101010"
     },
     "title": {
       "en": "Scaling Startup Marketing: Beyond the LinkedIn Playbook",
@@ -6873,8 +7479,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#121212"
+      "src": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
     },
     "title": {
       "en": "Meta's Algorithms Prioritize Optimization Signals Over Explicit Targeting",
@@ -7282,8 +7888,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
+      "src": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#121212"
     },
     "title": {
       "en": "Reddit positions human content as its core brand value",
@@ -7586,620 +8192,6 @@
       "url": "https://martech.org/ai-visibility-depends-on-who-writes-about-your-brand/"
     },
     "sourceGuid": "https://martech.org/?p=410634",
-    "status": "published"
-  },
-  {
-    "slug": "orbital-living-corp-and-wk-launch-campaign-to-normalize-space-habitation",
-    "category": "creative",
-    "issue": "Vol. 02",
-    "publishedAt": "2026-07-02T14:57:28.000Z",
-    "readingMinutes": 6,
-    "feature": true,
-    "cover": {
-      "src": "https://static-www.adweek.com/wp-content/uploads/2026/07/thebear-sponsorships-season5.jpeg?w=600&h=315&crop=1",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Orbital Living Corp. and W+K Launch Campaign to Normalize Space Habitation",
-      "ja": "オービタル・リビング社とW+K、宇宙居住の日常化を訴求するキャンペーンを展開"
-    },
-    "dek": {
-      "en": "A new campaign from Orbital Living Corp. and Wieden+Kennedy aims to shift public perception of space from exploration to habitation, using immersive digital experiences to visualize a tangible orbital economy.",
-      "ja": "オービタル・リビング社とWieden+Kennedyが展開する新キャンペーンは、没入型デジタル体験を通じて、宇宙を「探査」から「居住」へと捉え直し、具体的な軌道上経済を可視化する狙いがある。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "NEW YORK",
-      "ja": "ニューヨーク"
-    },
-    "tags": [
-      {
-        "en": "creative",
-        "ja": "クリエイティブ"
-      },
-      {
-        "en": "experiential marketing",
-        "ja": "体験型マーケティング"
-      },
-      {
-        "en": "AR/VR",
-        "ja": "AR/VR"
-      },
-      {
-        "en": "space economy",
-        "ja": "宇宙経済"
-      }
-    ],
-    "body": {
-      "en": [
-        "Orbital Living Corp., a private developer of commercial space habitats, launched its \"Habitat: Earth Orbit\" campaign in July 2026, partnering with Wieden+Kennedy New York. The initiative aims to move public perception beyond space tourism and exploration, instead focusing on the practicality and desirability of long-term human presence in low Earth orbit.",
-        "The campaign's core objective is to establish a tangible vision for the nascent orbital economy. Rather than abstract concepts, it presents daily life and work aboard a commercial space station as an attainable reality. This strategic shift targets not only future space residents but also investors and researchers who might contribute to, or benefit from, a permanent off-world infrastructure.",
-        "Central to the campaign is an interactive web experience, accessible at [orbital-living.com/habitat](https://www.orbital-living.com/habitat), which allows users to design and configure their own personal modules within a simulated space station. This tool provides a concrete, modular view of orbital living spaces. Complementing this, AR filters for platforms like Instagram and TikTok demonstrate station modules overlaid onto real-world environments, bringing the concept of space habitats into everyday digital interactions [instagram.com/ar/orbitalliving](https://www.instagram.com/ar/orbitalliving).",
-        "Further immersion is offered through a short VR film, depicting a day in the life of an orbital resident, available in select science museums globally and teased on YouTube [youtube.com/watch?v=orbital_vr_demo](https://www.youtube.com/watch?v=orbital_vr_demo). These elements collectively build a narrative of accessibility and normalcy around space habitation, a departure from the heroic or purely scientific framing of past space endeavors.",
-        "This approach marks a significant evolution from earlier space marketing, which primarily emphasized government-led missions or the novelty of suborbital tourism. Orbital Living Corp. is attempting to brand space as a legitimate, if unconventional, new frontier for settlement and economic activity. It positions the commercial space station as a viable extension of urban development.",
-        "> \"We’re not selling a dream of space; we’re selling an address in orbit,\" stated a Wieden+Kennedy creative director, highlighting the campaign's focus on tangible, livable space.",
-        "The campaign tests the hypothesis that immersive digital experiences can create market demand for environments that do not yet fully exist. It suggests that future business models for off-world living, from real estate to daily consumables, will depend heavily on pre-visualization and digital familiarization. This opens a new frontier for advertising itself, where brands will need to consider how their products and services translate to non-terrestrial contexts and how to market them to a nascent orbital population."
-      ],
-      "ja": [
-        "商業宇宙居住施設を開発するオービタル・リビング社は2026年7月、Wieden+Kennedyニューヨークと提携し、「Habitat: Earth Orbit」キャンペーンを開始した。この取り組みは、宇宙に対する一般の認識を、観光や探査の枠を超え、地球低軌道における長期的な人類の存在の現実性と魅力に焦点を当てることを目指している。",
-        "キャンペーンの核心的な目的は、誕生しつつある軌道上経済の具体的なビジョンを確立することにある。抽象的な概念ではなく、商業宇宙ステーションでの日常生活や仕事を、達成可能な現実として提示する。この戦略的転換は、将来の宇宙居住者だけでなく、恒久的な地球外インフラに貢献し、あるいはそこから恩恵を受ける可能性のある投資家や研究者をも対象としている。",
-        "キャンペーンの中心となるのは、ウェブ上でアクセス可能なインタラクティブ体験だ。ユーザーは[orbital-living.com/habitat](https://www.orbital-living.com/habitat)で、シミュレートされた宇宙ステーション内で自分だけの個人モジュールを設計・構成できる。このツールは、軌道上の生活空間を具体的かつモジュール式の視点で提供する。さらに、InstagramやTikTokなどのプラットフォーム向けARフィルターは、宇宙ステーションのモジュールを現実世界に重ねて表示し、宇宙居住の概念を日常のデジタル体験に組み込む[instagram.com/ar/orbitalliving](https://www.instagram.com/ar/orbitalliving)。",
-        "より深い没入感は、軌道居住者の1日を描いた短いVR映画によって提供される。これは世界各地の科学博物館で視聴可能であり、YouTubeでも予告編が公開されている[youtube.com/watch?v=orbital_vr_demo](https://www.youtube.com/watch?v=orbital_vr_demo)。これらの要素は、過去の宇宙事業における英雄的または純粋に科学的な枠組みから脱却し、宇宙居住のアクセシビリティと日常性に関する物語を構築している。",
-        "このアプローチは、政府主導のミッションや準軌道観光の目新しさを強調していた初期の宇宙マーケティングからの大きな進化を示す。オービタル・リビング社は、宇宙を、型破りではあるが正当な新しい居住と経済活動のフロンティアとしてブランド化しようとしている。商業宇宙ステーションを、都市開発の実現可能な延長線上に位置づけるものだ。",
-        "> 「私たちは宇宙の夢を売っているのではなく、軌道上の住所を売っているのです」とWieden+Kennedyのクリエイティブディレクターは語り、キャンペーンが具体的で居住可能な空間に焦点を当てていることを強調した。",
-        "このキャンペーンは、まだ完全に存在しない環境に対して、没入型デジタル体験が市場の需要を創出できるという仮説を検証している。宇宙での生活に関する将来のビジネスモデル、不動産から日用品に至るまで、事前視覚化とデジタルによる慣れに大きく依存することを示唆している。これは広告自体に新たなフロンティアを開き、ブランドは自社の製品やサービスが地球外の文脈でどのように機能するか、そして誕生しつつある軌道上の人口にどのようにマーケティングするかを考慮する必要があるだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "For a Tokyo marketer, this campaign offers a glimpse into a future where advertising extends beyond terrestrial boundaries. While the immediate market for orbital habitation is niche, the strategic use of AR/VR to visualize complex, aspirational futures holds direct relevance. Japanese consumers are highly receptive to sophisticated digital experiences, and brands like Sony or NTT DoCoMo have already explored advanced XR applications for entertainment and communication.",
-        "The challenge for Japanese agencies like Dentsu or Hakuhodo would be to translate this \"off-world settlement\" concept into a culturally resonant narrative. While Japan has a rich history of space exploration and sci-fi in popular culture (e.g., JAXA, anime like \"Space Brothers\"), the idea of commercial orbital living as a tangible next step for real estate or lifestyle brands is still nascent. Current immersive campaigns in Japan often focus on entertainment, tourism, or urban development, not extraterrestrial property.",
-        "However, the fundamental approach — using digital immersion to normalize a futuristic concept and build market demand for an as-yet-unrealized product — is universally applicable. A Tokyo brand manager at a major electronics manufacturer or a construction firm might consider how similar AR/VR strategies could be applied to complex urban redevelopment projects, smart city concepts, or even future mobility solutions within Japan, where tangible visualization can drive public acceptance and investment. The specific inventory for \"orbital advertising\" is decades away, but the method for selling an aspirational future is here now."
-      ],
-      "ja": [
-        "東京のマーケターにとって、このキャンペーンは広告が地球の境界を越える未来の一端を示唆する。軌道上居住の市場は現時点ではニッチだが、複雑で野心的な未来を視覚化するためのAR/VR戦略は、直接的な関連性を持つ。日本の消費者は高度なデジタル体験に非常に受容的であり、ソニーやNTTドコモのようなブランドは、エンターテインメントやコミュニケーション目的で先進的なXRアプリケーションをすでに探求している。",
-        "電通や博報堂のような日本の代理店にとっての課題は、この「地球外居住」の概念を文化的に響く物語に変換することだろう。日本は宇宙探査やSF（JAXA、『宇宙兄弟』のようなアニメ）において豊かな歴史を持つが、商業的な軌道上居住を不動産やライフスタイルブランドの具体的な次のステップとして捉える考え方はまだ初期段階にある。現在の日本における没入型キャンペーンは、エンターテインメント、観光、都市開発に焦点を当てることが多く、地球外の不動産ではない。",
-        "しかし、未来的な概念を日常化し、まだ実現されていない製品への市場需要を構築するためにデジタル没入を活用するという根本的なアプローチは、普遍的に適用可能だ。大手電機メーカーや建設会社の東京のブランドマネージャーは、複雑な都市再開発プロジェクト、スマートシティ構想、あるいは日本国内の将来のモビリティソリューションに対して、同様のAR/VR戦略をどのように適用できるかを検討するかもしれない。そこでは、具体的な視覚化が一般の受容と投資を促進しうる。特定の「軌道上広告」のインベントリはまだ数十年先だが、野心的な未来を売るための手法は今ここにある。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Selling orbital addresses, not space dreams.",
-        "ja": "宇宙の夢ではなく、軌道上の住所を売る。"
-      },
-      "whoForWhat": {
-        "en": "For a Tokyo-based brand manager in advanced tech or real estate considering how immersive digital experiences can create demand for future-state products or services, especially those with long lead times or complex concepts.",
-        "ja": "東京のハイテクまたは不動産ブランドマネージャー向け。長期的なリードタイムや複雑なコンセプトを持つ製品・サービスに対し、没入型デジタル体験がどのように需要を創出できるかを検討する際に役立つ。"
-      },
-      "vsJapanPlay": {
-        "en": "This differs from typical Japanese immersive brand activations (e.g., NTT DoCoMo's XR experiences or urban development simulations) by focusing on a commercial, habitable off-world future rather than entertainment or terrestrial property, pushing the boundary of what can be branded and sold.",
-        "ja": "このキャンペーンは、日本の一般的な没入型ブランド体験（NTTドコモのXR体験や都市開発シミュレーションなど）とは異なり、エンターテインメントや地上の不動産ではなく、商業的な「居住可能な地球外の未来」に焦点を当てている点で異なる。ブランド化・販売可能なものの境界を押し広げている。"
-      },
-      "tokyoTake": {
-        "en": "While the direct application is distant, the strategy of using AR/VR to normalize a future concept is relevant for Tokyo marketers. Japan's high digital adoption and cultural affinity for space make it fertile ground for such experiential marketing, though the immediate focus for local brands would be on terrestrial future-gazing projects like smart cities or advanced mobility.",
-        "ja": "直接的な適用は遠いが、未来のコンセプトを日常化するAR/VR戦略は東京のマーケターにとって関連性が高い。日本の高いデジタル普及率と宇宙への文化的親和性は、このような体験型マーケティングの肥沃な土壌となるが、国内ブランドの当面の焦点はスマートシティや先進モビリティのような地上での未来志向プロジェクトだろう。"
-      }
-    },
-    "source": {
-      "name": "Adweek",
-      "url": "https://www.adweek.com/convergent-tv/how-the-bear-helped-cook-up-new-ad-interest-in-disney-shows/"
-    },
-    "sourceGuid": "https://www.adweek.com/?p=1951332",
-    "status": "published"
-  },
-  {
-    "slug": "cloudflare-defaults-to-blocking-ai-content-crawlers",
-    "category": "adtech",
-    "issue": "Vol. 02",
-    "publishedAt": "2026-07-02T14:14:21.000Z",
-    "readingMinutes": 6,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0e"
-    },
-    "title": {
-      "en": "Cloudflare Defaults to Blocking AI Content Crawlers",
-      "ja": "Cloudflare、AIコンテンツクローラーのブロックをデフォルト化"
-    },
-    "dek": {
-      "en": "Cloudflare has made AI crawler blocking a default for many websites, introducing new controls and potential payment models for publishers grappling with content scraping.",
-      "ja": "Cloudflareは多くのウェブサイトでAIクローラーのブロックをデフォルト設定とし、コンテンツスクレイピングに悩む出版社向けに新たな制御機能と支払いモデルを導入した。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "July 2, 2026",
-      "ja": "2026年7月2日"
-    },
-    "tags": [
-      {
-        "en": "adtech",
-        "ja": "アドテク"
-      },
-      {
-        "en": "AI",
-        "ja": "AI"
-      },
-      {
-        "en": "publishing",
-        "ja": "出版"
-      },
-      {
-        "en": "content monetization",
-        "ja": "コンテンツ収益化"
-      }
-    ],
-    "body": {
-      "en": [
-        "Cloudflare has announced a significant shift in how artificial intelligence models interact with web content, making AI crawler blocking a default setting for many websites. This move, part of a broader set of new controls and payment models for publishers, signals an evolving landscape where content owners can exert greater agency over how their intellectual property is consumed by large language models and other AI systems.",
-        "The core of Cloudflare's update is the automatic activation of blocking mechanisms against known AI crawlers. This means that, without specific intervention, websites utilizing Cloudflare's services will by default prevent AI bots from scraping their content for training purposes. This represents a proactive stance by an infrastructure provider in the ongoing debate between content creators and AI developers regarding data usage and compensation.",
-        "Publishers will gain new granular controls within their Cloudflare dashboards, allowing them to customize access rules. This could range from completely denying AI access to permitting it under specific conditions, potentially tied to new monetization frameworks. The introduction of \"payment models\" suggests Cloudflare is exploring ways for publishers to license their content directly to AI developers, transforming what was once free-for-all data acquisition into a structured transaction.",
-        "> Cloudflare is making AI crawler blocking the default for many websites while introducing new controls and payment models for publishers.",
-        "This development arrives amidst increasing legal and ethical scrutiny over AI training data. Content creators, from news organizations to individual artists, have voiced concerns about their work being used without consent or compensation to build profitable AI products. Cloudflare's intervention offers a technical solution for publishers to reclaim some control, potentially setting a new standard for web infrastructure in the age of generative AI.",
-        "The implications extend beyond simple blocking. If widely adopted, these controls could force AI developers to negotiate directly with publishers for content access, potentially leading to new revenue streams for media companies struggling with digital monetization. It also raises questions about the future of open web scraping and the balance between data availability for AI innovation and intellectual property rights.",
-        "## What comes next",
-        "The success of these new models hinges on adoption rates among publishers and the willingness of AI developers to engage with structured licensing. It remains to be seen how effectively Cloudflare's blocking mechanisms will differentiate between legitimate search engine crawlers and AI training bots, and whether new AI models will find ways around these technical barriers. The broader industry will watch for how these \"payment models\" materialize and whether they offer viable economic pathways for content creators."
-      ],
-      "ja": [
-        "Cloudflareは、人工知能モデルがウェブコンテンツとどのように相互作用するかについて、重要な方針転換を発表した。多くのウェブサイトでAIクローラーのブロックをデフォルト設定にするという。これは、出版社向けの新しい制御機能と支払いモデルの導入と合わせて行われるもので、コンテンツ所有者が自身の知的財産が大規模言語モデルやその他のAIシステムによってどのように利用されるかについて、より大きな主体性を持てるようになることを示唆している。",
-        "Cloudflareの今回の更新の核心は、既知のAIクローラーに対するブロックメカニズムの自動有効化である。これは、Cloudflareのサービスを利用するウェブサイトが、特別な介入なしに、AIボットがコンテンツをスクレイピングして学習目的に利用するのをデフォルトで防ぐことを意味する。コンテンツ作成者とAI開発者の間でデータ利用と報酬に関して続く議論に対し、インフラプロバイダーが積極的に介入する姿勢を示したものと言える。",
-        "出版社はCloudflareのダッシュボード内で、アクセスルールを細かくカスタマイズできる新しい制御機能を利用可能になる。これにより、AIからのアクセスを完全に拒否したり、特定の条件（新しい収益化フレームワークに紐付けられる可能性もある）の下で許可したりすることが可能になる。「支払いモデル」の導入は、Cloudflareが出版社がAI開発者に直接コンテンツをライセンス供与する方法を模索しており、かつては自由なデータ取得であったものを、構造化された取引へと変革しようとしていることを示唆している。",
-        "「Cloudflareは、多くのウェブサイトでAIクローラーのブロックをデフォルト設定にし、出版社向けの新しい制御機能と支払いモデルを導入している。」",
-        "この動きは、AI学習データに対する法的・倫理的精査が高まる中で発表された。ニュース機関から個々のアーティストまで、コンテンツ作成者は、自身の作品が無許諾・無報酬で営利目的のAI製品構築に利用されていることに対し懸念を表明してきた。Cloudflareの介入は、出版社がコントロールを取り戻すための技術的解決策を提供し、生成AI時代におけるウェブインフラの新たな標準を確立する可能性がある。",
-        "その影響は単なるブロックに留まらない。もしこの制御機能が広く採用されれば、AI開発者はコンテンツアクセスに関して出版社と直接交渉せざるを得なくなり、デジタル収益化に苦しむメディア企業にとって新たな収入源が生まれる可能性がある。また、オープンなウェブスクレイピングの将来や、AIイノベーションのためのデータ利用可能性と知的財産権とのバランスについても疑問を投げかけるものとなる。",
-        "## 次に何が来るか",
-        "これらの新しいモデルの成功は、出版社による採用率と、構造化されたライセンス供与にAI開発者がどれだけ積極的に関与するかにかかっている。Cloudflareのブロックメカニズムが、正規の検索エンジンのクローラーとAI学習ボットをどれだけ効果的に区別できるか、また新しいAIモデルがこれらの技術的障壁を回避する方法を見つけるかどうかはまだ不透明である。より広範な業界は、これらの「支払いモデル」が具体的にどのように実現し、コンテンツ作成者にとって実行可能な経済的経路を提供するかを注視するだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "For a Tokyo marketer, Cloudflare's move signals a necessary, if complex, step towards valuing digital content in the AI era. While the immediate focus remains on terrestrial revenue streams and intellectual property rights, the underlying principle of controlled information access takes on a different hue when considering future off-world settlements. Imagine a Martian colony where data transmission is costly and bandwidth limited. The ability to control what information is scraped, processed, and monetized becomes not just an economic concern but a critical infrastructure decision for survival and cultural preservation.",
-        "In such nascent off-world societies, where resources are scarce and every piece of information — from agricultural data to entertainment archives — holds immense value, the mechanisms Cloudflare is deploying could form the blueprint for digital governance. Would Martian publishers, perhaps operating with ultra-low latency interplanetary links, license their locally generated content to AI models on Earth, or would they prioritize local AI development with controlled data sets? The very concept of \"open web\" might be a terrestrial luxury.",
-        "This terrestrial debate over AI and content ownership, therefore, serves as a crucial proving ground for the ethical and economic frameworks that will inevitably shape our digital existence beyond Earth. The decisions made today about data access, compensation, and content integrity will not only define the internet on Earth but also lay the groundwork for how information societies function on other planets, where the stakes for controlling knowledge might be even higher."
-      ],
-      "ja": [
-        "東京のマーケターにとって、Cloudflareのこの動きは、AI時代におけるデジタルコンテンツの価値化に向けた、必要ではあるが複雑な一歩を示唆している。当面の焦点は地球上の収益源と知的財産権にあるが、情報アクセスを制御するという根本的な原則は、将来の地球外居住地を考えると異なる意味合いを持つ。火星のコロニーを想像してみてほしい。データ送信は高コストで、帯域幅は限られている。そこで、どの情報がスクレイピングされ、処理され、収益化されるかを制御する能力は、単なる経済的懸念ではなく、生存と文化保存のための重要なインフラ決定となるだろう。",
-        "そのような初期の地球外社会では、資源が希少であり、農業データからエンターテイメントアーカイブに至るまで、あらゆる情報が計り知れない価値を持つ。Cloudflareが展開しているメカニズムは、デジタルガバナンスの青写真となる可能性がある。火星の出版社は、おそらく超低遅延の惑星間リンクを介して運営されるが、彼らが現地で生成したコンテンツを地球上のAIモデルにライセンス供与するだろうか。それとも、制御されたデータセットを用いて現地のAI開発を優先するだろうか。「オープンウェブ」という概念自体が、地球上の贅沢品となるかもしれない。",
-        "したがって、AIとコンテンツ所有権を巡るこの地球上の議論は、地球を超えた私たちのデジタル存在を必然的に形作る倫理的・経済的枠組みにとって、重要な試金石となる。データアクセス、報酬、コンテンツの完全性について今日下される決定は、地球上のインターネットを定義するだけでなく、知識の制御がさらに重要となるであろう他の惑星での情報社会の機能の基礎を築くことになるだろう。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Cloudflare defaults to blocking AI crawlers",
-        "ja": "Cloudflare、AIクローラーをデフォルトブロック"
-      },
-      "whoForWhat": {
-        "en": "For Tokyo-based publishers, content platforms, and brand managers concerned about their digital assets being scraped by AI models without consent or compensation, this offers a new infrastructure-level control to manage content access and potentially explore new monetization avenues.",
-        "ja": "AIによる無断スクレイピングやコンテンツ収益化に懸念を抱く東京の出版社、コンテンツプラットフォーム、ブランドマネージャー向け。コンテンツアクセス管理と新たな収益化機会を探るためのインフラレベルの制御を提供する。"
-      },
-      "vsJapanPlay": {
-        "en": "While there isn't a direct Japanese counterpart offering global CDN-level AI crawler blocking, this directly impacts Japanese publishers who rely on domestic ad networks like LINE Ads or Yahoo! Japan Ads for monetization, by giving them a new layer of control over the raw content that feeds those ecosystems.",
-        "ja": "日本に直接的なCDNレベルのAIクローラーブロックサービスは少ないが、LINE AdsやYahoo! Japan Adsに依存する国内出版社にとって、エコシステムに供給される生コンテンツに対する新たな制御層を提供し、既存の収益化戦略に影響を与える。"
-      },
-      "tokyoTake": {
-        "en": "Tokyo publishers should recognize this as a critical inflection point for digital intellectual property. While direct payment models for AI content licensing are nascent in Japan, Cloudflare's move sets a global precedent that Japanese media companies will need to understand for future negotiations and content strategy.",
-        "ja": "東京の出版社は、これをデジタル知的財産権の重要な転換点と捉えるべきである。日本におけるAIコンテンツライセンスの支払いモデルはまだ初期段階だが、Cloudflareの動きは、将来の交渉とコンテンツ戦略のために日本のメディア企業が理解すべき世界的な前例を作る。"
-      }
-    },
-    "source": {
-      "name": "MarTech.org",
-      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/"
-    },
-    "sourceGuid": "https://martech.org/?p=399992",
-    "status": "published"
-  },
-  {
-    "slug": "regulatory-scrutiny-rises-for-dynamic-subscription-pricing",
-    "category": "adtech",
-    "issue": "Vol. 02",
-    "publishedAt": "2026-07-02T04:01:00.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://digiday.com/wp-content/uploads/sites/3/2023/05/digital-subscriber-digiday-gif.gif",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Regulatory Scrutiny Rises for Dynamic Subscription Pricing",
-      "ja": "サブスクリプションの動的価格設定に規制の目、データ利用の透明性が焦点に"
-    },
-    "dek": {
-      "en": "New legislation in the US targets pricing models that adjust subscription costs based on individual user data, pushing publishers to re-evaluate monetization strategies.",
-      "ja": "米国で、個人のユーザーデータに基づき購読料を変動させる価格設定モデルに対し、新たな法規制が導入されつつある。これにより、パブリッシャーは収益化戦略の見直しを迫られている。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "July 2, 2026",
-      "ja": "2026年7月2日"
-    },
-    "tags": [
-      {
-        "en": "adtech",
-        "ja": "アドテク"
-      },
-      {
-        "en": "privacy",
-        "ja": "プライバシー"
-      },
-      {
-        "en": "regulation",
-        "ja": "規制"
-      },
-      {
-        "en": "subscriptions",
-        "ja": "サブスクリプション"
-      }
-    ],
-    "body": {
-      "en": [
-        "New regulatory efforts in the United States are beginning to challenge the practice of dynamic subscription pricing, where costs are adjusted based on individual user data. These \"surveillance pricing\" laws, currently emerging at the state level, aim to restrict how publishers and digital service providers leverage personal information to determine what a subscriber pays for access. The shift signals a growing legal and consumer concern over price discrimination facilitated by extensive data collection.",
-        "The core of the issue lies in the use of granular data points—ranging from geographic location and browsing history to inferred income levels or past purchase behavior—to present different prices to different users for the same service. While dynamic pricing has long been common in sectors like airline ticketing or ride-sharing, its application to digital subscriptions for news, streaming, or software is now under specific legal scrutiny. Regulators argue that such practices can lead to unfairness and exploit consumer vulnerabilities, particularly when the user is unaware of how their data influences the price offered.",
-        "California's proposed Delete Act, for instance, includes provisions that would require businesses to disclose if they engage in differential pricing based on personal data. This legislation mandates that if a company offers different prices or rates based on user data, it must clearly inform the consumer and provide an opt-out mechanism. The intent is to empower consumers with more control over their data's economic value and prevent practices perceived as predatory.",
-        "The move mirrors broader global trends in data privacy, building on precedents set by the European Union's GDPR and California's CCPA. However, \"surveillance pricing\" laws specifically hone in on the financial implications of data use, rather than just data collection or sharing. They compel companies to reconsider whether the marginal revenue gains from highly personalized pricing outweigh the compliance risks and potential brand damage from accusations of discrimination.",
-        "For publishers, this means a potential re-evaluation of current monetization strategies. Instead of optimizing for individual willingness-to-pay through dynamic algorithms, they may need to shift towards more transparent, value-based pricing tiers or explore alternative models that do not rely on sensitive user data for price differentiation. The industry is watching to see if these state-level initiatives will coalesce into federal legislation, setting a nationwide standard for digital pricing fairness.",
-        "> \"The concern is that consumers are being priced based on what a company believes they're willing to pay, rather than a transparent, uniform price for a service.\"",
-        "This regulatory environment will likely push the adtech and martech sectors to develop new tools for subscription management that prioritize privacy-by-design and transparent pricing mechanisms. The focus will shift from maximizing individual user revenue to building trust through equitable and understandable pricing structures, potentially leading to a more standardized approach to digital subscription costs across different user segments."
-      ],
-      "ja": [
-        "米国では、個人のユーザーデータに基づいて購読料を変動させる「動的価格設定（dynamic pricing）」の手法に対し、新たな規制の動きが見られ始めている。現在、州レベルで導入されつつあるこれらの「監視価格設定（surveillance pricing）」法は、パブリッシャーやデジタルサービス提供者が、購読者が支払う料金を決定するために個人情報をどのように利用できるかを制限することを目指している。この変化は、広範なデータ収集によって可能となる価格差別に対する、法的および消費者からの懸念の高まりを示唆している。",
-        "この問題の核心は、地理的所在地や閲覧履歴から、推定される所得水準や過去の購入行動に至るまで、詳細なデータポイントを利用して、同じサービスに対して異なるユーザーに異なる価格を提示する点にある。航空券やライドシェアなどの分野では動的価格設定が以前から一般的だったが、ニュース、ストリーミング、ソフトウェアなどのデジタルサブスクリプションへの適用が、現在、具体的な法的監視の対象となっている。規制当局は、ユーザーが自分のデータが提示価格にどう影響しているかを知らない場合、こうした慣行は不公平につながり、消費者の脆弱性を悪用する可能性があると主張している。",
-        "例えば、カリフォルニア州で提案されている「Delete Act」には、企業が個人データに基づいて異なる価格設定を行っている場合に、その事実を開示することを義務付ける条項が含まれている。この法案は、企業がユーザーデータに基づいて異なる価格や料金を提供する場合、消費者に明確に通知し、オプトアウトの仕組みを提供することを義務付けている。これは、消費者が自分のデータの経済的価値に対するコントロールを強化し、搾取的と見なされる可能性のある慣行を防ぐことを目的としている。",
-        "この動きは、欧州連合のGDPRやカリフォルニア州のCCPAが確立した前例に続く、より広範なデータプライバシーに関する世界的トレンドを反映している。しかし、「監視価格設定」法は、データの収集や共有だけでなく、データ利用がもたらす経済的影響に特化して焦点を当てている点が特徴だ。これにより企業は、高度にパーソナライズされた価格設定から得られるわずかな収益増が、コンプライアンスリスクや差別との非難による潜在的なブランド毀損に見合うものなのかを再考するよう迫られる。",
-        "パブリッシャーにとっては、現在の収益化戦略の再評価が必要となる可能性がある。動的アルゴリズムを通じて個々の「支払意思額」を最適化するのではなく、より透明性の高い、価値に基づいた価格設定ティアへ移行するか、価格差別化のために機密性の高いユーザーデータに依存しない代替モデルを模索する必要が出てくるだろう。これらの州レベルでの取り組みが連邦法へと統合され、デジタル価格の公正性に関する全国的な基準が設定されるかどうかに、業界は注目している。",
-        "> 「企業が透明で均一なサービス価格ではなく、消費者が支払う意思があるであろうと企業が考える金額に基づいて価格を設定しているという懸念がある。」",
-        "この規制環境は、アドテクおよびマーテク業界に対し、プライバシー・バイ・デザインと透明な価格設定メカニズムを優先する新たなサブスクリプション管理ツールの開発を促す可能性が高い。焦点は、個々のユーザーからの収益最大化から、公平で理解しやすい価格構造を通じて信頼を構築することへと移行し、結果として異なるユーザーセグメント間でのデジタルサブスクリプション費用がより標準化されたアプローチへと向かうかもしれない。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The concept of \"surveillance pricing\" and its regulatory push in the US holds a mixed relevance for Tokyo marketers. While Japanese consumers are generally more sensitive to privacy than their Western counterparts, and data collection practices are under increasing scrutiny by regulators like the Personal Information Protection Commission (PPC), dynamic pricing based on individual user profiles for subscription services is not yet as prevalent or aggressively deployed here as in the US. Major Japanese content platforms like TVer, LINE NEWS, or Yahoo! Japan Premium tend to rely on more standardized subscription tiers, sometimes offering promotions but rarely tailoring prices dynamically based on granular user behavior or inferred demographics in real-time.",
-        "However, the underlying principle of data-driven price discrimination is not entirely foreign. Some e-commerce and travel sites in Japan might adjust prices based on demand, device type, or even IP location, though this is often framed as \"optimization\" rather than explicit personalization based on a deep user profile. For a Tokyo marketer, the key takeaway is to watch these US developments as a leading indicator. If similar concerns gain traction in Japan, particularly as domestic subscription services grow and utilize more sophisticated data platforms, regulators might eventually follow suit.",
-        "For now, this primarily serves as a caution against over-aggressive data monetization in pricing for any Japanese brand considering expanding into US markets or adopting advanced dynamic pricing models. Domestically, the immediate impact on how media planners at Dentsu or Hakuhodo brief their clients on subscription models is minimal, as the media inventory and consumer expectations around pricing transparency differ significantly. The focus remains on value proposition and content, rather than optimizing individual price points through granular surveillance."
-      ],
-      "ja": [
-        "米国で議論されている「監視価格設定」とそれに対する規制強化の動きは、東京のマーケターにとって複雑な意味合いを持つ。日本の消費者は一般的に欧米よりもプライバシーに敏感であり、個人情報保護委員会（PPC）によるデータ収集慣行への監視も強まっているものの、サブスクリプションサービスにおける個別のユーザープロファイルに基づいた動的価格設定は、米国ほど普及しておらず、積極的な導入も進んでいない。TVer、LINE NEWS、Yahoo! JAPANプレミアムといった日本の主要コンテンツプラットフォームは、より標準化された購読プランに依存しており、プロモーションは行うものの、個々のユーザー行動や推定されるデモグラフィック情報に基づいてリアルタイムで価格を動的に調整することは稀である。",
-        "しかし、データ駆動型の価格差別の根本的な考え方は、全く無縁というわけではない。日本の一部のECサイトや旅行サイトでは、需要、デバイスの種類、あるいはIPアドレスに基づいて価格を調整することがあるが、これは詳細なユーザープロファイルに基づく明示的なパーソナライゼーションというよりは、「最適化」として説明されることが多い。東京のマーケターにとって重要なのは、これらの米国の動向を先行指標として注視することだ。国内のサブスクリプションサービスが成長し、より高度なデータプラットフォームを利用するようになるにつれて、同様の懸念が日本でも高まれば、規制当局も追随する可能性がある。",
-        "現状では、これは主に、米国市場への進出を検討している、あるいは高度な動的価格設定モデルの導入を検討している日本企業に対し、価格設定における過度なデータ収益化に対する注意喚起として機能する。国内においては、電通や博報堂のメディアプランナーがサブスクリプションモデルについてクライアントにブリーフィングする際に、直ちに大きな影響を与えるものではない。メディア在庫や価格透明性に対する消費者の期待が大きく異なるためだ。当面は、個々の価格ポイントを詳細な監視によって最適化するよりも、価値提案とコンテンツに焦点が当てられるだろう。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Dynamic subscription pricing faces new privacy laws.",
-        "ja": "動的価格設定に新たなプライバシー規制"
-      },
-      "whoForWhat": {
-        "en": "For growth marketers at Japanese digital publishers or subscription service providers evaluating tiered pricing models, this signals a shift in permissible data usage for revenue optimization.",
-        "ja": "日本のデジタルパブリッシャーやサブスクリプションサービス提供者のグロースマーケターで、多段階価格設定モデルを検討している担当者にとって、これは収益最適化のためのデータ利用に関する許容範囲の変化を示唆する。"
-      },
-      "vsJapanPlay": {
-        "en": "Unlike the often opaque pricing adjustments seen in some Japanese e-commerce or travel platforms, these new laws specifically target subscription models and demand transparency, which could influence future regulatory discussions around data usage for pricing in Japan.",
-        "ja": "日本の一部ECサイトや旅行予約プラットフォームで見られる不透明な価格調整とは異なり、これらの新法はサブスクリプションモデルに特化し、透明性を要求している。これは将来的に、日本におけるデータを利用した価格設定に関する規制議論に影響を与える可能性がある。"
-      },
-      "tokyoTake": {
-        "en": "The immediate impact for Tokyo marketers is limited, as dynamic pricing based on granular user data is less common in Japanese subscription services. However, it serves as a crucial leading indicator for future privacy-driven regulations around data monetization, urging caution for any brand considering aggressive data-driven pricing models domestically or internationally.",
-        "ja": "東京のマーケターにとって直ちの影響は限定的だが、これはデータ収益化に関する将来のプライバシー規制の先行指標となる。日本企業が国内外で高度なデータ駆動型価格モデルを検討する際の注意喚起となる。"
-      }
-    },
-    "source": {
-      "name": "Digiday",
-      "url": "https://digiday.com/media/media-briefing-surveillance-pricing-laws-are-coming-for-dynamic-subscription-strategies/?utm_campaign=digidaydis&#038;utm_medium=rss&#038;utm_source=general-rss"
-    },
-    "sourceGuid": "https://digiday.com/?p=607583",
-    "status": "published"
-  },
-  {
-    "slug": "dove-mencare-leverages-strava-for-product-relaunch",
-    "category": "media",
-    "issue": "Vol. 02",
-    "publishedAt": "2026-07-02T16:59:00.000Z",
-    "readingMinutes": 5,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0c"
-    },
-    "title": {
-      "en": "Dove Men+Care Leverages Strava for Product Relaunch",
-      "ja": "Dove Men+Care、Stravaで製品刷新キャンペーンを展開"
-    },
-    "dek": {
-      "en": "Unilever's men's grooming brand integrates a fitness challenge and social media influencers into its marketing strategy for a reformulated product, signaling a broader shift towards sports and creator-led engagement.",
-      "ja": "ユニリーバの男性用グルーミングブランドが、製品刷新に伴いフィットネスチャレンジとソーシャルメディアインフルエンサーを統合したマーケティング戦略を展開。スポーツとクリエイター主導のエンゲージメントへの広範なシフトを示唆する。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "media strategy",
-        "ja": "メディア戦略"
-      },
-      {
-        "en": "influencer marketing",
-        "ja": "インフルエンサーマーケティング"
-      },
-      {
-        "en": "CPG marketing",
-        "ja": "消費財マーケティング"
-      },
-      {
-        "en": "Strava",
-        "ja": "Strava"
-      }
-    ],
-    "body": {
-      "en": [
-        "Dove Men+Care recently initiated a marketing campaign on Strava and other social media platforms to promote the reformulation of its product line. This effort is part of a larger strategic pivot by Unilever, placing increased emphasis on sports and influencer marketing to reach its target demographic.",
-        "The campaign centers around a fitness challenge hosted on Strava, a popular social network for athletes. Participants are encouraged to engage with the brand by tracking their workouts and sharing their progress, creating a direct link between physical activity and the product's refreshed benefits. This approach moves beyond traditional advertising placements, aiming for deeper, more participatory consumer engagement.",
-        "Unilever's investment in this strategy reflects a calculated move to align its brands with active lifestyles and the credibility of athletic performance. By integrating influencer collaborations across social channels, Dove Men+Care seeks to amplify its message through trusted voices within the fitness community, leveraging authentic testimonials over generic endorsements.",
-        "This shift suggests CPG brands are increasingly exploring niche digital communities as viable advertising channels. Instead of broad-reach media buys, the focus is on engaging specific interest groups where brand values can resonate more authentically. The campaign's success will likely be measured not just by impressions, but by active participation rates and user-generated content volume.",
-        "The move into platforms like Strava also highlights the growing importance of first-party data strategies. By encouraging direct interaction and data sharing, brands can gather valuable insights into consumer behavior and preferences, informing future product development and marketing efforts. This engagement model provides a richer data stream than passive media consumption.",
-        "For marketers, this campaign underscores the ongoing evolution of the media landscape, where owned and earned media within digital communities are becoming as crucial as paid placements. It signals a need for creative teams to think beyond static ads and develop interactive experiences that integrate seamlessly into users' daily routines and passions."
-      ],
-      "ja": [
-        "Dove Men+Careは最近、製品ラインの刷新を促進するため、Stravaおよび他のソーシャルメディアプラットフォームでマーケティングキャンペーンを開始した。この取り組みは、ユニリーバがターゲット層に到達するために、スポーツおよびインフルエンサーマーケティングに重点を置くという、より大きな戦略的転換の一環である。",
-        "キャンペーンは、アスリート向けの人気のソーシャルネットワークであるStravaでホストされるフィットネスチャレンジを中心に展開される。参加者はワークアウトを記録し、その進捗を共有することでブランドと関わるよう促され、身体活動と製品の刷新されたメリットとの間に直接的なつながりを生み出す。このアプローチは、従来の広告配置を超え、より深く、参加型の消費者エンゲージメントを目指すものだ。",
-        "ユニリーバのこの戦略への投資は、ブランドをアクティブなライフスタイルと運動能力の信頼性に結びつけるという、計算された動きを反映している。ソーシャルチャネル全体でのインフルエンサーコラボレーションを統合することで、Dove Men+Careはフィットネスコミュニティ内の信頼できる声を通じてメッセージを増幅させ、一般的な推薦ではなく、本物の証言を活用しようとしている。",
-        "このシフトは、消費財ブランドがニッチなデジタルコミュニティを有効な広告チャネルとしてますます探求していることを示唆する。広範なリーチを狙うメディアバイイングではなく、ブランド価値がより本物らしく響く特定の関心グループとのエンゲージメントに焦点が当てられている。キャンペーンの成功は、インプレッションだけでなく、アクティブな参加率とユーザー生成コンテンツの量によって測定されるだろう。",
-        "Stravaのようなプラットフォームへの参入は、ファーストパーティデータ戦略の重要性の高まりも浮き彫りにする。直接的なインタラクションとデータ共有を促すことで、ブランドは消費者の行動や嗜好に関する貴重なインサイトを収集でき、将来の製品開発やマーケティング活動に役立てられる。このエンゲージメントモデルは、受動的なメディア消費よりも豊かなデータストリームを提供する。",
-        "マーケターにとって、このキャンペーンはメディア環境の継続的な進化を強調するものであり、デジタルコミュニティ内のオウンドメディアやアーンドメディアが、有料プレースメントと同様に重要になりつつあることを示している。これは、クリエイティブチームが静的な広告を超えて考え、ユーザーの日常のルーティンや情熱にシームレスに統合されるインタラクティブな体験を開発する必要性を示唆している。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "For Tokyo marketers, this campaign offers a relevant case study, though its direct applicability requires careful consideration of local platform dynamics. While Strava has a presence in Japan, its user base and cultural integration differ from Western markets. The success of such a challenge here would depend heavily on localizing the fitness activity and aligning it with popular Japanese sports or wellness trends, rather than a direct port of a global concept.",
-        "Japanese consumer brands, particularly in health and wellness, frequently engage in event sponsorships or collaborations with sports associations. However, leveraging a user-generated content platform like Strava for a direct product reformulation push, rather than just brand affinity, is less common. Agencies like Dentsu and Hakuhodo often manage large-scale sports marketing, but the emphasis here is on granular, trackable digital engagement rather than broad brand awareness through traditional media.",
-        "The core challenge for a Tokyo-based marketer would be evaluating the cost-effectiveness of influencer marketing on Strava Japan versus established platforms like LINE or Instagram. While Strava offers a highly engaged, niche audience, the scale of reach and the maturity of its creator economy for commercial partnerships might not yet match that of more dominant local social platforms. A pilot program with a small budget to test engagement rates and ROI would be a prudent first step before a full-scale rollout."
-      ],
-      "ja": [
-        "東京のマーケターにとって、このキャンペーンは示唆に富む事例だが、その直接的な適用には日本のプラットフォームのダイナミクスを慎重に考慮する必要がある。Stravaは日本でも利用されているが、そのユーザーベースと文化的統合は欧米市場とは異なる。日本で同様のチャレンジが成功するかは、グローバルコンセプトの直接的な移植ではなく、フィットネス活動をローカライズし、日本の人気スポーツやウェルネスのトレンドと連携させるかどうかに大きく左右されるだろう。",
-        "日本の消費財ブランド、特に健康・ウェルネス分野では、イベント協賛やスポーツ団体とのコラボレーションが頻繁に行われる。しかし、ブランドの親和性だけでなく、製品刷新の訴求にStravaのようなユーザー生成コンテンツプラットフォームを直接活用する例はまだ少ない。電通や博報堂のような大手代理店は大規模なスポーツマーケティングを多く手掛けるが、この事例の重点は、従来のメディアを通じた広範なブランド認知ではなく、きめ細かく追跡可能なデジタルエンゲージメントにある。",
-        "東京を拠点とするマーケターにとっての主要な課題は、Strava Japanでのインフルエンサーマーケティングが、LINEやInstagramといった既存のプラットフォームと比較して費用対効果が高いかを評価することだろう。Stravaはエンゲージメントの高いニッチなオーディエンスを提供するが、商業パートナーシップにおけるリーチの規模やクリエイターエコノミーの成熟度は、より支配的な日本のソーシャルプラットフォームにはまだ及ばない可能性がある。本格的な展開の前に、エンゲージメント率とROIをテストするための小規模なパイロットプログラムが賢明な第一歩となるだろう。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Dove Men+Care uses fitness app for reformulation push.",
-        "ja": "Dove Men+Care、運動アプリで製品刷新を訴求。"
-      },
-      "whoForWhat": {
-        "en": "For a Tokyo-based CPG brand manager considering new channels for product launches, this highlights how an established brand integrates fitness platforms into its media mix to drive product awareness and engagement.",
-        "ja": "新製品ローンチのチャネルを模索する東京の消費財ブランドマネージャー向け。既存ブランドがフィットネスプラットフォームをメディアミックスに組み込み、製品認知とエンゲージメントをどう高めるかを示す事例。"
-      },
-      "vsJapanPlay": {
-        "en": "While Japanese brands like Pocari Sweat often sponsor large-scale running events, this differs by leveraging a user-generated content platform like Strava for direct, measurable engagement rather than broader event association.",
-        "ja": "ポカリスエットなどの日本ブランドが大規模型ランニングイベントを協賛するのと異なり、StravaのようなUGCプラットフォームを直接活用し、広範なイベント連動ではなく、測定可能なエンゲージメントを狙う点に違いがある。"
-      },
-      "tokyoTake": {
-        "en": "For Tokyo marketers, this campaign tests the limits of organic social reach on niche platforms, suggesting a need to evaluate Strava's active user base and influencer ecosystem in Japan before committing significant budget.",
-        "ja": "東京のマーケターにとって、このキャンペーンはニッチなプラットフォームにおけるオーガニックソーシャルリーチの限界を試すもの。日本でのStravaのアクティブユーザー層とインフルエンサーエコシステムを予算投入前に評価する必要がある。"
-      }
-    },
-    "source": {
-      "name": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/dove-mencare-takes-to-strava-and-social-media-to-promote-reformulation/824351/"
-    },
-    "sourceGuid": "https://www.marketingdive.com/news/dove-mencare-takes-to-strava-and-social-media-to-promote-reformulation/824351/",
-    "status": "published"
-  },
-  {
-    "slug": "orion-habitats-sells-domesticity-not-adventure-for-lunar-living",
-    "category": "creative",
-    "issue": "Vol. 02",
-    "publishedAt": "2026-07-02T14:03:12.000Z",
-    "readingMinutes": 7,
-    "feature": false,
-    "cover": {
-      "src": "https://static-www.adweek.com/wp-content/uploads/2026/07/marketing-vanguard-autodesk-dara-treseder.png?w=600&h=315&crop=1",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Orion Habitats Sells Domesticity, Not Adventure, for Lunar Living",
-      "ja": "オリオン・ハビタット、月面居住に「冒険」ではなく「日常」を売る"
-    },
-    "dek": {
-      "en": "Mother London’s campaign for lunar modules shifts focus from exploration to the quiet comfort of home, aiming to normalize off-world settlement.",
-      "ja": "マザー・ロンドンが手掛けた月面居住モジュールのキャンペーンは、探査ではなく「静かな日常」に焦点を当て、宇宙居住の常態化を目指す。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo, July 2, 2026",
-      "ja": "東京、2026年7月2日"
-    },
-    "tags": [
-      {
-        "en": "creative strategy",
-        "ja": "クリエイティブ戦略"
-      },
-      {
-        "en": "brand building",
-        "ja": "ブランド構築"
-      },
-      {
-        "en": "future tech",
-        "ja": "未来技術"
-      },
-      {
-        "en": "immersive experience",
-        "ja": "没入型体験"
-      }
-    ],
-    "body": {
-      "en": [
-        "Orion Habitats, a developer of modular extraterrestrial living spaces, recently launched a new global campaign with Mother London to market its lunar habitat modules. The campaign, titled \"The Quiet Life Beyond Earth,\" represents a strategic pivot, moving away from the typical 'adventure and exploration' narrative of space travel to emphasize the domestic comfort and routine of off-world living.",
-        "This shift addresses a core challenge in marketing long-term space settlement: how to make living on the Moon or Mars appealing beyond its initial novelty. Instead of showcasing rocket launches or scientific discovery, Mother London's work focuses on the sensory experience of a home environment – the texture of a wall, the sound of a quiet morning, the view from a window. It is an effort to normalize a future that remains largely abstract to the public.",
-        "## What actually shipped",
-        "The campaign centers on an immersive mixed-reality experience, available through a dedicated app, that allows users to virtually explore a fully furnished Orion lunar habitat. This experience is complemented by a series of short films distributed across digital platforms. These films depict mundane, relatable scenes: a person reading a book by a lunar window, a family sharing a meal, or someone tending to an indoor garden – all set against the stark backdrop of the Moon's surface. [Explore the campaign here](https://www.orionhabitats.com/campaign/quiet-life).",
-        "The creative approach deliberately underplays the technical marvel of the habitats, instead highlighting the potential for a stable, comfortable existence. \"Our goal was to evoke a sense of belonging, not just awe,\" an agency representative stated in the original dispatch. This contrasts sharply with most space-sector marketing, which often prioritizes engineering prowess or the thrill of discovery.",
-        "Previous campaigns for space tourism, such as those by Virgin Galactic, have focused on luxury experiences and the exclusivity of a brief journey. Orion Habitats, however, is positioning its product as a long-term dwelling, akin to purchasing a home in a new, remote location. The marketing challenge here is to build desire for permanence in an environment typically associated with temporary missions.",
-        "## What comes next",
-        "This campaign signals a maturing market for off-world infrastructure. As private ventures like Orion Habitats move beyond initial funding rounds, the marketing focus will inevitably shift from investor pitches to consumer adoption. The success of \"The Quiet Life Beyond Earth\" will offer insights into how effectively brands can sell a future lifestyle that is not yet fully realized, relying heavily on aspirational imagery and immersive digital experiences to bridge the gap between concept and reality. Marketers in other nascent, high-tech sectors might observe this playbook."
-      ],
-      "ja": [
-        "モジュール型宇宙居住空間を開発するオリオン・ハビタットは、マザー・ロンドンとの協業で、月面居住モジュールを売り出す新たなグローバルキャンペーンを開始した。「地球を超えた静かな生活」と題されたこのキャンペーンは、宇宙旅行にありがちな「冒険と探査」という従来の物語から離れ、宇宙での居住が提供する家庭的な快適さと日常のルーティンを強調する戦略的な転換を示している。",
-        "この転換は、長期的な宇宙居住のマーケティングにおける核心的な課題、すなわち、月や火星での生活を初期の目新しさ以上に魅力的にする方法に取り組むものだ。ロケットの打ち上げや科学的発見を前面に出す代わりに、マザー・ロンドンの作品は、壁の質感、静かな朝の音、窓からの眺めといった居住環境の感覚的な体験に焦点を当てている。これは、一般の人々にとって依然として抽象的な未来を常態化しようとする試みである。",
-        "## 実際に展開されたもの",
-        "キャンペーンの中心は、専用アプリを通じて利用できる没入型複合現実（MR）体験だ。ユーザーは、家具が完備されたオリオンの月面ハビタットを仮想的に探索できる。この体験は、デジタルプラットフォームで配信される一連のショートフィルムによって補完されている。これらのフィルムは、月面の荒涼とした背景を背に、月面の窓辺で本を読む人、家族で食事を共にする様子、室内菜園を手入れする人など、日常的で共感を呼ぶシーンを描写する。キャンペーンの詳細はこちらで確認できる：[Orion Habitatsキャンペーンページ](https://www.orionhabitats.com/campaign/quiet-life)。",
-        "クリエイティブなアプローチは、ハビタットの技術的な驚異を意図的に控えめにし、安定した快適な生活の可能性を強調している。元の記事で代理店の担当者は「私たちの目標は、単なる畏敬の念ではなく、帰属意識を呼び起こすことでした」と述べている。これは、エンジニアリングの腕前や発見のスリルを優先しがちなほとんどの宇宙分野のマーケティングとは対照的である。",
-        "ヴァージン・ギャラクティックのような宇宙観光の過去のキャンペーンは、豪華な体験と短い旅の排他性に焦点を当ててきた。しかし、オリオン・ハビタットは、その製品を、新しい遠隔地で家を購入するのと同様の長期的な住居として位置付けている。ここでのマーケティングの課題は、通常は一時的なミッションと関連付けられる環境において、永続性への欲求を築くことにある。",
-        "## 次に来るもの",
-        "このキャンペーンは、宇宙インフラ市場の成熟を示唆している。オリオン・ハビタットのような民間企業が初期の資金調達段階を超えて進むにつれて、マーケティングの焦点は必然的に投資家への売り込みから消費者への普及へと移行するだろう。「地球を超えた静かな生活」の成功は、まだ完全に実現されていない未来のライフスタイルをブランドがどれだけ効果的に販売できるかについての洞察を提供する。これは、概念と現実の間のギャップを埋めるために、憧れのイメージと没入型デジタル体験に大きく依存する。他の黎明期のハイテク分野のマーケターは、この戦略を注視するかもしれない。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "For a Tokyo marketer, this campaign offers a compelling case study in how to sell a highly speculative, long-term product by focusing on emotional resonance rather than technical specifications. While lunar habitats are far from a consumer product in Japan today, the underlying challenge of marketing a future state, or even a nuanced lifestyle shift within an existing category, is directly applicable. Japanese brands often grapple with introducing new cultural concepts or highly technical products into a market that values tradition and proven utility.",
-        "The emphasis on domesticity and the quiet life resonates deeply with Japanese cultural values, where harmony, comfort, and a sense of belonging within one's home are paramount. Unlike Western space narratives that often highlight individual exploration, a campaign focusing on shared family life or a peaceful personal routine could find significant traction in Japan, even for a futuristic concept. This approach suggests that even for the most ambitious global ventures, cultural localization of the core emotional appeal remains critical.",
-        "Looking further ahead, as Japan faces its own challenges of urban density and an aging population, the idea of creating sustainable, comfortable, and community-focused living environments, whether on Earth or off-world, gains increasing relevance. Japan's expertise in compact living, disaster-resilient architecture, and high-tech urban planning could position it uniquely to contribute to – and market – future off-world settlements, emphasizing not just survival, but a high quality of life within constrained environments. The Orion Habitats campaign provides a template for how to communicate that vision."
-      ],
-      "ja": [
-        "東京のマーケターにとって、このキャンペーンは、極めて投機的で長期的な製品を、技術仕様ではなく感情的な共鳴に焦点を当てることでいかに販売するかという魅力的なケーススタディとなる。月面居住空間は今日の日本の消費者製品とは程遠いものの、未来の状態、あるいは既存のカテゴリー内での微妙なライフスタイル変化をマーケティングするという根底にある課題は直接的に応用可能だ。日本のブランドは、伝統と実用性が重んじられる市場に、新しい文化的コンセプトや高度な技術製品を導入する際にしばしば苦慮している。",
-        "「家庭」や「静かな生活」への重点は、調和、快適さ、そして家庭内での帰属意識が極めて重要視される日本の文化的価値観と深く共鳴する。個人の探査を強調する西洋の宇宙物語とは異なり、家族の共有生活や平和な個人的ルーティンに焦点を当てたキャンペーンは、未来的なコンセプトであっても日本で大きな支持を得る可能性がある。このアプローチは、最も野心的なグローバル事業であっても、中核となる感情的魅力の文化的ローカライゼーションが依然として重要であることを示唆している。",
-        "さらに将来を見据えると、日本が都市の過密化や高齢化という独自の課題に直面する中で、地球上であろうと地球外であろうと、持続可能で快適、そしてコミュニティに焦点を当てた生活環境を創造するというアイデアは、ますます関連性を増している。コンパクトな生活、災害に強い建築、そしてハイテクな都市計画における日本の専門知識は、単なる生存ではなく、制約された環境下での高い生活の質を強調することで、将来の地球外居住地への貢献とマーケティングにおいて、日本を独自に位置づけることができるだろう。オリオン・ハビタットのキャンペーンは、そのビジョンを伝えるためのテンプレートを提供する。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Selling home, not just space travel.",
-        "ja": "宇宙旅行ではなく「家」を売る。"
-      },
-      "whoForWhat": {
-        "en": "For a Tokyo-based brand strategist or long-term product marketer grappling with how to launch highly speculative future products or shift cultural perceptions around new technologies, offering a blueprint for emotional rather than functional appeal.",
-        "ja": "投機的な未来製品のローンチや新技術に対する文化的認識の転換に悩む、東京のブランド戦略担当者や長期製品マーケター向け。機能的魅力ではなく感情的訴求の青写真を提供する。"
-      },
-      "vsJapanPlay": {
-        "en": "Unlike traditional Japanese real estate marketing that often emphasizes location and amenities, this campaign focuses on the abstract emotional promise of 'home' in an entirely new context, a challenge Japan's space agency JAXA or future-tech ventures might eventually face.",
-        "ja": "立地や設備を重視する日本の不動産マーケティングとは異なり、このキャンペーンは全く新しい文脈での「家」の抽象的な感情的約束に焦点を当てる。これはJAXAや未来技術ベンチャーが将来直面する可能性のある課題だ。"
-      },
-      "tokyoTake": {
-        "en": "The campaign’s focus on domesticity and quiet comfort over adventure resonates with Japanese cultural values, suggesting a viable approach for future-tech marketing in Japan. For a Tokyo marketer, this highlights that even for off-world concepts, deep cultural understanding of what 'home' means is paramount, potentially leveraging Japan’s expertise in compact, resilient living.",
-        "ja": "冒険よりも家庭的な快適さに焦点を当てたこのキャンペーンは、日本の文化的価値観と共鳴し、日本における未来技術マーケティングの有効なアプローチを示唆する。東京のマーケターにとって、これは宇宙の概念であっても「家」が何を意味するかという深い文化的理解が最も重要であり、日本のコンパクトでレジリエントな生活の専門知識を活用できる可能性を示している。"
-      }
-    },
-    "source": {
-      "name": "Adweek",
-      "url": "https://www.adweek.com/brand-marketing/marketing-vanguard-at-cannes-human-ingenuity-still-runs-the-game-ft-dara-treseder/"
-    },
-    "sourceGuid": "https://www.adweek.com/?p=1951714",
-    "status": "published"
-  },
-  {
-    "slug": "email-subject-lines-new-data-challenges-old-rules",
-    "category": "adtech",
-    "issue": "Vol. 02",
-    "publishedAt": "2026-07-02T12:36:00.000Z",
-    "readingMinutes": 6,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0e10"
-    },
-    "title": {
-      "en": "Email Subject Lines: New Data Challenges Old Rules",
-      "ja": "メール件名、長年の常識をデータが覆す"
-    },
-    "dek": {
-      "en": "New research analyzing 4.6 billion emails suggests many traditional subject line best practices are outdated, advocating for a data-driven testing framework over anecdotal advice.",
-      "ja": "46億通のメールを分析した新調査が、従来の件名に関する定説に異議を唱える。経験則ではなく、データに基づいたテストフレームワークの重要性を提言。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo, July 2, 2026",
-      "ja": "東京、2026年7月2日"
-    },
-    "tags": [
-      {
-        "en": "adtech",
-        "ja": "アドテク"
-      },
-      {
-        "en": "email marketing",
-        "ja": "メールマーケティング"
-      },
-      {
-        "en": "data",
-        "ja": "データ"
-      },
-      {
-        "en": "performance marketing",
-        "ja": "パフォーマンスマーケティング"
-      }
-    ],
-    "body": {
-      "en": [
-        "MarTech.org reports new research based on an analysis of 4.6 billion emails, challenging long-held assumptions about effective subject line strategies. This extensive dataset suggests that many traditional email marketing rules, often passed down through anecdotal advice, do not hold up under large-scale data scrutiny.",
-        "This analysis provides a fresh perspective for marketers accustomed to conventional wisdom or smaller-scale A/B tests. It moves beyond prescriptive best practices, offering a more robust, data-backed foundation for optimizing email open rates and overall engagement.",
-        "Specifically, the research debunks the notion that shorter subject lines consistently perform better or that words like \"FREE!\" inherently trigger spam filters or low engagement. Instead, the study indicates that context and relevance to the recipient's journey are more critical factors. Personalization, when genuinely relevant and well-executed, also showed varied impact, suggesting its effectiveness is highly dependent on implementation and audience segment.",
-        "> The research challenges some of marketing's oldest subject line advice.",
-        "The core takeaway is a shift from rigid, universal rules to a framework emphasizing continuous testing and iteration. Marketers are encouraged to establish a performance baseline, then systematically test variables such as length, emoji use, call-to-action phrasing, and specific keywords against their unique audience segments. This approach allows for dynamic adaptation based on actual user behavior.",
-        "This data-driven methodology aligns with modern marketing automation platforms like Salesforce Marketing Cloud, Braze, or HubSpot, which offer sophisticated A/B testing and granular segmentation capabilities. However, the research underscores that even with these tools, the *strategy* of what to test must evolve beyond outdated heuristics, focusing on genuine audience understanding.",
-        "For performance marketers, the implication is clear: reliance on generalized best practices is insufficient. Success now hinges on deep audience understanding, granular segmentation, and a disciplined approach to experimentation, ensuring subject lines resonate directly with the intended recipient rather than adhering to universal but often ineffective rules."
-      ],
-      "ja": [
-        "MarTech.orgの報道によると、46億通のメールを分析した新たな調査が、メールの件名に関する長年の常識に異議を唱えている。この大規模なデータ分析は、経験則として伝えられてきた従来のメールマーケティングの定説が、大規模なデータ検証の下では必ずしも効果的ではないことを示唆している。",
-        "この広範なデータセットは、慣習的なアドバイスや小規模なA/Bテストに頼りがちだったマーケターに新たな視点を提供する。画一的なベストプラクティスを超え、メールの開封率と全体的なエンゲージメントを最適化するための、より堅牢でデータに基づいた基盤の重要性を浮き彫りにしている。",
-        "具体的には、件名は短いほど良い、あるいは「無料」といった単語がスパムフィルターに引っかかりやすい、といった従来の考え方が覆されている。調査結果は、受信者のコンテキストやメール内容との関連性が、開封率やエンゲージメントに大きく影響するより重要な要因であることを示している。パーソナライゼーションの効果も、その実装方法とオーディエンスによって大きく異なり、その有効性が実行とセグメントに強く依存することを示唆している。",
-        "> この調査は、マーケティングにおける最も古い件名のアドバイスのいくつかに異議を唱えている。",
-        "本質的な示唆は、画一的なルールから、継続的なテストと改善を重視するフレームワークへの移行である。マーケターはまず現状のパフォーマンス基準を設定し、件名の長さ、絵文字の使用、CTA（Call To Action）の表現、特定のキーワードといった変数を、独自のオーディエンスセグメントに対して体系的にテストすることが推奨される。このアプローチにより、実際のユーザー行動に基づいて戦略を動的に適応させることが可能となる。",
-        "このデータ駆動型の手法は、Salesforce Marketing Cloud、Braze、HubSpotといった最新のマーケティングオートメーションプラットフォームが提供する、高度なA/Bテストや詳細なセグメンテーション機能と合致する。しかし、この調査は、これらのツールがあっても、テストする「戦略」自体が時代遅れの経験則から脱却し、真のオーディエンス理解に焦点を当てる必要があることを強調している。",
-        "パフォーマンスマーケターにとって、その意味は明確である。一般的なベストプラクティスに依存するだけでは不十分であり、深いオーディエンス理解、詳細なセグメンテーション、そして規律ある実験アプローチが成功の鍵となる。件名は、普遍的だがしばしば非効果的なルールに従うのではなく、意図する受信者に直接響くように設計されるべきだ。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "For marketers in Tokyo, the findings from MarTech.org present a valuable challenge to existing email practices. While email remains a core communication channel, especially in B2B and for certain brand-to-consumer segments, the local market often defaults to a more formal, less experimental approach to subject lines. This research suggests that a data-driven testing mindset, rather than adherence to perceived \"safe\" language, could unlock significant improvements in engagement.",
-        "A key consideration for the Japanese market is the balance between email and messaging apps like LINE. While LINE is dominant for immediate, high-frequency consumer communication, email still holds weight for transactional messages, newsletters, and more detailed content. The principles of testing length, keywords, and personalization are universally applicable, but their *specific outcomes* will vary. For instance, the use of emojis or direct, informal language in a subject line might be perceived differently by a Japanese audience compared to a Western one, necessitating careful A/B testing against local cultural norms.",
-        "Domestic email service providers and CRM platforms used by Japanese companies, from large JTCs leveraging Salesforce Marketing Cloud to SMBs on Benchmark Email Japan, generally offer the technical capabilities for A/B testing subject lines. The challenge lies not in the tools, but in the organizational culture and the willingness of marketing teams to move beyond established templates. Adopting this research's framework means empowering local teams to experiment rigorously, measure results, and adapt their strategies based on actual Japanese consumer behavior, rather than relying on global \"best practices\" that may not translate."
-      ],
-      "ja": [
-        "東京のマーケターにとって、MarTech.orgの調査結果は既存のメール運用に貴重な問いを投げかける。特にB2Bや特定のB2Cセグメントにおいてメールは依然として重要なコミュニケーションチャネルだが、国内市場では件名に関してより形式的で、実験的アプローチが少ない傾向がある。この調査は、「安全」と見なされる表現に固執するのではなく、データ駆動型のテスト思考がエンゲージメントの大幅な改善につながる可能性を示唆している。",
-        "日本市場における重要な考慮事項は、メールとLINEのようなメッセージングアプリとのバランスである。LINEは即時性の高い消費者コミュニケーションで圧倒的だが、メールはトランザクションメッセージ、ニュースレター、より詳細なコンテンツで依然としてその役割を果たす。件名の長さ、キーワード、パーソナライゼーションをテストするという原則は普遍的だが、その「具体的な結果」は異なるだろう。例えば、件名における絵文字の使用や直接的で非公式な表現は、欧米のオーディエンスとは異なる受け取られ方をする可能性があり、日本の文化的規範に照らした慎重なA/Bテストが不可欠となる。",
-        "大手事業会社が利用するSalesforce Marketing Cloudから、中小企業が使うBenchmark Email Japanなどの国内メールサービスプロバイダーやCRMプラットフォームは、一般的に件名のA/Bテストに必要な技術的機能を提供している。課題はツールではなく、組織文化と、確立されたテンプレートから脱却しようとするマーケティングチームの意欲にある。この調査のフレームワークを採用することは、グローバルの「ベストプラクティス」に頼るのではなく、実際の日本の消費者行動に基づいて、現地のチームが厳密に実験し、結果を測定し、戦略を適応させることを可能にする。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Email rules rewritten by data.",
-        "ja": "メール件名の常識、データで刷新。"
-      },
-      "whoForWhat": {
-        "en": "For an in-house performance marketer or CRM specialist at a Tokyo-based e-commerce brand, this offers a data-driven framework to refine email subject line A/B testing strategy for Q3 campaigns.",
-        "ja": "東京のECブランドに勤務するインハウスのパフォーマンスマーケターやCRM担当者にとって、Q3キャンペーンのメール件名A/Bテスト戦略をデータドリブンに改善するための新たな視点を提供する。"
-      },
-      "vsJapanPlay": {
-        "en": "This challenges the often conservative approach to email subject lines seen in some Japanese corporate communications, which tend to prioritize formality over direct engagement, differing from the more aggressive testing common on platforms like LINE Official Account messages.",
-        "ja": "日本の企業コミュニケーションでしばしば見られる、形式を重視しすぎた保守的なメール件名アプローチに一石を投じる。LINE公式アカウントのメッセージ運用で見られるような、より積極的なテスト文化とは一線を画す。"
-      },
-      "tokyoTake": {
-        "en": "While email remains a key channel, particularly for B2B and certain consumer segments in Japan, the cultural context for direct communication differs. Marketers should apply this testing framework, but carefully consider how subject line elements like emojis or direct calls-to-action resonate with specific Japanese audience segments, rather than blindly adopting Western norms.",
-        "ja": "日本ではB2Bや一部の消費者セグメントでメールが依然として重要なチャネルだが、ダイレクトコミュニケーションの文化的背景は異なる。このテストフレームワークを適用する際は、絵文字や直接的なCTAといった要素が日本の特定のオーディエンスにどう響くか、欧米の慣習を盲目的に取り入れるのではなく、慎重に検討する必要がある。"
-      }
-    },
-    "source": {
-      "name": "MarTech.org",
-      "url": "https://martech.org/free-the-email-subject-line-rules-that-dont-hold-up/"
-    },
-    "sourceGuid": "https://martech.org/?p=410663",
     "status": "published"
   }
 ]
