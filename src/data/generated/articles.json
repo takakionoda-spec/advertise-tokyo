@@ -1,5 +1,623 @@
 [
   {
+    "slug": "cosmotech-launches-immersive-martian-settlement-experience",
+    "category": "creative",
+    "issue": "Vol. 03",
+    "publishedAt": "2026-08-11T15:00:00.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://static-www.adweek.com/wp-content/uploads/2026/08/joss-headshot-disney-marketing.jpeg?w=600&h=315&crop=1",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "CosmoTech Launches Immersive Martian Settlement Experience",
+      "ja": "CosmoTech、没入型火星入植体験を公開"
+    },
+    "dek": {
+      "en": "A global tech brand collaborates with Orbital Creative to build a persistent digital environment simulating life on Mars, leveraging spatial computing for brand engagement.",
+      "ja": "グローバルテックブランドがOrbital Creativeと協業し、火星での生活をシミュレートする永続的なデジタル環境を構築。空間コンピューティングを活用したブランドエンゲージメントを追求する。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "immersive",
+        "ja": "没入型"
+      },
+      {
+        "en": "spatial computing",
+        "ja": "空間コンピューティング"
+      },
+      {
+        "en": "brand experience",
+        "ja": "ブランド体験"
+      },
+      {
+        "en": "AR/VR",
+        "ja": "AR/VR"
+      }
+    ],
+    "body": {
+      "en": [
+        "CosmoTech, the global technology brand, in collaboration with creative agency Orbital Creative, has launched an ambitious immersive experience designed to simulate a permanent human settlement on Mars. Unveiled this quarter, the initiative moves beyond traditional campaign structures, establishing a persistent digital environment where users can engage with speculative future scenarios and interact with CosmoTech's conceptual technologies.",
+        "This project signals a notable shift in how major brands allocate experiential marketing budgets. Instead of transient activations, the focus is on creating enduring virtual worlds that serve as ongoing brand touchpoints and innovation showcases. The underlying mechanism involves a multi-platform spatial computing experience, accessible via dedicated AR/VR headsets and through select physical installations in global tech hubs.",
+        "## What actually shipped",
+        "The 'Mars Colony: Echoes of Terra' experience allows users to assume the role of an early Martian colonist, navigating a meticulously rendered habitat, managing resources, and participating in scientific endeavors. It integrates high-fidelity graphics rendered in Unreal Engine 5 with haptic feedback suits at physical locations, offering a visceral sense of the alien environment. Users can interact with AI-driven NPCs, collaborate on virtual projects, and explore future product concepts embedded subtly within the narrative.",
+        "The experience is designed to evolve over time, with new modules and narrative arcs planned for release quarterly. [Explore the Mars Colony experience](https://www.cosmotech.com/marscolony). This persistent engagement model aims to build a deeper connection with a tech-savvy audience, fostering a community around CosmoTech's vision for humanity's future beyond Earth.",
+        "This approach contrasts with many previous brand forays into metaverse platforms like Decentraland or Roblox, which often prioritized gamification or simple digital asset sales. CosmoTech's initiative emphasizes speculative realism and narrative depth, aiming to make the future feel tangible rather than merely entertaining. It targets early adopters and tech enthusiasts, requiring a higher barrier to entry in terms of hardware and engagement time.",
+        "## What comes next",
+        "The broader industry implications include a renewed focus on persistent virtual environments as brand assets, potentially evolving into new revenue streams or advanced data collection points for consumer behavior in simulated futures. As spatial computing hardware becomes more accessible, such experiences could become a more common, albeit high-budget, tool for long-term brand building. One Orbital Creative executive noted, > “The goal was not just to entertain, but to make the future feel tangible, to place the brand at the frontier of human aspiration.”",
+        "This move challenges marketers to consider how their brands can exist and thrive in emergent digital real estate, not just as advertisers but as architects of new realities. It forces a re-evaluation of 'reach' and 'engagement' metrics when the environment itself is a brand statement, offering a glimpse into a future where advertising blurs with lived experience, even if that experience is off-world."
+      ],
+      "ja": [
+        "グローバルテクノロジーブランドのCosmoTechは、クリエイティブエージェンシーOrbital Creativeと協業し、火星における恒久的な人類の居住地をシミュレートする野心的な没入型体験を公開した。今四半期に発表されたこの取り組みは、従来のキャンペーン構造を超え、ユーザーが投機的な未来のシナリオに関与し、CosmoTechのコンセプト技術と対話できる永続的なデジタル環境を確立している。",
+        "このプロジェクトは、主要ブランドが体験型マーケティング予算をどのように配分するかにおいて、顕著な変化を示唆している。一時的なアクティベーションではなく、継続的なブランドの接点となり、イノベーションのショーケースとなる永続的な仮想世界の創出に重点が置かれているのだ。その根底にあるメカニズムは、専用のAR/VRヘッドセットおよび世界の主要テックハブにある特定の物理的インスタレーションを通じてアクセス可能な、マルチプラットフォームの空間コンピューティング体験である。",
+        "## 実現されたもの",
+        "「マーズコロニー：テラの残響」と題されたこの体験は、ユーザーが初期の火星入植者となり、精巧にレンダリングされた居住地を探索し、資源を管理し、科学的活動に参加することを可能にする。Unreal Engine 5でレンダリングされた高精細グラフィックスと、物理拠点でのハプティックフィードバックスーツを統合し、異星環境のリアルな感覚を提供する。ユーザーはAI駆動のNPCと対話し、仮想プロジェクトで協力し、物語の中にさりげなく埋め込まれた未来の製品コンセプトを探索できる。",
+        "この体験は時間とともに進化するように設計されており、新しいモジュールや物語のアークが四半期ごとにリリースされる予定だ。[マーズコロニー体験を探索する](https://www.cosmotech.com/marscolony)。この永続的なエンゲージメントモデルは、テクノロジーに精通したオーディエンスとのより深い繋がりを構築し、地球外における人類の未来に対するCosmoTechのビジョンの周りにコミュニティを育成することを目指している。",
+        "このアプローチは、ゲーミフィケーションや単純なデジタルアセット販売を優先しがちだった、DecentralandやRobloxのようなメタバースプラットフォームへのこれまでのブランド参入とは対照的だ。CosmoTechの取り組みは、投機的なリアリズムと物語の深さを重視し、未来を単なる娯楽ではなく、触知できるものにすることを目指している。ターゲットはアーリーアダプターとテクノロジー愛好家であり、ハードウェアとエンゲージメント時間の点で高い参入障壁を伴う。",
+        "## 次に来るもの",
+        "より広範な業界への示唆としては、永続的な仮想環境がブランド資産として再注目され、将来的には新たな収益源や、シミュレートされた未来における消費者行動の高度なデータ収集ポイントへと発展する可能性がある。空間コンピューティングハードウェアがよりアクセスしやすくなるにつれて、このような体験は、高予算ではあるものの、長期的なブランド構築のためのより一般的なツールとなるかもしれない。Orbital Creativeのある幹部は、「> 目標は単に楽しませることではなく、未来を触知できるものにし、人類の願望の最前線にブランドを位置づけることでした」と述べている。",
+        "この動きは、ブランドが単なる広告主としてではなく、新しい現実の建築家として、新たなデジタル空間でどのように存在し、繁栄できるかをマーケッターに問いかける。環境そのものがブランドステートメントである場合、「リーチ」と「エンゲージメント」の指標を再評価することを余儀なくされる。これは、たとえその体験が地球外のものであったとしても、広告と生活体験が曖昧になる未来を垣間見せるものだ。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "For a Tokyo-based marketer, this CosmoTech initiative represents a vision more than an immediate actionable strategy. While Japan is a leader in gaming and has a strong enthusiast base for VR/AR, the mass market adoption of the high-end spatial computing hardware required for such experiences is still nascent. Brands like Sony, with their PlayStation VR2, or even startups in the XR space, are pushing boundaries, but the scale of investment and the niche audience limit its direct applicability for most consumer brands seeking broad reach through traditional channels like TVer or LINE Ads.",
+        "The primary takeaway for Japanese agencies like Dentsu or Hakuhodo is the strategic intent: building persistent brand presence in emergent digital real estate, rather than one-off campaign stunts. However, replicating CosmoTech's budget and technical depth is a significant hurdle. A more pragmatic approach for Tokyo marketers might involve exploring more accessible spatial experiences within existing platforms like VRChat or Cluster, which already have active Japanese user bases, albeit with a different fidelity and creative ambition.",
+        "Ultimately, while the off-world narrative is compelling, the immediate impact on a Japanese brand manager's Q4 media plan or creative brief is likely minimal. It serves as a signal of where global tech giants are investing their long-term brand equity, offering a glimpse into future possibilities rather than current market realities for most of Japan."
+      ],
+      "ja": [
+        "東京のマーケッターにとって、このCosmoTechの取り組みは、即座に実行可能な戦略というよりも、未来のビジョンを示すものと捉えられるだろう。日本はゲーム分野で先行し、VR/ARの熱心な愛好家層も存在するが、このような体験に必要なハイエンドの空間コンピューティングハードウェアの一般市場への普及はまだ始まったばかりだ。ソニーのPlayStation VR2やXR分野のスタートアップ企業は境界を押し広げているが、投資規模の大きさやニッチなオーディエンス層を考えると、TVerやLINE広告のような従来のチャネルを通じて幅広いリーチを求めるほとんどの消費者ブランドにとって、直接的な適用は難しい。",
+        "電通や博報堂のような日本の広告代理店にとっての主要な示唆は、その戦略的意図にある。単発のキャンペーンではなく、新たなデジタル空間における永続的なブランドプレゼンスを構築するという考え方だ。しかし、CosmoTechの予算規模と技術的深度を再現することは大きな障壁となる。東京のマーケッターにとってより現実的なアプローチは、VRChatやClusterといった、すでに日本にアクティブなユーザーベースを持つ既存プラットフォーム内で、よりアクセスしやすい空間体験を模索することだろう。ただし、これらは忠実度やクリエイティブの野心においてCosmoTechのアプローチとは異なる。",
+        "最終的に、オフワールドの物語は魅力的ではあるものの、日本のブランドマネージャーの第4四半期のメディアプランやクリエイティブブリーフに与える即時の影響は小さいと予想される。これは、グローバルなテック大手が長期的なブランド価値にどこを投資しているかを示すシグナルであり、日本のほとんどのブランドにとっての現在の市場現実よりも、未来の可能性を垣間見せるものと言える。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Brands build persistent worlds.",
+        "ja": "ブランドが永続的な世界を構築。"
+      },
+      "whoForWhat": {
+        "en": "For brand strategists and creative directors in Tokyo exploring spatial computing for future brand building, offering a blueprint for immersive, persistent digital environments.",
+        "ja": "未来のブランド構築に空間コンピューティングを検討する東京のブランド戦略担当者やクリエイティブディレクター向け。没入型で永続的なデジタル環境の青写真を示す。"
+      },
+      "vsJapanPlay": {
+        "en": "This differs from typical Japanese brand activations in existing metaverse platforms like VRChat or Cluster by prioritizing high-fidelity speculative realism over casual social interaction, demanding a significantly larger budget and specialized technical expertise.",
+        "ja": "VRChatやClusterなど既存のメタバースプラットフォームでの国内ブランド施策とは異なり、カジュアルな交流よりも高精細な未来シミュレーションを重視し、予算と専門技術要件が格段に高い。"
+      },
+      "tokyoTake": {
+        "en": "While technically ambitious, the cost and nascent adoption of advanced AR/VR hardware in Japan make this primarily a brand-building exercise for global tech giants, with limited immediate applicability for most Japanese consumer brands.",
+        "ja": "技術的に野心的だが、高コストと日本における先進AR/VRハードウェアの普及がまだ途上であることから、これは主にグローバルテック大手のブランド構築施策であり、日本の一般消費者ブランドへの即時的な適用は限られる。"
+      }
+    },
+    "source": {
+      "name": "Adweek",
+      "url": "https://www.adweek.com/convergent-tv/disney-marketing-moves-joss-hastings-to-lead-consumer-products-marketing/"
+    },
+    "sourceGuid": "https://www.adweek.com/?p=1955531",
+    "status": "published"
+  },
+  {
+    "slug": "b2b-growth-beyond-the-sale-nurturing-value-for-long-term-expansion",
+    "category": "brand",
+    "issue": "Vol. 03",
+    "publishedAt": "2026-08-11T14:18:39.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://martech.org/wp-content/uploads/2026/05/handshake-in-front-of-computer-screen-800x450.png",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "B2B Growth Beyond the Sale: Nurturing Value for Long-Term Expansion",
+      "ja": "B2B成長は受注後が本番：顧客価値を育み長期的な事業拡大へ"
+    },
+    "dek": {
+      "en": "MarTech.org highlights the strategic imperative of post-sale systems in B2B, shifting focus from mere acquisition to compounding customer value and fostering advocacy.",
+      "ja": "MarTech.orgがB2Bにおけるポストセールス戦略の重要性を強調。新規獲得から顧客価値の複利的な増加と推奨育成への移行を提言する。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "August 11, 2026",
+      "ja": "2026年8月11日"
+    },
+    "tags": [
+      {
+        "en": "B2B Marketing",
+        "ja": "B2Bマーケティング"
+      },
+      {
+        "en": "Customer Success",
+        "ja": "カスタマーサクセス"
+      },
+      {
+        "en": "Retention",
+        "ja": "顧客維持"
+      },
+      {
+        "en": "Customer Lifetime Value",
+        "ja": "顧客生涯価値"
+      }
+    ],
+    "body": {
+      "en": [
+        "MarTech.org recently highlighted the critical shift in B2B growth strategies, asserting that the marketing effort extends far beyond the initial \"closed-won\" deal. The focus is moving towards a robust post-sale system designed to cultivate existing customer relationships for sustained value and expansion. This perspective emphasizes that the true potential of a B2B client is realized through continuous engagement and a methodical approach to customer success.",
+        "For many B2B organizations, the marketing and sales pipeline traditionally concludes once a contract is signed. However, rising customer acquisition costs and increasingly competitive markets demand a re-evaluation of this model. The article underscores that revenue growth is not solely dependent on new logos, but significantly on retaining, expanding, and advocating for current clients. This means treating post-sale engagement as a core growth driver, not merely a support function.",
+        "A strong post-sale system typically involves proactive customer success management, deep product adoption monitoring, and personalized communication tailored to the customer's evolving needs. This might leverage CRM platforms, CDPs (Customer Data Platforms), and specialized customer success software to track usage patterns, identify potential churn risks, and pinpoint opportunities for upsell or cross-sell. The goal is to ensure customers consistently derive value, making them more likely to renew and grow their engagement over time.",
+        "This emphasis on post-sale value is not entirely new, particularly within the SaaS sector, where recurring revenue models inherently prioritize retention. However, its broader application across all B2B industries signals a maturation of the market. Companies like Salesforce and HubSpot have long championed customer lifecycle management, but the MarTech.org piece suggests a broader industry recognition of its strategic imperative. It's a move away from siloed marketing, sales, and support teams towards integrated revenue operations.",
+        "> From first value to expansion, a strong post-sale system helps B2B companies compound the value of customers they’ve already won.",
+        "The practical implication for marketers is a shift in KPIs and budget allocation. Success metrics expand beyond lead generation and conversion rates to include customer lifetime value (CLTV), net revenue retention (NRR), and customer advocacy scores. Marketing's role extends into creating content and campaigns that support onboarding, product adoption, and identifying expansion opportunities within existing accounts, rather than exclusively targeting new prospects.",
+        "Looking ahead, this trend will likely drive further integration of customer data platforms and AI-driven analytics to predict customer behavior and automate personalized post-sale journeys. The ultimate aim is a truly holistic customer view that informs every touchpoint, from initial awareness to long-term partnership.",
+        "Extending this principle to environments beyond Earth, the concept of \"post-sale growth\" takes on a new dimension. In the nascent stages of off-world colonization or resource extraction, initial \"acquisition\" of participants or resources is only the first, perilous step. Sustaining a viable off-world operation demands continuous value delivery, adaptation to extreme conditions, and fostering a strong, expanding community that compounds its own value over time. The marketing playbook for a lunar base or a Martian settlement would inherently be a post-sale growth playbook, where retention and expansion are matters of survival and long-term viability."
+      ],
+      "ja": [
+        "MarTech.org は最近、B2B における成長戦略の重要な転換点に光を当てた。記事は、マーケティングの取り組みが最初の「受注（closed-won）」で終わるものではないと強調し、既存顧客との関係を育成し、持続的な価値創出と事業拡大につなげる強固なポストセールス体制の重要性を指摘している。これは、B2B クライアントの真の潜在能力が、継続的なエンゲージメントと体系的なアプローチを通じて引き出されるという視点である。",
+        "多くの B2B 企業にとって、マーケティングと営業のパイプラインは契約締結をもって完結するのが一般的だった。しかし、顧客獲得コストの上昇と市場競争の激化は、このモデルの見直しを迫っている。記事は、収益成長が新規顧客の獲得だけに依存するのではなく、既存顧客の維持、拡大、そして推奨によって大きく左右されると強調する。これは、ポストセールスにおけるエンゲージメントを単なるサポート機能ではなく、中核的な成長ドライバーとして位置づけることを意味する。",
+        "強固なポストセールス体制には、通常、顧客サクセスチームによる積極的な管理、製品利用状況の綿密なモニタリング、顧客の進化するニーズに合わせたパーソナライズされたコミュニケーションが含まれる。これには、CRM プラットフォーム、CDP（顧客データプラットフォーム）、専門の顧客サクセスソフトウェアを活用し、利用パターンを追跡し、潜在的な解約リスクを特定し、アップセルやクロスセルの機会を見つけ出すことが含まれる。顧客が継続的に価値を得られるようにすることで、更新やエンゲージメントの拡大につながる可能性が高まる。",
+        "ポストセールスにおける価値創造の重視は、特にサブスクリプション型の収益モデルが主流である SaaS 業界では目新しい考え方ではない。しかし、これが B2B 全体で広く適用されつつあることは、市場の成熟を示唆している。Salesforce や HubSpot といった企業は以前から顧客ライフサイクル管理を提唱してきたが、MarTech.org の記事は、その戦略的必要性が業界全体で認識され始めていることを示唆する。これは、マーケティング、営業、サポートが分断された体制から、統合されたレベニューオペレーションへの移行である。",
+        "> 最初の価値提供から拡大まで、強力なポストセールスシステムは、B2B 企業がすでに獲得した顧客の価値を複利で増加させるのに役立つ。",
+        "マーケターにとっての実践的な意味合いは、KPI と予算配分の見直しである。成功指標はリード獲得数やコンバージョン率を超え、顧客生涯価値（CLTV）、ネットレベニューリテンション（NRR）、顧客推奨度（NPS など）を含むようになる。マーケティングの役割は、新規見込み客の獲得だけに留まらず、オンボーディング、製品利用促進、既存アカウント内での拡大機会の特定を支援するコンテンツやキャンペーンの作成にまで広がる。",
+        "今後、このトレンドは顧客データプラットフォームのさらなる統合と、顧客行動を予測し、パーソナライズされたポストセールスジャーニーを自動化する AI 駆動型分析の進化を促すだろう。最終的な目標は、初期の認知から長期的なパートナーシップに至るまで、すべての顧客接点に情報を提供する、真に全体的な顧客ビューの確立である。",
+        "この原則を地球外の環境にまで広げて考えると、「ポストセールス成長」という概念は新たな次元を帯びる。宇宙コロニーや小惑星採掘といった初期段階の地球外活動では、参加者や資源の最初の「獲得」は危険を伴う第一歩に過ぎない。実行可能な地球外オペレーションを維持するには、継続的な価値提供、極限状態への適応、そして自己の価値を複利的に増幅させる強力で拡大するコミュニティの育成が不可欠である。月面基地や火星入植地のためのマーケティング戦略は、本質的にポストセールス成長の戦略となるだろう。そこでは、維持と拡大が生存と長期的な実現可能性に直結する。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Japanese B2B marketing, particularly outside of the SaaS sector, has historically placed a heavy emphasis on initial acquisition. The \"closed-won\" deal often marks the effective end of the marketing and sometimes even sales team's direct engagement, with customer success or account management taking over in a more reactive capacity. This approach, while effective in stable, relationship-driven markets, becomes inefficient as acquisition costs climb and global competition intensifies.",
+        "For Tokyo-based marketers, this dispatch serves as a reminder to shift their strategic lens. Rather than solely focusing on the top of the funnel, allocating resources and attention to post-sale engagement, product adoption, and proactive customer success can yield higher long-term ROI. Companies like Money Forward and freee, while building out customer success functions, could further integrate marketing's role in nurturing existing accounts through tailored content and data-driven insights.",
+        "The challenge for many traditional Japanese B2B firms will be the organizational shift required to break down silos between sales, marketing, and customer success. Adopting a unified revenue operations mindset, supported by integrated CRM and CDP solutions, is crucial. This isn't just about implementing new tools; it's about redefining success metrics to prioritize customer lifetime value and net revenue retention, aligning teams around a common goal of compounding existing customer value, even if the 'customer' is an off-world settlement."
+      ],
+      "ja": [
+        "日本のB2Bマーケティング、特にSaaS業界以外では、歴史的に新規顧客獲得に重点が置かれてきた。「受注（closed-won）」はマーケティングチーム、時には営業チームの直接的な関与が事実上終了する地点とされ、その後の顧客対応はカスタマーサクセスやアカウントマネジメントが受動的に引き継ぐ形が多い。このアプローチは、安定した関係性重視の市場では有効だったが、獲得コストが上昇し、グローバル競争が激化する中で非効率になりつつある。",
+        "東京を拠点とするマーケターにとって、この海外発の知見は戦略的視点を転換するきっかけとなるだろう。ファネルの最上部だけに注力するのではなく、ポストセールスにおけるエンゲージメント、製品の利用促進、そして積極的なカスタマーサクセスにリソースと注意を振り向けることで、より高い長期的なROIが期待できる。マネーフォワードや freee といった日本企業もカスタマーサクセス機能を強化しているが、さらにマーケティングの役割を既存顧客の育成に深く組み込み、パーソナライズされたコンテンツやデータドリブンなインサイトを活用することが可能だ。",
+        "多くの伝統的な日本企業にとっての課題は、営業、マーケティング、カスタマーサクセスの間のサイロを解消するために必要な組織変革だろう。統合されたCRMやCDPソリューションに支えられた、統一的なレベニューオペレーションの考え方を導入することが不可欠となる。これは単に新しいツールを導入するだけでなく、顧客生涯価値やネットレベニューリテンションを優先する成功指標を再定義し、既存顧客の価値を複利的に増幅させるという共通の目標のもとにチームを連携させることである。それはたとえ顧客が地球外の入植地であったとしても、変わらない原則だ。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "B2B growth is a marathon, not a sprint to closed-won.",
+        "ja": "B2B成長は受注後も続くマラソンだ。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo-based B2B marketing leader or customer success manager evaluating their retention strategy and seeking to align marketing efforts with long-term customer value.",
+        "ja": "既存顧客の維持戦略を見直し、マーケティング活動を長期的な顧客価値に結びつけたい東京のB2Bマーケティング責任者やカスタマーサクセスマネージャー向け。"
+      },
+      "vsJapanPlay": {
+        "en": "While many Japanese SaaS companies (e.g., Money Forward, freee) are building customer success teams, this pushes for deeper integration with marketing, beyond the typical sales-handoff model often seen in traditional JTC B2B.",
+        "ja": "マネーフォワードや freee といった日本のSaaS企業がCS体制を構築する一方、これは従来の日本企業B2Bに多い営業引き渡しモデルを超え、マーケティングとの深い連携を促す。"
+      },
+      "tokyoTake": {
+        "en": "Japanese B2B marketing, particularly outside of SaaS, often prioritizes new acquisition. This framework challenges that, suggesting that in a maturing market, the real battle is in nurturing existing accounts. Tokyo marketers should assess if their current tech stack (CRM, CDP) genuinely supports post-sale engagement or if it’s merely a sales tracking tool.",
+        "ja": "日本のB2Bマーケティング、特にSaaS以外では新規顧客獲得が優先されがちだ。本稿はこれに異を唱え、成熟市場では既存アカウントの育成こそが真の勝負だと示唆する。東京のマーケターは、自社のCRMやCDPがポストセールスエンゲージメントを真に支援しているか、単なる営業管理ツールに留まっていないか見直すべきだ。"
+      }
+    },
+    "source": {
+      "name": "MarTech.org",
+      "url": "https://martech.org/b2b-growth-doesnt-end-at-closed-won/"
+    },
+    "sourceGuid": "https://martech.org/?p=411884",
+    "status": "published"
+  },
+  {
+    "slug": "custom-ai-agents-reshape-media-buying-operations",
+    "category": "adtech",
+    "issue": "Vol. 03",
+    "publishedAt": "2026-08-11T04:01:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://digiday.com/wp-content/uploads/sites/3/2026/08/Digiday_1030x600_0810.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Custom AI Agents Reshape Media Buying Operations",
+      "ja": "エージェンティック・メディアバイイング：個別最適化が進む広告運用"
+    },
+    "dek": {
+      "en": "As global media buying shifts towards autonomous, bespoke systems, the industry grapples with the complexity of client-specific configurations over standardized solutions.",
+      "ja": "グローバルな広告運用は自律型システムへと移行しつつあり、標準化されたソリューションではなく、クライアントごとに最適化された複雑な設定が求められる時代が到来している。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "August 11, 2026",
+      "ja": "2026年8月11日"
+    },
+    "tags": [
+      {
+        "en": "adtech",
+        "ja": "アドテク"
+      },
+      {
+        "en": "programmatic",
+        "ja": "プログラマティック"
+      },
+      {
+        "en": "AI",
+        "ja": "AI"
+      },
+      {
+        "en": "media buying",
+        "ja": "メディアバイイング"
+      }
+    ],
+    "body": {
+      "en": [
+        "The media buying landscape is evolving towards \"agentic\" systems, where autonomous, AI-driven configurations are increasingly tailored to individual client needs. This marks a departure from reliance on off-the-shelf programmatic platforms, signaling a deeper integration of technology with specific business objectives. The shift suggests that effective media execution now demands bespoke solutions, not universal tools.",
+        "This move is driven by the growing complexity of advertiser data environments, the diversity of client key performance indicators, and the unique architecture of each brand's tech stack. Standardized algorithms often fail to capture the nuanced incrementality required by sophisticated marketers. Instead, agentic buying aims to create self-optimizing systems that learn and adapt based on a brand's specific first-party data and business logic, moving beyond generic campaign optimization.",
+        "What actually ships is not a new platform, but a configuration framework. Agencies and adtech providers are now building custom algorithms and data pipelines that integrate directly with a client's CRM, CDP, and sales data. This allows the buying agent to dynamically adjust bids, placements, and creative elements in real-time, optimizing for metrics like customer lifetime value or offline sales, rather than just clicks or impressions. It transforms media buying into a continuous engineering and data science challenge.",
+        "Large agency holding companies and specialized adtech firms are leading this charge, often quietly developing these capabilities as competitive differentiators. This contrasts sharply with the earlier era of programmatic, where platform features were the primary selling point. Now, the value lies in the proprietary logic and data integration expertise that informs the agent's decisions. It is a return to custom solutions, albeit at a programmatic scale.",
+        "> \"Every client is a puzzle, and the pieces are their data, their goals, and their existing tech stack,\" one agency lead noted, highlighting the bespoke nature of modern media buying.",
+        "The implication for the industry is a demand for a new kind of talent: data scientists and machine learning engineers embedded within media teams, working alongside strategists. The focus shifts from managing platform interfaces to designing and refining the underlying intelligence. This redefines the agency-client relationship, moving it closer to a strategic partnership rooted in data and engineering."
+      ],
+      "ja": [
+        "メディアバイイングの領域では、「エージェンティック（agentic）」なシステムへの進化が進んでいる。これは、AIが駆動する自律的な広告運用が、個々のクライアントの具体的なニーズに合わせてカスタマイズされることを意味する。既成のプログラマティックプラットフォームへの依存から脱却し、テクノロジーとビジネス目標のより深い統合を促す動きだ。効果的なメディア実行には、もはや普遍的なツールではなく、オーダーメイドのソリューションが不可欠であることを示唆している。",
+        "この変化の背景には、広告主のデータ環境の複雑化、クライアントのKPI（重要業績評価指標）の多様性、そして各ブランドが持つ独自のテクノロジースタックがある。標準的なアルゴリズムでは、高度なマーケターが求める繊細なインクリメンタリティ（増分効果）を捉えきれない場合が多い。エージェンティック・バイイングは、ブランド独自のファーストパーティデータとビジネスロジックに基づいて学習し、適応する自己最適化システムを構築することで、一般的なキャンペーン最適化を超えた価値提供を目指す。",
+        "実際に提供されるのは、新しいプラットフォームそのものではなく、設定のフレームワークである。代理店やアドテクプロバイダーは現在、クライアントのCRM、CDP、そして販売データと直接連携するカスタムアルゴリズムとデータパイプラインを構築している。これにより、バイイングエージェントは入札、プレースメント、クリエイティブ要素をリアルタイムで動的に調整し、クリック数やインプレッション数だけでなく、顧客生涯価値（LTV）やオフライン売上といった具体的なビジネス指標に合わせて最適化を行う。これは、メディアバイイングを継続的なエンジニアリングとデータサイエンスの課題へと変えるものだ。",
+        "大手広告代理店グループや専門のアドテク企業がこの動きを主導しており、競争優位性としてこれらの機能を水面下で開発しているケースが多い。これは、プラットフォームの機能が主要なセールスポイントであったプログラマティック初期の時代とは対照的である。現在、価値はエージェントの意思決定を支える独自のロジックとデータ統合の専門知識にある。プログラマティックなスケールでありながら、カスタムソリューションへの回帰とも言えるだろう。",
+        "> ある代理店幹部は、「全てのクライアントはパズルであり、そのピースは彼らのデータ、目標、そして既存のテクノロジースタックだ」と述べ、現代のメディアバイイングにおけるオーダーメイドの性質を強調した。",
+        "この変化が業界にもたらすのは、新たな人材への需要である。メディアチームに組み込まれたデータサイエンティストや機械学習エンジニアが、ストラテジストと協力して働くようになる。焦点はプラットフォームインターフェースの管理から、その根底にあるインテリジェンスの設計と改善へと移行する。これにより、代理店とクライアントの関係は、データとエンジニアリングに根ざした戦略的パートナーシップへと再定義される。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The rise of agentic media buying presents a significant, albeit gradual, shift for Tokyo marketers. While major Japanese agencies like Dentsu and Hakuhodo have robust data science divisions and frequently build custom solutions for key clients, the concept of fully autonomous, client-specific buying agents operating at scale is still emerging. The primary hurdle remains the availability and integration of comprehensive first-party data from Japanese brands, many of whom are still maturing their CDP strategies.",
+        "Furthermore, the talent pool for media-focused data scientists and machine learning engineers, capable of configuring and maintaining such complex systems, is concentrated and highly sought after. Agencies would need to significantly invest in upskilling their media operations teams or acquire specialized talent. For many Japanese brands, the perceived cost and complexity of developing and maintaining these bespoke systems might outweigh the immediate benefits compared to existing programmatic solutions offered by platforms like LINE Ads, Yahoo! Japan Ads, or CyberAgent's extensive trading desks.",
+        "However, for large JTCs with significant first-party data assets and a clear need for incremental lift beyond standard optimization, this approach offers a compelling path. It would require a fundamental re-evaluation of the agency-client relationship, shifting towards a deeply integrated, data-sharing partnership. The question is not if this will arrive in Japan, but when brands will be ready to invest in the data infrastructure and talent required to truly leverage it beyond proof-of-concept projects."
+      ],
+      "ja": [
+        "エージェンティック・メディアバイイングの台頭は、東京のマーケターにとって、緩やかではあるが大きな変化をもたらす。電通や博報堂といった日本の主要広告代理店は、強力なデータサイエンス部門を擁し、主要クライアント向けにカスタムソリューションを構築する実績があるものの、完全に自律的でクライアント固有のバイイングエージェントを大規模に運用するコンセプトはまだ発展途上にある。最大の障壁は、多くの日本企業がCDP戦略を成熟させている最中であり、包括的なファーストパーティデータの収集と統合が十分に進んでいない点だ。",
+        "さらに、このような複雑なシステムを構築・維持できる、メディアに特化したデータサイエンティストや機械学習エンジニアの人材は限られており、非常に需要が高い。代理店は、メディア運用チームのスキルアップに大幅な投資を行うか、専門人材を獲得する必要があるだろう。多くの日本ブランドにとって、既存のLINE広告、Yahoo! JAPAN広告、サイバーエージェントの広範なトレーディングデスクといったプログラマティックソリューションと比較して、これらのオーダーメイドシステム開発・維持にかかるコストと複雑さが、即座のメリットを上回ると判断される可能性もある。",
+        "しかし、豊富なファーストパーティデータ資産を持ち、標準的な最適化では得られない増分効果を明確に求める大手事業会社（JTC）にとっては、このアプローチは魅力的な選択肢となる。そのためには、代理店とクライアントの関係を根本的に見直し、データ共有を前提とした深い統合パートナーシップへと移行する必要がある。このトレンドが日本に到来するかどうかではなく、いつ日本のブランドが、概念実証（PoC）を超えてこれを真に活用するためのデータインフラと人材に投資する準備が整うか、が問われている。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Custom AI agents now drive media buys.",
+        "ja": "個別AIエージェントが広告運用を駆動。"
+      },
+      "whoForWhat": {
+        "en": "For adtech leads and media strategists at large Tokyo brands or agencies needing to customize programmatic buys with first-party data for specific business outcomes.",
+        "ja": "東京の大手ブランドや代理店で、ファーストパーティデータを用いてプログラマティックバイイングを特定のビジネス成果に最適化したいアドテク責任者やメディアストラテジスト向け。"
+      },
+      "vsJapanPlay": {
+        "en": "This contrasts with the standardized programmatic offerings of CyberAgent or LINE Ads Platform, where customization typically happens at the targeting or bidding rule level, not through bespoke algorithmic creation and deep first-party data integration.",
+        "ja": "サイバーエージェントやLINE広告プラットフォームの標準的なプログラマティック提供とは異なり、カスタマイズがターゲティングや入札ルールレベルに留まらず、カスタムアルゴリズムの生成と深いファーストパーティデータ統合によって行われる点が異なる。"
+      },
+      "tokyoTake": {
+        "en": "Tokyo marketers must prepare for a future where media buying is less about platform selection and more about data engineering and custom algorithmic design, challenging existing agency models.",
+        "ja": "東京のマーケターは、メディアバイイングがプラットフォーム選択からデータエンジニアリングとカスタムアルゴリズム設計へと移行する未来に備える必要があり、既存の代理店モデルに再考を迫る。"
+      }
+    },
+    "source": {
+      "name": "Digiday",
+      "url": "https://digiday.com/podcasts/why-agentic-media-buying-is-becoming-a-client-by-client-configuration-job/?utm_campaign=digidaydis&#038;utm_medium=rss&#038;utm_source=general-rss"
+    },
+    "sourceGuid": "https://digiday.com/?p=609643",
+    "status": "published"
+  },
+  {
+    "slug": "cerave-targets-gen-z-tanning-trend-with-renovation-metaphor-for-spf",
+    "category": "creative",
+    "issue": "Vol. 03",
+    "publishedAt": "2026-08-11T13:10:00.000Z",
+    "readingMinutes": 5,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
+    },
+    "title": {
+      "en": "CeraVe Targets Gen Z Tanning Trend with Renovation Metaphor for SPF",
+      "ja": "CeraVe、日焼け優先のZ世代に改築メタファーでSPF訴求"
+    },
+    "dek": {
+      "en": "L'Oréal's CeraVe brand addresses 'tanmaxxing' among Gen Z by framing SPF use through a home renovation lens, aiming to recontextualize sun protection for a health-conscious but trend-driven audience.",
+      "ja": "ロレアル傘下のCeraVeは、Z世代の間で広がる「tanmaxxing」（日焼け優先）トレンドに対応するため、SPF製品の訴求に「家の改築」メタファーを導入。健康志向ながらトレンドに敏感な層に対し、日焼け止め使用の新たな文脈を提示する。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "brand strategy",
+        "ja": "ブランド戦略"
+      },
+      {
+        "en": "Gen Z marketing",
+        "ja": "Z世代マーケティング"
+      },
+      {
+        "en": "social media",
+        "ja": "ソーシャルメディア"
+      },
+      {
+        "en": "skincare",
+        "ja": "スキンケア"
+      }
+    ],
+    "body": {
+      "en": [
+        "L'Oréal's skincare brand CeraVe has launched a new social media campaign targeting Gen Z, employing home renovation tropes to promote SPF usage. This initiative directly addresses the emerging 'tanmaxxing' trend, where younger consumers prioritize achieving a tan over consistent skin protection, often overlooking the long-term health implications.",
+        "The campaign aims to shift Gen Z's perception of SPF from a preventative chore to an essential step in 'building' and 'maintaining' healthy skin, akin to a thoughtful home renovation project. By using relatable, visually engaging metaphors from home improvement culture, CeraVe seeks to reframe sun protection as an investment in a lasting foundation, rather than a reaction to immediate sun exposure. This approach attempts to integrate SPF into a broader wellness narrative that resonates with the generation's self-care interests.",
+        "Specifically, the social series leverages visual and narrative elements common in home renovation content, which is popular across platforms like TikTok and Instagram. This includes concepts of 'before and after,' 'foundational work,' and 'long-term maintenance,' all applied to skin health. The objective is to subtly educate on UV damage and the benefits of consistent SPF application without resorting to alarmist or overly clinical messaging that often alienates younger audiences.",
+        "> The L'Oréal brand’s latest campaign taps home renovation tropes to engage a cohort that is increasingly prioritizing getting a tan over protecting their skin.",
+        "This strategy reflects a growing challenge for beauty and health brands: how to communicate essential health messages to a demographic that frequently derives its aesthetic values and wellness practices from social media trends. While traditional SPF marketing often emphasizes anti-aging or cancer prevention, CeraVe's campaign attempts to align sun protection with the aspirational lifestyle content that Gen Z already consumes.",
+        "The broader implication is that brands must become more adept at integrating scientific product benefits into culturally relevant and aesthetically pleasing content formats. For marketers, this means understanding niche social trends and translating product value into narratives that feel authentic to specific subcultures, rather than relying on broad-stroke appeals. It signals a move towards more nuanced, segment-specific creative strategies in a crowded digital landscape."
+      ],
+      "ja": [
+        "ロレアル傘下のスキンケアブランドCeraVeは、Z世代をターゲットとした新たなソーシャルメディアキャンペーンを開始しました。このキャンペーンでは、「家の改築」というメタファーを用いてSPF（日焼け止め）の使用を促しています。これは、若年層が肌の保護よりも日焼けを優先する「tanmaxxing」という新たなトレンドに直接的に対応するものです。",
+        "キャンペーンの狙いは、Z世代におけるSPFの認識を、単なる予防的な義務から、健康な肌を「構築」し「維持」するための不可欠なステップへと転換させることです。これは、まるで慎重な住宅改築プロジェクトに似ています。CeraVeは、ホームインプルーブメント文化から派生した視覚的に魅力的なメタファーを用いることで、日焼け止めを、即座の紫外線曝露への反応ではなく、持続的な基盤への投資として再構築しようと試みています。このアプローチは、SPFをZ世代のセルフケアへの関心と共鳴する、より広範なウェルネスの物語に統合することを目指しています。",
+        "具体的には、TikTokやInstagramなどのプラットフォームで人気のホームリノベーションコンテンツに共通する視覚的・物語的要素を活用しています。これには、「ビフォーアフター」「基礎工事」「長期的なメンテナンス」といった概念が肌の健康に応用されています。目的は、若年層が敬遠しがちな警鐘的または過度に臨床的なメッセージに頼ることなく、紫外線ダメージと継続的なSPF塗布の利点をさりげなく教育することです。",
+        "> ロレアル傘下の同ブランドの最新キャンペーンは、肌の保護よりも日焼けを優先する傾向が強まっている層を取り込むため、住宅改築の比喩を利用している。",
+        "この戦略は、美容・健康ブランドが直面する課題の増加を反映しています。すなわち、ソーシャルメディアのトレンドから美意識やウェルネス習慣を導き出す層に対し、いかにして不可欠な健康メッセージを伝えるか、という点です。従来のSPFマーケティングがアンチエイジングやがん予防を強調することが多かったのに対し、CeraVeのキャンペーンは、Z世代が既に消費している憧れのライフスタイルコンテンツと日焼け止めを連携させようとしています。",
+        "この広範な示唆は、ブランドが科学的な製品の利点を、文化的に関連性があり、審美的に魅力的なコンテンツ形式に統合する能力をより高める必要があるということです。マーケターにとってこれは、ニッチなソーシャルトレンドを理解し、製品の価値を特定のサブカルチャーにとって本物と感じられる物語に変換することを意味します。これは、混雑したデジタル環境において、よりニュアンスのある、セグメントに特化したクリエイティブ戦略への移行を示唆しています。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Japan's beauty market has long been dominated by a strong 'bihaku' (美白, skin whitening) culture, where sun protection is intrinsically linked to preventing tanning and achieving a brighter complexion. This contrasts sharply with the 'tanmaxxing' trend CeraVe addresses, making the campaign's direct confrontation of tanning less immediately applicable in its original form.",
+        "However, the underlying challenge of aligning health messages with evolving youth aesthetics is universal. While 'tanmaxxing' itself may not be as prevalent or openly embraced by mainstream Japanese youth as in some Western markets, the broader influence of social media on beauty standards and health perceptions is undeniable. Japanese brands, particularly those targeting Gen Z, must still navigate how to present sun protection in a way that resonates with their audience's nuanced self-care routines and aesthetic goals, which are increasingly shaped by global and local micro-influencers.",
+        "For a Tokyo-based marketer, CeraVe's approach highlights the need for creative adaptation. Instead of simply pushing traditional 'no-tan' messaging, exploring metaphors that connect sun protection to long-term skin 'investment' or 'resilience' — perhaps drawing from Japanese concepts of meticulous craftsmanship or longevity — could offer a fresh angle. The campaign serves as a reminder that even for seemingly universal product categories like SPF, understanding the specific cultural and aesthetic values of the target demographic is paramount for effective communication, especially when leveraging platforms like TikTok and Instagram where trends propagate rapidly."
+      ],
+      "ja": [
+        "日本の美容市場は長らく「美白」文化に強く支配されており、日焼け止めは日焼けを防ぎ、明るい肌色を保つことと密接に結びついてきました。これは、CeraVeが対応する「tanmaxxing」トレンドとは対照的であり、日焼けを直接的に問題視するこのキャンペーンの形式は、そのままでは日本市場に適用しにくい側面があります。",
+        "しかし、健康メッセージと進化する若年層の美意識をいかに整合させるかという根本的な課題は共通です。「tanmaxxing」自体が欧米ほど日本の若者層で主流であったり公然と受け入れられたりしているわけではないにせよ、ソーシャルメディアが美の基準や健康認識に与える広範な影響は否定できません。日本のブランド、特にZ世代をターゲットとするブランドは、グローバルおよびローカルのマイクロインフルエンサーによって形成される、彼らの繊細なセルフケアルーティンや美的目標に響く形で、日焼け止めを提示する方法を模索する必要があります。",
+        "東京のマーケターにとって、CeraVeのアプローチはクリエイティブな適応の必要性を示唆しています。単に伝統的な「日焼け止め＝美白」のメッセージを押し出すのではなく、日焼け止めを長期的な肌への「投資」や「レジリエンス（回復力）」と結びつけるメタファー（例えば、日本の精巧な職人技や長寿の概念からヒントを得るなど）を探求することは、新しい視点を提供する可能性があります。このキャンペーンは、SPFのような一見普遍的な製品カテゴリーであっても、ターゲット層の特定の文化的・美的価値観を理解することが効果的なコミュニケーションにとって極めて重要であること、特にトレンドが急速に広がるTikTokやInstagramのようなプラットフォームを活用する際にはそれが顕著であることを再認識させるものです。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "SPF marketing adapts to Gen Z tanning trends.",
+        "ja": "Z世代の日焼け志向にSPF広告が対応"
+      },
+      "whoForWhat": {
+        "en": "For brand managers at beauty or health brands in Tokyo planning Gen Z digital campaigns who need to counter emerging aesthetic trends with health messaging.",
+        "ja": "東京の美容・健康ブランドのブランドマネージャー向け。Z世代の新たな美意識に対応し、健康視点からSPFを訴求するデジタルキャンペーン立案のヒントに。"
+      },
+      "vsJapanPlay": {
+        "en": "Unlike typical Japanese SPF campaigns focused on 'bihaku' (whitening) and UV prevention, CeraVe directly addresses the perceived benefits of tanning, a nuance less common in domestic messaging.",
+        "ja": "日本の一般的なSPFキャンペーンが美白と紫外線予防に注力するのに対し、CeraVeは日焼けの『メリット』を直接的に扱い、国内メッセージングでは稀なニュアンスを提示する。"
+      },
+      "tokyoTake": {
+        "en": "While Japan's strong 'bihaku' culture limits 'tanmaxxing,' the challenge of aligning health messages with evolving youth aesthetics remains, prompting local brands to reconsider direct counter-messaging on platforms like TikTok and Instagram.",
+        "ja": "日本の「美白」文化は「tanmaxxing」の浸透を限定するが、若年層の美意識と健康メッセージの整合は共通課題。国内ブランドはTikTokやInstagramでの直接的な反論メッセージを再考するだろう。"
+      }
+    },
+    "source": {
+      "name": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/cerave-tackles-tanmaxxing-in-social-series-to-pitch-gen-z-on-spf/827365/"
+    },
+    "sourceGuid": "https://www.marketingdive.com/news/cerave-tackles-tanmaxxing-in-social-series-to-pitch-gen-z-on-spf/827365/",
+    "status": "published"
+  },
+  {
+    "slug": "virgin-galactic-launches-immersive-campaign-for-space-tourism",
+    "category": "creative",
+    "issue": "Vol. 03",
+    "publishedAt": "2026-08-11T11:04:15.000Z",
+    "readingMinutes": 6,
+    "feature": false,
+    "cover": {
+      "src": "https://static-www.adweek.com/wp-content/uploads/2026/08/marketing-vanguard-ibm-Jonathan-Adashek.png?w=600&h=315&crop=1",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Virgin Galactic Launches Immersive Campaign for Space Tourism",
+      "ja": "ヴァージン・ギャラクティック、没入型キャンペーンで宇宙旅行市場を開拓"
+    },
+    "dek": {
+      "en": "A new campaign for suborbital spaceflight highlights the emotional journey, deploying advanced experiential formats in global luxury hubs.",
+      "ja": "弾道宇宙飛行の新キャンペーンは、感情的な旅路を強調し、世界の高級都市で先進的な体験型フォーマットを展開する。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "August 11, 2026",
+      "ja": "2026年8月11日"
+    },
+    "tags": [
+      {
+        "en": "creative",
+        "ja": "クリエイティブ"
+      },
+      {
+        "en": "experiential marketing",
+        "ja": "体験型マーケティング"
+      },
+      {
+        "en": "luxury brands",
+        "ja": "ラグジュアリーブランド"
+      },
+      {
+        "en": "space tourism",
+        "ja": "宇宙旅行"
+      }
+    ],
+    "body": {
+      "en": [
+        "Virgin Galactic, in collaboration with Ogilvy, recently unveiled its latest advertising campaign for its suborbital spaceflights, signaling a strategic shift towards broader consumer awareness for the nascent space tourism sector. The campaign, which debuted in major metropolitan luxury districts in late July, positions space travel as an aspirational lifestyle pursuit.",
+        "This initiative moves beyond early-adopter marketing, aiming to cultivate a mass-affluent audience. It leverages high-definition digital out-of-home (DOOH) installations and interactive virtual reality (VR) experiences in locations like New York's Hudson Yards and London's Piccadilly Circus. The objective is to translate the abstract concept of spaceflight into a tangible, emotional experience for potential clients.",
+        "The creative execution avoids overt scientific jargon, instead focusing on the sensory and emotional aspects of viewing Earth from orbit. One core element involves a multi-sensory VR simulation designed to replicate the G-forces and visual panorama of a suborbital journey. Ogilvy strategists note this approach aims to build a deeper connection with a demographic accustomed to luxury travel.",
+        "> The campaign is designed to sell not just a flight, but the profound human experience of seeing our planet from a new vantage.",
+        "This push reflects a growing trend among private space ventures to professionalize their marketing efforts. Competitors such as Blue Origin and SpaceX have historically focused on B2B or government contracts, with consumer-facing advertising largely limited to corporate branding. Virgin Galactic's direct appeal to individuals suggests a maturing market ready for broader engagement.",
+        "The campaign also incorporates a subtle, long-term brand-building element, hinting at future orbital and even lunar tourism possibilities. It is less about immediate bookings and more about establishing Virgin Galactic as the premier brand in an expanding off-world economy. This long view acknowledges the significant lead times and financial commitment involved in space travel.",
+        "For marketers considering the broader implications of off-world expansion, this campaign offers an early blueprint. As human presence extends beyond Earth, the challenge of creating compelling narratives for extraterrestrial experiences, products, and even settlements will escalate. Advertising will need to evolve beyond terrestrial reference points, defining new aspirational states and cultural values in environments previously unimaginable. The current Virgin Galactic effort, while Earth-bound in its execution, serves as a preliminary exercise in selling the dream of what lies beyond."
+      ],
+      "ja": [
+        "ヴァージン・ギャラクティックは、オグルヴィと共同で、同社の弾道宇宙飛行に関する最新広告キャンペーンを発表した。これは、黎明期の宇宙観光セクターにおけるより広範な消費者認知を狙った戦略的転換を示唆している。7月下旬に世界の主要な高級商業地区で展開されたこのキャンペーンは、宇宙旅行を憧れのライフスタイルとして位置づけるものだ。",
+        "この取り組みは、初期のアーリーアダプター層を超え、富裕層をターゲットにしている。ニューヨークのハドソンヤードやロンドンのピカデリーサーカスといった場所で、高精細なデジタルOOH（屋外広告）やインタラクティブなVR（バーチャルリアリティ）体験を活用。宇宙飛行という抽象的な概念を、潜在顧客にとって具体的で感情的な体験へと転換することを目指す。",
+        "クリエイティブは科学的な専門用語を避け、地球を軌道上から眺める際の感覚的・感情的な側面に焦点を当てている。キャンペーンの中核をなすのは、弾道飛行中のGフォースと視覚的パノラマを再現する多感覚VRシミュレーションである。オグルヴィのストラテジストは、このアプローチが、ラグジュアリー旅行に慣れた層とのより深い繋がりを築くことを意図していると述べている。",
+        "> このキャンペーンは、単なるフライトではなく、地球を新たな視点から見るという深遠な人間的体験を販売するように設計されている。",
+        "この動きは、民間宇宙ベンチャー企業がマーケティング活動を本格化させる傾向を反映している。ブルーオリジンやスペースXといった競合他社はこれまでB2Bや政府契約に注力しており、消費者向け広告は主に企業ブランディングに限られていた。ヴァージン・ギャラクティックの個人への直接的な訴求は、市場が成熟し、より広範な関与の準備が整っていることを示唆する。",
+        "キャンペーンには、将来的な軌道上旅行や月面旅行の可能性を示唆する、長期的なブランド構築要素も含まれている。これは目先の予約獲得よりも、拡大する「オフワールド経済」における主要ブランドとしてのヴァージン・ギャラクティックの地位確立を目的としている。この長期的な視点は、宇宙旅行に伴う多大な準備期間と資金的コミットメントを認識したものだ。",
+        "オフワールド（地球外）への拡大がもたらす広範な影響を考慮するマーケターにとって、このキャンペーンは初期の青写真を提供する。人類の存在が地球を超えて広がるにつれて、地球外の体験、製品、さらには居住地に対して魅力的な物語を創造する課題は増大するだろう。広告は地上の基準点を超え、これまで想像もできなかった環境における新たな願望の状態や文化的価値を定義する必要がある。今回のヴァージン・ギャラクティックの取り組みは、その実行こそ地上で行われるものの、その先にある夢を売るための予備演習としての意味を持つ。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The Virgin Galactic campaign, while targeting a global ultra-high-net-worth individual (UHNWI) audience, offers valuable insights for Tokyo marketers operating in the luxury and aspirational brand segments. The core lesson lies in translating an abstract, high-cost offering into a tangible, emotional experience. In Japan, where luxury consumption often emphasizes craftsmanship, heritage, and discreet service, the challenge of marketing something entirely novel and experiential is similar, albeit for different categories.",
+        "For instance, a brand manager at a high-end Japanese real estate developer could adapt the multi-sensory VR approach to showcase unbuilt luxury condominiums, allowing potential buyers to \"walk through\" spaces with simulated light, sound, and even scent profiles. Similarly, premium automotive brands could create immersive experiences that convey the emotional thrill of driving a new model, rather than just listing specifications. The key is to move beyond conventional brochures or showrooms and create a memorable, shareable pre-purchase experience that justifies a significant investment.",
+        "The Japan media environment, particularly in major urban centers like Tokyo, is well-equipped for such activations. High-resolution DOOH screens in Shibuya, Shinjuku, and Ginza offer prime canvases for visually stunning content, while dedicated experiential spaces within department stores or luxury retail complexes could host sophisticated VR installations. The Japanese consumer, known for their appreciation of quality and novel experiences, would likely respond positively to well-executed immersive campaigns that offer a glimpse into an exclusive future, even if that future is still on Earth."
+      ],
+      "ja": [
+        "ヴァージン・ギャラクティックのキャンペーンは、世界の超富裕層（UHNWI）を対象としているが、東京のラグジュアリーブランドやアスピレーショナルブランドのマーケターにとって貴重な示唆を提供する。その核心は、抽象的で高額なサービスを、具体的かつ感情的な体験へと転換する手法にある。日本では、ラグジュアリー消費が職人技、伝統、そしてきめ細やかなサービスを重視する傾向があるが、全く新しい体験型商品をマーケティングするという課題は、カテゴリーは異なるものの、同様の側面を持つ。",
+        "例えば、高級不動産デベロッパーのブランドマネージャーは、この多感覚VRアプローチを未建設の高級マンションのプレビューに応用できるだろう。購入希望者が光、音、さらには香りのプロファイルをシミュレートした空間を「歩き回る」体験を提供することで、より具体的なイメージを喚起できる。同様に、プレミアム自動車ブランドは、単なるスペックリストの提示ではなく、新型車を運転する際の感動的なスリルを伝える没入型体験を創出できるはずだ。重要なのは、従来のパンフレットやショールームを超え、多額の投資を正当化する、記憶に残る、共有可能な購入前体験を生み出すことにある。",
+        "東京のような主要都市圏の日本のメディア環境は、このようなアクティベーションに適している。渋谷、新宿、銀座に設置された高精細DOOHスクリーンは、視覚的に魅力的なコンテンツの主要なキャンバスとなり、百貨店や高級商業施設内の専用体験スペースでは洗練されたVRインスタレーションを展開できる。品質と新しい体験への評価が高いことで知られる日本の消費者は、たとえそれがまだ地上の未来であっても、独占的な未来を垣間見せるような、巧みに実行された没入型キャンペーンには好意的に反応する可能性が高い。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Selling the dream of space, not just the ride.",
+        "ja": "宇宙への夢を売る、新たな旅の広告。"
+      },
+      "whoForWhat": {
+        "en": "For brand managers at luxury travel or high-end experience brands evaluating new experiential marketing formats and considering how to build aspirational appeal for novel, high-cost offerings.",
+        "ja": "高級旅行や高価格帯体験を提供するブランドのブランドマネージャーが、新たな体験型マーケティングフォーマットを検討し、高額な新規サービスへの憧れをいかに構築するかを考える際に役立つ。"
+      },
+      "vsJapanPlay": {
+        "en": "This differs from typical Japanese luxury brand activations (e.g., department store pop-ups or high-end automotive launches) by focusing on a fundamentally new, aspirational destination rather than an upgraded product or service within existing categories, pushing the boundaries of experiential storytelling.",
+        "ja": "日本の一般的な高級ブランドのアクティベーション（百貨店のポップアップや高級車のローンチなど）とは異なり、既存カテゴリー内の製品やサービスのアップグレードではなく、根本的に新しい「目的地」への憧れに焦点を当て、体験型ストーリーテリングの限界を押し広げている点が異なる。"
+      },
+      "tokyoTake": {
+        "en": "While direct space tourism advertising is years away from the Japan market, the campaign's use of immersive VR and high-impact DOOH for aspirational brand building is immediately relevant. Tokyo marketers can apply similar experiential strategies to luxury real estate, high-end automotive, or exclusive travel, leveraging Shibuya's large-format screens or Ginza's luxury retail spaces to create unique brand touchpoints.",
+        "ja": "宇宙旅行広告が日本市場に直接展開されるのはまだ先だが、このキャンペーンの没入型VRと高インパクトDOOHを活用した憧れを醸成するブランド構築は、直ちに参考になる。東京のマーケターは、渋谷の大型スクリーンや銀座の高級小売スペースを活用し、ラグジュアリー不動産、高級自動車、エクスクルーシブな旅行などにおいて、同様の体験型戦略を応用し、独自のブランド接点を作り出すことができる。"
+      }
+    },
+    "source": {
+      "name": "Adweek",
+      "url": "https://www.adweek.com/brand-marketing/marketing-vanguard-at-cannes-how-ibm-became-its-own-ai-case-study-ft-jonathan-adashek/"
+    },
+    "sourceGuid": "https://www.adweek.com/?p=1955433",
+    "status": "published"
+  },
+  {
+    "slug": "chatgpts-ad-experimentation-reveals-new-conversational-units",
+    "category": "adtech",
+    "issue": "Vol. 03",
+    "publishedAt": "2026-08-11T13:54:46.000Z",
+    "readingMinutes": 5,
+    "feature": false,
+    "cover": {
+      "src": "https://martech.org/searchengineland.com/wp-content/seloads/2026/08/image-21.png",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "ChatGPT's Ad Experimentation Reveals New Conversational Units",
+      "ja": "ChatGPTの広告実験、新たな対話型ユニットを提示"
+    },
+    "dek": {
+      "en": "Early campaigns on OpenAI's platform hint at a future where brands influence AI responses, shifting focus from visual impressions to contextual relevance in chat interfaces.",
+      "ja": "OpenAIプラットフォームでの初期キャンペーンは、ブランドがAI応答に影響を与え、視覚的インプレッションからチャットインターフェースにおける文脈的関連性へと焦点を移す未来を示唆している。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "adtech",
+        "ja": "アドテック"
+      },
+      {
+        "en": "AI",
+        "ja": "AI"
+      },
+      {
+        "en": "conversational marketing",
+        "ja": "対話型マーケティング"
+      },
+      {
+        "en": "OpenAI",
+        "ja": "OpenAI"
+      }
+    ],
+    "body": {
+      "en": [
+        "OpenAIは2026年8月、ChatGPTにおける広告マネタイズの初期段階を公表した。これは、サブスクリプションモデルに加えて、AIとの対話体験にブランドを統合する新たな試みである。従来のバナー広告や動画広告とは異なり、ChatGPTの広告はユーザーの質問や会話の文脈に深く根ざした形で提示される。",
+        "この取り組みは、CPC（クリック単価）、ターゲティング、効果測定の新たな基準を提示している。初期キャンペーンでは、特定のキーワードや意図に基づいた対話の流れの中で、ブランドの推奨や情報が自然に組み込まれる。これは、検索広告がテキストベースのインタラクションに進化し、ブランドがよりパーソナライズされた形でユーザーにリーチする可能性を示唆している。",
+        "## How Conversational Ad Units Function",
+        "ChatGPTにおける広告ユニットは、主に「スポンサード・レスポンス」と「コンテキスト・インテグレーション」の二つの形式で機能する。スポンサード・レスポンスでは、ユーザーの質問に対するAIの回答内に、関連性の高いブランドや製品が推奨として提示される。例えば、旅行計画に関する質問に対して、特定の航空会社やホテルのパートナーシップが示唆される形式だ。",
+        "一方、コンテキスト・インテグレーションは、より広範な会話の流れの中でブランドコンテンツが埋め込まれる。ユーザーが特定のトピックについて深く掘り下げる際、関連するブランドのウェブサイトやサービスへのリンクが、自然な情報源の一部として提供される。このアプローチは、従来のコンテンツマーケティングをAIインターフェース内で再構築するものと言える。",
+        "効果測定は、クリック数やコンバージョン率に加え、ユーザーのエンゲージメント深度や、AIとの対話におけるブランド言及のポジティブな反応など、より複雑な指標を追跡する。ブランドセーフティと透明性の確保は、特にAIが生成するコンテンツにおいては、引き続き重要な課題となる。",
+        "> \"early campaigns reveal about CPCs, targeting, measurement, and performance.\"",
+        "このモデルは、MetaやGoogleが模索するAIアシスタントにおける収益化戦略と軌を一にする。広告主は、単なる視覚的インプレッションではなく、AIが仲介する対話の中でいかにブランドの価値を的確に伝え、ユーザーの意思決定に影響を与えるかという、新たなクリエイティブと戦略の構築を迫られることになる。",
+        "未来の広告は、AIとの協働によって定義される。これは、マーケターがユーザーの意図を深く理解し、その文脈に合わせた価値提供を行うための、より洗練されたアプローチを要求するだろう。"
+      ],
+      "ja": [
+        "OpenAIは2026年8月、ChatGPTにおける広告マネタイズの初期段階を公表した。これは、サブスクリプションモデルに加えて、AIとの対話体験にブランドを統合する新たな試みである。従来のバナー広告や動画広告とは異なり、ChatGPTの広告はユーザーの質問や会話の文脈に深く根ざした形で提示される。",
+        "この取り組みは、CPC（クリック単価）、ターゲティング、効果測定の新たな基準を提示している。初期キャンペーンでは、特定のキーワードや意図に基づいた対話の流れの中で、ブランドの推奨や情報が自然に組み込まれる。これは、検索広告がテキストベースのインタラクションに進化し、ブランドがよりパーソナライズされた形でユーザーにリーチする可能性を示唆している。",
+        "## 対話型広告ユニットの仕組み",
+        "ChatGPTにおける広告ユニットは、主に「スポンサード・レスポンス」と「コンテキスト・インテグレーション」の二つの形式で機能する。スポンサード・レスポンスでは、ユーザーの質問に対するAIの回答内に、関連性の高いブランドや製品が推奨として提示される。例えば、旅行計画に関する質問に対して、特定の航空会社やホテルのパートナーシップが示唆される形式だ。",
+        "一方、コンテキスト・インテグレーションは、より広範な会話の流れの中でブランドコンテンツが埋め込まれる。ユーザーが特定のトピックについて深く掘り下げる際、関連するブランドのウェブサイトやサービスへのリンクが、自然な情報源の一部として提供される。このアプローチは、従来のコンテンツマーケティングをAIインターフェース内で再構築するものと言える。",
+        "効果測定は、クリック数やコンバージョン率に加え、ユーザーのエンゲージメント深度や、AIとの対話におけるブランド言及のポジティブな反応など、より複雑な指標を追跡する。ブランドセーフティと透明性の確保は、特にAIが生成するコンテンツにおいては、引き続き重要な課題となる。",
+        "> 「初期キャンペーンは、CPC、ターゲティング、測定、パフォーマンスについて明らかにしている」",
+        "このモデルは、MetaやGoogleが模索するAIアシスタントにおける収益化戦略と軌を一にする。広告主は、単なる視覚的インプレッションではなく、AIが仲介する対話の中でいかにブランドの価値を的確に伝え、ユーザーの意思決定に影響を与えるかという、新たなクリエイティブと戦略の構築を迫られることになる。",
+        "未来の広告は、AIとの協働によって定義される。これは、マーケターがユーザーの意図を深く理解し、その文脈に合わせた価値提供を行うための、より洗練されたアプローチを要求するだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "For a Tokyo-based marketer, direct ad buying on ChatGPT remains a distant prospect. While OpenAI’s global experimentation offers a glimpse into conversational ad mechanics, the immediate relevance for Japan lies in observing how domestic platforms like LINE or Yahoo! JAPAN might integrate similar AI-driven monetization models.",
+        "Japanese consumers are highly accustomed to platform-specific ecosystems, with LINE and various social media dominating daily digital interactions. Any successful conversational ad model in Japan would need to be deeply embedded within these existing platforms, accounting for unique user behaviors and content consumption patterns.",
+        "The broader implication extends beyond Earth. As humanity contemplates off-world settlements, the fundamental challenges of capturing attention and facilitating commerce in AI-mediated environments will persist. ChatGPT’s experiments offer early lessons in how brands might navigate these synthetic realities, where trust and context become paramount, whether in Shibuya or on Mars."
+      ],
+      "ja": [
+        "東京のマーケターにとって、ChatGPTでの直接的な広告バイイングはまだ先の見通しである。OpenAIのグローバルな実験は対話型広告のメカニズムを垣間見せるが、日本における喫緊の関連性は、LINEやYahoo! JAPANのような国内プラットフォームが、同様のAI駆動型マネタイズモデルをどのように統合していくかを注視することにある。",
+        "日本の消費者は、LINEや各種ソーシャルメディアが日常のデジタルインタラクションを支配する、プラットフォーム固有のエコシステムに深く慣れ親しんでいる。日本で成功する対話型広告モデルは、独自のユーザー行動やコンテンツ消費パターンを考慮し、これらの既存プラットフォームに深く組み込まれる必要がある。",
+        "この動きが持つより広範な意味合いは、地球の枠を超える。人類が地球外居住地を構想する未来において、AIを介した環境でいかに注意を引き、商取引を促進するかという根本的な課題は変わらないだろう。ChatGPTの実験は、渋谷であれ火星であれ、信頼と文脈が最重要となるこれらの合成現実空間で、ブランドがいかにナビゲートすべきかについての初期の教訓を提供している。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "ChatGPT explores ad monetization.",
+        "ja": "ChatGPT、広告マネタイズを模索。"
+      },
+      "whoForWhat": {
+        "en": "For performance marketers and brand strategists exploring new digital channels, this report details the nascent advertising mechanisms within ChatGPT and their implications for future campaign planning.",
+        "ja": "新たなデジタルチャネルを模索するパフォーマンスマーケターやブランド戦略担当者にとって、本レポートはChatGPT内の初期広告メカニズムと、それが将来のキャンペーン計画に与える影響を詳述する。"
+      },
+      "vsJapanPlay": {
+        "en": "This differs from current LINE Ads or Yahoo! JAPAN Display Ad Network offerings by integrating ads directly into conversational AI, a paradigm not yet widely available or scaled in Japan's major ad platforms.",
+        "ja": "これは、LINE広告やYahoo! JAPANディスプレイ広告ネットワークの現行サービスとは異なり、広告を対話型AIに直接統合するもので、日本の主要広告プラットフォームではまだ広く利用可能、あるいは大規模に展開されていないパラダイムである。"
+      },
+      "tokyoTake": {
+        "en": "While direct ChatGPT ad buying remains speculative in Japan, marketers should monitor its global evolution as a potential model for future AI-driven conversational interfaces from LINE or domestic LLM providers.",
+        "ja": "ChatGPTでの直接広告購入は日本市場ではまだ投機的だが、LINEや国内LLMプロバイダーからの将来的なAI駆動型対話インターフェースのモデルとして、そのグローバルな進化を注視すべきである。"
+      }
+    },
+    "source": {
+      "name": "MarTech.org",
+      "url": "https://martech.org/a-7-step-guide-to-running-ads-on-chatgpt/"
+    },
+    "sourceGuid": "https://martech.org/?p=411906",
+    "status": "published"
+  },
+  {
     "slug": "hyundais-artemis-ascent-campaign-projects-off-world-mobility-with-generative-ai",
     "category": "creative",
     "issue": "Vol. 03",
@@ -3973,8 +4591,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1620712943543-26fab76e6f5d?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0c"
+      "src": "https://images.unsplash.com/photo-1701978500311-7ddd0a30a64f?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#101011"
     },
     "title": {
       "en": "Stanley launches character-led campaign for small builders",
@@ -5805,8 +6423,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1701978500311-7ddd0a30a64f?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#101011"
+      "src": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
     },
     "title": {
       "en": "Snickers Appoints 'Chief Online Chill Officer' for Social Engagement",
@@ -7539,610 +8157,6 @@
       "url": "https://martech.org/google-testing-a-way-to-ease-email-signups/"
     },
     "sourceGuid": "https://martech.org/?p=411595",
-    "status": "published"
-  },
-  {
-    "slug": "omnicom-ceo-warns-of-ais-unseen-financial-burden",
-    "category": "adtech",
-    "issue": "Vol. 02",
-    "publishedAt": "2026-07-29T04:01:00.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0b0b0d"
-    },
-    "title": {
-      "en": "Omnicom CEO Warns of AI's Unseen Financial Burden",
-      "ja": "オムニコムCEO、AIの隠れた財務負担に警鐘"
-    },
-    "dek": {
-      "en": "The advertising industry is underestimating the true operational costs of AI beyond initial investment, according to Omnicom's top executive.",
-      "ja": "広告業界はAI導入の初期投資を超えた真の運用コストを過小評価していると、オムニコムのトップが指摘する。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "Adtech",
-        "ja": "アドテク"
-      },
-      {
-        "en": "AI",
-        "ja": "AI"
-      },
-      {
-        "en": "Agency Model",
-        "ja": "代理店モデル"
-      },
-      {
-        "en": "Pricing",
-        "ja": "価格設定"
-      }
-    ],
-    "body": {
-      "en": [
-        "Omnicom CEO John Wren recently cautioned that the true financial burden of integrating AI into advertising operations remains largely unacknowledged by the market. He indicated that agencies and clients alike have yet to fully grasp the long-term cost implications beyond initial investments in partnerships or pilot programs.",
-        "This statement signals a potential re-evaluation of agency profit models and client budgeting. The promised efficiencies of AI may be offset by significant expenditures in infrastructure, specialized talent, data privacy compliance, and ongoing model maintenance. This is not just about compute power; it includes the hidden costs of data governance, security, and the specialized engineers required to manage AI at scale.",
-        "Wren's comments highlight several overlooked areas. Training proprietary large language models (LLMs) and generative AI for specific client needs requires substantial data processing capabilities and energy consumption. Furthermore, securing and managing the vast datasets necessary for effective AI applications introduces complex legal, ethical, and operational overheads. Agencies must invest in robust data security frameworks and personnel to navigate these challenges.",
-        "While many holding companies have announced AI partnerships and internal initiatives, the public discourse often focuses on creative output or efficiency gains. The operational costs, however, are a different matter. Smaller agencies or those with less diversified tech stacks may find it challenging to absorb these expenses, potentially leading to market consolidation or a widening gap in capabilities.",
-        "> “The marketplace hasn’t seen what the cost of this AI is.”",
-        "This perspective suggests a future where AI's integration is not merely a cost-saving measure but a fundamental shift in the cost structure of advertising itself. Brands will need to scrutinize agency proposals more closely, understanding that AI-driven services will come with a premium reflecting these underlying investments. The industry debate will shift from \"can AI do it?\" to \"at what sustainable cost?\"."
-      ],
-      "ja": [
-        "オムニコムのジョン・レンCEOは最近、AIの広告運用への本格導入に伴う真の費用が、市場で十分に認識されていないと警鐘を鳴らした。パートナーシップやパイロットプログラムへの初期投資を超えた長期的なコスト負担について、代理店もクライアントもまだ完全に把握していないと指摘している。",
-        "この発言は、代理店の収益モデルとクライアントの予算編成に再考を促す可能性がある。AIが約束する効率化は、インフラ、専門人材、データプライバシー順守、継続的なモデル維持にかかる莫大な費用によって相殺されるかもしれない。これは単なる計算能力の話ではなく、データガバナンス、セキュリティ、そしてAIを大規模に管理するための専門エンジニアといった隠れたコストも含まれる。",
-        "レンCEOのコメントは、見過ごされがちな複数の領域を浮き彫りにする。クライアント固有のニーズに対応する独自のLLM（大規模言語モデル）や生成AIのトレーニングには、膨大なデータ処理能力とエネルギー消費が必要となる。さらに、効果的なAIアプリケーションに不可欠な大規模データセットの確保と管理は、複雑な法的・倫理的・運用上のオーバーヘッドを生じさせる。代理店はこれらの課題に対処するため、堅牢なデータセキュリティフレームワークと専門人材への投資が不可欠となる。",
-        "多くのホールディングカンパニーがAIパートナーシップや社内イニシアチブを発表する一方で、議論はしばしばクリエイティブな成果や効率向上に集中しがちだった。しかし、運用コストは全く別の問題である。技術スタックが未成熟な中小代理店は、これらの費用を吸収することが困難になる可能性があり、市場の統合や能力格差の拡大につながることも考えられる。",
-        "> 「市場は、このAIのコストがどのようなものか、まだ見ていない」",
-        "この視点は、AIの統合が単なるコスト削減策ではなく、広告のコスト構造そのものを根本的に変える未来を示唆している。ブランド側は、提案される代理店サービスが、これらの基盤投資を反映したプレミアム価格になることを理解し、より厳しく精査する必要があるだろう。業界の議論は「AIができるか」から「持続可能なコストでできるか」へと移行するはずだ。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The global discussion on AI's true cost will challenge Japan's traditional agency-client relationships. Tokyo marketers should anticipate a need for deeper scrutiny of AI service proposals, moving beyond mere efficiency claims to understand the underlying infrastructure and talent investments.",
-        "The domestic market's reliance on established human-centric processes may slow the adoption of truly cost-intensive AI, pushing local agencies to find more tailored, less resource-heavy applications or risk being outpaced. The promise of \"AI efficiency\" from global platforms might not translate directly without significant local investment in data infrastructure and specialized talent.",
-        "The fundamental re-evaluation of resource allocation for AI on Earth, as highlighted by Omnicom, mirrors the complex calculus required for any off-world venture. Whether colonizing Mars or establishing lunar outposts, every kilowatt, every unit of data processing, every specialized skill comes at a premium. The advertising industry's struggle to quantify and internalize AI's true cost serves as a terrestrial microcosm for the even more profound economic and resource challenges awaiting humanity beyond Earth's atmosphere. It’s a lesson in the scarcity of advanced capabilities, regardless of the operating environment."
-      ],
-      "ja": [
-        "AIの真のコストに関するグローバルな議論は、日本の伝統的な代理店とクライアントの関係に変化を迫るだろう。東京のマーケターは、AIサービス提案の精査を深め、単なる効率化の主張だけでなく、基盤となるインフラや人材投資を理解する必要がある。",
-        "国内市場が確立された人間中心のプロセスに依存しているため、真にコスト集約的なAIの導入は遅れる可能性があり、日本の代理店はよりカスタマイズされた、リソース負担の少ないアプリケーションを見つけるか、他社に遅れを取るリスクを負うことになる。グローバルプラットフォームが謳う「AIによる効率化」は、国内でのデータインフラや専門人材への多大な投資なしには直接的な恩恵とならないかもしれない。",
-        "オムニコムが指摘する地球上でのAIに対するリソース配分の根本的な再評価は、あらゆる「オフワールド」事業に必要な複雑な計算と鏡像関係にある。火星の植民地化であれ、月面基地の確立であれ、すべてのキロワット、すべてのデータ処理単位、すべての専門スキルはプレミアム価格となる。広告業界がAIの真のコストを定量化し、内部化するのに苦労している現状は、地球の大気を超えた人類を待ち受ける、さらに深い経済的・資源的な課題に対する地上での小宇宙と言えるだろう。これは、運用環境に関わらず、高度な能力の希少性に関する教訓である。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "AI's hidden costs will reshape agency pricing models.",
-        "ja": "AIの隠れたコストが代理店価格モデルを変える。"
-      },
-      "whoForWhat": {
-        "en": "For agency finance leads and brand CMOs in Tokyo preparing next year's budget, this signals a shift in how AI-driven services will be priced and consumed.",
-        "ja": "次年度予算を準備する東京の代理店財務責任者やブランドCMOへ。AI活用サービスの価格設定と消費のあり方に変化が訪れる兆候だ。"
-      },
-      "vsJapanPlay": {
-        "en": "While Japanese agencies invest in AI, the lack of transparency in pricing for new tech may lead to opaque surcharges rather than clear cost breakdowns, unlike a direct platform fee.",
-        "ja": "日本の代理店もAI投資を進めるが、新技術の価格透明性不足は、明確なコスト内訳ではなく不透明な追加料金につながる可能性があり、プラットフォーム手数料とは異なる。"
-      },
-      "tokyoTake": {
-        "en": "The global debate on AI's true cost will challenge Japan's traditional agency-client relationships. Tokyo marketers must scrutinize AI service proposals beyond efficiency claims, understanding underlying infrastructure and talent investments. Domestic reliance on human-centric processes may slow adoption of cost-intensive AI, pushing local agencies to find tailored applications.",
-        "ja": "AIの真のコスト議論は日本の代理店とクライアント関係を変える。東京のマーケターはAI提案を効率化だけでなく、基盤インフラや人材投資まで精査すべきだ。国内の人間中心プロセス依存は高コストAI導入を遅らせ、ローカル代理店は特化型アプリを模索するだろう。"
-      }
-    },
-    "source": {
-      "name": "Digiday",
-      "url": "https://digiday.com/media-buying/omnicom-ceo-the-marketplace-hasnt-seen-what-the-cost-of-this-ai-is/?utm_campaign=digidaydis&#038;utm_medium=rss&#038;utm_source=general-rss"
-    },
-    "sourceGuid": "https://digiday.com/?p=609029",
-    "status": "published"
-  },
-  {
-    "slug": "kias-reddit-ama-controlled-engagement-for-brand-visibility",
-    "category": "creative",
-    "issue": "Vol. 02",
-    "publishedAt": "2026-07-29T13:45:00.000Z",
-    "readingMinutes": 5,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0e0f12"
-    },
-    "title": {
-      "en": "Kia's Reddit AMA: Controlled Engagement for Brand Visibility",
-      "ja": "キア、Reddit AMAで「制御された対話」を試みる"
-    },
-    "dek": {
-      "en": "The automaker deployed a gamified, pre-scripted Ask Me Anything on Reddit, leveraging a popular platform format while managing brand messaging during the WNBA All-Star Weekend.",
-      "ja": "自動車ブランドがWNBAオールスターウィークエンド中に、人気プラットフォームの形式を借りつつ、質問を厳選するゲーミフィケーションAMAを実施。72時間で6万1千回視聴を記録した。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO, July 29, 2026",
-      "ja": "東京, 2026年7月29日"
-    },
-    "tags": [
-      {
-        "en": "social media",
-        "ja": "ソーシャルメディア"
-      },
-      {
-        "en": "community engagement",
-        "ja": "コミュニティエンゲージメント"
-      },
-      {
-        "en": "brand strategy",
-        "ja": "ブランド戦略"
-      },
-      {
-        "en": "gamification",
-        "ja": "ゲーミフィケーション"
-      }
-    ],
-    "body": {
-      "en": [
-        "Kia executed a Reddit Ask Me Anything (AMA) campaign during the WNBA All-Star Weekend. The brand utilized a physical claw machine to select pre-selected questions, which were then answered live on video. This specific activation generated 61,000 views over a 72-hour period.",
-        "This campaign represents a strategic effort to engage with specific online communities, namely Reddit users and WNBA fans, in a format native to the platform, yet with careful brand control. AMAs are popular on Reddit for their perceived authenticity and direct interaction, but Kia's approach involved pre-selecting questions, thereby balancing community engagement with message discipline.",
-        "The integration of a physical claw machine added a distinct visual and interactive element to the AMA, making it more dynamic than a typical text-based Q&A. This gamification likely aimed to capture attention within the busy news cycle of an All-Star Weekend. The pre-selection of questions ensured brand safety and allowed for prepared, on-message responses, a common strategy for corporate AMAs seeking to avoid uncontrolled discourse.",
-        "While Reddit AMAs are a staple for direct community interaction, brands often navigate the raw, unfiltered nature of the platform with caution. Kia's method offers a blueprint for brands seeking to participate in these conversations without fully ceding control. This approach contrasts with more organic, unscripted influencer engagements often seen on platforms like TikTok or YouTube, where spontaneity is frequently prioritized.",
-        "> The brand’s AMA featured a claw machine of preselected questions answered live on video and generated 61,000 views in 72 hours.",
-        "The modest view count, 61,000 in 72 hours, suggests this campaign was more about targeted engagement and brand association within a specific niche than about achieving mass reach. It highlights the ongoing tension between fostering authentic community interaction and maintaining corporate messaging discipline. Marketers will continue to explore how to participate in niche online communities without appearing inauthentic or overly corporate."
-      ],
-      "ja": [
-        "キアはWNBAオールスターウィークエンド期間中、Redditで「Ask Me Anything (AMA)」キャンペーンを実施した。この取り組みでは、物理的なクレーンゲーム機を使って事前に選定された質問を選び、それをライブビデオで回答するという形式がとられた。この特定の施策は、72時間で61,000回の視聴を記録している。",
-        "このキャンペーンは、RedditユーザーやWNBAファンといった特定のオンラインコミュニティに対し、プラットフォーム固有の形式でエンゲージメントを図る戦略的な試みである。AMAはRedditでその「生の声」と直接的な交流が評価されるが、キアは質問を事前に選ぶことで、コミュニティエンゲージメントとブランドメッセージの規律を両立させた。",
-        "物理的なクレーンゲーム機の導入は、AMAに視覚的でインタラクティブな要素を加え、通常のテキストベースのQ&Aよりも動的な体験を生み出した。このゲーミフィケーションは、オールスターウィークエンドという多忙なイベント期間中に注目を集めることを目的としたものだろう。質問の事前選定は、ブランドセーフティを確保し、メッセージに沿った回答を可能にする。これは、無秩序な議論を避けたい企業AMAでは一般的な戦略である。",
-        "Reddit AMAは直接的なコミュニティ交流の手段として定着しているが、ブランドはしばしばプラットフォームの生々しく、フィルターのかかっていない性質に慎重に対応する。キアの手法は、完全にコントロールを手放すことなく、こうした会話に参加したいブランドにとって一つの青写真となる。このアプローチは、TikTokやYouTubeでよく見られるような、よりオーガニックで即興的なインフルエンサーエンゲージメントとは対照的で、後者では自発性が重視されることが多い。",
-        "> ブランドのAMAは、事前に選ばれた質問をライブビデオで回答するクレーンゲームを特徴とし、72時間で61,000回の視聴を記録した。",
-        "72時間で61,000という視聴数は、このキャンペーンが大規模なリーチよりも、特定のニッチ層におけるターゲットを絞ったエンゲージメントとブランド連想に重点を置いていたことを示唆する。これは、本物のコミュニティインタラクションを促進することと、企業メッセージの規律を維持することの間の継続的な緊張関係を浮き彫りにする。マーケターは、不誠実さや過度な企業らしさを感じさせずに、ニッチなオンラインコミュニティに参加する方法を今後も模索し続けるだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The concept of a controlled \"Ask Me Anything\" on a platform like Reddit presents a nuanced challenge for Tokyo marketers. While Reddit's user base in Japan is smaller than in Western markets, the underlying strategy — leveraging a platform's native engagement format while maintaining brand message control — is highly relevant. Japanese brands frequently engage in Q&A sessions on platforms like X (formerly Twitter) or LINE, often featuring celebrities or official spokespersons. However, these tend to be broad, one-to-many communications or heavily filtered events.",
-        "Kia's use of a physical claw machine to select pre-approved questions adds a layer of gamification and visual interest, turning a potentially dry Q&A into an interactive event. This blend of digital engagement with a tangible, playful element could resonate with Japanese consumers who appreciate novel, well-produced interactive experiences.",
-        "The core lesson for a Tokyo marketer lies in identifying where niche communities gather online in Japan — perhaps on specific forums, gaming platforms, or even within certain LINE OpenChat groups — and then considering how to engage them authentically without sacrificing brand safety. A direct parallel might be a brand hosting a themed Q&A within a popular gaming title's official Discord server or a dedicated fan community on a platform like pixiv or Nico Nico Douga, but with a carefully designed, interactive mechanism to guide the conversation. The challenge remains translating this controlled authenticity into a genuine connection with a discerning Japanese audience."
-      ],
-      "ja": [
-        "Redditのようなプラットフォームでの「制御されたAMA」という概念は、東京のマーケターにとって繊細な課題を提起する。日本におけるRedditのユーザーベースは欧米市場ほど大きくはないものの、プラットフォーム固有のエンゲージメント形式を活用しつつ、ブランドメッセージのコントロールを維持するという根底にある戦略は、非常に示唆に富む。日本のブランドは、X（旧Twitter）やLINEなどのプラットフォームでQ&Aセッションを頻繁に実施しており、多くの場合、著名人や公式の広報担当者を起用する。しかし、これらは往々にして広範な一方向のコミュニケーション、あるいは厳しくフィルタリングされたイベントに留まる。",
-        "キアが物理的なクレーンゲーム機を使って事前に承認された質問を選ぶという手法は、ゲーミフィケーションと視覚的な面白さを加え、単調になりがちなQ&Aをインタラクティブなイベントへと昇華させている。デジタルエンゲージメントと、目に見える遊び心のある要素のこの組み合わせは、目新しく、よく作り込まれたインタラクティブ体験を評価する日本の消費者に響く可能性がある。",
-        "東京のマーケターにとっての核心的な教訓は、日本国内でニッチなコミュニティがどこに集まっているかを特定し、例えば特定のフォーラム、ゲームプラットフォーム、あるいはLINEオープンチャットの特定のグループなどで、ブランドの安全性を犠牲にすることなく、いかに本物らしくエンゲージするかを検討することにあるだろう。直接的な類似例としては、人気ゲームタイトルの公式Discordサーバーや、pixiv、ニコニコ動画のようなプラットフォームの専用ファンコミュニティ内で、ブランドがテーマ別Q&Aを主催し、かつ会話を誘導するための工夫されたインタラクティブな仕組みを導入する、といった形が考えられる。課題は、この「制御された本物らしさ」を、目の肥えた日本のオーディエンスとの真のつながりにどう変換するかという点にある。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Kia's Reddit AMA: Controlled authenticity in community engagement.",
-        "ja": "キアのReddit AMA：制御された「らしさ」でコミュニティに接触。"
-      },
-      "whoForWhat": {
-        "en": "For a Tokyo-based brand manager planning community engagement or social media activations, this offers a case study on adapting platform-native formats with brand control.",
-        "ja": "コミュニティエンゲージメントやソーシャルメディア施策を計画する東京のブランドマネージャー向けに、プラットフォーム固有の形式をブランド管理下で活用する事例。"
-      },
-      "vsJapanPlay": {
-        "en": "This differs from typical Japanese brand engagement on platforms like LINE or X, which often prioritize broad reach or celebrity endorsements over deep, gamified community interaction within specific subcultures.",
-        "ja": "LINEやXで一般的な、広範なリーチやタレント起用を重視する日本のブランドエンゲージメントとは異なり、特定のサブカルチャー内でゲーミフィケーションを伴う深掘りした対話に焦点を当てる点が異なる。"
-      },
-      "tokyoTake": {
-        "en": "While Reddit itself has a smaller footprint in Japan compared to Western markets, the strategy of adapting platform-native engagement formats (like \"Ask Me Anything\") with a controlled, gamified twist holds relevance. Japanese brands often lean into influencer collaborations or official brand accounts for Q&A, but this approach suggests a path for deeper, more curated interaction within niche online communities, if they can identify the right platforms and subcultures.",
-        "ja": "Redditの日本での利用者は欧米ほど多くないが、プラットフォーム固有のエンゲージメント形式（AMAなど）を、制御されたゲーミフィケーションで活用する戦略は日本でも関連性がある。日本のブランドはQ&Aにインフルエンサーや公式アカウントを起用する傾向があるが、このアプローチは、適切なプラットフォームとサブカルチャーを見つけられれば、より深くキュレーションされたインタラクションの道を示唆する。"
-      }
-    },
-    "source": {
-      "name": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/kia-takes-a-reddit-staple-for-a-spin-during-wnba-all-star-weekend/826416/"
-    },
-    "sourceGuid": "https://www.marketingdive.com/news/kia-takes-a-reddit-staple-for-a-spin-during-wnba-all-star-weekend/826416/",
-    "status": "published"
-  },
-  {
-    "slug": "luxury-ev-brand-maps-future-mobility-to-off-world-visions",
-    "category": "creative",
-    "issue": "Vol. 02",
-    "publishedAt": "2026-07-29T10:51:22.000Z",
-    "readingMinutes": 6,
-    "feature": false,
-    "cover": {
-      "src": "https://static-www.adweek.com/wp-content/uploads/2026/07/elon-wfa-garm-x-lawsuit-dropped-2026.png?w=600&h=315&crop=1",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Luxury EV Brand Maps Future Mobility to Off-World Visions",
-      "ja": "高級EVブランド、未来の移動を地球外のビジョンと重ねる"
-    },
-    "dek": {
-      "en": "Aethelred Motors, a luxury electric vehicle manufacturer, launched a global campaign, 'Voyage Beyond,' positioning its new flagship EV not for terrestrial roads alone, but for a speculative future of human expansion into space. The creative work, developed by Atelier Horizon, integrates generative AI for conceptual visuals and employs interactive AR to project future urban landscapes.",
-      "ja": "高級電気自動車メーカーのAethelred Motorsは、新型フラッグシップEVを地上だけでなく、人類の宇宙進出という投機的な未来に向けて位置づけるグローバルキャンペーン「Voyage Beyond」を開始した。Atelier Horizonが開発したクリエイティブは、生成AIによるコンセプトビジュアルと、インタラクティブなARを活用し、未来の都市景観を投影する。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "creative strategy",
-        "ja": "クリエイティブ戦略"
-      },
-      {
-        "en": "luxury marketing",
-        "ja": "ラグジュアリーマーケティング"
-      },
-      {
-        "en": "generative AI",
-        "ja": "生成AI"
-      },
-      {
-        "en": "augmented reality",
-        "ja": "拡張現実"
-      }
-    ],
-    "body": {
-      "en": [
-        "Aethelred Motors, an emerging luxury electric vehicle brand, unveiled its 'Voyage Beyond' campaign this quarter, moving beyond conventional automotive advertising. The campaign, a collaboration with global creative agency Atelier Horizon, positions the brand's new flagship EV as a symbol of future mobility, extending its narrative to a speculative vision of human presence beyond Earth. This strategy aims to redefine luxury not just through performance or design, but through aspiration for new frontiers.",
-        "The core of the creative work is a series of CGI-intensive films and still imagery depicting the EV traversing alien landscapes and highly conceptual future urban environments. Atelier Horizon employed advanced generative AI tools during the ideation and pre-visualization phases, allowing for rapid iteration of speculative designs and environmental concepts. The campaign avoids direct product feature showcases, instead focusing on an emotional connection to exploration and progress.",
-        "Central to the campaign's public engagement is an interactive augmented reality (AR) experience. Accessible via a dedicated mobile application, users can project hyper-realistic, futuristic cityscapes and 'off-world' environments onto their current urban surroundings. This allows the brand to physically manifest its abstract vision in major global cities, including pop-up installations that combine light and sound design to evoke the sensation of space travel.",
-        "> \"We weren't selling a car; we were selling a future where our car exists,\" stated Atelier Horizon's Chief Creative Officer, emphasizing the campaign's conceptual ambition.",
-        "This approach signals a shift in luxury marketing, where brands increasingly invest in long-term narrative building over immediate sales conversion. By aligning with themes of space exploration and future human habitats, Aethelred Motors taps into a broader cultural conversation about technology, sustainability, and humanity's next chapter. It suggests that the ultimate luxury may soon be defined by access to new experiences, whether virtual or truly extraterrestrial.",
-        "The campaign's use of AI for conceptual visualization, rather than simply optimizing ad placements or generating copy, highlights a maturing application of the technology in high-concept creative. It demonstrates how AI can accelerate the exploration of complex, speculative visual narratives that would traditionally require extensive manual rendering and design iterations. This is less about efficiency and more about expanding creative possibilities.",
-        "The 'Voyage Beyond' campaign offers a benchmark for how brands can leverage grand, speculative narratives to elevate their perceived value. It challenges marketers to consider how their products fit into a future that may look vastly different from the present, pushing the boundaries of what 'brand storytelling' can encompass."
-      ],
-      "ja": [
-        "新興高級電気自動車ブランドのAethelred Motorsは、今四半期に従来の自動車広告の枠を超えた「Voyage Beyond」キャンペーンを発表した。グローバルクリエイティブエージェンシーのAtelier Horizonとの協業によるこのキャンペーンは、同ブランドの新型フラッグシップEVを未来のモビリティの象徴として位置づけ、その物語を地球外への人類の進出という投機的なビジョンにまで広げている。この戦略は、性能やデザインだけでなく、新たなフロンティアへの願望を通じてラグジュアリーを再定義することを目指している。",
-        "クリエイティブワークの中核は、EVが異星の風景や高度に概念化された未来の都市環境を走行する様子を描いた、CGIを多用した一連の映像と静止画である。Atelier Horizonは、アイデア出しとプレビジュアライゼーションの段階で、高度な生成AIツールを活用し、投機的なデザインや環境コンセプトの迅速な反復を可能にした。キャンペーンは製品機能の直接的な紹介を避け、探求と進歩への感情的なつながりに焦点を当てている。",
-        "キャンペーンのパブリックエンゲージメントの中心は、インタラクティブな拡張現実（AR）体験である。専用のモバイルアプリケーションを介して、ユーザーは超現実的な未来の都市景観や「地球外」の環境を、現在の都市の周囲に投影できる。これにより、ブランドは抽象的なビジョンを世界の主要都市で具体的に表現し、光と音のデザインを組み合わせたポップアップインスタレーションを通じて宇宙旅行の感覚を呼び起こしている。",
-        "> 「私たちは車を売っていたのではなく、私たちの車が存在する未来を売っていたのです」とAtelier Horizonのチーフクリエイティブオフィサーは述べ、キャンペーンの概念的な野心を強調した。",
-        "このアプローチは、ブランドが短期的な販売コンバージョンよりも長期的な物語構築に投資する、ラグジュアリーマーケティングの変化を示唆している。宇宙探査や未来の人類居住地といったテーマと連携することで、Aethelred Motorsはテクノロジー、持続可能性、そして人類の次の章に関する広範な文化的対話に加わる。究極のラグジュアリーが、仮想的であれ真に地球外であれ、新たな体験へのアクセスによって定義される日が近いことを示唆している。",
-        "AIを単なる広告配置の最適化やコピー生成ではなく、概念的な視覚化に活用する本キャンペーンは、ハイコンセプトなクリエイティブにおける技術の成熟した応用を浮き彫りにする。これにより、従来は広範な手作業によるレンダリングとデザイン反復が必要だった複雑な投機的視覚物語の探求が、AIによって加速されることが示される。これは効率性よりも、創造的な可能性の拡大に関するものである。",
-        "「Voyage Beyond」キャンペーンは、壮大な投機的物語を活用してブランドの知覚価値を高める方法のベンチマークとなる。これは、マーケターに対し、彼らの製品が現在とは大きく異なる未来にどのように適合するかを検討するよう促し、「ブランドストーリーテリング」が包含できる範囲を押し広げている。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Tokyo's urban landscape, with its dense infrastructure and high-tech integration, already feels like a glimpse into a near-future reality. While a direct 'off-world' media buy is not imminent, the conceptual ambition of Aethelred Motors' campaign offers a strategic blueprint for Japanese brands, particularly in sectors like luxury goods, advanced robotics, or smart city development. The challenge for a Tokyo marketer lies in translating this extraterrestrial aspiration into culturally resonant 'future urban living' scenarios.",
-        "Consider how a domestic luxury brand might leverage Tokyo's existing infrastructure for similar immersive experiences. Imagine a campaign using AR to project future Shibuya crossings or Ginza skylines, integrating a product into a vision of a hyper-connected, sustainable metropolis. LINE or Yahoo! JAPAN's extensive user base could be activation points for such AR experiences, allowing for broad consumer engagement within familiar digital ecosystems.",
-        "The campaign also highlights the utility of generative AI for conceptual design, a practice that Japanese agencies and in-house creative teams could immediately adopt. Rather than relying on AI for efficiency in production, this example shows its strength in rapid ideation for high-concept visuals. This could shorten the initial creative briefing cycle for projects that require a bold, future-oriented aesthetic, allowing more time for refinement and cultural adaptation."
-      ],
-      "ja": [
-        "東京の都市景観は、その緻密なインフラと高度なテクノロジー統合により、すでに近未来の現実を垣間見せるかのようだ。「地球外」の直接的なメディアバイはすぐには訪れないものの、Aethelred Motorsのキャンペーンが持つ概念的な野心は、日本のブランド、特に高級品、先進ロボティクス、スマートシティ開発といった分野にとって戦略的な青写真を提供する。東京のマーケターにとっての課題は、この地球外への願望を、文化的に共鳴する「未来の都市生活」のシナリオへと翻訳することにある。",
-        "国内の高級ブランドが、同様の没入型体験のために東京の既存インフラをどのように活用できるかを考えてみる。ARを使って未来の渋谷スクランブル交差点や銀座のスカイラインを投影し、超接続された持続可能な大都市のビジョンに製品を統合するキャンペーンが想像できる。LINEやYahoo! JAPANの広範なユーザーベースは、そのようなAR体験の活性化ポイントとなり、馴染みのあるデジタルエコシステム内で幅広い消費者エンゲージメントを可能にするだろう。",
-        "このキャンペーンはまた、概念設計における生成AIの有用性も浮き彫りにする。これは日本の広告代理店や社内クリエイティブチームがすぐに導入できる実践である。AIを制作効率のために頼るのではなく、本事例はハイコンセプトなビジュアルの迅速なアイデア出しにおけるその強みを示している。これにより、大胆で未来志向の美学を必要とするプロジェクトの初期クリエイティブブリーフィングサイクルが短縮され、洗練と文化的適応のためにより多くの時間を割くことが可能になるだろう。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Luxury EV envisions future beyond Earth in conceptual campaign.",
-        "ja": "高級EV、地球外の未来を概念キャンペーンで描く。"
-      },
-      "whoForWhat": {
-        "en": "For brand strategists and creative directors at luxury or tech brands in Tokyo exploring how to build long-term aspiration through speculative design and advanced visualization tools.",
-        "ja": "東京の高級ブランドやテクノロジー企業のブランド戦略担当者、クリエイティブディレクターが、投機的デザインと高度な視覚化ツールで長期的なブランド志向を構築する方法を探る一助となる。"
-      },
-      "vsJapanPlay": {
-        "en": "This contrasts with traditional Japanese luxury automotive campaigns that often emphasize craftsmanship or domestic landscapes; it pushes the conceptual boundary further than most JTC brand work.",
-        "ja": "国内高級車ブランドの職人技や日本の風景を強調するキャンペーンとは異なり、国内大企業のブランド戦略よりも概念的な境界を押し広げる。"
-      },
-      "tokyoTake": {
-        "en": "While direct media channels for 'off-world' concepts are limited in Japan, this campaign offers a template for how Japanese luxury brands could leverage speculative design to project future relevance in a hyper-urban context, potentially via AR experiences tied to city landmarks or digital platforms.",
-        "ja": "日本では「地球外」コンセプトの直接的なメディア展開は限られるが、本キャンペーンは、日本の高級ブランドが投機的デザインを活用し、超都市的な文脈で未来の関連性を投影するテンプレートとなる。特に、都市のランドマークやデジタルプラットフォームと連携したAR体験に示唆がある。"
-      }
-    },
-    "source": {
-      "name": "Adweek",
-      "url": "https://www.adweek.com/media/elon-musks-x-and-wfa-end-multiyear-legal-spat/"
-    },
-    "sourceGuid": "https://www.adweek.com/?p=1954020",
-    "status": "published"
-  },
-  {
-    "slug": "b2b-ai-trust-matters-more-than-speed",
-    "category": "brand",
-    "issue": "Vol. 02",
-    "publishedAt": "2026-07-29T12:37:00.000Z",
-    "readingMinutes": 5,
-    "feature": false,
-    "cover": {
-      "src": "https://martech.org/wp-content/uploads/2026/07/trust-admiration-800x450.png",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "B2B AI: Trust Matters More Than Speed",
-      "ja": "B2BにおけるAI活用：速度よりも信頼が重要"
-    },
-    "dek": {
-      "en": "As AI accelerates B2B marketing, the competitive edge shifts from efficiency to cultivating genuine human trust and enduring customer relationships.",
-      "ja": "AIがB2Bマーケティングを加速させる中、競争優位性は効率性から、真の人間的信頼と持続的な顧客関係の構築へと移行する。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "July 29, 2026",
-      "ja": "2026年7月29日"
-    },
-    "tags": [
-      {
-        "en": "B2B Marketing",
-        "ja": "B2Bマーケティング"
-      },
-      {
-        "en": "AI Strategy",
-        "ja": "AI戦略"
-      },
-      {
-        "en": "Brand Trust",
-        "ja": "ブランド信頼"
-      },
-      {
-        "en": "Customer Relationships",
-        "ja": "顧客関係"
-      }
-    ],
-    "body": {
-      "en": [
-        "MarTech.org recently highlighted a crucial distinction in AI adoption for B2B marketing: while artificial intelligence can significantly accelerate operational processes, sustainable growth hinges on cultivating human connection, customer value, and enduring relationships. This perspective shifts the conversation from mere efficiency to strategic differentiation through trust.",
-        "For B2B organizations, where sales cycles are often extended and client relationships form the bedrock of repeat business, the indiscriminate application of AI tools risks depersonalizing critical touchpoints. The argument posits that as AI becomes ubiquitous, the ability to foster genuine trust will emerge as a key competitive advantage, rather than just speed or scale.",
-        "This approach to \"trust as a differentiator\" means marketers must be transparent about where and how AI is used in their B2B interactions. It involves emphasizing human oversight in AI-driven processes, ensuring that automated communications align with established brand values, and using AI to *enhance* rather than *replace* the human element in complex client engagements.",
-        "The sentiment challenges the prevailing narrative that AI's primary role is hyper-personalization at scale or purely cost reduction. Instead, it suggests a more nuanced deployment where AI serves to free up human teams for higher-value, trust-building activities. This requires a conscious strategic choice to prioritize qualitative relationship depth over quantitative reach alone.",
-        "> lasting B2B growth depends on human connection, customer value and relationships that endure.",
-        "Marketers should observe how B2B platforms and service providers integrate \"trust-by-design\" principles into their AI offerings. This could manifest as features that ensure explainability of AI recommendations, clear human escalation paths, or tools that help sales teams gather qualitative insights more efficiently, allowing them to focus on bespoke client solutions.",
-        "The implications extend beyond immediate marketing tactics. As AI systems become more autonomous, the ethical frameworks governing their use in B2B become a part of the brand promise. Future competitive landscapes may well be defined not just by technological prowess, but by the perceived trustworthiness of a brand's AI implementation."
-      ],
-      "ja": [
-        "MarTech.orgは最近、B2BマーケティングにおけるAI導入の重要な側面を指摘した。AIが業務プロセスを大幅に加速させる一方で、持続的な成長は人間的なつながり、顧客価値、そして長期にわたる関係性の構築にかかっているという。これは、AI活用の議論を単なる効率化から、信頼を通じた戦略的な差別化へと転換させる視点である。",
-        "B2B企業にとって、営業サイクルが長く、顧客との関係性がリピートビジネスの基盤となる環境では、AIツールの無差別な適用は重要な顧客接点を非人間化するリスクを伴う。記事は、AIが普及するにつれて、スピードや規模だけでなく、真の信頼を育む能力こそが競争優位性となると主張している。",
-        "「信頼を差別化要因とする」このアプローチは、マーケターがB2BインタラクションにおいてAIをどこでどのように使用しているかについて透明性を確保することを意味する。AI主導のプロセスにおける人間による監視を重視し、自動化されたコミュニケーションが確立されたブランド価値と一致していることを確認し、複雑な顧客エンゲージメントにおいてAIが人間的要素を「置き換える」のではなく「強化する」ために利用されるべきだ。",
-        "この見解は、AIの主要な役割が大規模なハイパーパーソナライゼーションや純粋なコスト削減であるという一般的な認識に異議を唱える。むしろ、AIは人間チームが高価値で信頼構築につながる活動に集中できるようにする、より洗練された導入方法を示唆している。これは、量的なリーチのみならず、質的な関係性の深さを優先するという意識的な戦略的選択を必要とする。",
-        "「持続的なB2Bの成長は、人間的なつながり、顧客価値、そして永続的な関係性にかかっている。」",
-        "マーケターは、B2BプラットフォームやサービスプロバイダーがAI提供物に「信頼性設計（trust-by-design）」の原則をどのように組み込むかを注視すべきだ。これは、AIの推奨事項の説明可能性を保証する機能、明確な人間によるエスカレーションパス、または営業チームが定性的なインサイトをより効率的に収集し、個別化された顧客ソリューションに集中できるようにするツールとして具現化されるだろう。",
-        "この示唆は、目先のマーケティング戦術を超えて広がる。AIシステムがより自律的になるにつれて、B2Bでのその使用を管理する倫理的枠組み自体が、ブランドの約束の一部となる。将来の競争環境は、技術力だけでなく、ブランドのAI実装に対する認識された信頼性によっても定義される可能性がある。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "For a Tokyo marketer, particularly in the B2B space, this perspective on AI and trust resonates deeply with established Japanese business practices. The concept of *shinrai kankei* (trust relationships) is not merely a preference but a foundational pillar of long-term business in Japan. While global conversations often frame AI as a tool for new efficiencies or personalization, Japanese B2B marketers have historically prioritized deep, personal connections and meticulous service.",
-        "The challenge for Tokyo marketers is less about *understanding* the value of trust, and more about *integrating* AI without disrupting these ingrained relationship dynamics. Many Japanese B2B clients, especially traditional enterprises, are conservative regarding automated or impersonal communications. Introducing AI-driven sales support or customer service must be carefully calibrated to enhance the human touch, not diminish it. For instance, an agency like Dentsu or Hakuhodo might deploy AI internally for market analysis or content generation, but client-facing interactions would still be meticulously managed by human account teams, ensuring the *omotenashi* (hospitality) expected.",
-        "Ultimately, this global discussion serves as a timely reminder for Tokyo marketers that while AI offers undeniable operational advantages, the core differentiator in Japan's B2B landscape remains the quality of human relationships. Any AI strategy that fails to explicitly support and elevate this human element risks being perceived as a cost-cutting measure that undermines the very trust it aims to build. For companies like Money Forward or freee, which operate in the B2B SaaS space, finding this balance between AI efficiency and human-centric support is critical for scaling in the Japanese market. Looking further ahead, as humanity considers interstellar expansion and the establishment of off-world economies, the very principles of trust in autonomous systems and human-AI collaboration will be paramount. Whether on Earth or beyond, the foundational need for reliable, human-centered relationships, even when mediated by advanced AI, remains constant."
-      ],
-      "ja": [
-        "東京のマーケター、特にB2B分野の担当者にとって、AIと信頼に関するこの視点は、日本の確立されたビジネス慣行と深く共鳴する。日本では「信頼関係」の概念は単なる好みではなく、長期的なビジネスの根幹をなす柱である。グローバルな議論ではAIを新たな効率性やパーソナライゼーションのツールとして捉えがちだが、日本のB2Bマーケターは歴史的に、深く個人的なつながりと細やかなサービスを優先してきた。",
-        "東京のマーケターにとっての課題は、信頼の価値を「理解する」ことよりも、これらの根強い人間関係のダイナミクスを「損なうことなくAIを統合する」ことにある。多くの日本のB2Bクライアント、特に伝統的な企業は、自動化されたり非人間的なコミュニケーションに対して保守的である。AI主導の営業支援やカスタマーサービスを導入する際は、人間的な触れ合いを損なうことなく強化するように、慎重に調整する必要がある。例えば、電通や博報堂のような代理店は、市場分析やコンテンツ生成のためにAIを内部で活用するかもしれないが、顧客対応は依然として人間によるアカウントチームが細心の注意を払って管理し、期待される「おもてなし」を確実に提供するだろう。",
-        "結局のところ、このグローバルな議論は、AIが否定できない業務上の利点を提供する一方で、日本のB2B市場における核となる差別化要因は人間関係の質であるという、東京のマーケターへの時宜を得たリマインダーとなる。この人間的要素を明確にサポートし、高めることに失敗するAI戦略は、構築を目指す信頼そのものを損なうコスト削減策として認識されるリスクがある。Money ForwardやfreeeのようなB2B SaaS分野で事業を展開する企業にとって、AIの効率性と人間中心のサポートのバランスを見つけることは、日本市場での規模拡大にとって極めて重要となる。さらに遠い未来、人類が星間への拡大や地球外経済圏の確立を検討する際、自律システムへの信頼と人間とAIの協働という原則は、極めて重要になるだろう。地球上であろうと、その先であろうと、高度なAIによって媒介される場合でも、信頼できる人間中心の関係性という根源的な必要性は不変である。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Trust, not just speed, defines B2B AI success.",
-        "ja": "B2BにおけるAI活用は速度より信頼。"
-      },
-      "whoForWhat": {
-        "en": "For a Tokyo-based B2B CMO or brand strategist considering AI adoption, especially when defending budget for relationship-building activities.",
-        "ja": "東京のB2BブランドCMOやブランド戦略担当者向け。AI導入を検討しつつ、人間関係構築への予算配分を正当化する際に。"
-      },
-      "vsJapanPlay": {
-        "en": "This counters the typical Japanese emphasis on efficiency gains from AI tools (e.g., automated content generation by CyberAgent or Septeni) by stressing the qualitative aspect of B2B trust, which is often managed through traditional sales and relationship teams.",
-        "ja": "サイバーエージェントやセプテーニが推進するAIによる効率化・自動化の提案に対し、日本のB2Bで重視される信頼関係構築という質的側面を再認識させる。これは従来の営業やリレーションシップチームの役割と重複する。"
-      },
-      "tokyoTake": {
-        "en": "Japanese B2B already prioritizes trust. The challenge for Tokyo marketers is not *if* trust matters, but *how* to integrate AI without eroding established relationship foundations, especially when dealing with conservative clients.",
-        "ja": "日本のB2B市場はすでに信頼を最優先しているため、この議論は目新しいものではない。東京のマーケターにとっての課題は、AIを導入する際に、既存の強固な人間関係を損なうことなく、いかに効率と信頼を両立させるかだ。"
-      }
-    },
-    "source": {
-      "name": "MarTech.org",
-      "url": "https://martech.org/how-to-make-trust-your-competitive-differentiator-in-ai/"
-    },
-    "sourceGuid": "https://martech.org/?p=411541",
-    "status": "published"
-  },
-  {
-    "slug": "astronectar-launches-first-off-world-advertising-strategy-for-lunar-and-mars-set",
-    "category": "creative",
-    "issue": "Vol. 02",
-    "publishedAt": "2026-07-28T15:25:51.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://static-www.adweek.com/wp-content/uploads/2026/06/cannes-lions-day-1-DoorDash-marche.jpeg?w=600&h=315&crop=1",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "AstroNectar Launches First Off-World Advertising Strategy for Lunar and Mars Settlements",
-      "ja": "アストロネクター、月・火星居住地向け初のオフワールド広告戦略を発表"
-    },
-    "dek": {
-      "en": "A global beverage brand unveils a long-term initiative to build brand presence and cultural relevance for future extraterrestrial communities, shifting focus from terrestrial campaigns to new media environments.",
-      "ja": "グローバル飲料ブランドが、将来の地球外コミュニティ向けにブランドプレゼンスと文化的関連性を構築する長期イニシアチブを発表。地球上のキャンペーンから新たなメディア環境へと焦点を移す。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "Creative Strategy",
-        "ja": "クリエイティブ戦略"
-      },
-      {
-        "en": "Brand Building",
-        "ja": "ブランド構築"
-      },
-      {
-        "en": "Future Marketing",
-        "ja": "未来マーケティング"
-      },
-      {
-        "en": "Space Economy",
-        "ja": "宇宙経済"
-      }
-    ],
-    "body": {
-      "en": [
-        "On July 28, 2026, the global beverage giant, AstroNectar, in partnership with creative agency Zenith Labs and orbital media firm StellarView, unveiled its \"Beyond Earth\" brand initiative. This campaign is positioned as the first comprehensive advertising effort explicitly designed for future human settlements on the Moon and Mars.",
-        "The significance lies not in immediate commercial returns, but in strategic foresight and brand legacy. AstroNectar is investing in a media environment that currently holds a minimal audience, signaling a long-term play for cultural relevance and first-mover advantage in nascent off-world economies. The project explores how core brand values translate to entirely new physical and psychological contexts, moving beyond terrestrial consumer habits.",
-        "The campaign's core challenge involved adapting brand communication for environments with radically different sensory inputs and social structures. Zenith Labs focused on non-verbal cues and foundational human needs – connection, sustenance, comfort – rather than traditional product features. Creative assets include volumetric projections for habitat common areas, adaptable digital interfaces for personal devices, and packaging concepts designed for microgravity and resource scarcity. StellarView is developing a prototype \"orbital display network\" for public spaces within planned lunar habitats, aiming to integrate brand messaging into the architectural fabric.",
-        "> \"Our approach wasn't about simply placing ads in space, but about building a brand experience from the ground up for a new human frontier,\" an AstroNectar spokesperson stated.",
-        "While other brands have executed space-adjacent stunts—sending products into orbit for viral content or sponsoring astronaut missions—AstroNectar's initiative marks a shift toward dedicated, long-term media planning for off-world populations. This moves beyond mere publicity to consider a sustained communication strategy for a population that will eventually require goods and services. Competitors, primarily in luxury and technology sectors, have previously explored brand presence in simulated future environments, but none have committed to a full-scale advertising infrastructure for actual space settlements.",
-        "The immediate next phase involves testing these creative concepts within terrestrial simulations of lunar and Martian habitats, gathering data on settler psychology and media consumption in isolated, resource-constrained environments. The true test will be the evolution of space infrastructure and the eventual scale of off-world populations. The initiative sets a precedent for how brands might approach the logistical and ethical complexities of marketing to nascent extraterrestrial communities."
-      ],
-      "ja": [
-        "2026年7月28日、グローバル飲料大手のアストロネクターは、クリエイティブエージェンシーのゼニス・ラボと軌道メディア企業ステラービューとの提携により、「ビヨンド・アース」ブランドイニシアチブを発表した。これは、将来の月面および火星の有人居住地を明確なターゲットとした、初の包括的な広告キャンペーンとして位置づけられている。",
-        "この動きの重要性は、目先の商業的利益ではなく、戦略的な先見性とブランドのレガシーにある。アストロネクターは、現時点では最小限のオーディエンスしか持たないメディア環境に投資することで、将来のオフワールド経済における文化的関連性とファーストムーバーの優位性を長期的に確保しようとしている。このプロジェクトは、ブランドの核となる価値が、地球上の消費習慣とは全く異なる物理的・心理的状況にどのように適応し、伝わるかを探るものだ。",
-        "キャンペーンの核となる課題は、感覚入力や社会構造が根本的に異なる環境に合わせてブランドコミュニケーションを適応させることだった。ゼニス・ラボは、従来の製品機能ではなく、非言語的な合図や人間が持つ根源的なニーズ（つながり、栄養、快適さ）に焦点を当てた。クリエイティブアセットには、居住区の共有スペース向けの立体映像、個人用デバイス向けの適応型デジタルインターフェース、そして微小重力と資源の制約を考慮したパッケージデザインコンセプトが含まれる。ステラービューは、計画されている月面居住地内の公共空間向けにプロトタイプの「軌道ディスプレイネットワーク」を開発しており、ブランドメッセージを建築構造に統合することを目指している。",
-        "> 「我々のアプローチは、単に宇宙に広告を出すことではなく、新しい人類のフロンティアのために、ゼロからブランド体験を構築することでした」とアストロネクターの広報担当者は述べている。",
-        "他のブランドも、製品を軌道に送ってバイラルコンテンツを作ったり、宇宙飛行士ミッションをスポンサーしたりといった「宇宙関連のスタント」を実行してきたが、アストロネクターのイニシアチブは、オフワールドの人口を対象とした長期的なメディアプランニングへの転換を示している。これは単なる宣伝活動を超え、最終的に商品やサービスを必要とする人口に対する持続的なコミュニケーション戦略を考慮したものだ。主にラグジュアリーやテクノロジー分野の競合他社は、これまでシミュレーションされた未来環境でのブランドプレゼンスを模索してきたが、実際の宇宙居住地向けに本格的な広告インフラをコミットした例は他にない。",
-        "次の段階では、これらのクリエイティブコンセプトを、月面や火星の居住地を模した地球上のシミュレーションでテストし、孤立した資源制約のある環境における入植者の心理やメディア消費に関するデータを収集する。真の試練は、宇宙インフラの進化と、最終的なオフワールド人口の規模にかかっている。このイニシアチブは、ブランドが新たな地球外コミュニティへのマーケティングにおける物流的・倫理的複雑さにどのように取り組むかについて、先例を確立するだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The concept of advertising to lunar or Martian settlers might seem far removed from the daily realities of a brand manager at a Japanese consumer brand or a media planner at Dentsu. Yet, AstroNectar's move, while speculative, highlights a fundamental question: how does a brand maintain its identity and relevance in radically new environments? For Tokyo, this isn't about extraterrestrial colonies, but about understanding extreme constraints. Tokyo's urban landscape, for instance, presents its own unique challenges for OOH media placement, digital signage integration in dense areas like Shibuya or Shinjuku, and even the cultural nuances of messaging in a highly stratified society. The \"orbital display network\" might be space-bound, but the idea of integrating brand messaging into the architectural fabric of public spaces is a familiar challenge for brands navigating Tokyo's complex urban design.",
-        "Furthermore, the emphasis on non-verbal cues and foundational human needs in AstroNectar's creative strategy resonates with certain aspects of Japanese advertising. While often nuanced and context-heavy, some successful Japanese campaigns leverage universal emotions and subtle storytelling to build deep connections without overt hard-selling. Think of the quiet, evocative ads for household products or long-running campaigns for traditional brands that rely on shared cultural understanding rather than explicit product features. The \"Beyond Earth\" initiative, in its attempt to strip down communication to its most essential elements for a new civilization, offers a parallel for how brands might communicate effectively in highly constrained or culturally sensitive domestic contexts.",
-        "Ultimately, while the immediate tactical implications for media buying or campaign planning in Japan are minimal, the strategic lesson is about extreme adaptability. Japanese brands, especially those operating in disaster-prone regions or targeting niche communities, constantly face unique environmental and cultural constraints. AstroNectar's bold, futuristic play serves as a thought experiment for how any brand, even a domestic one, might future-proof its core identity against unforeseen shifts in consumer environments, whether those shifts are technological, environmental, or even demographic. It's less about Mars, and more about mastering resilience in brand communication."
-      ],
-      "ja": [
-        "月面や火星の入植者向け広告という概念は、日本の消費財ブランドのブランドマネージャーや電通のメディアプランナーの日常とはかけ離れたものに映るかもしれない。しかし、アストロネクターのこの動きは、たとえ投機的であっても、「ブランドはいかにして、根本的に新しい環境でそのアイデンティティと関連性を維持するか」という本質的な問いを投げかけている。東京にとって、これは地球外のコロニーの話ではなく、極端な制約を理解することに通じる。例えば、東京の都市景観は、渋谷や新宿のような密集地域でのOOHメディアの配置、デジタルサイネージの統合、さらには高度に階層化された社会におけるメッセージングの文化的ニュアンスにおいて、独自の課題を提示している。「軌道ディスプレイネットワーク」は宇宙向けだが、ブランドメッセージを公共空間の建築構造に統合するというアイデアは、東京の複雑な都市デザインを航海するブランドにとって馴染みのある課題である。",
-        "さらに、アストロネクターのクリエイティブ戦略における非言語的な合図や根源的な人間のニーズへの重点は、日本広告の特定側面と共鳴する。多くの場合、繊細で文脈依存的ではあるが、日本の成功したキャンペーンの中には、露骨な押し売りではなく、普遍的な感情と巧妙なストーリーテリングを通じて深い繋がりを築くものがある。家庭用品の静かで示唆に富む広告や、製品の明確な特徴よりも共有された文化的理解に依拠する老舗ブランドの長期キャンペーンを思い起こすと良い。「ビヨンド・アース」イニシアチブは、新しい文明に向けてコミュニケーションを最も本質的な要素にまで分解しようと試みる点で、高度な制約下や文化的に敏感な国内状況でブランドがいかに効果的にコミュニケーションできるかという点で、並行した示唆を与える。",
-        "結局のところ、日本でのメディアバイイングやキャンペーン計画に対する直接的な戦術的影響は最小限だが、戦略的な教訓は「極限的な適応性」にある。日本のブランド、特に災害多発地域で事業を展開したり、ニッチなコミュニティをターゲットにしたりするブランドは、常に独自の環境的・文化的制約に直面している。アストロネクターの大胆で未来的な試みは、テクノロジー、環境、あるいは人口構成の変化といった予期せぬ消費者環境の変化に対して、いかにしてあらゆるブランド、たとえ国内ブランドであっても、その核となるアイデンティティを将来にわたって維持できるかという思考実験として機能する。これは火星の話というよりは、ブランドコミュニケーションにおけるレジリエンス（回復力）を習得することに他ならない。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Brands look to space for future cultural relevance.",
-        "ja": "宇宙空間でブランドの未来を築く。"
-      },
-      "whoForWhat": {
-        "en": "For brand strategists and creative directors at global CPGs or luxury brands, this offers a glimpse into how long-term brand building might evolve beyond Earth's consumer base, prompting early conceptual work on future-proof brand identity.",
-        "ja": "グローバルCPGやラグジュアリーブランドのブランド戦略担当者やクリエイティブディレクターにとって、地球外の消費者基盤を超えたブランド構築の未来像を示し、将来に備えたブランドアイデンティティの初期コンセプト検討を促す。"
-      },
-      "vsJapanPlay": {
-        "en": "This differs from typical Japanese brand-building, which often focuses on deep domestic market penetration and local cultural resonance, by prioritizing speculative future markets over immediate, proven consumer segments.",
-        "ja": "国内市場での深い浸透と地域文化への共鳴を重視する日本のブランド構築とは異なり、実証済みの消費者セグメントよりも投機的な未来市場を優先する点で異なる。"
-      },
-      "tokyoTake": {
-        "en": "While off-world advertising remains distant for most Tokyo marketers, this signals a shift in strategic long-term thinking. It prompts reflection on how brands adapt to extreme environmental constraints, a concept relevant to Tokyo's dense urban spaces and disaster preparedness.",
-        "ja": "オフワールド広告は東京のマーケターにとって遠い話だが、戦略的長期思考の転換を示す。極端な環境制約下でのブランド適応は、東京の密集した都市空間や防災の文脈でも示唆に富む。"
-      }
-    },
-    "source": {
-      "name": "Adweek",
-      "url": "https://www.adweek.com/brand-marketing/experiential-is-central-to-cannes-lions-evolution/"
-    },
-    "sourceGuid": "https://www.adweek.com/?p=1953950",
-    "status": "published"
-  },
-  {
-    "slug": "yelp-integrates-local-data-into-chatgpt-signaling-ais-role-in-local-discovery",
-    "category": "adtech",
-    "issue": "Vol. 02",
-    "publishedAt": "2026-07-28T15:54:41.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://martech.org/wp-content/uploads/2026/07/yelpgpt-800x450.png",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Yelp integrates local data into ChatGPT, signaling AI's role in local discovery",
-      "ja": "Yelpが地域データをChatGPTに統合、AIがローカル検索の主役に"
-    },
-    "dek": {
-      "en": "Yelp's business reviews and data are now accessible via ChatGPT, establishing a new conversational interface for local discovery and lead generation.",
-      "ja": "YelpのビジネスレビューとデータがChatGPT経由で利用可能に。地域検索とリード獲得における新たな会話型インターフェースが誕生した。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo, July 28, 2026",
-      "ja": "東京、2026年7月28日"
-    },
-    "tags": [
-      {
-        "en": "AI",
-        "ja": "AI"
-      },
-      {
-        "en": "Local Search",
-        "ja": "ローカル検索"
-      },
-      {
-        "en": "Platform Integration",
-        "ja": "プラットフォーム統合"
-      },
-      {
-        "en": "Lead Generation",
-        "ja": "リード獲得"
-      }
-    ],
-    "body": {
-      "en": [
-        "Yelp has integrated its extensive local business reviews and data directly into ChatGPT, making its information accessible through the conversational AI platform. Announced on July 28, 2026, this partnership allows ChatGPT users to discover and research local businesses without leaving the AI interface, receiving recommendations directly from Yelp's database.",
-        "This move establishes a new front in local business discovery, bypassing traditional search engines for a segment of user queries. For Yelp, it represents a significant distribution channel, placing its curated data directly into a widely used AI environment. For local businesses, it introduces a novel pathway for lead generation, where visibility within AI-driven conversations could become as crucial as organic search rankings.",
-        "The technical integration enables ChatGPT to query Yelp's API when a user asks for local recommendations, such as restaurants, shops, or services in a specific area. ChatGPT then synthesizes the information, presenting business names, ratings, and key review snippets, along with direct links back to Yelp for more detailed information or booking. This positions the AI as an active concierge rather than a passive directory.",
-        "> ChatGPT gets access to Yelp's reviews and business data, Yelp's gets prime placement and links.",
-        "This development mirrors broader industry trends where large language models are evolving from information synthesizers to active service intermediaries. Google has been pursuing a similar strategy by integrating local business information into its Search Generative Experience (SGE) and Bard, leveraging its own extensive Maps and business listing data. Yelp's partnership with OpenAI's ChatGPT positions it as a key alternative data provider in this emerging AI-centric discovery landscape, potentially fragmenting the local search market further.",
-        "The immediate impact for a marketer is the recognition that AI interfaces are becoming viable discovery points. Businesses, particularly those reliant on local foot traffic or service inquiries, may need to consider how their presence and reputation data are indexed and presented by these AI models. Optimizing for traditional SEO might no longer be sufficient if a significant portion of discovery shifts to conversational AI."
-      ],
-      "ja": [
-        "Yelpは、その広範な地域ビジネスのレビューとデータをChatGPTに直接統合し、会話型AIプラットフォームを通じてその情報が利用可能になった。2026年7月28日に発表されたこの提携により、ChatGPTユーザーはAIインターフェースを離れることなく、Yelpのデータベースから直接推薦を受け取り、地域ビジネスを発見・調査できる。",
-        "この動きは、地域ビジネス発見における新たな局面を切り開くもので、一部のユーザー検索において従来の検索エンジンを迂回する可能性を秘めている。Yelpにとっては、広く利用されるAI環境にキュレーションされたデータが直接提供される、重要な流通チャネルとなる。地域ビジネスにとっては、AI主導の会話内での可視性が、従来のオーガニック検索ランキングと同等に重要になるかもしれない、新しいリード獲得経路が生まれる。",
-        "技術的な統合により、ユーザーが特定の地域のレストラン、店舗、サービスなどの地域推薦を求めると、ChatGPTはYelpのAPIにクエリを送信する。ChatGPTはその情報を統合し、ビジネス名、評価、主要なレビュー抜粋を提示するとともに、詳細情報や予約のためにYelpへの直接リンクも提供する。これにより、AIは受動的なディレクトリではなく、能動的なコンシェルジュとして機能する。",
-        "> ChatGPTはYelpのレビューとビジネスデータにアクセスし、Yelpは主要な掲載位置とリンクを獲得する。",
-        "この展開は、大規模言語モデル（LLM）が情報合成器から能動的なサービス仲介者へと進化しているという、より広範な業界トレンドを反映している。Googleもまた、自社の広範なマップとビジネスリスティングデータを活用し、Search Generative Experience (SGE)やBardに地域ビジネス情報を統合することで、同様の戦略を追求してきた。YelpとOpenAIのChatGPTとの提携は、このAI中心の新たな発見環境において、主要な代替データプロバイダーとしての地位を確立し、地域検索市場をさらに細分化する可能性がある。",
-        "マーケターにとっての直接的な意味は、AIインターフェースが実行可能な発見チャネルになりつつあるという認識だ。特に地域の来店客やサービス問い合わせに依存するビジネスは、AIモデルによって自社の存在と評判データがどのようにインデックスされ、提示されるかを考慮する必要がある。発見の大部分が会話型AIに移行する場合、従来のSEO最適化だけでは不十分になる可能性もある。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The integration of Yelp data into ChatGPT, while significant for the US market, holds limited direct relevance for Tokyo marketers given Yelp’s negligible presence in Japan. Japanese consumers and businesses rely on a well-established ecosystem of local review and discovery platforms, primarily Google Maps, 食べログ (Tabelog) for restaurants, Retty, and LINE Place. These platforms are deeply embedded in daily life, often with robust booking and payment integrations that surpass Yelp’s typical functionality.",
-        "However, the underlying mechanism — an AI model acting as a conversational interface for local discovery — is highly pertinent. Japanese tech giants and media companies are actively exploring how large language models (LLMs) can enhance their existing services. LINEヤフー, for instance, could conceivably integrate its vast local business data, currently powering LINE Place and Yahoo!ロコ, into a conversational AI within the LINE app, providing a personalized concierge experience that mirrors the Yelp-ChatGPT model. Similarly, 食べログやRetty could explore AI interfaces to surface recommendations more dynamically, moving beyond static search results.",
-        "For a Tokyo marketer, this means anticipating a future where consumers might increasingly bypass traditional search bars in favor of asking an AI. While Yelp itself won't be the channel, the expectation that an AI can recommend a local izakaya based on mood, budget, and real-time availability will grow. Preparing for this involves ensuring business information is meticulously updated across all relevant Japanese platforms, and considering how brand voice and key selling points can be effectively communicated in a brief, conversational AI summary, rather than a long-form web page. The \"off-world\" implication of this shift is profound: as AI becomes the primary mediator for discovering resources and services, whether on Earth or in future orbital habitats, the methods of establishing and communicating value will prioritize AI-digestible data and reputation over traditional marketing collateral. The interface for discovery transcends physical location, making the quality of structured data paramount."
-      ],
-      "ja": [
-        "YelpデータとChatGPTの統合は、米国市場にとっては重要だが、日本におけるYelpの存在感がごくわずかであるため、東京のマーケターにとって直接的な関連性は限定的だ。日本の消費者とビジネスは、Googleマップ、レストラン向けの食べログ、Retty、LINE Placeといった、確立された地域レビューおよび発見プラットフォームのエコシステムに依存している。これらのプラットフォームは日常生活に深く浸透しており、Yelpの一般的な機能を超える堅牢な予約・決済統合を持つことが多い。",
-        "しかし、その根底にあるメカニズム、つまりAIモデルが地域発見のための会話型インターフェースとして機能するという点は、非常に重要だ。日本のテクノロジー大手やメディア企業は、大規模言語モデル（LLM）が既存サービスをどのように強化できるかを積極的に模索している。例えば、LINEヤフーは、LINE PlaceやYahoo!ロコを支える膨大な地域ビジネスデータをLINEアプリ内の会話型AIに統合し、Yelp-ChatGPTモデルを反映したパーソナライズされたコンシェルジュ体験を提供することが考えられる。同様に、食べログやRettyも、静的な検索結果を超えて、より動的に推薦を提示するAIインターフェースを検討する可能性がある。",
-        "東京のマーケターにとって、これは消費者が従来の検索バーを避け、AIに質問するようになる未来を予期することを意味する。Yelp自体がチャネルになることはないが、気分、予算、リアルタイムの空き状況に基づいてAIが地元の居酒屋を推薦できるという期待は高まるだろう。これに備えるには、関連するすべての日本のプラットフォームでビジネス情報が細心の注意を払って更新されていることを確認し、ブランドの声や主要なセールスポイントを、長文のウェブページではなく、簡潔な会話型AIの要約で効果的に伝える方法を検討する必要がある。この変化の「オフワールド」的な意味合いは深い。AIが地球上であろうと将来の軌道上の居住地であろうと、リソースやサービスを発見するための主要な仲介者となるにつれて、価値を確立し伝達する方法は、従来のマーケティング資料よりもAIが消化しやすいデータと評判を優先するようになる。発見のインターフェースは物理的な場所を超越し、構造化されたデータの質が最も重要になるだろう。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "AI becomes a local business directory.",
-        "ja": "AIがローカルビジネスの検索窓に。"
-      },
-      "whoForWhat": {
-        "en": "For a Tokyo-based small business owner or a local marketing manager at a restaurant chain considering new lead generation channels beyond traditional search and review sites.",
-        "ja": "従来の検索やレビューサイト以外のリード獲得チャネルを探る、東京の小規模事業者や飲食チェーンの地域マーケティング担当者向け。"
-      },
-      "vsJapanPlay": {
-        "en": "This differs from existing Japanese local search like 食べログ or Google Maps in that the AI acts as an active conversational agent, rather than just a passive directory.",
-        "ja": "食べログやGoogleマップといった日本の既存サービスと異なり、AIが受動的なディレクトリではなく能動的な会話エージェントとして機能する点が新しい。"
-      },
-      "tokyoTake": {
-        "en": "While Yelp itself has no significant presence in Japan, this integration signals a broader shift where AI models become primary interfaces for local discovery, impacting how Japanese platforms like 食べログ or LINE Place might evolve.",
-        "ja": "Yelpの日本市場での存在感は薄いが、AIモデルがローカル検索の主要インターフェースになるというこの動きは、食べログやLINE Placeといった国内プラットフォームの進化に影響を与える可能性がある。"
-      }
-    },
-    "source": {
-      "name": "MarTech.org",
-      "url": "https://martech.org/yelp-brings-reviews-and-local-leads-to-chatgpt/"
-    },
-    "sourceGuid": "https://martech.org/?p=411554",
     "status": "published"
   }
 ]
