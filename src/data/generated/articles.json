@@ -1,5 +1,513 @@
 [
   {
+    "slug": "algorithmic-black-boxes-reclaiming-visibility-in-ai-driven-campaigns",
+    "category": "adtech",
+    "issue": "Vol. 04",
+    "publishedAt": "2026-09-14T13:35:51.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://martech.org/wp-content/uploads/2026/08/AI-Performance-shakeup-no-text-800x450.png",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Algorithmic Black Boxes: Reclaiming Visibility in AI-Driven Campaigns",
+      "ja": "AI駆動型キャンペーンのブラックボックス化：マーケターは可視性を取り戻せるか"
+    },
+    "dek": {
+      "en": "As advertising platforms increasingly automate optimization with AI, marketers are losing sight of the underlying levers driving performance. A recent industry discussion highlights the struggle to measure true impact when algorithms obscure campaign mechanics, and what strategies can help regain control.",
+      "ja": "広告プラットフォームがAIによる最適化を自動化するにつれて、マーケターはパフォーマンスを駆動する根本的なレバーを見失っている。最近の業界議論では、アルゴリズムがキャンペーンのメカニズムを隠蔽する中で、真の効果測定がいかに困難になっているか、そしてコントロールを取り戻すための戦略が焦点となった。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, September 14, 2026",
+      "ja": "東京, 2026年9月14日"
+    },
+    "tags": [
+      {
+        "en": "adtech",
+        "ja": "アドテク"
+      },
+      {
+        "en": "AI",
+        "ja": "AI"
+      },
+      {
+        "en": "measurement",
+        "ja": "測定"
+      },
+      {
+        "en": "programmatic",
+        "ja": "プログラマティック"
+      }
+    ],
+    "body": {
+      "en": [
+        "The increasing automation within advertising platforms, particularly those leveraging AI for optimization, is creating a growing challenge for marketers: a lack of visibility into campaign levers. This issue, highlighted at the recent MarTech Conference, points to a shift where algorithms obscure the precise drivers of performance, complicating impact measurement and strategic adjustments. The core concern is how to maintain control and understanding in an environment where platforms aim for maximum efficiency through opaque means.",
+        "For years, platforms like Google Ads and Meta have incrementally introduced features that abstract away manual controls, moving towards more \"smart\" or \"advantage\" campaign types. While these promise efficiency and scale, the trade-off is often a reduction in granular data and direct levers for optimization. Marketers are finding it harder to identify which specific creative, audience segment, or placement truly contributes to a conversion, making it difficult to justify budget allocation or replicate success outside the platform's automated ecosystem. This makes incrementality testing particularly challenging.",
+        "The MarTech Conference discussion focused on strategies to navigate this opacity. One recurring theme was the necessity of robust first-party data strategies, allowing brands to bring their own intelligence to the platforms rather than relying solely on platform-generated insights. Another was the emphasis on incrementality measurement frameworks that can attribute value beyond last-click models, even when platform data is limited. This includes structured experiments and controlled tests to isolate the true effect of media spend.",
+        "> When algorithms hide your campaign levers, tracking true impact gets tricky.",
+        "This trend is not new; it is an acceleration of a decade-long shift towards programmatic automation. However, the current generation of AI-driven tools, such as Google's Performance Max or Meta's Advantage+ suite, pushes this further by making larger portions of the campaign setup and optimization process fully automated. The systems are designed to find the optimal mix across all available inventory and creative variations, but they rarely report back on the specific combinations that yielded the best results, leaving marketers with aggregated outcomes but little actionable insight into the 'how'.",
+        "The challenge extends beyond mere reporting. It impacts creative development, as A/B testing insights become harder to extract. It also affects media mix modeling (MMM), where the contribution of individual channels becomes a black box. Brands are effectively being asked to trust the algorithm, but without the data to verify its decisions or to learn from its successes and failures for future campaigns.",
+        "Moving forward, marketers are exploring methods like advanced statistical modeling and causal inference to deconstruct the black box. This includes leveraging external data sources, integrating with CDPs (Customer Data Platforms) to enrich audience profiles, and investing in internal data science capabilities. The goal is to build proprietary intelligence that can either inform platform algorithms more effectively or independently validate their reported performance."
+      ],
+      "ja": [
+        "AIによる最適化を謳う広告プラットフォームが増加する中、マーケターはキャンペーンの「レバー」（操作要因）が見えにくくなるという課題に直面している。先日開催された MarTech Conference で議論されたこの問題は、アルゴリズムがパフォーマンスの具体的な要因を隠蔽し、効果測定や戦略調整を複雑にしている現状を示している。プラットフォームが不透明な手段で効率最大化を目指す中で、マーケターがいかにコントロールと理解を維持するかが焦点だ。",
+        "Google 広告や Meta のようなプラットフォームは、長年にわたり手動コントロールを抽象化し、「スマート」や「Advantage」といった自動化されたキャンペーンタイプを導入してきた。これらは効率と規模を約束する一方で、多くの場合、詳細なデータや直接的な最適化レバーの削減と引き換えになっている。マーケターは、どのクリエイティブ、どのオーディエンスセグメント、どのプレースメントが実際にコンバージョンに貢献しているかを特定することが難しく、予算配分の正当化や、プラットフォームの自動化されたエコシステム外での成功再現が困難になっている。特に、インクリメンタリティ（増分効果）の測定が複雑になる。",
+        "MarTech Conference の議論では、この不透明性に対処するための戦略が中心だった。繰り返し提起されたテーマの一つは、強力なファーストパーティデータ戦略の必要性だ。これにより、ブランドはプラットフォームが生成するインサイトだけに頼るのではなく、自社独自のインテリジェンスをプラットフォームに提供できるようになる。もう一つは、ラストクリックモデルを超えた価値を帰属させられるインクリメンタリティ測定フレームワークの重視だ。プラットフォームからのデータが限られていても、構造化された実験や対照試験を通じて、メディア支出の真の効果を分離するアプローチが含まれる。",
+        "> アルゴリズムがキャンペーンのレバーを隠す時、真の効果測定は困難になる。",
+        "この傾向は新しいものではなく、プログラマティック自動化への10年にわたるシフトの加速に過ぎない。しかし、Google の Performance Max や Meta の Advantage+ スイートのような現在の AI 駆動型ツールは、キャンペーン設定と最適化プロセスの大部分を完全に自動化することで、これをさらに推し進めている。これらのシステムは、利用可能なすべての在庫とクリエイティブバリエーションの中から最適な組み合わせを見つけるように設計されているが、どの特定の組み合わせが最良の結果をもたらしたかを具体的に報告することはほとんどない。その結果、マーケターは集計された結果は得られるものの、「どのように」成功したかについての具体的な洞察はほとんど得られない。",
+        "課題は単なるレポーティングにとどまらない。A/B テストからの洞察抽出が困難になるため、クリエイティブ開発にも影響を及ぼす。また、メディアミックスモデリング（MMM）においても、個々のチャネルの貢献度がブラックボックス化する。ブランドは事実上アルゴリズムを信頼するよう求められるが、その決定を検証したり、将来のキャンペーンのために成功や失敗から学ぶためのデータが不足している。",
+        "今後、マーケターは高度な統計モデリングや因果推論といった手法を用いて、このブラックボックスを解明しようとしている。これには、外部データソースの活用、CDP（カスタマーデータプラットフォーム）との連携によるオーディエンスプロファイルの強化、そして社内データサイエンス能力への投資が含まれる。目標は、プラットフォームのアルゴリズムをより効果的に情報提供するか、あるいはプラットフォームが報告するパフォーマンスを独自に検証するための、独自のインテリジェンスを構築することだ。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The issues raised at the MarTech Conference resonate directly with the challenges faced by marketers in Tokyo. While global platforms like Google and Meta dominate a significant portion of digital ad spend here, their move towards automated, black-box optimization creates friction with traditional Japanese marketing practices. Japanese agencies and brand teams often prefer a higher degree of control and transparency over campaign mechanics, reflecting a culture that values detailed planning and consensus-building based on clear data.",
+        "For a media planner at a major Japanese agency like Dentsu or Hakuhodo, the shift towards opaque AI optimization means less direct input on creative rotation, audience targeting, or bid strategies within the platform. This makes it harder to align platform performance with broader integrated marketing strategies that often involve offline media, events, and unique local consumer insights. While LINE Ads Platform and Yahoo! JAPAN Ads offer similar automated features, they still tend to provide more accessible data and levers for local advertisers, partially due to their tighter integration with specific Japanese consumer behaviors and data ecosystems.",
+        "The practical implication for Tokyo marketers is a dual imperative: first, to invest aggressively in robust first-party data infrastructure and analytics capabilities, allowing them to independently measure incrementality and validate platform claims. Second, to develop strategies that blend the efficiency of automated global platforms with the nuanced control offered by local players, using their own data intelligence to bridge the gap in understanding. The goal is not to resist automation, but to augment it with proprietary insights that translate global efficiency into local market relevance and measurable impact."
+      ],
+      "ja": [
+        "MarTech Conference で提起された課題は、東京のマーケターが直面する現実と直接的に重なる。Google や Meta といったグローバルプラットフォームは、日本のデジタル広告費の大部分を占める一方で、AI による自動化されたブラックボックス最適化への移行は、日本の伝統的なマーケティング慣行との間に摩擦を生んでいる。日本の広告代理店やブランドチームは、キャンペーンのメカニズムに対してより高いレベルのコントロールと透明性を好む傾向があり、これは詳細な計画と明確なデータに基づいた合意形成を重視する文化を反映している。",
+        "電通や博報堂のような大手日本の代理店のメディアプランナーにとって、不透明な AI 最適化へのシフトは、プラットフォーム内でのクリエイティブのローテーション、オーディエンスターゲティング、入札戦略に対する直接的な入力が減少することを意味する。これにより、オフラインメディア、イベント、独自のローカル消費者インサイトを含む、より広範な統合マーケティング戦略とプラットフォームのパフォーマンスを連携させることが難しくなる。LINE広告プラットフォームやYahoo!広告も同様の自動化機能を提供するが、特定の日本の消費者行動やデータエコシステムとの密接な統合により、依然として国内広告主にはよりアクセスしやすいデータとレバーを提供していると言える。",
+        "東京のマーケターにとっての実践的な意味合いは、二つの喫緊の課題にある。第一に、堅牢なファーストパーティデータインフラと分析能力に積極的に投資し、プラットフォームの主張を独自に検証し、増分効果を測定できるようにすること。第二に、自動化されたグローバルプラットフォームの効率性と、国内プレーヤーが提供するきめ細やかなコントロールを融合させる戦略を開発し、自社のデータインテリジェンスを活用して理解のギャップを埋めることだ。目的は自動化に抵抗することではなく、グローバルな効率性をローカル市場の関連性と測定可能なインパクトに変換する独自のインサイトで、それを補強することにある。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Algorithms obscure campaign levers. Regaining visibility is key.",
+        "ja": "アルゴリズムがレバーを隠す。可視性の確保が鍵。"
+      },
+      "whoForWhat": {
+        "en": "For adtech specialists and media planners at agencies or in-house performance marketers, seeking to understand the true drivers of campaign performance beyond platform black boxes.",
+        "ja": "代理店のアドテク担当者やメディアプランナー、あるいは社内の運用型広告担当者が、プラットフォームのブラックボックスを超えてキャンペーンの真の成果要因を理解するための情報。"
+      },
+      "vsJapanPlay": {
+        "en": "Unlike a traditional Dentsu or Hakuhodo media plan with detailed rationale, these global platforms offer efficiency but demand trust, a challenge for Japanese marketers accustomed to granular control.",
+        "ja": "電通や博報堂の従来のメディアプランのような詳細な根拠とは異なり、グローバルプラットフォームは効率と引き換えに信頼を要求する。これはきめ細やかなコントロールに慣れた日本のマーケターにとって課題となる。"
+      },
+      "tokyoTake": {
+        "en": "Tokyo marketers face the same opacity with global platforms, but local players like LINE Ads and Yahoo! JAPAN Ads still offer more granular control. The challenge is integrating first-party data to inform these diverse systems.",
+        "ja": "東京のマーケターもグローバルプラットフォームで同様の不透明性に直面するが、LINE広告やYahoo!広告はより詳細なコントロールを提供する。多様なシステムにファーストパーティデータを連携させ、アルゴリズムを補完する戦略が重要となる。"
+      }
+    },
+    "source": {
+      "name": "MarTech.org",
+      "url": "https://martech.org/the-ai-performance-shake-up-whats-really-driving-results-across-channels-now/"
+    },
+    "sourceGuid": "https://martech.org/?p=412301",
+    "status": "published"
+  },
+  {
+    "slug": "publishers-adapt-to-zero-click-audience-behavior",
+    "category": "media",
+    "issue": "Vol. 04",
+    "publishedAt": "2026-09-14T12:41:00.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/Page-banner-1030-x-579-px-2.png",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Publishers Adapt to Zero-Click Audience Behavior",
+      "ja": "ゼロクリック時代のパブリッシャー戦略転換"
+    },
+    "dek": {
+      "en": "As search engines and social feeds increasingly provide direct answers, publishers face reduced direct traffic. This shift demands new approaches to audience engagement and monetization beyond traditional pageviews.",
+      "ja": "検索エンジンやソーシャルフィードが直接的な情報を提供するにつれ、パブリッシャーは直接訪問の減少に直面している。従来のページビューに依存しない、新たなオーディエンスエンゲージメントと収益化戦略が求められる。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "September 14, 2026",
+      "ja": "2026年9月14日"
+    },
+    "tags": [
+      {
+        "en": "media buying",
+        "ja": "メディアバイイング"
+      },
+      {
+        "en": "digital publishing",
+        "ja": "デジタル出版"
+      },
+      {
+        "en": "audience measurement",
+        "ja": "オーディエンス測定"
+      },
+      {
+        "en": "attention economy",
+        "ja": "アテンションエコノミー"
+      }
+    ],
+    "body": {
+      "en": [
+        "The digital publishing landscape is undergoing a fundamental shift as audiences increasingly consume content without ever clicking through to a publisher's website. This phenomenon, dubbed the 'zero-click era,' is driven by the rise of generative AI in search results, comprehensive social media feeds, and news aggregators that summarize information directly within their platforms.",
+        "This trend significantly impacts traditional publisher monetization models, which have long relied on direct traffic to generate ad impressions and collect first-party data. With fewer direct visits, publishers find it harder to build deep audience profiles or sell premium ad inventory based on on-site engagement. The challenge now is to maintain audience relationships and capture value when the interaction happens off-site.",
+        "Publishers are responding by exploring new revenue streams and engagement strategies. Some are focusing on subscription models, offering exclusive content that justifies a direct visit or paid access. Others are pivoting to direct deals with advertisers, leveraging their unique content and brand safety, even if the content is distributed across multiple platforms.",
+        "A key adaptation involves redefining 'audience engagement.' Instead of solely tracking pageviews, publishers are now prioritizing metrics like attention time, content shares, and brand mentions across various platforms. This requires a shift in measurement philosophy and a greater emphasis on understanding how content performs in distributed environments.",
+        "> \"The real battle for publishers is no longer just about owning the content, but owning the audience relationship, wherever that audience resides.\"",
+        "The implications extend to content strategy itself. Publishers must create content that is valuable enough to warrant a direct click, or designed to be effective even when consumed in snippets or summaries on external platforms. This often means investing in unique data, expert commentary, or highly engaging multimedia formats that stand out in crowded feeds. The emphasis is less on volume and more on distinctiveness and utility."
+      ],
+      "ja": [
+        "デジタル出版業界は、オーディエンスがパブリッシャーのウェブサイトに直接アクセスすることなくコンテンツを消費する「ゼロクリック時代」への根本的な転換期を迎えている。この現象は、検索結果における生成AIの台頭、包括的なソーシャルメディアフィード、そしてプラットフォーム内で直接情報を要約するニュースアグリゲーターの普及によって加速されている。",
+        "このトレンドは、長らく直接トラフィックによる広告インプレッションとファーストパーティデータ収集に依存してきた従来のパブリッシャーの収益モデルに大きな影響を与えている。直接訪問が減少することで、パブリッシャーは詳細なオーディエンスプロファイルを構築したり、オンサイトエンゲージメントに基づいたプレミアム広告在庫を販売したりすることが困難になっている。課題は、インタラクションがサイト外で発生する状況下で、オーディエンスとの関係を維持し、価値を捉えることだ。",
+        "パブリッシャーは、新たな収益源とエンゲージメント戦略を模索することで対応している。一部は購読モデルに注力し、直接訪問や有料アクセスを正当化する独占コンテンツを提供している。また、コンテンツが複数のプラットフォームに分散されていても、独自のコンテンツとブランドセーフティを武器に、広告主との直接取引に舵を切るパブリッシャーもいる。",
+        "重要な適応策の一つは、「オーディエンスエンゲージメント」の再定義である。ページビューのみを追跡するのではなく、パブリッシャーは現在、さまざまなプラットフォームでのアテンションタイム、コンテンツ共有、ブランド言及といった指標を優先している。これは測定哲学の転換と、分散型環境でコンテンツがどのように機能するかを理解することへのより大きな重点を必要とする。",
+        "> 「パブリッシャーにとって真の戦いは、もはやコンテンツを所有することだけでなく、オーディエンスがどこに存在しようとも、そのオーディエンスとの関係を所有することにある。」",
+        "その影響はコンテンツ戦略自体にも及ぶ。パブリッシャーは、直接クリックを促すほど価値のあるコンテンツ、あるいは外部プラットフォームでの断片や要約として消費されても効果的なコンテンツを作成する必要がある。これは多くの場合、独自のデータ、専門家の解説、または混雑したフィードの中で際立つ非常に魅力的なマルチメディア形式への投資を意味する。量は少なくても、独自性と実用性が重視されるようになっている。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "For Tokyo marketers, the zero-click era presents both challenges and opportunities, particularly given the unique media consumption habits in Japan. Platforms like LINE News, Yahoo! Japan News, SmartNews, and Gunosy already act as major content aggregators, meaning many Japanese consumers are accustomed to consuming news and articles without ever visiting the original publisher's site. This has long been a reality for domestic publishers, impacting their direct traffic and first-party data collection capabilities.",
+        "This trend reinforces the need for Japanese brands and agencies like Dentsu or Hakuhodo to re-evaluate how they value and measure publisher partnerships. Traditional media buys focused on impression volume or site visits might miss the true impact of content distributed across platforms. Instead, the focus should shift to metrics that capture actual attention and engagement within these aggregated environments, or to direct creative integrations that bypass the click altogether.",
+        "The implication for a Tokyo-based brand manager or media planner is a heightened need for sophisticated attribution models and a deeper understanding of platform-specific audience behaviors. It means moving beyond simple click-through rates and exploring partnerships that offer richer engagement data from aggregator platforms, or investing in content that drives brand affinity even when consumed in a zero-click context. The question is not just where the ad runs, but where the content truly resonates, regardless of the click."
+      ],
+      "ja": [
+        "東京のマーケターにとって、ゼロクリック時代は、日本特有のメディア消費習慣を考慮すると、課題と機会の両方をもたらす。LINEニュース、Yahoo!ニュース、SmartNews、Gunosyといったプラットフォームはすでに主要なコンテンツアグリゲーターとして機能しており、多くの日本の消費者は元のパブリッシャーサイトを訪れることなくニュースや記事を消費することに慣れている。これは国内のパブリッシャーにとって長らく現実であり、直接トラフィックとファーストパーティデータ収集能力に影響を与えてきた。",
+        "このトレンドは、日本のブランドや電通、博報堂のような代理店がパブリッシャーとのパートナーシップの価値と測定方法を再評価する必要があることを強く示唆している。インプレッション数やサイト訪問数に焦点を当てた従来のメディアバイイングでは、プラットフォーム全体に分散されたコンテンツの真の影響を見落とす可能性がある。代わりに、集約された環境内での実際のアテンションとエンゲージメントを捉える指標、あるいはクリックを完全に迂回する直接的なクリエイティブ統合へと焦点を移すべきだろう。",
+        "東京を拠点とするブランドマネージャーやメディアプランナーにとっての意味合いは、高度なアトリビューションモデルと、プラットフォーム固有のオーディエンス行動に対するより深い理解が強く求められることだ。これは、単純なクリック率を超え、アグリゲータープラットフォームからのより豊富なエンゲージメントデータを提供するパートナーシップを模索すること、あるいはゼロクリックの文脈で消費されてもブランド親和性を高めるコンテンツに投資することを意味する。問題は広告がどこに掲載されるかだけでなく、クリックの有無にかかわらず、コンテンツがどこで真に共鳴するかにある。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Publishers shift from clicks to attention in a distributed content world.",
+        "ja": "コンテンツ分散時代、パブリッシャーはクリックからアテンションへ。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo-based media planner or brand manager evaluating digital content partnerships, needing to justify media spend in a world where direct publisher site visits are less frequent.",
+        "ja": "直接訪問が減少するデジタルコンテンツパートナーシップを評価する東京のメディアプランナーやブランドマネージャー向け。メディア支出の正当化が求められる。"
+      },
+      "vsJapanPlay": {
+        "en": "This contrasts with traditional Japanese digital media buys that often emphasize site traffic or direct deals with major portal sites; it pushes for a more nuanced understanding of attention within aggregator platforms like LINE News or Yahoo! Japan News.",
+        "ja": "日本の従来のデジタルメディアバイイングがサイトトラフィックや大手ポータルとの直接取引を重視するのに対し、LINEニュースやYahoo!ニュースのようなアグリゲータープラットフォーム内でのアテンションのより繊細な理解を促す。"
+      },
+      "tokyoTake": {
+        "en": "Japanese media platforms like LINE and Yahoo! Japan have long aggregated content, making the zero-click reality a familiar challenge for domestic publishers. Tokyo marketers must now focus on platform-native engagement metrics and creative that performs without a direct site visit, rather than relying solely on traditional traffic-based KPIs.",
+        "ja": "LINEやYahoo! JAPANのような日本のメディアプラットフォームは長年コンテンツを集約しており、ゼロクリックの現実は国内パブリッシャーにとって既知の課題である。東京のマーケターは、従来のトラフィックベースのKPIに頼るのではなく、プラットフォームネイティブなエンゲージメント指標と、サイトへの直接訪問なしで機能するクリエイティブに焦点を当てる必要がある。"
+      }
+    },
+    "source": {
+      "name": "Digiday",
+      "url": "https://digiday.com/sponsored/the-state-of-publisher-audiences-in-the-zero-click-era/?utm_campaign=digidaydis&#038;utm_medium=rss&#038;utm_source=general-rss"
+    },
+    "sourceGuid": "https://digiday.com/?p=611435",
+    "status": "published"
+  },
+  {
+    "slug": "target-names-ex-hilton-cmo-to-lead-marketing-and-guest-experience",
+    "category": "brand",
+    "issue": "Vol. 04",
+    "publishedAt": "2026-09-14T20:37:14.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0e0e"
+    },
+    "title": {
+      "en": "Target names ex-Hilton CMO to lead marketing and guest experience",
+      "ja": "Target、元ヒルトンCMOをマーケティング・顧客体験責任者に起用"
+    },
+    "dek": {
+      "en": "Retail giant Target has appointed Mark Weinstein as Chief Marketing and Guest Experience Officer, signaling a strategic focus on integrated customer journeys.",
+      "ja": "米小売大手 Target が元ヒルトンCMOのマーク・ワインスタイン氏をチーフマーケティング＆ゲストエクスペリエンスオフィサーに指名。顧客体験の統合を重視する戦略的転換を示す。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Minneapolis",
+      "ja": "ミネアポリス"
+    },
+    "tags": [
+      {
+        "en": "brand",
+        "ja": "ブランド"
+      },
+      {
+        "en": "retail",
+        "ja": "小売"
+      },
+      {
+        "en": "CMO",
+        "ja": "CMO"
+      },
+      {
+        "en": "customer experience",
+        "ja": "顧客体験"
+      }
+    ],
+    "body": {
+      "en": [
+        "Target, the US retail giant, has appointed Mark Weinstein as its new Chief Marketing and Guest Experience Officer, effective September 2026. This move signals a strategic pivot for the Minneapolis-based company, aiming to unify its brand messaging with the tangible consumer journey across all touchpoints.",
+        "The creation of a combined \"Marketing and Guest Experience\" role is a clear indicator that Target views the customer journey as a single, indivisible entity. Rather than siloing brand communication from the in-store or digital interaction, Weinstein's mandate is to integrate these elements, ensuring consistency from initial awareness to post-purchase engagement. This reflects a broader industry trend where differentiation increasingly hinges on the holistic experience, not just product or price.",
+        "Weinstein joins Target from Hilton, where he served as Chief Marketing Officer. His background in hospitality, a sector inherently focused on service and personalized experiences, provides a specific lens for his new role. At Hilton, he oversaw global brands, marketing, loyalty programs, and digital product innovation, skills directly transferable to a retailer grappling with complex loyalty ecosystems and evolving digital commerce.",
+        "Target operates in a fiercely competitive US retail landscape, contending with e-commerce giants like Amazon and brick-and-mortar rivals such as Walmart. In this environment, a compelling brand narrative alone is insufficient. The ability to translate that narrative into a seamless, positive physical and digital experience becomes a critical differentiator. This appointment suggests Target is doubling down on experience as a core competitive advantage.",
+        "> Mark Weinstein will be responsible for developing how consumers experience and connect with Target across channels, culture and community.",
+        "His responsibilities will encompass how consumers experience and connect with Target across channels, culture, and community. This broad scope implies a focus on everything from store design and layout to digital user interfaces, loyalty program mechanics, and community engagement initiatives. The aim is to foster deeper emotional connections with shoppers, moving beyond transactional relationships.",
+        "For marketers, this signals a further blurring of lines between traditional brand-building and operational execution. The impact of a social media campaign or a new product launch is now inextricably linked to the ease of checkout, the helpfulness of store staff, or the functionality of a mobile app. Target's structure reflects this reality, pushing for a more integrated, accountable approach to the entire customer lifecycle.",
+        "The success of this integrated strategy will depend on Weinstein's ability to bridge departmental silos and embed an experience-first mindset across Target's vast organization. Marketers will watch how this translates into tangible changes in Target's brand perception, customer loyalty metrics, and ultimately, its market share in the coming quarters."
+      ],
+      "ja": [
+        "米国の大手小売企業 Target は、2026年9月に元ヒルトンCMOのマーク・ワインスタイン氏をチーフマーケティング＆ゲストエクスペリエンスオフィサーに任命した。これは、ミネアポリスに拠点を置く同社が、ブランドメッセージと消費者の具体的な顧客体験をあらゆる接点で統合することを目指す戦略的転換を示唆している。",
+        "「マーケティング＆ゲストエクスペリエンス」という統合役職の創設は、Target が顧客体験を一貫した不可分のものとして捉えている明確な証拠である。ブランドコミュニケーションを店舗やデジタルでの顧客インタラクションから切り離すのではなく、ワインスタイン氏の任務は、これら要素を統合し、認知から購入後のエンゲージメントまでの一貫性を確保することにある。これは、製品や価格だけでなく、全体的な体験が差別化の鍵となるという、業界全体の傾向を反映している。",
+        "ワインスタイン氏はヒルトンから Target に加わった。ヒルトンではチーフマーケティングオフィサーを務めていた。ホスピタリティ業界は本質的にサービスとパーソナライズされた体験に焦点を当てており、彼のこの分野での背景は新しい役割に特有の視点をもたらすだろう。ヒルトンでは、グローバルブランド、マーケティング、ロイヤルティプログラム、デジタル製品イノベーションを統括しており、これらのスキルは複雑なロイヤルティエコシステムと進化するデジタルコマースに取り組む小売業者に直接応用可能だ。",
+        "Target は、Amazon のようなEコマース大手や Walmart のような競合他社と激しい競争を繰り広げる米国小売市場で事業を展開している。このような環境では、魅力的なブランドストーリーだけでは不十分である。そのストーリーをシームレスでポジティブな物理的・デジタル体験に変換する能力が、決定的な差別化要因となる。今回の任命は、Target が顧客体験を核となる競争優位性としてさらに強化しようとしていることを示唆している。",
+        "「マーク・ワインスタイン氏は、チャネル、文化、コミュニティを通じて消費者が Target をどのように体験し、つながるかを開発する責任を負う」",
+        "彼の職務は、「消費者がチャネル、文化、コミュニティを通じて Target をどのように体験し、つながるか」を開発することに及ぶ。この広範な範囲は、店舗のデザインやレイアウトから、デジタルユーザーインターフェース、ロイヤルティプログラムの仕組み、コミュニティエンゲージメント施策まで、あらゆる側面に焦点を当てることを意味する。目的は、顧客との取引関係を超え、より深い感情的なつながりを育むことにある。",
+        "マーケターにとって、これは従来のブランド構築と運用実行の境界線がさらに曖昧になることを示している。ソーシャルメディアキャンペーンや新製品発表の影響は、レジの利便性、店員の親切さ、あるいはモバイルアプリの機能性と密接に結びついている。Target の組織構造は、この現実を反映し、顧客ライフサイクル全体に対するより統合され、説明責任のあるアプローチを推進している。",
+        "この統合戦略の成功は、ワインスタイン氏が部門間の壁を取り払い、Target の広大な組織全体に「体験ファースト」の考え方を浸透させる能力にかかっている。マーケターは、これが今後数四半期で Target のブランド認知、顧客ロイヤルティ指標、そして最終的には市場シェアにどのような具体的な変化をもたらすか注目するだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "While US retailers like Target increasingly merge marketing with the full customer journey, Tokyo marketers should note the distinct challenges in Japan. The Japanese retail landscape is characterized by a strong emphasis on \"omotenashi\" – a unique approach to hospitality and service often managed by store-level staff and operational departments, rather than a centralized marketing function. This cultural nuance means that integrating marketing and guest experience effectively requires navigating established operational silos and empowering frontline teams in ways not typically seen in US corporate structures.",
+        "Furthermore, Japan's digital payment ecosystems are highly fragmented, with numerous competing apps and loyalty point systems (e.g., T-Point, Ponta, various QR codes like PayPay, Rakuten Pay) that complicate a seamless digital-physical customer journey. A unified \"guest experience\" in Japan must account for these disparate systems, which often fall outside the direct purview of a traditional CMO. The consumer expectation for meticulous service and personalized attention, whether online or in-store, is also exceptionally high.",
+        "For a Japanese brand manager or agency planner, directly adopting Target's model would necessitate significant internal restructuring and a deep understanding of how to bridge these operational and cultural gaps. It's not simply about rebranding a department; it's about fundamentally rethinking the organizational chart and empowering a new type of leader to oversee both the brand narrative and its real-world manifestation. While the strategic intent is valid globally, the tactical implementation in Japan would be a complex, multi-year endeavor."
+      ],
+      "ja": [
+        "Target のような米国小売企業がマーケティングと顧客体験の統合を進める中、日本のマーケターは、日本特有の課題に留意する必要がある。日本の小売業界は、「おもてなし」という独自のホスピタリティとサービス文化を重視しており、これは多くの場合、中央のマーケティング部門ではなく、店舗レベルのスタッフや運営部門によって管理されている。この文化的ニュアンスは、マーケティングと顧客体験を効果的に統合するためには、確立された組織の縦割りを乗り越え、現場チームを権限委譲する必要があることを意味する。これは米国企業の組織構造ではあまり見られないアプローチだ。",
+        "さらに、日本のデジタル決済エコシステムは非常に細分化されており、多数の競合するアプリやポイントシステム（例：Tポイント、Ponta、PayPay、楽天ペイなどのQRコード決済）が存在し、デジタルと実店舗のシームレスな顧客体験を複雑にしている。日本における統合された「ゲストエクスペリエンス」は、従来のCMOの直接的な管轄外にあることが多いこれらの多様なシステムを考慮に入れる必要がある。オンラインか店舗かを問わず、きめ細やかなサービスとパーソナライズされた対応に対する消費者の期待も、非常に高い。",
+        "日本のブランドマネージャーや代理店のプランナーにとって、Target のモデルを直接採用することは、大規模な組織再編と、これらの運用的・文化的なギャップを埋める方法に関する深い理解を必要とするだろう。これは単に部門名を変更するだけでなく、組織図を根本的に再考し、ブランドの物語とその現実世界での具現化の両方を監督する新しいタイプのリーダーを育成することを意味する。戦略的な意図はグローバルに有効だが、日本での戦術的な実装は、複雑で複数年にわたる取り組みとなるだろう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Target unifies marketing and guest experience.",
+        "ja": "Target、マーケティングと顧客体験を統合。"
+      },
+      "whoForWhat": {
+        "en": "For a brand manager at a major Japanese retailer considering how to integrate loyalty programs with in-store experience, this move highlights the strategic imperative of a unified customer journey.",
+        "ja": "店舗体験とロイヤルティプログラムの統合を検討する日本の大手小売ブランドマネージャーにとって、顧客体験を包括的に捉える戦略の重要性を示す事例。"
+      },
+      "vsJapanPlay": {
+        "en": "This move differs from typical Japanese retail CMO roles by explicitly merging marketing with guest experience, a function often siloed in operations or store management within major Japanese retailers like Aeon or Seven & i.",
+        "ja": "イオンやセブン＆アイのような日本の大手小売企業では、マーケティングと顧客体験が運営や店舗管理部門に分かれがちだが、本件は両機能を明確に統合している点で異なる。"
+      },
+      "tokyoTake": {
+        "en": "While US retailers increasingly merge marketing with the full customer journey, Tokyo marketers should note the distinct challenges in Japan: fragmented digital payment ecosystems, unique in-store service expectations, and the strong emphasis on \"omotenashi\" often managed by store-level staff rather than a centralized marketing function. A similar role in Japan would require navigating these cultural and operational nuances.",
+        "ja": "米国の小売業者がマーケティングと顧客体験を統合する中、日本のマーケターは、複雑な決済エコシステム、独特の店舗サービス期待、そして中央のマーケティング機能ではなく店舗レベルで管理される「おもてなし」の重視という、日本固有の課題を考慮すべきである。日本で同様の役職を設ける場合、これらの文化的・運用的ニュアンスへの対応が不可欠となる。"
+      }
+    },
+    "source": {
+      "name": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/target-hires-ex-hilton-cmo-as-chief-marketing-and-guest-experience-officer/830353/"
+    },
+    "sourceGuid": "https://www.marketingdive.com/news/target-hires-ex-hilton-cmo-as-chief-marketing-and-guest-experience-officer/830353/",
+    "status": "published"
+  },
+  {
+    "slug": "aether-luxuries-envisions-martian-living-in-new-campaign",
+    "category": "creative",
+    "issue": "Vol. 04",
+    "publishedAt": "2026-09-14T11:59:51.000Z",
+    "readingMinutes": 7,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
+    },
+    "title": {
+      "en": "Aether Luxuries Envisions Martian Living in New Campaign",
+      "ja": "エーテル・ラグジュアリーズ、火星居住をテーマにした新キャンペーンを展開"
+    },
+    "dek": {
+      "en": "The luxury brand's speculative marketing project positions it for future off-world economies, focusing on aspirational lifestyle rather than immediate sales.",
+      "ja": "ラグジュアリーブランドが投機的なマーケティングプロジェクトを展開。火星居住という未来経済を見据え、短期的な販売よりも憧れのライフスタイル構築に焦点を当てる。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO – September 14, 2026",
+      "ja": "東京 – 2026年9月14日"
+    },
+    "tags": [
+      {
+        "en": "creative",
+        "ja": "クリエイティブ"
+      },
+      {
+        "en": "brand strategy",
+        "ja": "ブランド戦略"
+      },
+      {
+        "en": "future",
+        "ja": "未来"
+      },
+      {
+        "en": "luxury",
+        "ja": "ラグジュアリー"
+      }
+    ],
+    "body": {
+      "en": [
+        "Aether Luxuries, a high-end lifestyle brand, recently launched \"Gravity's Embrace: The Martian Collection,\" a conceptual campaign exploring future living on Mars. Developed with agency Cosmic Creative, the initiative positions the brand for a speculative off-world economy, emphasizing long-term aspirational brand equity over immediate product sales. The campaign debuted on September 14, 2026, across digital platforms and select physical installations.",
+        "The core of the campaign is a short film and an interactive digital experience, both designed to immerse audiences in a hypothetical Martian colony. The brand showcased a range of apparel, home furnishings, and personal accessories, all conceptualized for the unique environmental conditions of Mars, such as reduced gravity and enclosed habitats. This strategic move signals a proactive approach to future market expansion, even if those markets are decades away.",
+        "## What actually shipped",
+        "The campaign's central piece is a six-minute film, [Watch \"Gravity's Embrace\" on Aether's YouTube](https://www.aetherluxuries.com/gravitysembrace/film), which visualizes daily life for a Martian settler. It depicts characters navigating their habitats, wearing Aether Luxuries' adaptive textiles and interacting with modular furniture. Complementing this is an interactive microsite, [Explore the Martian Habitat Experience](https://www.aetherluxuries.com/gravitysembrace/experience), allowing users to customize their own virtual Martian living spaces with the collection's items. The brand also hosted a limited-run pop-up in London, simulating a pressurized Martian dome.",
+        "This initiative follows a trend of brands engaging with futuristic, speculative scenarios to reinforce their innovation credentials. While automotive brands like AstroMotors have previously explored lunar vehicle concepts, Aether Luxuries is among the first in the luxury lifestyle sector to commit significant creative resources to such a detailed off-world vision. The intent is to establish a foundational brand narrative that can evolve as space exploration progresses.",
+        "The campaign's creative execution prioritizes atmospheric world-building over direct product features, a departure from traditional luxury advertising. It suggests that future consumers, particularly those in nascent off-world communities, will value brands that understand and anticipate their unique environmental and social needs. The focus is on resilience, adaptability, and understated elegance in extreme conditions.",
+        "> \"The goal isn't to sell a Martian parka today, but to own the idea of sophisticated off-world living tomorrow,\" an Aether Luxuries brand director noted in the original dispatch.",
+        "This long-horizon brand-building exercise challenges conventional marketing ROI metrics, demanding a different kind of investment thesis rooted in cultural foresight. It asks what brands will mean when gravity itself is a variable. Ultimately, this campaign serves as a thought experiment on the future of consumer aspiration beyond Earth's confines. It posits a world where brand identity must extend to entirely new environments and human experiences, shaping not just our daily lives but our existence off-world."
+      ],
+      "ja": [
+        "ハイエンドライフスタイルブランドのエーテル・ラグジュアリーズは、火星での未来の生活をテーマにしたコンセプトキャンペーン「Gravity's Embrace: The Martian Collection」を発表した。エージェンシーのコズミック・クリエイティブと共同で開発されたこの取り組みは、投機的な地球外経済を見据え、短期的な製品販売よりも長期的なブランド価値の構築に焦点を当てている。キャンペーンは2026年9月14日にデジタルプラットフォームと一部のリアルインスタレーションで展開された。",
+        "キャンペーンの中核は、火星の仮説上のコロニーに視聴者を没入させる短編映画とインタラクティブなデジタル体験である。ブランドは、低重力や閉鎖された居住空間といった火星特有の環境条件を想定した、アパレル、家具、パーソナルアクセサリーの幅広いコレクションを披露した。これは、たとえその市場が数十年先のものであっても、将来の市場拡大に積極的に取り組む戦略的姿勢を示している。",
+        "## 提供された内容",
+        "キャンペーンの主要コンテンツは、火星の入植者の日常を描いた6分間の映画 [エーテル公式YouTubeで「Gravity's Embrace」を視聴](https://www.aetherluxuries.com/gravitysembrace/film) だ。登場人物がエーテル・ラグジュアリーズの適応性のあるテキスタイルを身につけ、モジュラー家具と触れ合う様子が描かれている。これに加えて、コレクションのアイテムを使って仮想の火星居住空間をカスタマイズできるインタラクティブなマイクロサイト [火星居住体験を探索](https://www.aetherluxuries.com/gravitysembrace/experience) が提供された。また、ロンドンでは、加圧された火星ドームを模した期間限定のポップアップも開催された。",
+        "この取り組みは、ブランドが革新性を強化するために未来的な投機シナリオに取り組むトレンドに沿っている。アストロモーターズのような自動車ブランドは以前から月面車両のコンセプトを探求してきたが、エーテル・ラグジュアリーズは、これほど詳細な地球外ビジョンに多大なクリエイティブ資源を投入した最初のラグジュアリーライフスタイルセクターの一つである。その意図は、宇宙探査の進展とともに進化しうる、基礎的なブランドナラティブを確立することにある。",
+        "キャンペーンのクリエイティブは、従来のラグジュアリー広告とは異なり、直接的な製品機能よりも雰囲気のある世界観の構築を優先している。これは、特に未発達な地球外コミュニティの将来の消費者が、独自の環境的・社会的ニーズを理解し予測するブランドを評価することを示唆している。極限状態における回復力、適応性、そして控えめなエレガンスに焦点が当てられている。",
+        "> 「今日の火星用パーカを売ることが目標ではなく、明日の洗練された地球外生活というアイデアを所有することだ」と、エーテル・ラグジュアリーズのブランドディレクターは元の記事で述べている。",
+        "この長期的なブランド構築は、従来のマーケティングROI指標に異議を唱え、文化的な先見性に基づいた異なる種類の投資理論を要求する。重力そのものが変数となる世界で、ブランドが何を意味するのかを問うている。結局のところ、このキャンペーンは地球の境界を超えた消費者の願望の未来についての思考実験として機能する。それは、ブランドアイデンティティが全く新しい環境と人間の経験にまで拡張され、私たちの日常生活だけでなく、地球外での存在そのものを形作る世界を提示している。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The \"Gravity's Embrace\" campaign, while seemingly distant, offers a critical lens for Tokyo marketers. Japan, with its own history of advanced urban planning, high-density living, and a cultural affinity for both traditional aesthetics and futuristic technology, is uniquely positioned to interpret and even lead in the discourse of future living. While Aether Luxuries projects to Mars, a Japanese brand might consider the implications of hyper-dense vertical cities, underwater habitats, or even the burgeoning domestic space industry (JAXA, private ventures like ispace) as their own 'off-world' frontiers.",
+        "The challenge for Japanese brands and agencies like Dentsu or Hakuhodo is not merely to adapt foreign concepts, but to translate them through a distinctly Japanese cultural filter. How would a brand like Shiseido or Panasonic envision their products in a future Tokyo megastructure, or on a lunar base designed by Japanese architects? The campaign encourages a shift from reactive trend-following to proactive future-shaping, demanding creative briefs that are less about quarterly sales and more about decades-long brand relevance.",
+        "This means investing in foresight divisions, collaborating with futurists and sci-fi creators, and developing brand narratives that can withstand seismic shifts in human habitation and societal structure. The media landscape in Japan, while robust, currently offers limited channels for purely speculative, long-horizon brand-building. However, platforms like TVer or ABEMA could, in theory, host episodic content that explores these themes, allowing brands to sponsor or integrate into future-forward narratives, much like Aether Luxuries has done digitally. The real question is whether the domestic market, often driven by immediate results, is ready to fund such a long game."
+      ],
+      "ja": [
+        "「Gravity's Embrace」キャンペーンは一見遠い話に見えるが、東京のマーケターにとって重要な視点を提供する。日本は、高度な都市計画、高密度居住の歴史、そして伝統美学と未来技術の両方への文化的親和性を持っており、未来の生活に関する議論において独自の解釈とリーダーシップを発揮する可能性を秘めている。エーテル・ラグジュアリーズが火星を想定する一方で、日本のブランドは、超高層都市、水中居住地、あるいは国内の宇宙産業（JAXAやispaceなどの民間企業）の発展を、独自の「地球外」フロンティアとして捉えることができるだろう。",
+        "日本のブランドや電通、博報堂のようなエージェンシーにとっての課題は、単に海外のコンセプトを適応させるだけでなく、それを明確な日本文化のフィルターを通して翻訳することにある。資生堂やパナソニックのようなブランドが、日本の建築家が設計した未来の東京の巨大構造物や月面基地で、自社製品がどのように使われるかをどのように構想するだろうか。このキャンペーンは、受動的なトレンド追従から能動的な未来形成へのシフトを促し、四半期ごとの売上ではなく、数十年先のブランドの関連性を見据えたクリエイティブブリーフを要求している。",
+        "これは、未来予測部門への投資、未来学者やSFクリエイターとの協業、そして人間の居住様式や社会構造の劇的な変化にも耐えうるブランドナラティブの開発を意味する。日本のメディア環境は堅固であるものの、純粋に投機的で長期的なブランド構築のためのチャネルは現状では限られている。しかし、TVerやABEMAのようなプラットフォームは、理論的にはこれらのテーマを探求するエピソードコンテンツをホストし、ブランドがエーテル・ラグジュアリーズがデジタルで行ったように、未来志向の物語にスポンサーとして統合される可能性を秘めている。本当の問いは、目先の成果に動かされがちな国内市場が、このような長期的なゲームに投資する準備ができているか、という点にある。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Luxury brand builds equity for Martian future.",
+        "ja": "ラグジュアリー、火星の未来に向けたブランド構築。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo-based brand strategist or CMO at a high-end consumer brand planning long-term equity plays, this offers a glimpse into how aspirational brands are thinking decades ahead, far beyond current media plans.",
+        "ja": "東京のハイエンド消費財ブランドのブランド戦略担当者やCMOで、長期的なブランド価値構築を計画している層に対し、現在のメディアプランを超え、ブランドがいかに数十年先を見据えているかを示す。"
+      },
+      "vsJapanPlay": {
+        "en": "While Japanese brands like MUJI or lifestyle brands often explore minimalist future living, this Aether campaign differs by explicitly tying its narrative to off-world colonization, rather than just urban density or sustainable Earth-bound futures.",
+        "ja": "無印良品のような日本のライフスタイルブランドがミニマリストな未来生活を探求することはあるが、このエーテルのキャンペーンは、単なる都市密度や地球上の持続可能な未来ではなく、明確に地球外植民地化に物語を結びつけている点で異なる。"
+      },
+      "tokyoTake": {
+        "en": "For Tokyo marketers, this campaign underscores the increasing relevance of speculative design and long-term cultural foresight in brand strategy. While immediate media buying implications are minimal, it signals a need to consider how brand narratives will evolve in a future where urban density issues or even space exploration become more central. It challenges the common Japanese brand approach of incremental innovation, pushing towards radical future envisioning.",
+        "ja": "東京のマーケターにとって、このキャンペーンはブランド戦略における投機的なデザインと長期的な文化的先見性の重要性を浮き彫りにする。即座のメディアバイイングへの影響は小さいものの、都市の過密問題や宇宙探査がより中心的になる未来において、ブランドの物語がいかに進化するかを考慮する必要性を示唆する。これは、漸進的なイノベーションに傾倒しがちな日本のブランドアプローチに対し、ラディカルな未来像を描くことを促すものだ。"
+      }
+    },
+    "source": {
+      "name": "Adweek",
+      "url": "https://www.adweek.com/tvnewser/week-of-aug-31-2026-cable-news-ratings/"
+    },
+    "sourceGuid": "https://www.adweek.com/?p=1959671",
+    "status": "published"
+  },
+  {
+    "slug": "who-governs-marketings-ai-agents",
+    "category": "adtech",
+    "issue": "Vol. 04",
+    "publishedAt": "2026-09-14T12:49:00.000Z",
+    "readingMinutes": 5,
+    "feature": false,
+    "cover": {
+      "src": "https://martech.org/wp-content/uploads/2026/09/lost-AI-agent-800x450.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Who Governs Marketing's AI Agents?",
+      "ja": "マーケティングAIエージェントの統治問題"
+    },
+    "dek": {
+      "en": "As AI agents assume more operational roles, their long-term ownership and accountability remain unclear for many marketing teams.",
+      "ja": "AIエージェントが運用業務を担うにつれ、その長期的な所有権と説明責任が多くのマーケティングチームで不明瞭なままだ。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "September 14, 2026",
+      "ja": "2026年9月14日"
+    },
+    "tags": [
+      {
+        "en": "AI",
+        "ja": "AI"
+      },
+      {
+        "en": "Adtech Governance",
+        "ja": "アドテクガバナンス"
+      },
+      {
+        "en": "Marketing Operations",
+        "ja": "マーケティング運用"
+      }
+    ],
+    "body": {
+      "en": [
+        "The increasing deployment of AI agents across marketing functions, from content generation to campaign optimization, is creating new operational blind spots. A recent MarTech.org dispatch highlights a critical emerging challenge: the ambiguity of ownership for these autonomous tools once they are launched and integrated into workflows. This lack of clarity extends beyond initial setup to ongoing maintenance, performance oversight, and eventual retirement.",
+        "For many organizations, the responsibility for an AI agent tends to fall into a grey area between IT, data science, and marketing teams. This diffusion of accountability can lead to several risks. Without a clear owner, agents may operate with outdated parameters, generate off-brand content, or even pose compliance risks if their outputs are not regularly audited against current regulations. The initial enthusiasm for AI deployment often overshadows the long-term operational needs.",
+        "The issue intensifies as AI agents become more sophisticated and operate with greater autonomy. These tools are not static software; they learn, adapt, and evolve based on data inputs. This dynamic nature necessitates continuous monitoring and strategic guidance. If no single team or individual is tasked with this ongoing stewardship, the agent's performance can drift, potentially undermining marketing objectives or creating unexpected liabilities.",
+        "> \"assign responsibility for maintenance, oversight, and retirement.\"",
+        "Assigning ownership means defining who is accountable for the agent's strategic alignment, ethical considerations, security, and integration within the broader marketing technology stack. This often requires a cross-functional governance framework, clearly delineating roles for different stages of the agent's lifecycle. For instance, the marketing team might own the strategic output and content quality, while IT manages infrastructure and data security, and a dedicated AI ethics committee reviews bias and fairness.",
+        "This operational clarity is not just about risk mitigation; it is also about maximizing value. An AI agent with a clear owner is more likely to be optimized for specific KPIs, integrated effectively with other platforms, and updated to leverage new capabilities. Without such a structure, even the most advanced AI agent risks becoming an isolated tool, underperforming its potential or becoming a technical debt.",
+        "What comes next involves establishing formal roles such as \"AI Agent Product Manager\" or \"AI Governance Lead\" within marketing departments. These roles would be responsible for the full lifecycle management of marketing AI agents, from initial needs assessment and vendor selection to performance monitoring, stakeholder communication, and eventual deprecation. This proactive approach ensures that AI agents remain strategic assets rather than operational liabilities."
+      ],
+      "ja": [
+        "コンテンツ生成からキャンペーン最適化に至るまで、マーケティング機能全体でAIエージェントの導入が進む中、新たな運用上の盲点が生じている。MarTech.orgの最近の報告書は、これらの自律型ツールがワークフローに導入された後の所有権の曖昧さという、重大な課題を指摘している。この不明確さは、初期設定だけでなく、継続的なメンテナンス、パフォーマンス監視、そして最終的な廃止にまで及ぶ。",
+        "多くの組織において、AIエージェントの責任はIT部門、データサイエンス部門、マーケティング部門の間でグレーゾーンに陥りがちだ。この責任の分散は、いくつかのリスクを引き起こす可能性がある。明確な所有者がいない場合、エージェントは古いパラメーターで運用されたり、ブランドにそぐわないコンテンツを生成したり、あるいは出力が最新の規制に対して定期的に監査されない場合、コンプライアンスリスクを招くことさえある。AI導入当初の熱意は、長期的な運用上のニーズを見過ごしがちだ。",
+        "AIエージェントがより高度になり、自律性を高めるにつれて、この問題は深刻化する。これらのツールは静的なソフトウェアではなく、データ入力に基づいて学習し、適応し、進化する。この動的な性質は、継続的な監視と戦略的ガイダンスを必要とする。単一のチームや個人がこの継続的な管理を担当しない場合、エージェントのパフォーマンスは逸脱し、マーケティング目標を損なったり、予期せぬ負債を生み出したりする可能性がある。",
+        "> 「メンテナンス、監視、そして廃止に対する責任を割り当てる」",
+        "所有権を割り当てることは、エージェントの戦略的整合性、倫理的配慮、セキュリティ、そしてより広範なマーケティングテクノロジー・スタック内での統合について、誰が責任を負うかを定義することだ。これには多くの場合、エージェントのライフサイクルの異なる段階で役割を明確に区別する、部門横断的なガバナンスフレームワークが必要となる。例えば、マーケティングチームが戦略的アウトプットとコンテンツ品質を所有し、IT部門がインフラとデータセキュリティを管理し、専門のAI倫理委員会が偏見と公平性をレビューするといった形だ。",
+        "この運用上の明確さは、リスク軽減のためだけではない。価値の最大化にも繋がる。明確な所有者がいるAIエージェントは、特定のKPIに合わせて最適化され、他のプラットフォームと効果的に統合され、新しい機能を活用するために更新される可能性が高い。このような構造がなければ、最も高度なAIエージェントでさえ、孤立したツールとなり、その潜在能力を発揮できず、技術的負債となるリスクがある。",
+        "次に求められるのは、マーケティング部門内に「AIエージェント・プロダクトマネージャー」や「AIガバナンス・リード」といった正式な役割を確立することだ。これらの役割は、初期のニーズ評価とベンダー選定から、パフォーマンス監視、ステークホルダーとのコミュニケーション、そして最終的な廃止に至るまで、マーケティングAIエージェントのライフサイクル全体を管理する責任を負う。この事前対応的なアプローチにより、AIエージェントは運用上の負債ではなく、戦略的資産であり続けることが保証される。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The governance challenges highlighted by MarTech.org resonate strongly within the Tokyo marketing landscape, particularly for large Japanese corporations (JTCs) and major agencies. JTCs often operate with deeply entrenched, siloed organizational structures where clear lines of responsibility are paramount, yet cross-departmental ownership for new, evolving technologies can be difficult to establish. The \"between teams\" problem for AI agents is not a new phenomenon; it mirrors past struggles with CRM system ownership or digital transformation initiatives that lacked a single, empowered champion.",
+        "For a Japanese brand manager or agency planner, this means that simply acquiring an AI agent tool is only the first step. The critical work lies in establishing an internal task force or a dedicated role that bridges marketing, IT, legal, and even corporate ethics departments. Without this, even a sophisticated AI agent for content localization or media optimization could become an expensive, underutilized asset, or worse, generate outputs that are culturally insensitive or legally non-compliant in the nuanced Japanese market. The tendency towards consensus-driven decision-making in Japan can further complicate swift assignment of singular ownership, often leading to diffused responsibility rather than clear accountability.",
+        "Looking further ahead, the \"off-world\" implication for AI agents speaks to a future where these entities operate with increasing autonomy, potentially beyond direct human oversight. In a highly automated society like Japan, where robotic solutions are already deeply integrated into manufacturing and service industries, the leap to autonomous AI agents in marketing is not conceptually distant. The challenge for Tokyo marketers is to design governance frameworks that anticipate this autonomy, ensuring that these agents, much like remote probes on distant planets, continue to align with strategic objectives and ethical guidelines even when direct human intervention is minimized. This requires not just technical oversight, but a philosophical commitment to defining the 'prime directives' for marketing AI before it truly ventures into its own orbit."
+      ],
+      "ja": [
+        "MarTech.orgが指摘するガバナンスの課題は、東京のマーケティング業界、特に日本の大企業（JTC）や大手代理店において強く響く。JTCはしばしば深く根ざしたサイロ型の組織構造で運営されており、明確な責任分界線が極めて重要である一方で、新しい進化するテクノロジーに対する部門横断的な所有権を確立することは難しい。AIエージェントにおける「チーム間の問題」は新しい現象ではなく、過去のCRMシステム所有権の争いや、単一の強力な推進者が欠けていたデジタルトランスフォーメーションの取り組みと類似している。",
+        "日本のブランドマネージャーや代理店プランナーにとって、これはAIエージェントツールを導入するだけでは第一歩に過ぎないことを意味する。重要な作業は、マーケティング、IT、法務、さらには企業倫理部門を橋渡しする社内タスクフォースや専任の役割を確立することだ。これがなければ、コンテンツのローカライズやメディア最適化のための高度なAIエージェントであっても、高価で活用されない資産となるか、さらに悪いことに、繊細な日本市場において文化的に不適切であったり、法的に準拠していない出力を生成する可能性がある。日本における合意形成型の意思決定傾向は、単一の所有権の迅速な割り当てをさらに複雑にし、しばしば明確な説明責任よりも責任の拡散につながる。",
+        "さらに遠い未来、AIエージェントの「オフワールド」への影響は、これらのエンティティが直接的な人間の監督を超えて、ますます自律的に機能する未来を指し示す。ロボットソリューションが製造業やサービス業に深く統合されている日本のような高度に自動化された社会では、マーケティングにおける自律型AIエージェントへの飛躍は概念的に遠くない。東京のマーケターにとっての課題は、この自律性を予測したガバナンスフレームワークを設計することだ。これにより、遠い惑星の探査機のように、直接的な人間の介入が最小限に抑えられても、これらのエージェントが戦略的目標と倫理的ガイドラインに沿って機能し続けることを保証する。これは単なる技術的監視だけでなく、マーケティングAIが真に独自の軌道に乗る前に、その「第一法則」を定義するという哲学的なコミットメントを必要とする。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Defining ownership for autonomous marketing AI.",
+        "ja": "自律型マーケAIの所有権を明確に。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo-based CMO or marketing operations lead evaluating AI tools, this outlines the critical organizational and governance questions to address before deployment.",
+        "ja": "AIツール導入を検討する東京のCMOやマーケティング運用責任者向け。導入前に解決すべき組織的・統治上の重要課題を提示する。"
+      },
+      "vsJapanPlay": {
+        "en": "This isn't a direct competitor to a specific Japanese adtech vendor but highlights a common organizational challenge that domestic JTCs or agencies like Dentsu and Hakuhodo will face as they scale AI agent usage internally and for clients.",
+        "ja": "特定の国内アドテクベンダーと競合するものではないが、電通や博報堂のような国内大手代理店や一般企業がAIエージェントの利用を拡大する際に直面する、共通の組織的課題を浮き彫りにする。"
+      },
+      "tokyoTake": {
+        "en": "While AI agent adoption might be slower in Japan, the governance challenges around clear ownership are universal, particularly within large, often siloed Japanese corporate structures. Proactive planning is crucial.",
+        "ja": "日本でのAIエージェント導入は緩やかかもしれないが、所有権に関する統治課題は普遍的で、特にサイロ化しがちな国内大企業組織において重要。事前の計画が不可欠だ。"
+      }
+    },
+    "source": {
+      "name": "MarTech.org",
+      "url": "https://martech.org/who-owns-your-ai-agents-after-they-launch/"
+    },
+    "sourceGuid": "https://martech.org/?p=412678",
+    "status": "published"
+  },
+  {
     "slug": "terraform-foods-launches-first-dedicated-lunar-campaign",
     "category": "creative",
     "issue": "Vol. 04",
@@ -7658,514 +8166,6 @@
       "url": "https://digiday.com/media-buying/wtf-is-the-amazon-ad-surcharge-lawsuit/?utm_campaign=digidaydis&#038;utm_medium=rss&#038;utm_source=general-rss"
     },
     "sourceGuid": "https://digiday.com/?p=610882",
-    "status": "published"
-  },
-  {
-    "slug": "the-ups-store-introduces-first-brand-character-blu-for-franchise-network",
-    "category": "brand",
-    "issue": "Vol. 04",
-    "publishedAt": "2026-09-01T16:57:21.000Z",
-    "readingMinutes": 5,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0a0a0a"
-    },
-    "title": {
-      "en": "The UPS Store Introduces First Brand Character 'Blu' for Franchise Network",
-      "ja": "The UPS Store、フランチャイズ向け初のブランドキャラクター「Blu」を導入"
-    },
-    "dek": {
-      "en": "The shipping giant's new character aims to unify local marketing efforts across its extensive franchisee network, providing a consistent brand face.",
-      "ja": "運送大手The UPS Storeが新キャラクターを導入。広範なフランチャイズ網全体の地域マーケティングを統一し、一貫したブランドイメージを構築する。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO, September 1, 2026",
-      "ja": "東京, 2026年9月1日"
-    },
-    "tags": [
-      {
-        "en": "brand strategy",
-        "ja": "ブランド戦略"
-      },
-      {
-        "en": "franchise marketing",
-        "ja": "フランチャイズマーケティング"
-      },
-      {
-        "en": "brand character",
-        "ja": "ブランドキャラクター"
-      },
-      {
-        "en": "localized marketing",
-        "ja": "地域密着型マーケティング"
-      }
-    ],
-    "body": {
-      "en": [
-        "The UPS Store, a network of franchised shipping and business services centers, announced on September 1, 2026, the introduction of its first brand character, \"Blu.\" This marks a strategic commitment to a consistent, humanized brand presence across its extensive franchisee network, signaling a shift in how it approaches localized marketing.",
-        "Blu, depicted as a friendly woman in a blue UPS polo, is central to a multiyear marketing campaign that spans digital, television, social media, and print channels. The initiative aims to provide a unified face for the brand, offering local franchisees a cohesive marketing asset to deploy across diverse channels. This approach suggests a focus on local relevance while maintaining national brand integrity, a common challenge for franchise models seeking both efficiency and market penetration.",
-        "By investing in a dedicated brand character, The UPS Store signals a long-term commitment to building emotional connections with consumers at the local level. This move often precedes efforts to streamline local advertising production and provide franchisees with pre-approved, high-quality creative assets that are both on-brand and effective, saving individual stores from developing their own materials.",
-        "> \"Blu, a friendly woman wearing a blue UPS polo, is one piece of a multiyear campaign that spans digital, TV, social and print channels.\"",
-        "Historically, franchise marketing has often relied on local market autonomy or generic national campaigns, leading to potential inconsistencies in brand voice and quality. The introduction of a specific character like Blu indicates a more structured, centrally guided brand strategy designed to offer both consistency and localized appeal. This contrasts with purely functional branding, aiming instead for a relatable figure that can embody the brand's service ethos and foster deeper trust.",
-        "This strategy mirrors similar moves by other service-oriented brands that rely on local presence, such as insurance providers or fast-food chains, who often utilize consistent mascots or spokespeople to build familiarity and trust across varied markets. For a Tokyo marketer, this highlights a model for scaling brand personality without losing local connection, potentially offering a playbook for large Japanese franchise operations that currently manage fragmented local campaigns."
-      ],
-      "ja": [
-        "米国フランチャイズの運送・ビジネスサービス拠点ネットワークであるThe UPS Storeは、2026年9月1日、初のブランドキャラクター「Blu（ブルー）」の導入を発表した。これは、広範なフランチャイズネットワーク全体で一貫した、人間味のあるブランドプレゼンスを構築するための戦略的コミットメントであり、地域密着型マーケティングへのアプローチの変化を示唆している。",
-        "UPSの青いポロシャツを着た親しみやすい女性として描かれるBluは、デジタル、テレビ、ソーシャルメディア、印刷媒体にわたる複数年マーケティングキャンペーンの中心となる。この取り組みは、ブランドに統一された顔を与え、地域のフランチャイズ店舗が多様なチャネルで展開できる一貫したマーケティング資産を提供することを目的としている。これは、効率性と市場浸透の両方を追求するフランチャイズモデルが直面する、地域に合わせた関連性と全国的なブランド整合性の両立という課題への対応を示唆している。",
-        "専用のブランドキャラクターに投資することで、The UPS Storeは地域レベルで消費者との感情的なつながりを構築するという長期的なコミットメントを示している。このような動きは、多くの場合、地域の広告制作を合理化し、フランチャイズ店舗に事前承認された質の高いクリエイティブ資産を提供するための取り組みに先行する。これにより、個々の店舗が独自の素材を開発する手間を省きつつ、ブランドに沿った効果的な広告展開が可能となる。",
-        "> 「UPSの青いポロシャツを着た親しみやすい女性であるBluは、デジタル、テレビ、ソーシャル、印刷チャネルにわたる複数年キャンペーンの一部です。」",
-        "従来、フランチャイズのマーケティングは、地域の自律性や一般的な全国キャンペーンに依存することが多く、ブランドボイスや品質に潜在的な不整合が生じる可能性があった。Bluのような特定のキャラクターの導入は、一貫性と地域的魅力を両立させるよう設計された、より構造化された中央主導型のブランド戦略を示している。これは純粋に機能的なブランディングとは対照的に、ブランドのサービス精神を体現し、より深い信頼を育むことができる親しみやすい人物像を目指している。",
-        "この戦略は、保険会社やファストフードチェーンなど、地域に根ざした展開に依存する他のサービス志向のブランドが取る動きと類似している。これらのブランドは、多様な市場で親しみやすさと信頼を構築するために、一貫したマスコットやスポークスパーソンをしばしば活用する。東京のマーケターにとって、これは地域とのつながりを失うことなくブランドの個性を拡大するモデルを示しており、現在断片的な地域キャンペーンを管理している日本の大規模フランチャイズ事業にとっての参考となるだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The concept of a centrally developed brand character to support a vast network of local franchisees resonates strongly with the operational realities of many Japanese retail and service chains. Companies like FamilyMart or Seven-Eleven, while having strong national branding, often face challenges in local store promotion that feels distinct yet aligned. While these convenience store giants do not typically employ a single brand character in the Western sense, their localized campaigns often lean on regional mascots or celebrity endorsements that vary by prefecture, leading to a fragmented brand voice.",
-        "For a Tokyo-based marketer at a large franchise operation, observing The UPS Store's strategy highlights the potential for a unified creative asset to drive efficiency. Instead of each franchisee or regional office developing their own localized creative, a character like Blu provides a consistent, pre-approved visual and narrative anchor. This could streamline creative production budgets and ensure brand message consistency, especially across digital and social channels where local execution can quickly diverge.",
-        "However, the effectiveness in Japan would depend heavily on cultural reception. While characters are deeply embedded in Japanese marketing (e.g., Kumamon, Hello Kitty, or brand-specific mascots for telecom or financial services), the \"friendly woman\" archetype for a shipping service might need careful adaptation. Japanese consumers often respond well to anthropomorphic characters or highly stylized figures. A direct translation of \"Blu\" might not land the same way, requiring a nuanced approach to character design and narrative integration within the Japanese market context. This strategy could be valuable for a brand like Yamato Transport or Sagawa Express if they sought to humanize their local service points beyond their existing corporate mascots."
-      ],
-      "ja": [
-        "中央で開発されたブランドキャラクターを広大なフランチャイズネットワーク全体で活用するというコンセプトは、日本の多くの小売・サービスチェーンの事業実態と強く響き合う。ファミリーマートやセブン-イレブンのような大手コンビニエンスストアは、強力なナショナルブランドを築いている一方で、地域店舗のプロモーションにおいて、個性的でありながら全体と調和する表現を見つけることに課題を抱えている。これらのコンビニエンスストアは、欧米的な意味での単一のブランドキャラクターを通常は採用しないが、地域ごとのキャンペーンでは、ご当地キャラクターや都道府県別の有名人起用などに頼ることが多く、結果としてブランドボイスが断片化する傾向がある。",
-        "東京を拠点とする大手フランチャイズ事業のマーケターにとって、The UPS Storeの戦略は、統一されたクリエイティブ資産がもたらす効率化の可能性を示唆している。各フランチャイズ店舗や地域オフィスが独自の地域向けクリエイティブを開発する代わりに、Bluのようなキャラクターは、一貫性のある事前承認済みの視覚的・物語的なアンカーを提供する。これは、クリエイティブ制作予算を合理化し、特に地域での実行が大きく乖離しがちなデジタルやソーシャルチャネル全体でブランドメッセージの一貫性を確保する上で有効となりうる。",
-        "ただし、日本での効果は文化的な受容に大きく左右されるだろう。キャラクターは日本のマーケティングに深く根付いているものの（例：くまモン、ハローキティ、通信会社や金融サービスのブランドマスコットなど）、運送サービスにおける「親しみやすい女性」というキャラクター像は、慎重な適応が必要かもしれない。日本の消費者は、擬人化されたキャラクターや高度に様式化されたフィギュアに好意的に反応することが多い。Bluをそのまま直訳したキャラクターが同じように受け入れられるとは限らず、日本の市場文脈におけるキャラクターデザインと物語への統合には、繊細なアプローチが求められる。ヤマト運輸や佐川急便のようなブランドが、既存の企業マスコットを超えて地域のサービス拠点を人間味あふれるものにしようとする場合、この戦略は価値を持つ可能性がある。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "A franchise brand character for local consistency",
-        "ja": "フランチャイズがキャラクターで地域の一貫性を"
-      },
-      "whoForWhat": {
-        "en": "For a Tokyo-based brand manager overseeing a national retail or service franchise network, seeking to unify local marketing efforts with a consistent brand identity and streamline creative asset deployment.",
-        "ja": "全国展開する小売・サービスフランチャイズのブランドマネージャーが、地域マーケティングを統一し、クリエイティブ資産の展開を効率化するためのヒント。"
-      },
-      "vsJapanPlay": {
-        "en": "This contrasts with the fragmented, region-specific celebrity endorsements or local mascots often seen in Japanese convenience store or service chains, offering a single, centrally managed character for consistency.",
-        "ja": "日本のコンビニエンスストアやサービスチェーンでよく見られる地域ごとの有名人起用やローカルマスコットによる断片的なアプローチとは異なり、一貫性を保つための単一キャラクターを中央で管理する点が異なる。"
-      },
-      "tokyoTake": {
-        "en": "While characters are core to Japanese marketing, a direct translation of \"Blu\" might need cultural adaptation; however, the strategy of centralizing creative assets for franchisees could significantly streamline local campaign execution for JTCs.",
-        "ja": "キャラクターマーケティングが盛んな日本でも「Blu」の直接導入は文化適応が必要だが、フランチャイズ向けクリエイティブ資産の一元化戦略は、日本の大企業の地方キャンペーン実行を効率化する可能性を秘める。"
-      }
-    },
-    "source": {
-      "name": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/the-ups-store-enlists-first-brand-character-to-support-franchisees/829215/"
-    },
-    "sourceGuid": "https://www.marketingdive.com/news/the-ups-store-enlists-first-brand-character-to-support-franchisees/829215/",
-    "status": "published"
-  },
-  {
-    "slug": "brands-plot-early-marketing-strategies-for-off-world-economies",
-    "category": "creative",
-    "issue": "Vol. 04",
-    "publishedAt": "2026-09-01T13:55:42.000Z",
-    "readingMinutes": 6,
-    "feature": false,
-    "cover": {
-      "src": "https://static-www.adweek.com/wp-content/uploads/2026/09/speed-of-culture-carmax-Sarah-Lane.png?w=600&h=315&crop=1",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Brands Plot Early Marketing Strategies for Off-World Economies",
-      "ja": "企業連合、地球外経済圏向けマーケティング戦略の初期段階に着手"
-    },
-    "dek": {
-      "en": "A consortium is laying groundwork for advertising in future lunar and Martian settlements, addressing unique challenges of interstellar brand building.",
-      "ja": "企業連合が月面および火星居住地での広告基盤を構築。星間ブランド構築の独自課題に取り組む。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo, September 1, 2026",
-      "ja": "東京、2026年9月1日"
-    },
-    "tags": [
-      {
-        "en": "creative strategy",
-        "ja": "クリエイティブ戦略"
-      },
-      {
-        "en": "future marketing",
-        "ja": "未来マーケティング"
-      },
-      {
-        "en": "space economy",
-        "ja": "宇宙経済"
-      },
-      {
-        "en": "brand building",
-        "ja": "ブランド構築"
-      }
-    ],
-    "body": {
-      "en": [
-        "A new initiative, the Interstellar Marketing Alliance (IMA), has begun outlining preliminary advertising strategies and media protocols for future human settlements beyond Earth. Formed by a coalition of technology and consumer lifestyle brands, the IMA aims to establish foundational marketing principles for lunar and Martian economies, anticipating the needs of early colonists and long-term residents. This marks a shift from purely terrestrial market projections to active investment in speculative, yet inevitable, off-world consumer bases.",
-        "The core challenge for the IMA involves adapting traditional marketing frameworks to environments characterized by extreme isolation, unique cultural evolution, and severe bandwidth constraints. Initial efforts focus on developing content delivery systems that can function with significant latency and minimal data transfer, alongside creative assets designed for diverse living conditions, including varying gravity and enclosed habitats. The consortium is also exploring how brand messaging translates across cultures that will evolve independently of Earth-bound norms.",
-        "## Crafting for the Void",
-        "The current \"campaigns\" are less about immediate sales and more about establishing a subtle brand presence and gathering data on early off-world community dynamics. This includes research into non-intrusive brand integration within habitat infrastructure, as well as the potential for localized, micro-influencer networks among early space residents. The creative brief for these pioneering efforts emphasizes utility, resilience, and a deep understanding of the psychological impact of living off-world.",
-        "> \"Our goal isn't to sell a toothbrush on the Moon today,\" an IMA spokesperson stated, \"it's to understand how a brand earns trust when the nearest competitor is millions of miles away, and every resource is precious.\"",
-        "This speculative venture draws parallels with early internet marketing, where infrastructure was nascent and user behavior was largely unknown. However, the stakes are considerably higher, involving not just technological hurdles but also fundamental questions about human identity and community formation in extreme environments. Companies like Amazon and Google, with their vast logistics and data infrastructure, are natural, if unconfirmed, partners for such an alliance, hinting at a future where retail media networks could span the solar system.",
-        "## Implications for Future Economies",
-        "The IMA's work suggests a long-term vision where brand equity is built over decades, not quarters. It forces marketers to consider a future where traditional demographic segmentation gives way to psycho-social profiles shaped by survival, shared purpose, and isolation. This foresight could inform terrestrial marketing by pushing agencies to think more deeply about core human needs and less about transient trends. It also highlights the growing convergence of science fiction and strategic business planning, where the 'next frontier' is literal."
-      ],
-      "ja": [
-        "インターステラー・マーケティング・アライアンス（IMA）と名付けられた新たなイニシアチブが、地球外の将来的な人類居住地向けに、予備的な広告戦略とメディアプロトコルの策定を開始した。テクノロジー企業とライフスタイルブランドの連合によって結成されたIMAは、初期の入植者や長期居住者のニーズを予測し、月面および火星経済圏における基本的なマーケティング原則の確立を目指す。これは、純粋な地球市場予測から、投機的ではあるものの不可避な地球外消費層への積極的な投資へと焦点を移す動きを示している。",
-        "IMAにとっての中心的な課題は、極度の孤立、独自の文化進化、厳しい帯域幅制限といった環境に、従来のマーケティングフレームワークを適応させることにある。初期の取り組みは、大きな遅延と最小限のデータ転送で機能するコンテンツ配信システムの開発に注力しており、同時に、異なる重力環境や閉鎖的な居住空間向けに設計されたクリエイティブアセットも検討されている。また、地球の規範とは独立して進化するであろう文化圏で、ブランドメッセージがどのように伝わるかについても研究が進められている。",
-        "## 宇宙空間での創造",
-        "現在の「キャンペーン」は、即座の売上よりも、繊細なブランドプレゼンスの確立と、初期の地球外コミュニティの動態に関するデータ収集に主眼を置いている。これには、居住施設インフラへの非侵入的なブランド統合に関する研究や、初期の宇宙居住者の間で形成されるであろう地域密着型マイクロインフルエンサーネットワークの可能性が含まれる。これらの先駆的な取り組みにおけるクリエイティブブリーフは、実用性、回復力、そして地球外での生活がもたらす心理的影響への深い理解を重視している。",
-        "> 「我々の目標は、今日、月で歯ブラシを売ることではない」とIMAの広報担当者は述べている。「最も近い競合他社が数百万マイル離れており、あらゆる資源が貴重である環境で、ブランドがいかに信頼を獲得するかを理解することだ」。",
-        "この投機的なベンチャーは、インフラが未発達でユーザー行動がほとんど知られていなかった初期のインターネットマーケティングと共通点を持つ。しかし、その利害関係ははるかに高く、技術的なハードルだけでなく、極限環境における人間のアイデンティティとコミュニティ形成に関する根本的な問いも含まれる。AmazonやGoogleのような、広大な物流とデータインフラを持つ企業は、このようなアライアンスの自然なパートナーであり、小売メディアネットワークが太陽系全体に広がる未来を示唆している。",
-        "## 将来の経済への影響",
-        "IMAの活動は、ブランドエクイティが四半期ではなく、数十年かけて構築される長期的なビジョンを示唆している。これは、従来の人口統計学的セグメンテーションが、生存、共通の目的、孤立によって形成される心理社会的プロファイルに取って代わられる未来をマーケターに考えさせる。この先見性は、代理店が一時的なトレンドよりも、人間の核となるニーズについてより深く考察するよう促すことで、地球上のマーケティングにも情報を提供しうる。また、SFと戦略的な事業計画の融合が進む中、「次のフロンティア」が文字通り物理的な空間であることを浮き彫りにしている。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "For a Tokyo marketer, the concept of off-world advertising might seem distant, yet it resonates with Japan's own long-term vision for technological advancement and societal expansion. While direct application this quarter is nil, the IMA's approach offers a framework for thinking about extreme niche markets and future-proofing brand strategy. Japan's space sector, with players like JAXA and private ventures such as ispace, is actively pursuing lunar missions. This creates a domestic context for considering how Japanese brands might eventually engage with lunar inhabitants, whether through sponsorship of scientific missions or direct product integration into future habitats.",
-        "The challenge of low-latency content and culturally adaptive messaging is particularly relevant. Japanese brands often struggle with global cultural translation; this off-world scenario amplifies that challenge exponentially. It forces a fundamental re-evaluation of what makes a brand resonate when traditional media channels and consumer behaviors are non-existent or radically altered. A Tokyo-based creative director might not be briefing for Mars this year, but the questions posed by the IMA — what is truly universal about a brand? how do you build trust in a resource-scarce environment? — are valuable for any brand looking to expand into truly novel markets, even within Earth.",
-        "Ultimately, this initiative serves as a thought experiment for Japanese marketing leadership. It asks: beyond the saturated domestic market, what does a truly long-term, audacious brand strategy look like? It's a reminder that while the immediate focus remains on LINE Ads and TVer, the horizon for brand building continues to expand, and the mental models developed for extreme environments could yield unexpected insights for terrestrial challenges."
-      ],
-      "ja": [
-        "東京のマーケターにとって、地球外広告の概念は遠いものに感じられるかもしれない。しかし、これは日本の技術進歩と社会拡張に対する長期的なビジョンと共鳴する。今四半期に直接的な応用はないものの、IMAのアプローチは、極端なニッチ市場やブランド戦略の将来性を考える上での枠組みを提供する。JAXAやispaceのような民間企業を含む日本の宇宙産業は、月面ミッションを積極的に追求している。これは、日本のブランドが将来的に月面居住者とどのように関わるか、例えば科学ミッションへのスポンサーシップや、将来の居住施設への製品統合を通じて、国内の文脈で検討するきっかけとなる。",
-        "低遅延コンテンツと文化適応型メッセージングの課題は特に重要だ。日本のブランドは、グローバルな文化翻訳で苦戦することが多く、この地球外シナリオはその課題を指数関数的に増幅させる。それは、従来のメディアチャネルや消費者行動が存在しないか、根本的に変化する状況で、ブランドがどのように響くかを根本的に再評価することを強いる。東京のクリエイティブディレクターが今年火星向けのブリーフを書くことはないだろうが、IMAが提起する問い — ブランドの真に普遍的な要素とは何か？資源が限られた環境でいかに信頼を築くか？ — は、地球上であっても真に新しい市場への拡大を目指すあらゆるブランドにとって価値のあるものだ。",
-        "結局のところ、このイニシアチブは日本のマーケティングリーダーシップにとっての思考実験として機能する。それは、「飽和した国内市場を超えて、真に長期的で大胆なブランド戦略とはどのようなものか？」と問いかける。LINE広告やTVerに即座の焦点が当てられがちな現状において、ブランド構築の地平線が広がり続けていること、そして極限環境向けに開発された思考モデルが、地球上の課題に対して予期せぬ洞察をもたらす可能性があることを思い起こさせる。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Brands prepare for advertising beyond Earth's orbit.",
-        "ja": "ブランド、地球外広告の準備を開始。"
-      },
-      "whoForWhat": {
-        "en": "For a Tokyo-based brand strategist or creative director considering long-term brand equity and future market expansion beyond saturated domestic territories.",
-        "ja": "飽和した国内市場を超え、長期的なブランドエクイティと将来の市場拡大を検討する東京のブランド戦略担当者やクリエイティブディレクター向け。"
-      },
-      "vsJapanPlay": {
-        "en": "This speculative play contrasts with Japan's current practical space marketing, which focuses on JAXA mission sponsorships or terrestrial brand tie-ins, by addressing fundamental creative and media challenges for actual off-world economies.",
-        "ja": "この投機的な動きは、JAXAミッションのスポンサーシップや地上でのブランド連携に焦点を当てる日本の現在の宇宙関連マーケティングとは異なり、実際の地球外経済圏における根本的なクリエイティブおよびメディア課題に取り組む。"
-      },
-      "tokyoTake": {
-        "en": "While direct application for Tokyo marketers is years away, this initiative provides a valuable framework for future-proofing brand strategy and understanding extreme niche markets. It prompts Japanese brands to consider how their core values translate to environments where cultural norms and media infrastructure are entirely novel, offering insights applicable even to challenging terrestrial expansions.",
-        "ja": "東京のマーケターにとって直接的な応用はまだ先だが、このイニシアチブはブランド戦略の将来性を見据え、極端なニッチ市場を理解するための貴重な枠組みを提供する。日本のブランドに対し、文化規範やメディアインフラが全く新しい環境で、自社の核となる価値がどう伝わるかを検討するよう促し、地球上の困難な市場拡大にも応用可能な洞察を与える。"
-      }
-    },
-    "source": {
-      "name": "Adweek",
-      "url": "https://www.adweek.com/brand-marketing/playing-the-long-game-carmax-on-turning-fandom-into-brand-loyalty/"
-    },
-    "sourceGuid": "https://www.adweek.com/?p=1958435",
-    "status": "published"
-  },
-  {
-    "slug": "influencer-reach-alone-no-longer-drives-sales",
-    "category": "media",
-    "issue": "Vol. 04",
-    "publishedAt": "2026-09-01T12:48:00.000Z",
-    "readingMinutes": 6,
-    "feature": false,
-    "cover": {
-      "src": "https://martech.org/wp-content/uploads/2025/11/broken-mirror-information-silos-800x452.png",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Influencer Reach Alone No Longer Drives Sales",
-      "ja": "インフルエンサーのリーチは売上を生まない時代へ"
-    },
-    "dek": {
-      "en": "Social algorithms prioritize engagement over follower counts, demanding new metrics for campaign success.",
-      "ja": "ソーシャルアルゴリズムがフォロワー数よりエンゲージメントを重視し、キャンペーン成功には新指標が必須に。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo, September 1, 2026",
-      "ja": "東京, 2026年9月1日"
-    },
-    "tags": [
-      {
-        "en": "influencer marketing",
-        "ja": "インフルエンサーマーケティング"
-      },
-      {
-        "en": "social media",
-        "ja": "ソーシャルメディア"
-      },
-      {
-        "en": "measurement",
-        "ja": "測定"
-      },
-      {
-        "en": "attribution",
-        "ja": "アトリビューション"
-      }
-    ],
-    "body": {
-      "en": [
-        "Influencer marketing strategies that rely solely on reach metrics are proving insufficient for driving sales, a trend becoming clearer as of late 2026. This re-evaluation stems from the continuous evolution of social platform algorithms, which are fundamentally changing how content is discovered and consumed.",
-        "The traditional reliance on follower counts or overall reach as primary indicators of campaign success is now significantly flawed. Algorithms on major platforms increasingly prioritize engagement and relevance, pushing content not just to an influencer’s direct followers but also to a broader audience based on algorithmic recommendations. This often means content reaches many non-followers who may lack specific brand affinity, diluting the perceived value of high reach numbers when measured against actual conversion rates.",
-        "Consequently, marketers are shifting their focus from raw reach to more granular and qualitative metrics. This includes a deeper analysis of audience demographics, sustained engagement rates—beyond simple likes, looking at comments, shares, and saves—brand affinity scores, and direct attribution links. Strategies now emphasize trackable actions through unique discount codes, custom landing pages, and direct integrations with e-commerce analytics. The goal is to move beyond passive exposure to measurable, active interest and conversion.",
-        "> Reach alone says little about a creator’s ability to drive sales, especially as algorithms put content in front of more non-followers.",
-        "This transition is not entirely new; it mirrors the broader evolution of digital media buying, where the industry has progressively moved from broad awareness metrics like GRPs to more precise indicators such as viewability and, more recently, attention metrics. Platforms like TikTok and Instagram, with their discovery-focused algorithms, are accelerating this shift, compelling brands to seek out creators who can demonstrate genuine audience connection and conversion power, rather than just large numbers.",
-        "Looking ahead, marketers should anticipate a greater emphasis on advanced attribution models tailored for social media, alongside improved integration between social platforms and first-party e-commerce data. The rise of specialized creator management platforms offering deeper audience insights beyond basic follower demographics will also become critical. The industry will need to establish new, standardized metrics for engagement and conversion that accurately reflect an influencer’s true impact on business outcomes."
-      ],
-      "ja": [
-        "インフルエンサーマーケティング戦略において「リーチ数」のみを指標とするアプローチが、実際の売上貢献に結びつきにくくなっていることが、2026年後半に向けてより明確になってきた。この評価の見直しは、ソーシャルプラットフォームのアルゴリズムが進化し、コンテンツの発見と消費のされ方が根本的に変化していることに起因する。",
-        "キャンペーン成功の主要指標としてフォロワー数や総リーチ数に伝統的に依存してきた手法は、現在では大きな欠陥を抱えている。主要プラットフォームのアルゴリズムは、エンゲージメントと関連性をますます優先し、インフルエンサーの直接のフォロワーだけでなく、アルゴリズムのレコメンデーションに基づいてより広範なオーディエンスにコンテンツを配信する。これは、ブランドへの特定の親和性を持たない多くの非フォロワーにコンテンツが届くことを意味し、実際のコンバージョン率で測定した場合、高いリーチ数の価値を希薄化させている。",
-        "結果として、マーケターは単純なリーチ数から、より詳細で質の高い指標へと焦点を移している。これには、オーディエンスのデモグラフィック詳細、単なる「いいね」を超えたコメント、シェア、保存といった深いエンゲージメント率、ブランド親和性スコア、そして直接的なアトリビューションリンクの分析が含まれる。戦略は現在、ユニークな割引コード、カスタムランディングページ、そしてEコマース分析ツールとの直接的な連携を通じた追跡可能な行動を重視している。目標は、受動的な露出から、測定可能な能動的な関心とコンバージョンへと移行することだ。",
-        "> リーチだけではクリエイターの売上貢献能力はほとんど語れない。特にアルゴリズムがフォロワー以外にもコンテンツを届けるようになってからは。",
-        "この変化は全く新しいものではない。デジタルメディアバイイングの広範な進化を反映しており、業界はGRP（延べ視聴率）のような広範な認知度指標から、ビューアビリティ、そして最近ではアテンション指標といったより精密な指標へと段階的に移行してきた。TikTokやInstagramのような発見型アルゴリズムを持つプラットフォームは、この変化を加速させており、ブランドは単なる数の多さではなく、真のオーディエンスとのつながりとコンバージョン力を実証できるクリエイターを求めるようになっている。",
-        "今後、マーケターはソーシャルメディア向けに特化した高度なアトリビューションモデルと、ソーシャルプラットフォームと自社Eコマースデータとの連携強化に、より重点が置かれると予想すべきだ。基本的なフォロワーデモグラフィックを超えた詳細なオーディエンスインサイトを提供する専門的なクリエイター管理プラットフォームの台頭も重要になるだろう。業界全体で、インフルエンサーのビジネス成果への真の影響を正確に反映する、新しいエンゲージメントおよびコンバージョン指標の標準化が求められる。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "In Japan, influencer marketing has historically placed a strong emphasis on celebrity endorsements and high-follower count creators, particularly on platforms like Instagram and YouTube, and more recently TikTok and LINE VOOM. The prevailing approach from major agencies like Dentsu and Hakuhodo often centers on securing top-tier talent with broad reach, assuming that visibility translates directly into brand uplift or sales. This often results in campaigns optimized for awareness metrics rather than direct conversion.",
-        "However, the shift highlighted globally—where algorithms prioritize engagement and relevance over mere follower count—is equally pertinent for Tokyo marketers. While platforms like LINE VOOM have unique user behavior patterns, the underlying principle of algorithmic content distribution to non-followers applies. Japanese consumers are sophisticated; they discern authentic engagement from sponsored content. Marketers must demand more from their agency partners than just reach reports.",
-        "For a Tokyo marketer, this means pushing for a deeper analytics stack. Instead of simply asking for a list of creators by follower count, the brief should specify desired audience demographics, past campaign performance in specific product categories, and a clear methodology for attributing sales or leads directly to creator content. This could involve leveraging platform-specific analytics APIs, implementing unique promo codes, or integrating with first-party data. Agencies like CyberAgent or Septeni, with their strong performance marketing backgrounds, are better positioned to adapt quickly, but all players need to evolve beyond simple reach metrics to truly deliver value in the Japanese market."
-      ],
-      "ja": [
-        "日本におけるインフルエンサーマーケティングは、これまで芸能人の起用や、Instagram、YouTube、そして最近ではTikTokやLINE VOOMといったプラットフォームでの高フォロワー数クリエイターに重点を置いてきた。電通や博報堂といった大手代理店のアプローチは、しばしば広範なリーチを持つトップティアのタレントを確保することに集中し、視認性が直接ブランドリフトや売上につながると仮定してきた。結果として、認知度指標に最適化されたキャンペーンが多く見られる。",
-        "しかし、アルゴリズムがフォロワー数よりもエンゲージメントと関連性を優先するという、グローバルで指摘されている変化は、東京のマーケターにとっても同様に重要だ。LINE VOOMのようなプラットフォームは独自のユーザー行動パターンを持つが、フォロワー以外にもコンテンツが配信されるアルゴリズムの基本原則は変わらない。日本の消費者は洗練されており、本物のエンゲージメントと単なる広告を区別する。マーケターは代理店パートナーに対し、リーチレポート以上のものを求めるべきだ。",
-        "東京のマーケターにとって、これはより深い分析スタックを導入することを意味する。単にフォロワー数でクリエイターリストを求めるのではなく、オーディエンスのデモグラフィック、特定の製品カテゴリにおける過去のキャンペーン実績、そしてクリエイターコンテンツから売上やリードを直接アトリビューションするための明確な手法をブリーフに盛り込むべきだ。これには、プラットフォーム固有の分析APIの活用、ユニークなプロモーションコードの導入、あるいは自社データとの連携などが考えられる。サイバーエージェントやSepteniのようなパフォーマンスマーケティングに強い代理店は、この変化に迅速に対応できる位置にいるが、日本市場で真の価値を提供するためには、すべてのプレイヤーが単純なリーチ指標を超えて進化する必要がある。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Influencer reach no longer equals sales. New metrics needed.",
-        "ja": "インフルエンサーのリーチは売上と直結しない。新指標が必須。"
-      },
-      "whoForWhat": {
-        "en": "For a Tokyo-based brand manager or media planner running creator campaigns on TikTok or Instagram, needing to justify spend with concrete sales impact beyond vanity metrics.",
-        "ja": "TikTokやInstagramでクリエイターキャンペーンを展開する東京のブランドマネージャーやメディアプランナーが、表面的な指標を超えて売上貢献を具体的に説明する必要がある際に。"
-      },
-      "vsJapanPlay": {
-        "en": "This challenges the common Dentsu/Hakuhodo influencer playbook that often prioritizes celebrity endorsements or high-follower counts on platforms like Instagram and YouTube, pushing for deeper engagement analytics.",
-        "ja": "電通や博報堂が提供する、芸能人起用や高フォロワー数重視のインフルエンサー施策に対し、より深いエンゲージメント分析を求める点で従来の国内プレイと異なる。"
-      },
-      "tokyoTake": {
-        "en": "While global platforms drive this, Japan's creator economy on LINE VOOM or TikTok still heavily leans on reach. Tokyo marketers must proactively push agencies for granular data beyond follower counts.",
-        "ja": "グローバルプラットフォームが変化を牽引するが、日本のLINE VOOMやTikTokのクリエイターエコノミーは依然リーチ重視。東京のマーケターはフォロワー数以上の詳細データを代理店に求めるべきだ。"
-      }
-    },
-    "source": {
-      "name": "MarTech.org",
-      "url": "https://martech.org/your-influencer-marketing-strategy-is-broken/"
-    },
-    "sourceGuid": "https://martech.org/?p=412363",
-    "status": "published"
-  },
-  {
-    "slug": "astrobrew-launches-first-lunar-colony-ad-campaign",
-    "category": "creative",
-    "issue": "Vol. 03",
-    "publishedAt": "2026-08-31T17:10:42.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://static-www.adweek.com/wp-content/uploads/2026/07/Amazon-earnings.jpg?w=600&h=315&crop=1",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "AstroBrew Launches First Lunar Colony Ad Campaign",
-      "ja": "アストロブリュー、月面居住者向け広告を始動"
-    },
-    "dek": {
-      "en": "A new coffee brand targets off-world residents with AI-driven creative, testing the limits of niche media and brand building beyond Earth.",
-      "ja": "新興コーヒーブランドが月面入植者を対象にAI活用クリエイティブを展開。ニッチなメディアと地球外ブランド構築の可能性を試す。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO, August 31, 2026",
-      "ja": "東京, 2026年8月31日"
-    },
-    "tags": [
-      {
-        "en": "space marketing",
-        "ja": "宇宙マーケティング"
-      },
-      {
-        "en": "AI creative",
-        "ja": "AIクリエイティブ"
-      },
-      {
-        "en": "niche targeting",
-        "ja": "ニッチターゲティング"
-      },
-      {
-        "en": "brand building",
-        "ja": "ブランド構築"
-      }
-    ],
-    "body": {
-      "en": [
-        "AstroBrew Coffee, in collaboration with agency Cosmic Creative, initiated the first dedicated advertising campaign for the lunar colony population last month. This marks a new phase in extraterrestrial commerce, moving beyond symbolic gestures to direct consumer engagement with a defined budget and strategy.",
-        "The campaign's core challenge was to establish brand relevance for a demographic defined by extreme isolation and unique daily routines. Unlike Earth-bound markets, lunar settlers represent a tightly-knit, resource-constrained community with distinct psychological and logistical needs, making traditional market research methodologies impractical.",
-        "Cosmic Creative deployed a suite of generative AI tools to produce diverse visual and textual assets. These assets were tailored to individual settler profiles and habitat conditions, distributed through internal colony digital displays and augmented reality systems. The goal was to create a sense of familiarity and comfort, a stark contrast to the harsh lunar environment.",
-        "> \"The true innovation here isn't the AI itself, but its application to a demographic where traditional market research is impossible and cultural nuances are still forming,\" an Adweek source noted.",
-        "The media strategy involved securing placements on the nascent lunar communication network, including habitat-specific digital signage and integration into personal AR interfaces. This highly fragmented and novel media landscape required bespoke negotiations and a willingness to invest in unproven channels, prioritizing deep engagement over broad reach.",
-        "While various brands have previously engaged in space-related PR stunts or product placements on orbital missions, AstroBrew's effort represents the first sustained campaign with a defined budget and target audience *living* off-world. It signals a shift from aspirational space marketing to practical space commerce, demanding new approaches to audience understanding and creative deployment.",
-        "This campaign is a precursor to a future where brand identity, media consumption, and consumer behavior will diverge significantly across different celestial bodies. For those living off-world, advertising will not merely reflect culture but actively help shape the nascent social fabric of new human settlements, making brands integral to the very definition of extraterrestrial life."
-      ],
-      "ja": [
-        "アストロブリュー・コーヒーは、広告代理店コズミック・クリエイティブと協業し、先月、月面コロニーの居住者向けに特化した広告キャンペーンを開始した。これは、明確な予算と戦略をもって、地球外商業が単なる象徴的なジェスチャーから、直接的な消費者エンゲージメントへと移行する新段階を示している。",
-        "このキャンペーンの核心的な課題は、極度の孤立と独自の日常ルーティンによって特徴づけられる層に対し、ブランドの関連性を確立することだった。地球上の市場とは異なり、月面入植者は、緊密なコミュニティであり、リソースが限られ、独特の心理的・物流的ニーズを抱えているため、従来の市場調査手法は実用的ではない。",
-        "コズミック・クリエイティブは、生成AIツール群を駆使し、多様なビジュアルとテキストアセットを制作した。これらは個々の入植者のプロファイルや居住環境に合わせて調整され、コロニー内のデジタルディスプレイや拡張現実システムを通じて配信された。過酷な月面環境とは対照的に、親近感と安らぎを与えることが目的だった。",
-        "「ここでの真の革新はAIそのものではなく、従来の市場調査が不可能で、文化的なニュアンスがまだ形成途上にある層へのその応用にある」と、あるAdweekの情報源は述べている。",
-        "メディア戦略には、初期段階の月面通信ネットワーク上での広告枠確保が含まれる。これには、居住区ごとのデジタルサイネージや、個人のARインターフェースへの統合が含まれた。この極めて断片化され、目新しいメディア環境は、オーダーメイドの交渉と、まだ実績のないチャネルへの投資意欲を必要とし、広範なリーチよりも深いエンゲージメントを優先した。",
-        "これまで多くのブランドが宇宙関連のPR活動や軌道ミッションでの製品配置を行ってきたが、アストロブリューの取り組みは、明確な予算と、月面で「生活する」ターゲット層を持つ初の持続的なキャンペーンである。これは、宇宙マーケティングが、単なる憧れから実践的な宇宙商業へと移行していることを示唆し、オーディエンス理解とクリエイティブ展開に新たなアプローチを求めている。",
-        "このキャンペーンは、将来的にブランドアイデンティティ、メディア消費、そして消費者行動が、異なる天体間で大きく分岐する時代の前触れである。地球外で生活する人々にとって、広告は単に文化を反映するだけでなく、新たな人類居住地の未成熟な社会構造を積極的に形成する一助となり、ブランドが地球外生命の定義そのものに不可欠な存在となるだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This AstroBrew campaign, while seemingly futuristic, offers concrete lessons for Tokyo marketers. The core challenge of building a brand in a nascent, isolated community with unique needs is not entirely foreign. Consider the aging demographics in Japan's rural prefectures, or the highly specialized needs of specific B2B sectors. Japanese brands often face the task of reaching audiences with distinct cultural norms or logistical constraints, similar to those on a lunar colony, albeit without the vacuum of space.",
-        "The use of generative AI to scale tailored creative for a small, specific demographic is particularly relevant. While major Japanese agencies like Dentsu and Hakuhodo are investing heavily in AI tools, their application often focuses on broad-reach campaigns or efficiency gains in existing workflows. AstroBrew's approach demonstrates AI's utility in deep personalization for ultra-niche segments where traditional creative production would be cost-prohibitive. This could inform strategies for reaching specific subcultures in Tokyo, or remote island communities.",
-        "Ultimately, while the immediate opportunity for lunar ad buys is nil for a Tokyo-based marketer this quarter, the underlying strategic principles — understanding nascent communities, leveraging AI for hyper-tailored content, and pioneering new media channels — are directly applicable. It challenges the assumption that scale is always paramount, suggesting that deep, personalized engagement with small, high-value audiences can be a viable path, even on Earth."
-      ],
-      "ja": [
-        "このアストロブリューのキャンペーンは、一見すると未来的な話だが、東京のマーケターにとって具体的な教訓を提供する。未成熟で孤立したコミュニティに対し、独自のニーズを持つブランドを構築するという核心的な課題は、日本においても全く無縁ではない。例えば、日本の地方における高齢化の進む人口構成や、特定のB2B分野における高度に専門化されたニーズが挙げられる。日本のブランドは、月面コロニーほどではないにせよ、独自の文化的規範や物流上の制約を持つオーディエンスにリーチするという課題に直面することが多い。",
-        "特に注目すべきは、少数の特定の層向けにパーソナライズされたクリエイティブを生成AIでスケールさせた点だ。電通や博報堂のような日本の大手代理店もAIツールへの投資を加速させているが、その多くは広範なリーチを目的としたキャンペーンや、既存ワークフローの効率化に焦点を当てがちである。アストロブリューのアプローチは、従来のクリエイティブ制作ではコストがかかりすぎる超ニッチなセグメントにおいて、AIが深いパーソナライゼーションに有効であることを示している。これは、東京の特定のサブカルチャー層や、離島のコミュニティにリーチするための戦略に応用できるだろう。",
-        "結局のところ、東京のマーケターにとって月面広告枠の直接的な購入機会は今四半期にはないが、その根底にある戦略的原則 — 未成熟なコミュニティの理解、AIを活用した超パーソナライズドコンテンツ、そして新しいメディアチャネルの開拓 — は直接的に応用可能である。これは、常に規模が最優先という前提に疑問を投げかけ、たとえ地球上であっても、小規模だが価値の高いオーディエンスとの深くパーソナライズされたエンゲージメントが実行可能な道であることを示唆している。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Coffee brand targets lunar settlers with AI creative.",
-        "ja": "月面入植者向けにAIクリエイティブを展開。"
-      },
-      "whoForWhat": {
-        "en": "For brand managers considering new market entries or media planners exploring frontier channels, this campaign illustrates the challenges of building brands in entirely new, isolated environments.",
-        "ja": "新規市場参入を検討するブランドマネージャーや、未開拓チャネルを探るメディアプランナーにとって、孤立した新環境でのブランド構築の課題を示す。"
-      },
-      "vsJapanPlay": {
-        "en": "While no direct Japanese counterpart exists for lunar advertising, the approach echoes the hyper-localization and niche targeting seen in domestic campaigns on platforms like LINE Ads for specific regional communities, but with vastly different logistical constraints.",
-        "ja": "月面広告に直接的な日本国内の競合は存在しないが、このアプローチはLINE Adsが特定の地域コミュニティ向けに行う超ローカライズされたニッチターゲティングと共通点を持つ。ただし物流面の制約は全く異なる。"
-      },
-      "tokyoTake": {
-        "en": "This is a clear signal that the concept of 'market expansion' will soon include extraterrestrial territories. For Tokyo marketers, while lunar media buys are distant, the strategic imperative of understanding nascent, isolated communities and leveraging AI for tailored content holds immediate relevance for underserved or niche domestic segments.",
-        "ja": "「市場拡大」の概念が、まもなく地球外領域を含むことを明確に示唆する。東京のマーケターにとって、月面メディアバイは遠い話だが、未成熟で孤立したコミュニティを理解し、AIをコンテンツ調整に活用するという戦略的要諦は、国内のニッチな未開拓市場にも直ちに応用可能だ。"
-      }
-    },
-    "source": {
-      "name": "Adweek",
-      "url": "https://www.adweek.com/commerce/ftc-claims-amazon-pocketed-over-20-billion-by-manipulating-its-ad-auctions/"
-    },
-    "sourceGuid": "https://www.adweek.com/?p=1958248",
-    "status": "published"
-  },
-  {
-    "slug": "measuring-ad-incrementality-the-case-for-holdout-tests",
-    "category": "adtech",
-    "issue": "Vol. 03",
-    "publishedAt": "2026-08-31T13:43:58.000Z",
-    "readingMinutes": 6,
-    "feature": true,
-    "cover": {
-      "src": "https://martech.org/wp-content/uploads/2025/09/Gemini_Generated_Image_impression-based-advertising-800x449.png",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Measuring Ad Incrementality: The Case for Holdout Tests",
-      "ja": "広告効果の増分測定：ホールドアウトテストが示す真のROI"
-    },
-    "dek": {
-      "en": "Attribution models often mislead, crediting too much or too little. Holdout tests offer a clearer path to understanding true advertising impact and justifying spend.",
-      "ja": "既存のアトリビューションモデルは広告効果を過大評価または過小評価しがちだ。ホールドアウトテストは、広告がもたらす真のインパクトを解明し、予算を正当化するための明確な道筋を提供する。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo, August 31, 2026",
-      "ja": "東京、2026年8月31日"
-    },
-    "tags": [
-      {
-        "en": "Ad Measurement",
-        "ja": "広告測定"
-      },
-      {
-        "en": "Attribution",
-        "ja": "アトリビューション"
-      },
-      {
-        "en": "Incrementality",
-        "ja": "増分効果"
-      },
-      {
-        "en": "Experimentation",
-        "ja": "実験"
-      }
-    ],
-    "body": {
-      "en": [
-        "Marketers seeking to understand the true impact of their advertising spend are increasingly turning to holdout tests, a method that directly measures the incremental revenue generated by campaigns. This approach addresses a long-standing challenge in attribution: accurately discerning what advertising actually accomplished beyond baseline organic performance.",
-        "The core issue lies with the inherent biases of common attribution models. Digital platforms, for instance, are incentivized to claim maximum credit for conversions, often overstating their contribution. Conversely, traditional backend analytics might under-attribute the complex, multi-touch influence of advertising, especially for brand-building efforts that don't lead to immediate clicks or purchases.",
-        "Holdout tests circumvent these issues by establishing a controlled experiment. A statistically significant segment of the target audience is deliberately excluded from ad exposure—the 'holdout group'—while the rest of the audience receives the advertising. By comparing the behavior, engagement, and ultimately, the revenue of the exposed group against the unexposed group, marketers can isolate the net effect of their campaigns.",
-        "This methodology moves beyond correlative insights to provide causal evidence. It quantifies precisely how much additional revenue, customer acquisition, or brand lift would not have occurred without the advertising. This is particularly valuable in an environment where budget justification demands concrete, defensible ROI metrics.",
-        "> Platforms claim too much credit and backends often give too little.",
-        "While the concept is straightforward, implementing robust holdout tests requires careful planning, sufficient audience scale, and the ability to manage control groups across various media channels. It also demands a willingness from platforms and agencies to collaborate on such experiments, rather than relying solely on last-click or multi-touch attribution models that often favor specific channels.",
-        "The push towards privacy-centric measurement and the deprecation of third-party cookies further elevates the importance of first-party data-driven experimental designs like holdout tests. As traditional identifiers fade, marketers must find new ways to prove value without relying on granular, individual-level tracking, making aggregated, causal measurement approaches more critical."
-      ],
-      "ja": [
-        "広告支出の真の影響を理解しようとするマーケターは、キャンペーンがもたらす増分収益を直接測定する「ホールドアウトテスト」に注目している。この手法は、アトリビューションにおける長年の課題、つまりベースラインとなるオーガニックなパフォーマンスを超えて、広告が実際に何を達成したのかを正確に識別するという課題に対処するものだ。",
-        "問題の核心は、一般的なアトリビューションモデルに内在する偏りにある。例えば、デジタルプラットフォームはコンバージョンに対する貢献度を最大化しようと、往々にしてその寄与を過大評価する。一方で、従来のバックエンド分析は、特に即座のクリックや購入につながらないブランド構築活動など、広告の複雑なマルチタッチな影響を過小評価する傾向がある。",
-        "ホールドアウトテストは、管理された実験を設定することでこれらの問題を回避する。対象オーディエンスから統計的に有意なセグメントを意図的に広告露出から除外する「ホールドアウトグループ」を設定し、残りのオーディエンスには広告を配信する。広告に触れたグループと触れていないグループの行動、エンゲージメント、そして最終的な収益を比較することで、マーケターはキャンペーンの純粋な効果を分離できるのだ。",
-        "この手法は、相関関係に基づく洞察を超え、因果関係の証拠を提供する。広告がなければ発生しなかったであろう、どれだけの追加収益、顧客獲得、またはブランドリフトを正確に定量化する。予算の正当化に具体的で説得力のあるROI指標が求められる現在の環境において、これは特に価値が高い。",
-        "「プラットフォームは過度に貢献を主張し、バックエンドはしばしば過小評価する。」",
-        "コンセプト自体は単純だが、堅牢なホールドアウトテストの実装には、綿密な計画、十分なオーディエンス規模、そして様々なメディアチャネルにわたるコントロールグループを管理する能力が求められる。また、特定のチャネルに有利なラストクリックやマルチタッチアトリビューションモデルだけに頼るのではなく、プラットフォームや代理店がこうした実験に協力する姿勢も必要となる。",
-        "プライバシー重視の測定への移行とサードパーティCookieの廃止は、ホールドアウトテストのようなファーストパーティデータ主導の実験的デザインの重要性をさらに高めている。従来の識別子が消えゆく中で、マーケターはきめ細かな個人レベルのトラッキングに頼ることなく価値を証明する新しい方法を見つけなければならず、集計された因果関係測定アプローチがより重要になっている。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "For Tokyo marketers, the concept of holdout testing for incrementality is highly relevant, though its practical application faces unique challenges. While large Japanese brands with sophisticated in-house data teams or partnerships with advanced agencies like Dentsu and Hakuhodo might already be exploring such methods, the broader market, particularly mid-sized companies and those relying on smaller domestic agencies, often default to simpler attribution models provided by platforms or standard media planning tools.",
-        "The Japanese media landscape, dominated by platforms like LINE, Yahoo! JAPAN, and TVer, presents both opportunities and hurdles. While these platforms offer vast reach and data, the ease with which granular holdout groups can be implemented and measured across them varies. Furthermore, the willingness of some domestic platforms to transparently share data for external incrementality analysis, rather than proprietary attribution, is not always a given. Marketers must actively push for these capabilities.",
-        "The cultural emphasis on consensus and established practices within Japanese corporate structures can also mean a slower adoption of novel, data-intensive measurement methodologies. Shifting from familiar last-click or simple MMM models to complex experimental designs requires not just technical prowess but also internal advocacy and education to demonstrate the long-term ROI benefits. For now, while the principle is sound, widespread, seamless implementation across the Tokyo marketing ecosystem remains a goal, not a standard practice. Marketers should advocate for these capabilities in their agency briefs and platform negotiations."
-      ],
-      "ja": [
-        "東京のマーケターにとって、広告増分効果を測るホールドアウトテストの概念は非常に重要だが、その実践には特有の課題がある。電通や博報堂のような先進的な代理店と連携している、または高度な社内データチームを持つ大手日本企業は既にこうした手法を模索しているかもしれない。しかし、より広範な市場、特に中堅企業や国内の小規模代理店に頼る企業は、プラットフォームが提供する簡易なアトリビューションモデルや標準的なメディアプランニングツールに頼りがちだ。",
-        "LINE、Yahoo! JAPAN、TVerなどのプラットフォームが支配する日本のメディア環境は、機会と同時に障壁も提示する。これらのプラットフォームは広大なリーチとデータを提供するが、それらを横断してきめ細かなホールドアウトグループを実装し測定する容易さは様々だ。さらに、一部の国内プラットフォームが、自社のアトリビューションではなく、外部の増分効果分析のためにデータを透明に共有する意欲は、常に高いわけではない。マーケターはこれらの機能について積極的に働きかける必要があるだろう。",
-        "日本の企業文化における合意形成や既存慣行への重視も、データ集約的な新しい測定手法の採用を遅らせる要因となる可能性がある。馴染みのあるラストクリックや単純なMMMモデルから複雑な実験デザインへの移行には、技術的な能力だけでなく、長期的なROIのメリットを実証するための社内での提唱と教育が必要だ。現状では、この原則は理にかなっているものの、東京のマーケティングエコシステム全体での広範かつシームレスな実装は、まだ目標段階であり、標準的な慣行とは言えない。マーケターは、代理店へのブリーフィングやプラットフォームとの交渉において、これらの能力を積極的に要求すべきだ。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Holdout tests for true ad ROI",
-        "ja": "広告の真のROIを測るホールドアウトテスト"
-      },
-      "whoForWhat": {
-        "en": "For performance marketers, media planners, and CMOs seeking to accurately measure the incremental impact of their advertising spend and justify budget allocations beyond platform-reported metrics.",
-        "ja": "プラットフォームが報告する指標を超え、広告支出の増分効果を正確に測定し、予算配分を正当化したいパフォーマンスマーケター、メディアプランナー、CMO向け。"
-      },
-      "vsJapanPlay": {
-        "en": "This contrasts with the common reliance on last-click or multi-touch attribution models often used by Japanese agencies like CyberAgent or Septeni, offering a causal measurement approach rather than merely correlative insights.",
-        "ja": "サイバーエージェントやセプテーニなどの国内代理店が一般的に用いるラストクリックやマルチタッチアトリビューションモデルとは異なり、単なる相関関係ではなく因果関係に基づく測定アプローチを提供する。"
-      },
-      "tokyoTake": {
-        "en": "While the principle of holdout testing is sound, implementing it at scale across LINE, Yahoo! JAPAN, and TVer requires sophisticated data integration and platform cooperation often lacking in the Tokyo market, making it an advanced play for larger brands with robust in-house data teams.",
-        "ja": "ホールドアウトテストの原則は妥当だが、LINE、Yahoo! JAPAN、TVerといった国内主要プラットフォームを横断して大規模に実装するには、東京市場では不足しがちな高度なデータ連携とプラットフォームの協力が不可欠だ。これは、強力な社内データチームを持つ大手ブランド向けの高度な施策と言える。"
-      }
-    },
-    "source": {
-      "name": "MarTech.org",
-      "url": "https://martech.org/the-only-way-to-know-what-your-ads-really-did/"
-    },
-    "sourceGuid": "https://martech.org/?p=412351",
     "status": "published"
   }
 ]
