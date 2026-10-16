@@ -1,5 +1,613 @@
 [
   {
+    "slug": "stellar-journeys-elevates-space-tourism-marketing-beyond-aspiration",
+    "category": "creative",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-10-16T14:24:00.000Z",
+    "readingMinutes": 7,
+    "feature": true,
+    "cover": {
+      "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Screenshot-2026-10-16-at-1.55.55-PM-e1792173460828.png?w=600&h=315&crop=1",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Stellar Journeys Elevates Space Tourism Marketing Beyond Aspiration",
+      "ja": "ステラ・ジャーニーズ、宇宙旅行マーケティングを「体験」の域へ"
+    },
+    "dek": {
+      "en": "A new global campaign for suborbital travel shifts focus to immersive luxury experiences, using digital twins and VR to sell the destination.",
+      "ja": "宇宙旅行の新グローバルキャンペーン、デジタルツインとVRで目的地を販売。単なる憧れから没入型ラグジュアリー体験へ。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, October 16, 2026",
+      "ja": "東京、2026年10月16日"
+    },
+    "tags": [
+      {
+        "en": "creative",
+        "ja": "クリエイティブ"
+      },
+      {
+        "en": "luxury marketing",
+        "ja": "ラグジュアリーマーケティング"
+      },
+      {
+        "en": "experiential marketing",
+        "ja": "体験型マーケティング"
+      },
+      {
+        "en": "VR",
+        "ja": "VR"
+      }
+    ],
+    "body": {
+      "en": [
+        "Stellar Journeys, the burgeoning suborbital tourism operator, recently unveiled its \"Voyage Awaits\" campaign, developed in partnership with London-based creative agency Mother. Launched this quarter, the initiative pivots from showcasing spaceflight as a technological marvel to positioning it as an exclusive luxury travel experience, leveraging advanced immersive technologies.",
+        "This strategic shift reflects a maturing market for ultra-high-net-worth consumers, where the technical achievement of space travel is no longer the sole differentiator. Instead, the campaign emphasizes the emotional and experiential value, aiming to convert early adopters into committed voyagers. Mother's approach integrates high-fidelity digital twins of Stellar Journeys' spacecraft and orbital habitats, allowing prospective clients to explore their future journey through bespoke virtual reality (VR) installations. This moves beyond traditional aspirational advertising, offering a tangible, albeit virtual, pre-experience.",
+        "## How the experience unfolds",
+        "The core of \"Voyage Awaits\" resides in private, invitation-only events held in key global cities. Attendees are guided through multi-sensory VR environments, simulating everything from pre-flight training to the zero-gravity viewing experience and even a digital walkthrough of their personalized cabin. This direct engagement bypasses mass media, focusing instead on intimate, high-touch interactions designed to close high-value bookings. The agency claims this approach fosters a deeper emotional connection, vital for a product with a seven-figure price tag.",
+        "> \"The challenge isn't selling space, it's selling the personal transformation that only space can offer,\" a Mother spokesperson noted.",
+        "This strategy draws parallels with high-end automotive or yacht sales, where immersive showrooms and personalized consultations are standard. However, Stellar Journeys takes it further by creating a complete digital twin of an inaccessible product. Competitors like Blue Origin and Virgin Galactic have historically relied on more conventional PR and celebrity endorsements. Stellar Journeys' investment in proprietary digital assets and experiential activations signals a belief that the next frontier of luxury marketing lies in pre-purchase immersion.",
+        "The campaign also subtly addresses the environmental impact concerns associated with space tourism. By focusing on the scientific and personal enrichment aspects, and framing the journey as a once-in-a-lifetime privilege, it attempts to mitigate potential criticism. The emphasis on bespoke, small-group experiences reinforces this narrative of mindful, curated travel.",
+        "## Implications for future off-world commerce",
+        "Looking ahead, this campaign offers a glimpse into how commerce might function in an off-world economy. As human activity expands beyond Earth, the challenge of marketing products and experiences that are physically remote will grow. Digital twins, immersive VR/AR, and hyper-personalized experiential marketing could become standard tools for everything from lunar real estate to asteroid mining investments or even extraterrestrial leisure. The \"Voyage Awaits\" model demonstrates a viable pathway for selling the intangible, the distant, and the truly unique, setting a precedent for future off-world brand engagement."
+      ],
+      "ja": [
+        "準軌道宇宙旅行事業者のステラ・ジャーニーズは、ロンドンのクリエイティブエージェンシー Mother と提携し、新たな「Voyage Awaits」キャンペーンを発表した。今四半期に開始されたこの取り組みは、宇宙飛行を技術的な偉業として見せることから、高度な没入型テクノロジーを活用した排他的なラグジュアリー旅行体験として位置づける方向へと転換している。",
+        "この戦略的転換は、超富裕層をターゲットとする市場の成熟を反映している。そこでは、宇宙旅行の技術的達成だけでは差別化要因とならない。キャンペーンはむしろ、感情的・体験的な価値を強調し、早期の関心層を確実な旅行者へと転換させることを目指す。Mother のアプローチは、ステラ・ジャーニーズの宇宙船や軌道上居住空間の高精細なデジタルツインを統合しており、見込み客は特注のバーチャルリアリティ（VR）設備を通じて、未来の旅を探索できる。これにより、従来の憧れを煽る広告を超え、仮想的ではあるものの具体的な事前体験を提供している。",
+        "## 体験の仕組み",
+        "「Voyage Awaits」の核は、世界の主要都市で開かれる招待制のプライベートイベントにある。参加者は多感覚的なVR環境へと導かれ、飛行前訓練から無重力状態での眺望体験、さらにはパーソナライズされたキャビンのデジタルウォークスルーまで、あらゆる要素をシミュレートできる。この直接的なエンゲージメントは、マスメディアを介さず、高額な予約獲得を目的とした親密で手厚い交流に焦点を当てている。代理店は、このアプローチが7桁の価格帯の商品にとって不可欠な、より深い感情的つながりを育むと主張している。",
+        "> 「課題は宇宙を売ることではなく、宇宙だけが提供できる個人的な変革を売ることだ」と Mother の広報担当者は述べている。",
+        "この戦略は、高級自動車やヨットの販売において、没入型ショールームやパーソナルコンサルテーションが一般的であることと共通点を持つ。しかし、ステラ・ジャーニーズは、まだ物理的にアクセスできない製品の完全なデジタルツインを作成することで、さらに一歩踏み込んでいる。ブルーオリジンやヴァージン・ギャラクティックといった競合他社は、これまでより伝統的な広報活動や有名人の推薦に依存してきた。ステラ・ジャーニーズが独自のデジタルアセットと体験型アクティベーションに投資していることは、ラグジュアリーマーケティングの次なるフロンティアが、購入前の没入体験にあるという確信を示唆している。",
+        "このキャンペーンはまた、宇宙旅行に伴う環境への影響に関する懸念にも微妙に対処している。科学的および個人的な豊かさの側面に焦点を当て、旅を一生に一度の特権として位置づけることで、潜在的な批判を和らげようとしている。オーダーメイドの少人数制体験を強調することで、この「意識的で厳選された旅行」という物語を強化している。",
+        "## 未来の地球外商取引への示唆",
+        "今後、このキャンペーンは地球外経済における商取引のあり方を示唆している。人類の活動が地球外へと拡大するにつれて、物理的に遠隔にある製品や体験をマーケティングする課題は増大するだろう。デジタルツイン、没入型VR/AR、そして超パーソナライズされた体験型マーケティングは、月面不動産から小惑星採掘投資、あるいは地球外レジャーに至るまで、あらゆるものの標準的なツールとなる可能性がある。「Voyage Awaits」モデルは、無形のもの、遠隔のもの、そして真にユニークなものを販売するための実行可能な道筋を示しており、未来の地球外ブランドエンゲージメントの先例を確立している。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Stellar Journeys' campaign provides a valuable case study for Tokyo's luxury market, particularly for brands grappling with how to sell premium experiences that are either physically distant or inherently exclusive. While Japan does not yet have a commercial space tourism industry, the principles of using advanced digital twins and immersive VR for high-touch client engagement are directly applicable. Consider the marketing of high-end resort properties in Okinawa or Hokkaido, bespoke automotive models, or even exclusive art exhibitions. The challenge for these brands is often how to convey the unique atmosphere and emotional value of a product before physical access is granted.",
+        "The Japanese luxury sector, with its emphasis on omotenashi (hospitality) and meticulous attention to detail, is well-positioned to adopt such approaches. Imagine a high-end ryokan in Kyoto offering a virtual tour that adapts to the user's preferences, showcasing seasonal changes or specific room views. Or a developer presenting a new luxury condominium tower in central Tokyo with a digital twin that allows prospective buyers to customize layouts and experience city views at different times of day. The technological infrastructure and consumer appetite for sophisticated digital experiences exist in Japan; the question is how agencies like Dentsu or Hakuhodo can integrate these tools into their luxury brand strategies beyond simple 360-degree videos.",
+        "However, the cost and complexity of creating high-fidelity digital twins and bespoke VR installations are significant. For most Japanese brands, this level of investment might only be justifiable for the absolute pinnacle of luxury goods or services. The campaign's success hinges on a global ultra-HNW audience with budgets far exceeding typical luxury consumers. Tokyo marketers should assess if the scale of their target audience and the price point of their product warrant such a resource-intensive approach, or if more accessible immersive technologies, perhaps leveraging existing platforms like Meta's Quest or even advanced AR filters on LINE, could achieve a similar, albeit scaled-down, effect. The core lesson is the shift from *showing* a product to *letting the customer experience* a digital representation of it, a principle that transcends the space industry."
+      ],
+      "ja": [
+        "ステラ・ジャーニーズのキャンペーンは、物理的に遠隔にある、あるいは本質的に排他的なプレミアム体験をいかに販売するかという課題を抱える東京のラグジュアリー市場にとって、貴重なケーススタディとなる。日本にはまだ商業的な宇宙旅行産業は存在しないが、高度なデジタルツインと没入型VRを高接触の顧客エンゲージメントに活用するという原則は、直接的に応用可能だ。沖縄や北海道の高級リゾート物件、特注の自動車モデル、あるいは限定的な美術展のマーケティングを考えてみればよい。これらのブランドにとっての課題は、物理的なアクセスが提供される前に、製品が持つ独特の雰囲気と感情的価値をいかに伝えるかにあることが多い。",
+        "おもてなしと細部へのこだわりを重視する日本のラグジュアリーセクターは、このようなアプローチを採用するのに適した位置にある。例えば、京都の高級旅館が、ユーザーの好みに合わせて季節の変化や特定の部屋からの眺望を提示するバーチャルツアーを提供するところを想像してみてほしい。あるいは、デベロッパーが東京中心部の新しい高級マンションを、購入希望者が間取りをカスタマイズし、時間帯ごとの都市の眺望を体験できるデジタルツインで紹介する事例も考えられる。洗練されたデジタル体験に対する技術インフラと消費者の意欲は日本に存在する。問題は、電通や博報堂のような代理店が、これらのツールを単なる360度動画を超えて、ラグジュアリーブランド戦略にどう組み込むかだろう。",
+        "しかし、高精細なデジタルツインと特注のVR設備を制作するコストと複雑さは相当なものだ。ほとんどの日本ブランドにとって、このレベルの投資は、本当に最高級の贅沢品やサービスでなければ正当化しにくいかもしれない。このキャンペーンの成功は、一般的なラグジュアリー消費者とはかけ離れた予算を持つ、世界の超富裕層をターゲットとしていることに依存している。東京のマーケターは、ターゲットオーディエンスの規模と製品の価格帯が、このような資源集約型のアプローチを正当化するかどうか、あるいはMeta Questのような既存プラットフォームやLINEの高度なARフィルターを活用した、よりアクセスしやすい没入型テクノロジーで同様の効果が得られるかどうかを評価すべきだ。核となる教訓は、製品を「見せる」ことから、デジタル表現を「顧客に体験させる」ことへの移行であり、これは宇宙産業を超えた普遍的な原則である。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Space tourism campaign sells experience, not just flight.",
+        "ja": "宇宙旅行、フライトではなく体験を販売。"
+      },
+      "whoForWhat": {
+        "en": "For luxury brand managers and agency creative directors exploring high-value experiential marketing, this offers a blueprint for engaging ultra-high-net-worth clients with an inaccessible product.",
+        "ja": "高額な体験型マーケティングを模索するラグジュアリーブランドのブランドマネージャーや代理店のクリエイティブディレクターにとって、アクセス困難な製品を富裕層に訴求するための青写真となる。"
+      },
+      "vsJapanPlay": {
+        "en": "While Japan's luxury sector often relies on exclusive events and personalized service (e.g., Lexus brand experiences or high-end ryokan marketing), Stellar Journeys' deep integration of proprietary digital twins and VR as a primary sales tool is a step beyond, creating an immersive pre-purchase reality.",
+        "ja": "日本のラグジュアリー分野も排他的なイベントやパーソナルサービス（例：レクサスのブランド体験や高級旅館のマーケティング）に注力するが、ステラ・ジャーニーズの独自のデジタルツインとVRの深い統合は、没入型の事前購入体験を創出し、その一歩先を行く。"
+      },
+      "tokyoTake": {
+        "en": "This campaign highlights a growing global trend in ultra-luxury marketing: using advanced immersive tech to sell experiences that are physically remote or exclusive. For Tokyo marketers, while space tourism remains niche, the strategy of leveraging digital twins for inaccessible products could inform high-end real estate, exclusive art sales, or even luxury automotive launches. The key is to understand how to build a compelling virtual experience that translates into tangible desire, even if the final product is distant or limited.",
+        "ja": "このキャンペーンは、物理的に遠隔にある、あるいは本質的に排他的な体験を販売するために高度な没入型技術を活用するという、超高級品マーケティングにおける世界的なトレンドを示す。東京のマーケターにとって、宇宙旅行はニッチだが、アクセスできない製品にデジタルツインを活用する戦略は、高級不動産、限定アート販売、あるいはラグジュアリーカーのローンチに応用できる。"
+      }
+    },
+    "source": {
+      "name": "Adweek",
+      "url": "https://www.adweek.com/tvnewser/ticker-nbc-news-dateline-heads-north-of-the-border/"
+    },
+    "sourceGuid": "https://www.adweek.com/?p=1965560",
+    "status": "published"
+  },
+  {
+    "slug": "holdcos-struggle-to-land-c-suite-value-proposition",
+    "category": "brand",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-10-16T04:01:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/holdco-outcomes-digiday.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Holdcos struggle to land C-suite value proposition",
+      "ja": "ホールディングカンパニーとCスイート、価値提案の溝"
+    },
+    "dek": {
+      "en": "Agency groups are finding it harder to demonstrate strategic impact to senior brand executives, prompting a re-evaluation of partnership models.",
+      "ja": "大手エージェンシーグループは、クライアントの経営層に対し、その戦略的価値を説明することに苦慮している。この状況は、パートナーシップモデルの再考を促す。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO, October 16, 2026",
+      "ja": "東京, 2026年10月16日"
+    },
+    "tags": [
+      {
+        "en": "agency holding companies",
+        "ja": "エージェンシーホールディングカンパニー"
+      },
+      {
+        "en": "C-suite engagement",
+        "ja": "Cスイートエンゲージメント"
+      },
+      {
+        "en": "marketing strategy",
+        "ja": "マーケティング戦略"
+      },
+      {
+        "en": "business outcomes",
+        "ja": "ビジネス成果"
+      }
+    ],
+    "body": {
+      "en": [
+        "Major agency holding companies are facing increasing difficulty articulating their strategic value to client C-suite executives, a trend observed across global markets as of late 2026. This friction indicates a fundamental misalignment between traditional agency service offerings and the evolving demands of senior brand leadership.",
+        "The core issue stems from a shift in what C-suite leaders prioritize. They seek demonstrable business outcomes, not just creative campaigns or media buys. This translates into a demand for quantifiable impact on P&L, market share, or customer lifetime value, rather than awards or reach metrics. Holdcos, traditionally structured around creative and media silos, often struggle to present a unified, outcome-driven solution that resonates at the board level.",
+        "One key challenge is the perception of agencies as vendors rather than strategic partners. \"Many C-suite leaders now view agencies as tactical executors rather than essential strategic advisors,\" states one industry veteran quoted in the dispatch. This perception gap is exacerbated by the rise of in-house capabilities and specialized consultancies that promise direct business transformation. Agencies are increasingly competing with firms like Accenture Song or Deloitte Digital, which speak the language of enterprise solutions and digital transformation from the outset.",
+        "The conversation has moved beyond media efficiency or creative effectiveness. C-suite executives are now focused on areas such as first-party data strategy, retail media network (RMN) integration, and the ethical deployment of generative AI across the marketing stack. They expect agencies to navigate these complex, interconnected challenges with a clear path to ROI, often requiring a level of integration and data science expertise that few traditional agency structures possess.",
+        "This pressure is forcing holdcos to reorganize, integrate data capabilities, and invest heavily in talent that bridges marketing, technology, and business consulting. Some are creating dedicated C-suite engagement teams or developing proprietary platforms that offer more holistic marketing intelligence. However, these efforts often face internal resistance from entrenched departmental structures and a legacy culture focused on billable hours rather than long-term strategic influence.",
+        "For agencies, success hinges on moving beyond project-based work to embedded partnerships that co-own business objectives. This means developing clearer incrementality models and demonstrating tangible impact on client P&Ls. The ability to forecast and measure the commercial value of marketing investments will be paramount, shifting the dialogue from 'what we delivered' to 'what we achieved together'."
+      ],
+      "ja": [
+        "2026年後半、世界市場で大手エージェンシーホールディングカンパニーがクライアントのCスイート役員に対し、自社の戦略的価値を明確に伝えることに苦戦している。この摩擦は、従来の代理店サービスと、ブランドの経営層が求めるものとの間に根本的なずれがあることを示唆している。",
+        "この問題の核心は、Cスイートリーダーが優先する事柄の変化にある。彼らは単なるクリエイティブキャンペーンやメディアバイイングではなく、具体的なビジネス成果を求めている。これは、広告賞やリーチ数といった指標ではなく、損益計算書（P&L）への貢献、市場シェアの拡大、顧客生涯価値（LTV）への測定可能な影響を求める声として現れている。クリエイティブとメディアがサイロ化されがちな従来のホールディングカンパニーの組織構造では、経営層に響くような統合的で成果重視のソリューションを提示することが難しい。",
+        "もう一つの大きな課題は、代理店が戦略的パートナーというよりも、単なるベンダーと見なされがちであることだ。「多くのCスイートリーダーは今、代理店を必要不可欠な戦略的アドバイザーというより、戦術的な実行者と見なしている」と、このディスパッチで引用された業界のベテランは語る。この認識のギャップは、企業のインハウス機能の強化や、直接的なビジネス変革を約束する専門コンサルティング会社の台頭によってさらに拡大している。代理店は、アクセンチュア・ソングやデロイト・デジタルといった企業と競合するようになっており、これらの企業は最初からエンタープライズソリューションやデジタル変革の言葉で話す。",
+        "議論はメディア効率やクリエイティブ効果の域を超えている。Cスイート役員は現在、ファーストパーティデータ戦略、リテールメディアネットワーク（RMN）との統合、そしてマーケティングスタック全体における生成AIの倫理的な活用といった領域に注目している。彼らは、代理店がこれらの複雑で相互に関連する課題に対し、明確な投資収益率（ROI）への道筋を示し、多くの場合、従来の代理店構造では持ち得なかったレベルの統合能力とデータサイエンスの専門知識を要求する。",
+        "このプレッシャーにより、ホールディングカンパニーは組織再編、データ機能の統合、そしてマーケティング、テクノロジー、ビジネスコンサルティングの橋渡しとなる人材への大規模な投資を余儀なくされている。一部はCスイート専門のエンゲージメントチームを創設したり、より包括的なマーケティングインテリジェンスを提供する独自のプラットフォームを開発したりしている。しかし、これらの取り組みは、既存の部門構造や、長期的な戦略的影響力よりも時間単位の請求を重視するレガシー文化からの内部抵抗に直面することも少なくない。",
+        "代理店にとっての成功は、プロジェクトベースの仕事を超え、クライアントのビジネス目標を共同で所有するような密接なパートナーシップを築けるかにかかっている。これは、より明確なインクリメンタリティモデルを開発し、クライアントのP&Lに具体的な影響を示すことを意味する。「何を提供したか」から「何を共に達成したか」へと対話の焦点を移し、マーケティング投資の商業的価値を予測し測定する能力が最も重要となるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The tension between agency holdcos and the C-suite, focused on demonstrating tangible business outcomes, has profound implications for future ventures, including those beyond Earth's atmosphere. As humanity expands into orbital habitats or lunar bases, the nascent 'off-world' economy will demand marketing solutions that are inherently efficient, measurable, and deeply integrated into core business models from inception.",
+        "In such environments, where resources are finite and every investment scrutinized, traditional brand-building or mass-reach campaigns would be a luxury. Instead, marketing will need to directly drive resource allocation, user acquisition for new habitats, or adoption of life-support technologies. Agencies that cannot articulate their value in terms of tangible growth, sustainability, or even survival metrics will find no place in a truly off-world C-suite discussion.",
+        "This future demands a new breed of 'orbital CMOs' who prioritize hyper-targeted, data-driven strategies that optimize for survival, resource utilization, and community expansion. Agencies that can offer predictive analytics for habitat growth, supply chain optimization through behavioral economics, or even psychological resilience programs for isolated populations will be the ones securing strategic partnerships. The 'awkward courtship' of today will evolve into a ruthless selection process for partners who can deliver quantifiable impact in extreme environments."
+      ],
+      "ja": [
+        "エージェンシーホールディングカンパニーとCスイート間の、具体的なビジネス成果を示すことに焦点を当てた緊張関係は、地球圏外のベンチャーを含む、将来の取り組みに深い示唆を与える。人類が軌道上の居住地や月面基地へと拡大するにつれて、黎明期の「オフワールド」経済は、本質的に効率的で測定可能、かつ中核的なビジネスモデルに最初から深く統合されたマーケティングソリューションを要求するだろう。",
+        "そのような環境では、資源が有限であり、あらゆる投資が厳しく精査されるため、従来のブランド構築やマスリーチキャンペーンは贅沢品となる。代わりに、マーケティングは資源配分、新しい居住地のユーザー獲得、あるいは生命維持技術の採用を直接推進する必要がある。具体的な成長、持続可能性、さらには生存率といった指標でその価値を説明できない代理店は、真のオフワールドCスイートの議論の場には立てないだろう。",
+        "この未来は、居住地の成長予測分析、行動経済学を通じたサプライチェーン最適化、あるいは孤立した集団のための心理的レジリエンスプログラムさえ提供できるような、超ターゲット型でデータ駆動の戦略を優先する新たな種類の「軌道CMO」を求める。今日の「ぎこちない求愛」は、極限環境下で測定可能な影響をもたらすパートナーを選び出す、容赦ない選抜プロセスへと進化するだろう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Holdcos struggle to justify value to C-suite.",
+        "ja": "ホールディングカンパニー、Cスイートへの価値提案に苦慮。"
+      },
+      "whoForWhat": {
+        "en": "For CMOs and agency strategy leads in Tokyo seeking to align marketing spend with direct business outcomes, offering a global perspective on evolving client-agency relationships.",
+        "ja": "東京のCMOや代理店戦略責任者が、マーケティング支出を直接的なビジネス成果に結びつけたい場合に、進化するクライアントと代理店の関係について世界的な視点を提供する。"
+      },
+      "vsJapanPlay": {
+        "en": "This contrasts with the prevalent Dentsu/Hakuhodo integrated approach, where broad media buying and creative often precede explicit P&L linkage; global C-suites now demand upfront, measurable business impact.",
+        "ja": "これは電通や博報堂の統合的アプローチとは対照的で、日本では幅広いメディアバイイングやクリエイティブがP&Lとの明確な連動に先行しがちだが、世界のCスイートは測定可能なビジネスインパクトを最初から要求する。"
+      },
+      "tokyoTake": {
+        "en": "Tokyo's JTC CMOs, often prioritizing brand equity and share of voice, will increasingly face global pressure to link marketing directly to financial metrics, challenging traditional agency-client dynamics.",
+        "ja": "ブランド資産やシェア・オブ・ボイスを重視する日本の大手企業のCMOは、マーケティングを財務指標に直接結びつけるよう、世界的な圧力に直面する。これは従来の代理店・クライアント関係を揺るがすだろう。"
+      }
+    },
+    "source": {
+      "name": "Digiday",
+      "url": "https://digiday.com/marketing/future-of-marketing-briefing-the-holdcos-long-awkward-courtship-of-the-c-suite/?utm_campaign=digidaydis&#038;utm_medium=rss&#038;utm_source=general-rss"
+    },
+    "sourceGuid": "https://digiday.com/?p=614074",
+    "status": "published"
+  },
+  {
+    "slug": "global-brands-prioritize-ai-and-creator-engagement-at-awny-2026",
+    "category": "brand",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-10-16T12:00:00.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#121212"
+    },
+    "title": {
+      "en": "Global Brands Prioritize AI and Creator Engagement at AWNY 2026",
+      "ja": "AWNY 2026：グローバルブランドがAIとクリエイターエンゲージメントを優先"
+    },
+    "dek": {
+      "en": "Smirnoff, Liquid Death, and Chili's executives convened at Advertising Week New York, signaling a clear strategic direction: the integration of artificial intelligence with culturally resonant creator partnerships to drive consumer connection.",
+      "ja": "スマノフ、リキッド・デス、チリズの幹部がアドバタイジング・ウィーク・ニューヨークに集結。AIと文化的に共鳴するクリエイターパートナーシップの統合が、消費者とのつながりを促進する新たな戦略方向性を示した。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "NEW YORK",
+      "ja": "ニューヨーク"
+    },
+    "tags": [
+      {
+        "en": "brand strategy",
+        "ja": "ブランド戦略"
+      },
+      {
+        "en": "AI in marketing",
+        "ja": "マーケティングAI"
+      },
+      {
+        "en": "creator economy",
+        "ja": "クリエイターエコノミー"
+      },
+      {
+        "en": "cultural marketing",
+        "ja": "文化マーケティング"
+      }
+    ],
+    "body": {
+      "en": [
+        "At Advertising Week New York (AWNY) 2026, leading marketers from brands like Smirnoff, Liquid Death, and Chili’s converged to outline their strategic priorities. The discussions underscored a unified industry focus on leveraging artificial intelligence, fostering deeper cultural connections, and navigating the evolving creator economy. This signals a move beyond experimental applications towards embedding these elements into core brand strategy and media planning.",
+        "The convergence of these three themes — AI, culture, and creators — indicates a shift in how major consumer brands approach market relevance. AI is no longer a peripheral tool but a foundational layer for efficiency in content generation, personalization, and media optimization. Simultaneously, the creator economy is recognized as a primary conduit for authentic consumer engagement, bypassing traditional media gatekeepers. Connecting with culture serves as the overarching objective, ensuring that AI-driven efficiencies and creator reach translate into meaningful brand affinity.",
+        "Brand executives highlighted that the challenge lies in harmonizing these components. AI offers scalability, but without a genuine cultural lens and the authentic voice of creators, it risks generating generic or irrelevant content. Conversely, creator partnerships can deliver authenticity, yet without AI's analytical capabilities, their impact can be difficult to measure or scale effectively across diverse audiences.",
+        "> \"The real work is not just deploying AI, but ensuring it amplifies authentic cultural connections through creators.\"",
+        "This strategic pivot reflects a broader industry recognition that consumers, particularly younger demographics, are increasingly skeptical of traditional advertising. They seek brand interactions that feel organic, relevant, and community-driven. Brands are therefore investing in strategies that allow them to participate in cultural conversations through trusted voices, rather than simply interrupting them with broadcast messages. The emphasis on the creator economy also points to a continued decentralization of media influence and a more direct path to audience segments.",
+        "For marketers, this means re-evaluating internal capabilities and agency partnerships. Success will depend on teams that can not only understand AI tools but also possess a nuanced grasp of cultural trends and the dynamics of creator relationships. The discussions at AWNY suggest that brands are preparing to allocate significant budgets towards platforms and partners that can deliver integrated solutions across these three pillars, moving away from fragmented approaches to media and content development.",
+        "The next phase will involve refining measurement frameworks to attribute the impact of these integrated strategies. While traditional metrics remain, there is a growing demand for advanced analytics that can quantify cultural resonance and the long-term brand equity built through creator collaborations, beyond immediate performance indicators. Brands will seek proof of incremental value from these complex, multi-faceted campaigns."
+      ],
+      "ja": [
+        "2026年のアドバタイジング・ウィーク・ニューヨーク（AWNY）では、スマノフ、リキッド・デス、チリズといった主要ブランドのマーケターが集結し、彼らの戦略的優先事項を概説した。議論は、人工知能の活用、より深い文化とのつながりの醸成、そして進化するクリエイターエコノミーの舵取りに業界が統一的に焦点を当てていることを強調した。これは、実験的な応用を超え、これらの要素をブランドのコア戦略とメディアプランニングに組み込む動きを示唆している。",
+        "AI、文化、クリエイターという3つのテーマの収束は、主要な消費者ブランドが市場での関連性に取り組む方法の変化を示している。AIはもはや周辺的なツールではなく、コンテンツ生成、パーソナライゼーション、メディア最適化における効率性のための基盤層である。同時に、クリエイターエコノミーは、従来のメディアのゲートキーパーを迂回し、本物の消費者エンゲージメントのための主要な導管として認識されている。文化とのつながりは包括的な目標として機能し、AI主導の効率性とクリエイターのリーチが意味のあるブランド親和性につながることを保証する。",
+        "ブランド幹部らは、これらの要素を調和させることが課題だと強調した。AIはスケーラビリティを提供するが、真の文化的視点とクリエイターの本物の声がなければ、一般的または無関係なコンテンツを生成するリスクがある。逆に、クリエイターパートナーシップは信頼性をもたらすことができるが、AIの分析能力がなければ、その影響を多様なオーディエンスにわたって効果的に測定または拡大することは困難になりうる。",
+        "> 「本当の仕事はAIを導入するだけでなく、それがクリエイターを通じて本物の文化的なつながりを増幅させることだ。」",
+        "この戦略的転換は、特に若い世代の消費者が伝統的な広告にますます懐疑的になっているという、より広範な業界認識を反映している。彼らは、オーガニックで関連性があり、コミュニティ主導に感じるブランドとの交流を求めている。したがってブランドは、放送メッセージで会話を中断するだけでなく、信頼できる声を通じて文化的な会話に参加できる戦略に投資している。クリエイターエコノミーへの重点は、メディアの影響力の継続的な分散化と、オーディエンスセグメントへのより直接的な経路も示唆している。",
+        "マーケターにとって、これは社内の能力と代理店とのパートナーシップを再評価することを意味する。成功は、AIツールを理解するだけでなく、文化的なトレンドとクリエイター関係のダイナミクスを微妙に把握できるチームにかかっている。AWNYでの議論は、ブランドがこれら3つの柱にわたる統合ソリューションを提供できるプラットフォームとパートナーに多額の予算を割り当てる準備をしていることを示唆しており、メディアとコンテンツ開発の断片的なアプローチから脱却しようとしている。",
+        "次の段階では、これらの統合戦略の影響を評価するための測定フレームワークを洗練させることになるだろう。従来の指標は残るものの、目先のパフォーマンス指標を超えて、文化的な共鳴やクリエイターとのコラボレーションを通じて構築される長期的なブランドエクイティを定量化できる高度な分析への需要が高まっている。ブランドは、これらの複雑で多面的なキャンペーンから得られる増分価値の証拠を求めるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The emphasis on AI-driven cultural connection through creators at AWNY 2026 highlights a global trend that Tokyo marketers must address, but with nuanced local adaptation. While AI tools for content generation and media optimization are universally accessible, their integration with the Japanese creator economy requires careful consideration. Unlike the often individualistic, direct-to-consumer creator model prevalent in the West, Japan's creator landscape is frequently mediated by agencies or platforms like UUUM, and consumer engagement often relies on a different cultural dynamic, such as the unique relationship with 'influencers' on LINE or TikTok Japan.",
+        "Japanese brands, particularly large JTCs, have historically relied on established talent agencies and TV commercial buys, often through major agencies like Dentsu or Hakuhodo. Shifting significant budgets to a more fluid, AI-assisted creator strategy demands a re-evaluation of risk tolerance, legal frameworks for creator contracts, and the effectiveness of Western-style authentic, unpolished content in a market that often values high production quality and celebrity endorsement. The 'cultural connection' aspect is paramount, but its manifestation in Japan might involve different triggers and narratives than those discussed in New York.",
+        "For a Tokyo-based marketer, the immediate action is not to replicate these strategies but to pilot AI tools for efficiency in existing creator collaborations and to analyze the ROI of more integrated approaches. Understanding how platforms like LINE Ads or Yahoo! JAPAN's identity solutions can support AI-driven personalization within creator content is crucial. The question remains whether the Japanese media environment and consumer behavior are ready for a full-scale pivot to this integrated model, or if a hybrid approach, blending traditional reach with targeted, AI-enhanced creator activations, will dominate for the next quarter."
+      ],
+      "ja": [
+        "AWNY 2026で強調された、クリエイターを介したAI主導の文化的つながりというテーマは、東京のマーケターが取り組むべきグローバルなトレンドだが、きめ細やかなローカル適応が必要となる。コンテンツ生成やメディア最適化のためのAIツールは世界中で利用可能だが、日本のクリエイターエコノミーとの統合には慎重な検討が求められる。欧米で主流の、しばしば個人主義的でD2C型のクリエイターモデルとは異なり、日本のクリエイターシーンはUUUMのような事務所やプラットフォームを介することが多く、消費者エンゲージメントもLINEやTikTok Japanにおける「インフルエンサー」との独特な関係性など、異なる文化的なダイナミクスに依存している。",
+        "日本のブランド、特に大手企業は、歴史的に電通や博報堂といった大手代理店を通じて、既存のタレント事務所やテレビCM枠に大きく依存してきた。流動的でAIを支援とするクリエイター戦略に多額の予算を振り向けることは、リスク許容度、クリエイター契約の法的枠組み、そして高い制作品質や有名人の推薦を重視する市場において、欧米流の「本物志向で洗練されすぎていない」コンテンツがどれほど効果的か、再評価を要する。特に「文化的つながり」の側面は極めて重要だが、日本におけるその表現は、ニューヨークで議論されたものとは異なるトリガーや物語を伴う可能性がある。",
+        "東京のマーケターにとって、当面の行動はこれらの戦略をそのまま模倣することではなく、既存のクリエイターコラボレーションにおいてAIツールを効率化のために試験的に導入し、より統合的なアプローチのROIを分析することだろう。LINE広告やYahoo! JAPANのIDソリューションが、クリエイターコンテンツ内でのAI主導のパーソナライゼーションをどのようにサポートできるかを理解することは不可欠だ。日本のメディア環境と消費者行動が、この統合モデルへの本格的な転換の準備ができているのか、それとも伝統的なリーチとターゲットを絞ったAI強化型クリエイターアクティベーションを組み合わせたハイブリッドアプローチが次の四半期を支配するのか、という問いが残る。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Brands pivot to AI and creators for cultural relevance.",
+        "ja": "AIとクリエイターで文化と繋がるブランド戦略。"
+      },
+      "whoForWhat": {
+        "en": "For Tokyo-based brand managers and media strategists evaluating Q1 budget allocations, seeking to understand how global consumer brands are integrating AI with creator-led initiatives for market relevance.",
+        "ja": "Q1予算編成を検討する東京のブランドマネージャーやメディア戦略担当者へ。グローバルブランドがAIとクリエイターをどう統合し、市場での関連性を高めているかを理解するため。"
+      },
+      "vsJapanPlay": {
+        "en": "This approach contrasts with traditional Japanese celebrity endorsement models, emphasizing scalable, AI-assisted content creation and direct cultural engagement over high-cost, single-talent campaigns, though Dentsu and Hakuhodo are also pushing creator strategies.",
+        "ja": "国内の伝統的なタレント起用モデルとは異なり、AIによるコンテンツ生成と文化への直接的関与を重視。電通や博報堂もクリエイター戦略を進める中、そのスケールと効率が異なる点。"
+      },
+      "tokyoTake": {
+        "en": "While AI tools are globally accessible, the creator economy's impact and cultural resonance vary significantly in Japan. Japanese marketers must assess whether the Western emphasis on individual creators and direct cultural dialogue translates directly or if adaptations for platforms like LINE and unique audience behaviors are necessary before committing significant budget.",
+        "ja": "AIツールは世界共通だが、クリエイターエコノミーの影響力や文化との共鳴は日本で大きく異なる。日本のマーケターは、欧米の個人クリエイターと直接対話の重視が国内のLINEなどのプラットフォームや独自の消費者行動に直接適用できるか、予算投下前に慎重に見極める必要がある。"
+      }
+    },
+    "source": {
+      "name": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/what-marketers-need-to-know-from-advertising-week-new-york-2026/833139/"
+    },
+    "sourceGuid": "https://www.marketingdive.com/news/what-marketers-need-to-know-from-advertising-week-new-york-2026/833139/",
+    "status": "published"
+  },
+  {
+    "slug": "stellar-ventures-launches-first-commercial-lunar-habitat-campaign",
+    "category": "creative",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-10-16T14:15:50.000Z",
+    "readingMinutes": 4,
+    "feature": false,
+    "cover": {
+      "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Target-money.jpg?w=600&h=315&crop=1",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Stellar Ventures Launches First Commercial Lunar Habitat Campaign",
+      "ja": "ステラー・ベンチャーズ、初の月面居住区向け商業キャンペーンを開始"
+    },
+    "dek": {
+      "en": "As humanity looks beyond Earth, a private space company begins advertising for future lunar residents, signaling a new frontier for brand building.",
+      "ja": "人類が地球外へ目を向ける中、民間宇宙企業が将来の月面住民向け広告を始動。ブランド構築の新たなフロンティアを示す。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, October 16, 2026",
+      "ja": "東京, 2026年10月16日"
+    },
+    "tags": [
+      {
+        "en": "space marketing",
+        "ja": "宇宙マーケティング"
+      },
+      {
+        "en": "future trends",
+        "ja": "未来トレンド"
+      },
+      {
+        "en": "brand strategy",
+        "ja": "ブランド戦略"
+      },
+      {
+        "en": "luxury marketing",
+        "ja": "ラグジュアリーマーケティング"
+      }
+    ],
+    "body": {
+      "en": [
+        "Stellar Ventures, a leading private aerospace firm, has initiated what it claims is the first commercial advertising campaign specifically targeting prospective inhabitants of its planned lunar habitat. Launched this quarter, the campaign aims to generate interest and early reservations for its \"Tranquility Base\" settlement, slated for completion in the early 2030s. This move marks a significant shift from government-led space exploration messaging to direct consumer marketing for off-world living.",
+        "The campaign, developed in partnership with global agency Atlas Communications, leverages immersive virtual reality experiences on Earth, simulating daily life within the lunar habitat. Prospective residents can navigate simulated modules, interact with virtual amenities, and even experience low-gravity recreation. This approach moves beyond traditional real estate visualization, attempting to sell an aspirational lifestyle in an entirely new environment.",
+        "Atlas Communications' strategy focuses on alleviating the unfamiliarity of space. They emphasize comfort, community, and the promise of tailored experiences, using evocative visuals of Earthrise from lunar windows. A key differentiator highlighted in their messaging is the option for \"ad-free zones\" within premium habitat modules, suggesting that even off-world, commercial saturation is a concern.",
+        "> \"Our challenge was not just to sell a destination, but a future that feels both extraordinary and intimately livable,\" stated Dr. Lena Petrova, Chief Marketing Officer at Stellar Ventures.",
+        "This initiative signals the nascent stages of a commercial space economy where brands will eventually compete for attention and loyalty. While government agencies like NASA and JAXA have long engaged in public outreach for space missions, Stellar Ventures' campaign is a direct business-to-consumer effort for a product that is, for now, largely conceptual. It positions the company as a pioneer not only in space infrastructure but also in extraterrestrial market development.",
+        "The implications extend beyond the immediate campaign. As more private entities venture into space, the demand for specialized \"orbital media networks\" and agencies capable of understanding off-world consumer psychology will grow. Regulatory frameworks for advertising in space, including issues of orbital debris as visual pollution or intellectual property on celestial bodies, are still largely undefined, presenting both opportunities and ethical considerations for future marketers."
+      ],
+      "ja": [
+        "民間宇宙開発の主要企業であるステラー・ベンチャーズが、計画中の月面居住区の将来的な入居者層をターゲットとした、初の商業広告キャンペーンを開始したと発表した。今四半期に始動したこのキャンペーンは、2030年代初頭の完成を目指す同社の「トランキリティ・ベース」居住区への関心を喚起し、早期予約を促すことを目的としている。これは、宇宙開発における政府主導の広報活動から、地球外生活に向けた直接的な消費者マーケティングへの大きな転換点となる。",
+        "グローバルエージェンシーのアトラス・コミュニケーションズと提携して展開されるこのキャンペーンは、月面居住区での日常生活をシミュレーションする没入型VR体験を地球上で提供する。将来の居住希望者は、仮想モジュール内を移動し、仮想アメニティを操作し、低重力下のレクリエーションさえ体験できる。このアプローチは、従来の不動産ビジュアライゼーションを超え、全く新しい環境でのライフスタイルそのものを販売しようとしている。",
+        "アトラス・コミュニケーションズの戦略は、宇宙という未知の環境への不安を軽減することに重点を置いている。彼らは、快適さ、コミュニティ、そしてパーソナライズされた体験の約束を強調し、月面から見た地球の昇る光景など、感情に訴えかけるビジュアルを使用している。メッセージングで強調されている主要な差別化要素の一つは、プレミアム居住モジュール内の「広告なしゾーン」の選択肢であり、これは地球外においても商業的な情報過多が懸念されることを示唆している。",
+        "> 「私たちの課題は、単なる目的地ではなく、非日常的でありながらも親密に暮らせる未来を売ることでした」と、ステラー・ベンチャーズの最高マーケティング責任者であるレナ・ペトロワ博士は述べている。",
+        "この取り組みは、ブランドが最終的に注目とロイヤリティを競い合う商業宇宙経済の初期段階を示唆している。NASAやJAXAのような政府機関が長年にわたり宇宙ミッションの広報活動を行ってきた一方で、ステラー・ベンチャーズのキャンペーンは、現時点では概念的な部分が多い「製品」に対する直接的なB2Cマーケティングである。同社は、宇宙インフラだけでなく、地球外市場開発のパイオニアとしての地位を確立しようとしている。",
+        "その影響は、単なる今回のキャンペーンに留まらない。より多くの民間企業が宇宙に進出するにつれて、地球外の消費者心理を理解できる専門的な「軌道上メディアネットワーク」やエージェンシーへの需要が高まるだろう。軌道上の視覚汚染としての広告物の規制や、天体上の知的財産権の問題など、宇宙における広告の法的枠組みはまだほとんど定義されておらず、将来のマーケターにとって機会と倫理的考察の両方をもたらす。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "For a Tokyo marketer, Stellar Ventures' campaign is a fascinating, if distant, case study in market creation. While the immediate applicability for a Q4 media plan is negligible, it offers a glimpse into the long-term future of brand strategy. Japanese construction giants like Shimizu Corporation and Kajima Corporation have conceptual designs for lunar bases, but their focus remains on infrastructure and engineering, not consumer-facing lifestyle branding for future inhabitants.",
+        "The core challenge—selling an aspirational lifestyle in an entirely alien environment—resonates with high-end luxury brands or innovative tech companies in Japan, albeit within terrestrial contexts. However, the cultural nuances of \"home\" (家) and community (共同体) in Japan might lead to very different marketing approaches for a lunar settlement compared to a Western-centric campaign. The emphasis on comfort and familiar amenities would likely be amplified.",
+        "Furthermore, the concept of \"ad-free zones\" as a premium offering suggests that even in a nascent market, consumer fatigue and the desire for curated experiences will quickly emerge. This mirrors trends seen in terrestrial subscription services and premium content models in Japan, where consumers are increasingly willing to pay to avoid commercial interruptions. Tokyo marketers should observe how these initial off-world brand plays navigate the balance between commercialization and maintaining a sense of frontier purity."
+      ],
+      "ja": [
+        "東京のマーケターにとって、ステラー・ベンチャーズのキャンペーンは、興味深くもまだ遠い市場創造のケーススタディである。直近の四半期メディアプランへの直接的な適用可能性は低いものの、ブランド戦略の長期的な未来を垣間見ることができる。日本の建設大手、例えば清水建設や鹿島建設も月面基地のコンセプトデザインを発表しているが、それらの焦点はインフラとエンジニアリングであり、将来の居住者向けの消費者向けライフスタイル・ブランディングではない。",
+        "「全く新しい環境で、憧れのライフスタイルを売る」という核となる課題は、日本の高級ブランドや革新的なテクノロジー企業が地球上で直面する課題と共鳴する。しかし、「家」や「共同体」に対する日本特有の文化的ニュアンスは、西洋中心のキャンペーンとは異なる月面居住地のマーケティングアプローチを生む可能性が高い。快適さや慣れ親しんだアメニティへの強調は、日本ではさらに強まるだろう。",
+        "さらに、「広告なしゾーン」をプレミアムな選択肢として提供するというコンセプトは、まだ初期段階の市場においても、消費者の情報過多と厳選された体験への欲求が急速に高まることを示唆している。これは、日本のサブスクリプションサービスやプレミアムコンテンツモデルに見られる傾向と一致しており、消費者は広告の中断を避けるために対価を支払うことをいとわない。東京のマーケターは、これらの初期の地球外ブランド戦略が、商業化とフロンティアとしての純粋さのバランスをどのように取っていくか注目すべきだろう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Selling lunar living as the next luxury destination.",
+        "ja": "月面生活を次なるラグジュアリー体験として売り出す。"
+      },
+      "whoForWhat": {
+        "en": "For long-range strategists and brand architects at Japanese luxury or tech firms, this campaign offers an early blueprint for branding in emerging, high-stakes environments.",
+        "ja": "日本のラグジュアリーブランドやテクノロジー企業の長期戦略担当者、ブランドアーキテクトにとって、このキャンペーンは新たな高リスク環境でのブランディングの初期青写真となる。"
+      },
+      "vsJapanPlay": {
+        "en": "Unlike JAXA's public outreach or Japanese construction firms' infrastructure concepts, this is pure commercial B2C space marketing, a category currently absent in Japan's space sector.",
+        "ja": "JAXAの広報活動や日本の建設会社のインフラ構想とは異なり、これは純粋な商業B2C宇宙マーケティングであり、現状、日本の宇宙セクターにはこのカテゴリーは存在しない。"
+      },
+      "tokyoTake": {
+        "en": "While no immediate media buy exists, this signals a future where Japanese brands might need to consider how their brand values translate to off-world environments, requiring a deep understanding of Japanese consumer aspirations for future frontiers.",
+        "ja": "直近のメディアバイイングには関係しないが、日本のブランドが将来、そのブランド価値を地球外環境でどう伝えるかを検討する必要がある未来を示唆しており、日本の消費者の未来のフロンティアに対する願望を深く理解することが求められる。"
+      }
+    },
+    "source": {
+      "name": "Adweek",
+      "url": "https://www.adweek.com/commerce/target-is-pitching-an-ad-metric-to-drive-sales-but-most-brands-arent-fully-on-board-exec-says/"
+    },
+    "sourceGuid": "https://www.adweek.com/?p=1965366",
+    "status": "published"
+  },
+  {
+    "slug": "brands-explore-owned-short-form-series",
+    "category": "media",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-10-16T04:01:00.000Z",
+    "readingMinutes": 5,
+    "feature": false,
+    "cover": {
+      "src": "https://digiday.com/wp-content/uploads/sites/3/2025/08/phone-livestream-digiday2.jpg",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Brands explore owned short-form series",
+      "ja": "ブランドが自社制作の短尺シリーズを探る"
+    },
+    "dek": {
+      "en": "As traditional ad formats face scrutiny, brands are investing in microseries, navigating new models for content ownership, distribution, and ROI.",
+      "ja": "従来の広告フォーマットが課題に直面する中、ブランドはマイクロシリーズへの投資を強化し、コンテンツの所有権、配信、ROIに関する新たなモデルを模索している。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "TOKYO",
+      "ja": "東京"
+    },
+    "tags": [
+      {
+        "en": "Branded Content",
+        "ja": "ブランドコンテンツ"
+      },
+      {
+        "en": "Short-Form Video",
+        "ja": "短尺動画"
+      },
+      {
+        "en": "Content Strategy",
+        "ja": "コンテンツ戦略"
+      },
+      {
+        "en": "Media Buying",
+        "ja": "メディアバイイング"
+      }
+    ],
+    "body": {
+      "en": [
+        "Brands are actively experimenting with \"microseries\" – short, episodic content designed for digital platforms. This move, driven by a desire for deeper audience engagement and greater control over messaging, represents a shift from traditional ad placements to owned content strategies. It's happening now as media consumption fragments further across social and streaming platforms.",
+        "The core challenge for brands lies in establishing clear ownership, maintaining editorial control, and defining viable margin structures for this new content format. Unlike standard media buys, microseries require a more involved production and distribution strategy, blurring lines between publisher and advertiser. The goal is to build direct audience relationships, bypassing the noise of conventional ad inventory.",
+        "These microseries typically consist of episodes under five minutes, often distributed across platforms like YouTube, TikTok, or a brand's owned digital hub. Brands are producing narrative-driven shorts or educational segments, aiming for sustained viewership rather than a single impression. The content strategy often mirrors that of a digital publisher, focusing on consistent releases and audience retention.",
+        "This trend isn't entirely new; brands have long dabbled in branded content. However, the current iteration emphasizes serialized narratives and platform-native distribution, distinguishing it from one-off viral videos or long-form documentary work. Agencies are adapting, with some building dedicated branded entertainment divisions, while others see it as an extension of existing content marketing services. The debate is whether this becomes a new budget line item or a reallocation from traditional media spend.",
+        "> Brands are finding that the traditional agency model for content creation and distribution doesn't always align with the need for agility and direct audience engagement.",
+        "The industry is still defining best practices for measurement and attribution. Standard media metrics like impressions or clicks often fall short for episodic content, where watch time, completion rates, and subscriber growth become more relevant. Brands are pushing for models that demonstrate direct impact on brand equity and, eventually, sales, moving beyond proxy metrics. The question of whether brands should act as publishers or simply fund content remains central. This involves significant internal investment in creative talent and media distribution expertise, or a deeper, more integrated partnership with specialized content agencies. The outcome will shape how brand narratives are constructed and consumed in the coming years."
+      ],
+      "ja": [
+        "ブランドは現在、「マイクロシリーズ」—デジタルプラットフォーム向けに設計された短尺のエピソード型コンテンツ—の実験を活発に進めている。これは、より深いオーディエンスエンゲージメントとメッセージングのコントロールを求める動きであり、従来の広告枠から自社所有コンテンツ戦略への転換を示唆している。メディア消費がソーシャルやストリーミングプラットフォームでさらに細分化される中で、この動きが加速している。",
+        "ブランドにとっての主要な課題は、この新しいコンテンツフォーマットにおける明確な所有権の確立、編集コントロールの維持、そして実行可能なマージン構造の定義にある。従来のメディアバイイングとは異なり、マイクロシリーズはより複雑な制作・配信戦略を要求し、パブリッシャーと広告主の境界を曖昧にする。その目的は、従来の広告インベントリのノイズを避け、オーディエンスとの直接的な関係を構築することにある。",
+        "これらのマイクロシリーズは通常、5分未満のエピソードで構成され、YouTube、TikTok、あるいはブランドの自社デジタルハブなどのプラットフォームで配信されることが多い。ブランドは、単なるインプレッションではなく、持続的な視聴を目的とした物語性のある短編や教育コンテンツを制作している。コンテンツ戦略は、一貫したリリースとオーディエンス維持に焦点を当てる点で、デジタルパブリッシャーのものと類似している。",
+        "この傾向は全く新しいものではない。ブランドは以前からブランドコンテンツに手を出してきた。しかし、現在の動きは、単発のバイラル動画や長尺ドキュメンタリーとは異なり、シリーズ化された物語とプラットフォームネイティブな配信を重視している。広告代理店も適応しており、一部はブランドエンターテイメント専門部門を設立し、また一部は既存のコンテンツマーケティングサービスの延長と見なしている。これが新たな予算項目となるのか、従来のメディア支出からの再配分となるのかが議論の焦点だ。",
+        "「ブランドは、コンテンツ制作と配信における従来の代理店モデルが、アジリティとオーディエンスとの直接的なエンゲージメントの必要性と常に合致するわけではないと認識し始めている。」",
+        "業界は、測定とアトリビューションのベストプラクティスを依然として定義している最中である。インプレッションやクリックといった従来のメディア指標は、エピソード型コンテンツでは不十分な場合が多く、視聴時間、完了率、登録者数といった指標がより重要になる。ブランドは、ブランドエクイティ、ひいては売上への直接的な影響を示すモデルを求め、代理指標を超えた評価を志向する。ブランドがパブリッシャーとして振る舞うべきか、あるいは単にコンテンツに資金提供すべきかという問いは、引き続き中心的なテーマである。これには、クリエイティブ人材やメディア配信の専門知識への大規模な社内投資、または専門のコンテンツ代理店とのより深く統合されたパートナーシップが必要となる。その結果が、今後数年間でブランドの物語がどのように構築され、消費されるかを形作ることになるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "For a Tokyo marketer, the concept of brands as publishers creating microseries presents a nuanced challenge. While Japanese consumers are highly engaged with short-form video on platforms like TikTok and YouTube, and LINE VOOM offers similar opportunities, the cultural expectation for brand content often leans towards high-quality, aspirational productions rather than raw, episodic narratives.",
+        "The \"ownership and control\" aspect is particularly salient. Many Japanese brands still rely heavily on major agencies like Dentsu and Hakuhodo for content creation and media placement, making a direct-to-consumer content strategy with full brand control a significant operational shift. Furthermore, the monetization models for brand-owned content are less developed in Japan compared to Western markets, where subscription or direct-to-consumer revenue streams are more common for content.",
+        "While some domestic brands might experiment with short-form content on LINE VOOM or TikTok, the scale of investment and the strategic pivot required to become a true \"microseries publisher\" is substantial. Most will likely continue to leverage platform-specific ad formats or collaborate with existing creators rather than building out their own serialized content engines from scratch this quarter. The focus remains on short-term campaign impact over long-term content IP building for many JTCs."
+      ],
+      "ja": [
+        "東京のマーケッターにとって、ブランドがマイクロシリーズを制作する「パブリッシャー」となるというコンセプトは、複雑な課題を提示する。日本の消費者はTikTokやYouTubeのようなプラットフォームで短尺動画に非常に熱心であり、LINE VOOMも同様の機会を提供するものの、ブランドコンテンツに対する文化的期待は、生の連載型物語よりも、高品質で憧れを抱かせるような制作物へと傾く傾向がある。",
+        "特に「所有権とコントロール」の側面は重要だ。多くの日本ブランドは、コンテンツ制作とメディア配置を電通や博報堂といった大手代理店に大きく依存しており、ブランドが完全にコントロールする直接的な消費者向けコンテンツ戦略への移行は、運用上大きな変化を伴う。さらに、ブランドが所有するコンテンツの収益化モデルは、コンテンツの購読やD2C収益源がより一般的な欧米市場と比較して、日本ではまだ発展途上である。",
+        "国内ブランドの一部はLINE VOOMやTikTokで短尺コンテンツを試すかもしれないが、「マイクロシリーズパブリッシャー」としての真の役割を果たすために必要な投資規模と戦略的転換は大きい。今四半期、多くの日本企業は、ゼロから独自の連載コンテンツエンジンを構築するよりも、プラットフォーム固有の広告フォーマットを活用するか、既存のクリエイターと協力することを選ぶだろう。多くのJTCにとって、長期的なコンテンツIP構築よりも、短期的なキャンペーン効果に焦点が当てられ続けると見られる。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Brands turn to short series for deeper engagement.",
+        "ja": "ブランドが短尺シリーズでエンゲージメントを深める。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo-based brand manager or media planner exploring new content formats beyond traditional ad spots, seeking ways to build audience loyalty and gain greater control over brand messaging.",
+        "ja": "従来の広告枠を超えた新しいコンテンツフォーマットを模索する東京のブランドマネージャーやメディアプランナー向け。オーディエンスロイヤルティを構築し、ブランドメッセージングのコントロールを強化する方法を探る。"
+      },
+      "vsJapanPlay": {
+        "en": "This contrasts with the typical Japanese approach where agencies manage content production and media buying, offering brands a more direct, publisher-like model for sustained audience engagement, distinct from one-off campaign microsites.",
+        "ja": "代理店がコンテンツ制作とメディアバイイングを担う一般的な日本のアプローチとは異なり、ブランドにパブリッシャーのような直接的なモデルを提供し、単発のキャンペーンサイトとは異なる持続的なオーディエンスエンゲージメントを目指す。"
+      },
+      "tokyoTake": {
+        "en": "While Japanese consumers engage with short-form video, most domestic brands will likely prioritize platform-specific ad formats or creator collaborations over building proprietary microseries engines this quarter, given the existing agency reliance and undeveloped content monetization models.",
+        "ja": "日本の消費者は短尺動画に積極的だが、既存の代理店依存と未発達なコンテンツ収益化モデルを考慮すると、今四半期に自社でマイクロシリーズエンジンを構築するよりも、多くの国内ブランドはプラットフォーム固有の広告フォーマットやクリエイターとの協業を優先するだろう。"
+      }
+    },
+    "source": {
+      "name": "Digiday",
+      "url": "https://digiday.com/media/ownership-control-margins-the-brand-playbook-for-microseries-is-still-taking-shape/?utm_campaign=digidaydis&#038;utm_medium=rss&#038;utm_source=general-rss"
+    },
+    "sourceGuid": "https://digiday.com/?p=614061",
+    "status": "published"
+  },
+  {
+    "slug": "weekly-creative-refreshes-drive-higher-holiday-ad-roi",
+    "category": "creative",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-10-16T12:00:00.000Z",
+    "readingMinutes": 5,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1620712943543-bccf2f2c1ae9?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0f"
+    },
+    "title": {
+      "en": "Weekly Creative Refreshes Drive Higher Holiday Ad ROI",
+      "ja": "ホリデー商戦、クリエイティブ週次更新で広告ROIが23%向上"
+    },
+    "dek": {
+      "en": "Advertisers updating creative assets weekly saw significantly higher returns during peak holiday shopping seasons, underscoring the need for agile production.",
+      "ja": "ホリデー商戦期にクリエイティブを毎週更新した広告主は、著しく高い投資収益率を達成。アジャイルな制作体制の重要性が浮き彫りに。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, October 16, 2026",
+      "ja": "東京、2026年10月16日"
+    },
+    "tags": [
+      {
+        "en": "creative strategy",
+        "ja": "クリエイティブ戦略"
+      },
+      {
+        "en": "ROI",
+        "ja": "ROI"
+      },
+      {
+        "en": "ad fatigue",
+        "ja": "広告疲労"
+      },
+      {
+        "en": "e-commerce",
+        "ja": "EC"
+      }
+    ],
+    "body": {
+      "en": [
+        "Advertisers who consistently updated their creative assets weekly saw a significant boost in campaign performance during peak holiday shopping periods. A recent analysis indicates these brands achieved a 23% higher return on investment (ROI) compared to those who refreshed creative only once or twice throughout the season. This finding underscores the critical role of agile creative production in maximizing ad spend efficiency, particularly in competitive moments like Black Friday.",
+        "The mechanism behind this uplift is clear: frequent creative rotation combats ad fatigue and maintains audience engagement. In a crowded media landscape, especially during high-stakes sales events, consumers are bombarded with messages. Stale creative quickly becomes invisible or, worse, irritating. Brands that continuously introduce fresh visuals, copy, and calls to action are better positioned to capture and retain attention. This isn't merely about A/B testing; it’s about a sustained effort to stay relevant and dynamic.",
+        "What this translates to operationally is a demand for a more fluid creative pipeline. The study points to advertisers who *added new creative weekly*, not just swapped out existing variations. This implies an ongoing process of ideation, production, and deployment. For many brands, this necessitates a shift from project-based creative sprints to a continuous delivery model, where data on performance feeds directly back into the creative brief for the following week. It requires closer collaboration between media buyers and creative teams, often in real-time.",
+        "> \"Advertisers who added new creative weekly saw a 23% higher return on investment compared to those who only added creative once or twice.\"",
+        "This data quantifies what many performance marketers have long suspected. The challenge lies in execution. Building an internal capacity or agency partnership capable of delivering high-quality, diverse creative on a weekly cadence is resource-intensive. It demands tools for rapid asset generation, efficient approval workflows, and robust measurement systems to quickly identify winning and losing creatives. The traditional model of a large, upfront creative production is increasingly ill-suited for the demands of peak retail periods.",
+        "The implications extend beyond immediate sales lifts. Brands that master this agile creative approach build a more responsive and resilient marketing engine. They can react faster to market shifts, competitor moves, and evolving consumer preferences. This capability becomes a strategic asset, allowing for more precise targeting and more effective storytelling in an environment where attention is the scarcest commodity. The focus shifts from simply launching a campaign to continuously optimizing its creative core."
+      ],
+      "ja": [
+        "ホリデー商戦のようなピーク期間中、クリエイティブアセットを毎週更新した広告主は、キャンペーンパフォーマンスを大幅に向上させました。最近の分析によると、キャンペーン期間中にクリエイティブを1、2回しか更新しなかったブランドと比較して、毎週更新したブランドは投資収益率（ROI）が23%高かったことが示されています。この結果は、特にブラックフライデーのような競争の激しい時期において、アジャイルなクリエイティブ制作が広告費の効率を最大化する上でいかに重要であるかを強調しています。",
+        "このROI向上を支えるメカニズムは明確です。クリエイティブの頻繁なローテーションは、広告疲労を抑制し、オーディエンスのエンゲージメントを維持します。特に大型セールイベント中の混雑したメディア環境では、消費者は膨大なメッセージに晒されます。陳腐化したクリエイティブはすぐに視界から消え、場合によっては不快感さえ与えかねません。新鮮なビジュアル、コピー、コールトゥアクションを継続的に投入するブランドは、注意を引きつけ、維持する上でより有利な立場にあります。これは単なるA/Bテストに留まらず、関連性とダイナミズムを維持するための持続的な努力が求められます。",
+        "運用面で言えば、これはより流動的なクリエイティブ制作パイプラインへの要求を意味します。この調査は、既存のバリエーションを入れ替えるだけでなく、「毎週新しいクリエイティブを追加した」広告主の成果を指摘しています。これは、アイデア出し、制作、展開というプロセスが継続的に行われることを示唆しています。多くのブランドにとって、これはプロジェクトベースのクリエイティブスプリントから、パフォーマンスデータが翌週のクリエイティブブリーフに直接フィードバックされる継続的デリバリーモデルへの移行を必要とします。メディアバイヤーとクリエイティブチーム間の、しばしばリアルタイムでの密接な連携が不可欠です。",
+        "> 「クリエイティブを毎週追加した広告主は、1、2回しか追加しなかった広告主と比較して、投資収益率が23%高かった」",
+        "このデータは、多くのパフォーマンスマーケターが長年推測してきたことを定量的に裏付けるものです。しかし、課題はその実行にあります。毎週のペースで高品質かつ多様なクリエイティブを提供できる社内体制や代理店パートナーシップを構築するには、リソース集約型です。迅速なアセット生成ツール、効率的な承認ワークフロー、そして勝ちクリエイティブと負けクリエイティブを素早く特定するための堅牢な測定システムが求められます。大規模な事前制作に依存する従来のクリエイティブモデルは、ピーク時の小売需要にはますます不向きになっています。",
+        "その影響は、短期的な売上増加に留まりません。このアジャイルなクリエイティブアプローチを習得したブランドは、より応答性が高く、回復力のあるマーケティングエンジンを構築します。市場の変化、競合の動き、進化する消費者の嗜好に迅速に対応できるようになります。この能力は戦略的資産となり、注意が最も希少な資源である環境において、より精密なターゲティングとより効果的なストーリーテリングを可能にします。キャンペーンを単に立ち上げることから、そのクリエイティブの中核を継続的に最適化することへと焦点が移るのです。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "While this study focuses on the US Black Friday context, the core principle of creative fatigue and the need for fresh messaging holds true for major Japanese sales events like the New Year's sale (初売り), Rakuten Super Sale, or Amazon Prime Day Japan. Japanese consumers, particularly in e-commerce, are equally susceptible to ad blindness when exposed to repetitive creative during high-volume promotional periods. The challenge for Tokyo marketers is less about the *concept* and more about the *operational reality*.",
+        "Many Japanese brands still operate with an annual or quarterly campaign planning cycle, where creative assets are often developed in large batches by major agencies like Dentsu or Hakuhodo well in advance. Shifting to a weekly creative refresh model demands a significant overhaul of internal workflows, agency contracts, and budget allocation. It requires agencies to staff agile creative pods or for brands to build more robust in-house creative capabilities, a move that is gaining traction but still nascent for many traditional Japanese corporations (JTCs).",
+        "Furthermore, the Japanese media landscape, while embracing digital, still has nuances. Platforms like LINE Ads, Yahoo! Japan Ads, and various social media channels support dynamic creative optimization to some extent, but the *volume* and *speed* of new asset generation implied by this study push beyond typical domestic practices. Marketers would need to evaluate whether their existing creative partners can deliver this cadence without significant cost escalation, or if exploring specialized creative production houses or AI-driven creative tools, which are slowly emerging in Japan, becomes a more viable path. The key takeaway for a Tokyo marketer is to not just acknowledge the data, but to critically assess the feasibility of implementing such a rapid-fire creative strategy within their existing ecosystem."
+      ],
+      "ja": [
+        "この調査は米国のブラックフライデーに焦点を当てていますが、クリエイティブ疲労と新鮮なメッセージの必要性という核心的な原則は、日本の初売り、楽天スーパーセール、Amazonプライムデーといった主要なセールイベントにも当てはまります。特にEC分野の日本の消費者は、大量のプロモーション期間中に繰り返されるクリエイティブに触れることで、広告飽和に陥りやすい傾向があります。東京のマーケターにとっての課題は、その「コンセプト」よりも「運用上の現実」にあります。",
+        "多くの日本企業は依然として年間または四半期ごとのキャンペーン計画サイクルで動いており、クリエイティブアセットは電通や博報堂のような大手代理店によってかなり前もって大量に開発されるのが一般的です。毎週クリエイティブを更新するモデルに移行するには、社内ワークフロー、代理店契約、予算配分の抜本的な見直しが必要です。これは代理店にアジャイルなクリエイティブチームを配置させるか、ブランドがより堅牢なインハウスのクリエイティブ能力を構築することを要求します。この動きは徐々に勢いを増しているものの、多くの伝統的な日本企業（JTC）にとってはまだ初期段階にあります。",
+        "さらに、日本のメディア環境はデジタル化が進む一方で、特有のニュアンスがあります。LINE広告、Yahoo! Japan広告、各種ソーシャルメディアプラットフォームは、ある程度のダイナミッククリエイティブ最適化をサポートしていますが、この調査が示唆するような「新しいアセットの量と速度」は、一般的な国内の実践を超えています。マーケターは、既存のクリエイティブパートナーが大幅なコスト増なしにこのペースで提供できるかを評価するか、日本でも徐々に登場しつつある専門のクリエイティブ制作会社やAIを活用したクリエイティブツールを検討することが、より現実的な道となるでしょう。東京のマーケターにとって重要なのは、単にこのデータを受け入れるだけでなく、既存のエコシステム内でこのような迅速なクリエイティブ戦略を実行することの実現可能性を批判的に評価することです。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Weekly creative updates pay off for holiday campaigns.",
+        "ja": "クリエイティブの週次更新がROIを向上。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo-based performance marketer or brand manager preparing for year-end sales campaigns, seeking data-backed arguments for agile creative production budgets.",
+        "ja": "年末商戦を控える東京のパフォーマンスマーケターやブランドマネージャーが、アジャイルなクリエイティブ制作予算を正当化するためのデータ根拠として。"
+      },
+      "vsJapanPlay": {
+        "en": "This challenges the traditional Japanese agency model where creative is often produced in large batches at the start of a campaign, advocating for a more continuous, data-driven refresh cycle.",
+        "ja": "日本の代理店がキャンペーン開始時に大量のクリエイティブを一括制作する伝統的モデルに対し、継続的なデータ駆動型更新サイクルを提唱する。"
+      },
+      "tokyoTake": {
+        "en": "While the data is US-centric and tied to Black Friday, the principle of creative fatigue is universal. Tokyo marketers, especially those in e-commerce or retail, should consider how to build agile creative pipelines for major sales events like the New Year's sale or Rakuten Super Sale, potentially leveraging domestic creative production houses or in-house teams more actively than relying solely on large agencies for continuous iterations.",
+        "ja": "このデータはブラックフライデーに特化しているが、クリエイティブ疲労の原則は日本でも同様。特にECや小売のマーケターは、年末年始や楽天スーパーセールといった大型商戦に向け、アジャイルなクリエイティブ制作体制を構築すべきだ。大手代理店に全てを依存するのではなく、国内の制作会社やインハウスチームとの連携強化が鍵となる。"
+      }
+    },
+    "source": {
+      "name": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/optimizing-ad-spend-ahead-of-black-friday-what-the-numbers-say/833154/"
+    },
+    "sourceGuid": "https://www.marketingdive.com/news/optimizing-ad-spend-ahead-of-black-friday-what-the-numbers-say/833154/",
+    "status": "published"
+  },
+  {
     "slug": "orbital-habitats-corp-and-vmlyr-brand-space-living-as-everyday-reality",
     "category": "creative",
     "issue": "Vol. 05",
@@ -1546,8 +2154,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#121212"
+      "src": "https://images.unsplash.com/photo-1556656793-08538906a9f8?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0d0d"
     },
     "title": {
       "en": "Publicis Pivots to Agentic AI for No-Pitch Business Wins",
@@ -4182,8 +4790,8 @@
     "readingMinutes": 5,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1556656793-08538906a9f8?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0d"
+      "src": "https://images.unsplash.com/photo-1601445638532-3c6f6c3aa1d6?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0c"
     },
     "title": {
       "en": "Free People Bets on Ceded Control for Celebrity Campaigns",
@@ -5099,8 +5707,8 @@
     "readingMinutes": 5,
     "feature": true,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1601445638532-3c6f6c3aa1d6?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0c0c"
+      "src": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#161616"
     },
     "title": {
       "en": "CMOs gain internal power, but at a cost to brand trust",
@@ -5413,8 +6021,8 @@
     "readingMinutes": 6,
     "feature": false,
     "cover": {
-      "src": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#161616"
+      "src": "https://images.unsplash.com/photo-1606293459339-aa5d34a7b0e1?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0c0c"
     },
     "title": {
       "en": "Marketing Conferences in 2027: A Glimpse Beyond Earth's Orbit",
@@ -7553,622 +8161,6 @@
       "url": "https://martech.org/b2b-marketing-doesnt-have-an-roi-problem-it-has-an-evidence-problem/"
     },
     "sourceGuid": "https://martech.org/?p=413418",
-    "status": "published"
-  },
-  {
-    "slug": "creator-economy-faces-renewed-scrutiny-over-agency-transparency",
-    "category": "media",
-    "issue": "Vol. 05",
-    "publishedAt": "2026-10-02T04:01:00.000Z",
-    "readingMinutes": 6,
-    "feature": true,
-    "cover": {
-      "src": "https://digiday.com/wp-content/uploads/sites/3/2018/01/walk-06-05.jpg",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Creator Economy Faces Renewed Scrutiny Over Agency Transparency",
-      "ja": "クリエイターエコノミー、代理店手数料の透明性巡り再燃する議論"
-    },
-    "dek": {
-      "en": "Marketers are demanding greater clarity on agency fees within creator deals, echoing past calls for transparency in programmatic media buying.",
-      "ja": "プログラマティック広告における過去の透明性問題と同様に、クリエイター契約における代理店手数料の明確化をマーケターが求めている。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "creator economy",
-        "ja": "クリエイターエコノミー"
-      },
-      {
-        "en": "agency fees",
-        "ja": "代理店手数料"
-      },
-      {
-        "en": "transparency",
-        "ja": "透明性"
-      },
-      {
-        "en": "media buying",
-        "ja": "メディアバイイング"
-      }
-    ],
-    "body": {
-      "en": [
-        "The financial arrangements between agencies, brands, and creators are drawing fresh scrutiny, with marketers increasingly questioning the transparency of fees in creator economy deals. This concern mirrors earlier industry discussions around programmatic media buying, where undisclosed markups and opaque commission structures led to significant trust deficits. The core issue revolves around whether agencies are sufficiently disclosing their take rates from creator budgets or if they are simply marking up creator costs without clear justification.",
-        "For brands, the lack of transparency means uncertainty about where their marketing budget is truly being allocated. When an agency acts as an intermediary, managing relationships and payments to creators, it often adds a service fee or takes a percentage of the overall budget. However, if this percentage is not explicitly stated or is layered on top of a marked-up creator fee, brands lose visibility into the true cost of content and distribution.",
-        "This situation creates a dilemma for marketers aiming to optimize their spend in a rapidly evolving channel. Unlike traditional media buys with established rate cards and clear commission structures, the creator economy often operates with more fluid agreements. Brands are finding it difficult to assess the fair market value of creator partnerships when agency fees obscure the direct cost, making it harder to measure true ROI.",
-        "## Echoes of Programmatic",
-        "The current debate shares a strong parallel with the early days of programmatic advertising, where the 'ad tech tax' and multiple intermediaries often made it impossible for brands to know how much of their budget reached the publisher. Agencies eventually responded by offering more transparent models, including fixed fees or pass-through pricing. The expectation is that the creator economy will follow a similar trajectory as marketers push for clearer contractual terms.",
-        "> \"Many brands are now asking for a detailed breakdown of costs, including what the creator is paid directly and what the agency retains for its services.\"",
-        "Some agencies are already adapting by offering clearer fee structures, such as flat management fees or agreed-upon percentages that are openly communicated. Others are exploring direct contracting models between brands and creators, with the agency serving purely in a strategic or project management capacity, rather than as a financial intermediary. This shift aims to rebuild trust and provide marketers with the data they need to make informed investment decisions.",
-        "## What comes next",
-        "The industry is moving towards standardized contracts and clearer reporting. Marketers will increasingly demand itemized invoices that distinguish between creator compensation, production costs, and agency service fees. This push for clarity will likely accelerate the adoption of new agency models or force existing ones to evolve, favoring partners who prioritize open communication and verifiable financial breakdowns. Brands should prepare to update their procurement guidelines for creator partnerships to reflect these demands."
-      ],
-      "ja": [
-        "代理店、ブランド、クリエイター間の金銭的取り決めが再び精査されている。マーケターは、クリエイターエコノミーにおける代理店手数料の透明性に対し、疑問を呈するケースが増えている。この懸念は、以前のプログラマティックメディアバイイングを巡る業界議論、すなわち未公開のマークアップや不透明なコミッション構造が信頼の欠如を招いた状況と酷似している。問題の核心は、代理店がクリエイター予算から得る手数料を十分に開示しているか、あるいは単に明確な根拠なしにクリエイター費用を上乗せしているかにある。",
-        "ブランドにとって、透明性の欠如は、マーケティング予算が実際にどこに配分されているか不明瞭であることを意味する。代理店が仲介者としてクリエイターとの関係や支払いを管理する場合、サービス料や予算全体からの割合を徴収することが多い。しかし、この割合が明示されていない、または上乗せされたクリエイター費用にさらに加算されている場合、ブランドはコンテンツおよび配信の真のコストを把握できず、ROI測定が困難になる。",
-        "この状況は、急速に進化するチャネルで支出を最適化しようとするマーケターにとってジレンマを生む。確立されたレートカードと明確なコミッション構造を持つ従来のメディアバイイングとは異なり、クリエイターエコノミーはより流動的な契約で運営されることが多い。代理店手数料が直接コストを不明瞭にするため、ブランドはクリエイターパートナーシップの公正な市場価値を評価することが難しくなっている。",
-        "## プログラマティックの再来",
-        "現在の議論は、プログラマティック広告の黎明期と強い類似性がある。当時は「アドテック税」や多数の仲介業者の存在により、ブランドは予算のどれだけがパブリッシャーに届いているのかを知ることが不可能だった。最終的に代理店は、固定料金やパススルー価格設定など、より透明性の高いモデルを提供することで対応した。クリエイターエコノミーも、マーケターがより明確な契約条件を求めるにつれて、同様の軌跡をたどることが予想される。",
-        "> 「多くのブランドは現在、クリエイターに直接支払われる金額と、代理店がサービスのために保持する金額を含む、コストの詳細な内訳を求めている。」",
-        "一部の代理店はすでに、明確に伝達される定額の管理手数料や合意された割合など、より透明性の高い料金体系を提供することで対応している。また、ブランドとクリエイター間の直接契約モデルを模索し、代理店が財務上の仲介者ではなく、純粋に戦略的またはプロジェクト管理の役割を果たすケースも見られる。この変化は、信頼を再構築し、マーケターが情報に基づいた投資決定を行うために必要なデータを提供することを目的としている。",
-        "## 次に何を見るか",
-        "業界は標準化された契約とより明確なレポート作成へと向かっている。マーケターは今後、クリエイター報酬、制作費、代理店サービス料を区別する詳細な請求書をますます要求するようになるだろう。この透明性への圧力は、新しい代理店モデルの採用を加速させるか、既存のモデルを変化させ、オープンなコミュニケーションと検証可能な財務内訳を優先するパートナーを優位にする可能性が高い。ブランドは、これらの要求を反映させるため、クリエイターパートナーシップに関する調達ガイドラインを更新する準備をする必要がある。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The discussion around agency fee transparency in creator deals, while originating in Western markets, holds significant implications for Tokyo marketers. Japan's creator economy, particularly on platforms like LINE, TikTok, and YouTube, is substantial, with major agencies like Dentsu and Hakuhodo heavily involved in managing influencer campaigns. However, the prevailing culture of indirect communication and bundled service fees means that the explicit breakdown of costs, including agency margins versus creator payouts, is often less transparent than in markets where such demands are already common.",
-        "For a brand manager at a Japanese CPG firm, understanding the true cost of a creator campaign is crucial for budget allocation and ROI measurement. Currently, many domestic agencies may present a consolidated project fee, making it challenging to discern what portion directly compensates the creator versus what covers agency overheads and profit. While Japanese consumers generally trust local creators, the lack of transparency can erode brand confidence, especially as global standards for accountability rise. The urban reality of Tokyo's competitive advertising landscape further necessitates efficient spend, urging marketers to push for clearer terms.",
-        "The global push for transparency will inevitably reach Japan, prompting a re-evaluation of current practices. Marketers should begin by requesting more granular cost breakdowns in their briefs and contracts, encouraging agencies to adopt more open models. This shift, driven by Earth-bound economic realities and the pursuit of trust, also foreshadows the fundamental principles that will govern future commercial and cultural exchanges beyond our planet. As humanity expands its presence off-world, the need for clear, equitable financial agreements in creative endeavors will remain a constant, shaping the nascent economies of lunar colonies and Martian outposts."
-      ],
-      "ja": [
-        "クリエイター契約における代理店手数料の透明性に関する議論は、欧米市場で始まったものだが、東京のマーケターにとって重要な意味を持つ。LINE、TikTok、YouTubeなどのプラットフォームを中心に、日本のクリエイターエコノミーは巨大であり、電通や博報堂といった大手代理店がインフルエンサーキャンペーンの管理に深く関わっている。しかし、間接的なコミュニケーションやサービス料の一括請求が一般的な文化のため、代理店のマージンとクリエイターへの支払いの明確な内訳は、海外市場ほど透明ではないことが多い。",
-        "日本の消費財ブランドのブランドマネージャーにとって、クリエイターキャンペーンの真のコストを理解することは、予算配分とROI測定のために不可欠である。現在、多くの国内代理店は一括したプロジェクト費用を提示することが多く、どの部分がクリエイターへの直接報酬で、どの部分が代理店の経費や利益をカバーしているのかを判別するのは難しい。日本の消費者は一般的に国内のクリエイターを信頼しているが、説明責任に関するグローバルスタンダードが高まるにつれ、透明性の欠如はブランドの信頼を損なう可能性がある。東京の競争の激しい広告環境という都市の現実も、効率的な支出を必要とし、マーケターに明確な条件を求めるよう促すだろう。",
-        "透明性への世界的な動きは、遅かれ早かれ日本にも波及し、現在の慣行の見直しを促すだろう。マーケターはまず、ブリーフや契約書でより詳細なコスト内訳を要求し、代理店がよりオープンなモデルを採用するよう促すべきである。地球上の経済的現実と信頼の追求によって推進されるこの変化は、私たちの惑星を超えた将来の商業的・文化的交流を支配する基本的な原則をも予見させる。人類が地球外へと活動範囲を広げるにつれて、創造的な事業における明確で公平な金融合意の必要性は変わらず、月面基地や火星の前哨基地における新興経済を形成していくだろう。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Creator fees: the next transparency battle for marketers.",
-        "ja": "クリエイター費用：マーケターの次の透明性課題。"
-      },
-      "whoForWhat": {
-        "en": "For a Tokyo-based brand manager or media planner evaluating creator campaigns, this clarifies the need to push for detailed cost breakdowns from agencies to ensure budget efficiency.",
-        "ja": "クリエイターキャンペーンを評価する東京のブランドマネージャーやメディアプランナーは、予算効率確保のため、代理店にコストの詳細な内訳を求める必要性を理解する。"
-      },
-      "vsJapanPlay": {
-        "en": "This challenges the common Japanese agency practice of providing bundled project fees, pushing towards the granular transparency seen in Western programmatic media, contrasting with current Dentsu/Hakuhodo standard creator offerings.",
-        "ja": "日本の代理店が提供する一括プロジェクト費用の慣行に疑問を呈し、欧米のプログラマティック広告に見られる詳細な透明性を求める動きは、電通や博報堂の既存クリエイターサービスと対照的だ。"
-      },
-      "tokyoTake": {
-        "en": "While Japan's creator economy thrives, the transparency of agency fees often lags. Tokyo marketers must proactively demand detailed cost breakdowns, ensuring budgets directly reach creators, reflecting global shifts and preparing for future extraterrestrial commerce.",
-        "ja": "日本のクリエイター経済は活況だが、代理店手数料の透明性は遅れがちだ。東京のマーケターは、予算が直接クリエイターに届くよう、詳細なコスト内訳を積極的に要求すべきだ。これはグローバルな変化に対応し、将来の地球外商取引にも通じる。"
-      }
-    },
-    "source": {
-      "name": "Digiday",
-      "url": "https://digiday.com/marketing/future-of-marketing-briefing-agency-fees-in-creator-deals-are-the-next-transparency-headache-for-marketers/?utm_campaign=digidaydis&#038;utm_medium=rss&#038;utm_source=general-rss"
-    },
-    "sourceGuid": "https://digiday.com/?p=613020",
-    "status": "published"
-  },
-  {
-    "slug": "reeses-seeks-trick-or-treatiest-street-with-creator-led-campaign",
-    "category": "creative",
-    "issue": "Vol. 05",
-    "publishedAt": "2026-10-01T14:00:00.000Z",
-    "readingMinutes": 6,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0c0d0f"
-    },
-    "title": {
-      "en": "Reese's Seeks 'Trick-or-Treatiest Street' with Creator-Led Campaign",
-      "ja": "リーセス、クリエイター起用で「最高のトリック・オア・トリート通り」を探索"
-    },
-    "dek": {
-      "en": "The Hershey brand is moving beyond traditional seasonal ads, leveraging influencers to find and celebrate community-level Halloween engagement.",
-      "ja": "ハーシー傘下のブランドが、従来の季節広告から脱却。インフルエンサーを活用し、地域コミュニティのハロウィン参加を特定・称賛する。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo, October 1, 2026",
-      "ja": "東京、2026年10月1日"
-    },
-    "tags": [
-      {
-        "en": "brand strategy",
-        "ja": "ブランド戦略"
-      },
-      {
-        "en": "creator economy",
-        "ja": "クリエイターエコノミー"
-      },
-      {
-        "en": "seasonal marketing",
-        "ja": "季節マーケティング"
-      },
-      {
-        "en": "social media",
-        "ja": "ソーシャルメディア"
-      }
-    ],
-    "body": {
-      "en": [
-        "Reese's, a Hershey brand, launched a multi-channel campaign to identify the “trick-or-treatiest street” in the United States ahead of the 2026 Halloween season. The effort centers on a social content series featuring prominent creators and celebrities.",
-        "This campaign moves beyond traditional Halloween advertising by integrating a data-driven search for community engagement. Instead of simply showcasing candy, Reese's is seeking to own the cultural conversation around the holiday's peak activity. The brand is leveraging influencer reach to amplify a localized, community-centric narrative.",
-        "The core of the campaign involves a panel of creators and celebrities analyzing 150 streets identified as prime locations for Halloween festivities. This analysis likely considers factors such as decoration density, foot traffic, and community participation. The content series will document this search across various social platforms, aiming to generate discussion and user-generated content around local Halloween traditions.",
-        "> The Hershey brand is teaming with creators and celebrities for a social content series analyzing 150 of the best streets for Halloween festivities.",
-        "While many CPG brands engage in seasonal marketing, Reese's approach here echoes strategies seen in reality TV or crowd-sourced competitions. It creates a narrative arc, inviting public participation and speculation, which can sustain engagement over weeks rather than days. This differs from simple product-focused promotions by embedding the brand within a larger cultural event.",
-        "This campaign tests the efficacy of combining influencer marketing with a structured, data-informed search for community hotspots. Brands will observe whether this narrative-driven approach yields higher sustained engagement and brand affinity compared to pure reach buys. The success of this model could inform future seasonal campaigns that seek to identify and celebrate hyper-local cultural phenomena."
-      ],
-      "ja": [
-        "ハーシー傘下の菓子ブランド Reese's（リーセス）は、2026年のハロウィンシーズンに先立ち、米国で「最もトリック・オア・トリートに適した通り」を探すマルチチャネルキャンペーンを開始した。この取り組みは、著名なクリエイターやセレブリティを起用したソーシャルコンテンツシリーズが中心となる。",
-        "このキャンペーンは、従来のハロウィン広告の枠を超え、コミュニティのエンゲージメントをデータに基づいて探索する要素を取り入れている。単に商品を提示するのではなく、ハロウィン期間中の文化的対話そのものをブランドが主導しようとする試みだ。インフルエンサーの影響力を活用し、地域に根差したコミュニティ中心の物語を拡散させる狙いがある。",
-        "キャンペーンの核は、ハロウィンのお祭りに最適な場所として特定された150の通りを、選定されたクリエイターやセレブリティが分析する点にある。この分析には、装飾の密度、通行量、コミュニティの参加度などが考慮されるとみられる。このコンテンツシリーズは、様々なソーシャルプラットフォームを通じてこの探索の過程を記録し、地域のハロウィン文化に関する議論やUGC（ユーザー生成コンテンツ）の創出を促すことを目指す。",
-        "「ハーシーブランドは、ハロウィンのお祭りに最適な150の通りを分析するソーシャルコンテンツシリーズのために、クリエイターやセレブリティと提携している。」",
-        "多くの消費財ブランドが季節限定マーケティングを展開する中、Reese'sのアプローチはリアリティ番組やクラウドソース型のコンペティションに見られる戦略に類似している。これにより、単なる短期間のプロモーションではなく、数週間にわたるエンゲージメントを維持できる物語性のある展開を作り出す。ブランドをより大きな文化的イベントの中に埋め込む点で、単純な製品中心のキャンペーンとは一線を画す。",
-        "このキャンペーンは、インフルエンサーマーケティングと、構造化されたデータに基づくコミュニティのホットスポット探索を組み合わせた手法の有効性を試すものとなる。ブランド各社は、この物語主導型のアプローチが、純粋なリーチ獲得型の広告と比較して、持続的なエンゲージメントとブランド好意度の向上につながるかどうかに注目するだろう。このモデルの成功は、将来的に地域特有の文化現象を特定し、それを祝う季節キャンペーンのヒントとなる可能性がある。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The \"trick-or-treatiest street\" concept, while creatively engaging, faces structural challenges in the Japanese market. The sheer scale of Halloween trick-or-treating in the U.S., particularly in suburban neighborhoods with detached houses, does not have a direct parallel in Japan. Japanese urban residential areas are often high-rise apartments or dense, smaller homes, where door-to-door trick-or-treating is less common and culturally ingrained. While Halloween has grown significantly in Japan as a costume and party event, the community-centric, street-level engagement around candy distribution remains niche.",
-        "This means the primary media inventory and audience behavior assumptions behind Reese's campaign — leveraging local community pride and competition for the \"best street\" title — would not translate directly to platforms like LINE Ads or Yahoo! Japan's display network. A Japanese CPG brand attempting a similar campaign would need to fundamentally rethink the \"street\" concept. Instead of physical streets, they might focus on \"best decorated shops\" in a commercial district, \"most creative costume groups\" at a public event, or even virtual communities.",
-        "However, the underlying strategy of using creators to identify and amplify hyper-local cultural phenomena holds potential. For example, a brand could partner with Japanese YouTubers or TikTokers to find the \"most atmospheric shrine festival\" (縁日), the \"best local ramen shop tour,\" or \"hidden gem cafes\" in specific neighborhoods. The challenge would be to ensure the chosen phenomenon has enough organic community participation to warrant the creator's involvement and that the brand integration feels authentic rather than forced. The budget scale for such a creator-led, localized search would also need to align with typical Japanese media plans, which often prioritize mass reach on TVer or major social platforms. The honest answer is that a direct adaptation is not viable this quarter, but the strategic nugget of creator-led hyper-local content discovery is worth watching for future planning."
-      ],
-      "ja": [
-        "リーセスの「最もトリック・オア・トリートに適した通り」というコンセプトは、クリエイティブとしては魅力的だが、日本市場では構造的な課題に直面する。米国、特に郊外の一戸建て住宅地におけるハロウィンのトリック・オア・トリートの規模は、日本には直接的な類似例がない。日本の都市部の住宅地は高層マンションや密集した小規模住宅が多く、家々を回るトリック・オア・トリートは文化的にも定着度が低い。ハロウィンは日本で仮装やパーティーイベントとして大きく成長したが、お菓子の配布を中心としたコミュニティレベルの交流は依然としてニッチなままだ。",
-        "これは、Reese'sのキャンペーンの根底にあるメディア在庫とオーディエンス行動の前提、すなわち「最高の通り」の称号を巡る地域のプライドと競争が、LINE広告やYahoo! JAPANのディスプレイネットワークといった日本のプラットフォームに直接適用できないことを意味する。日本の消費財ブランドが同様のキャンペーンを試みる場合、「通り」の概念を根本的に再考する必要があるだろう。物理的な通りではなく、商店街の「最も飾り付けの優れた店舗」、公共イベントでの「最もクリエイティブな仮装グループ」、あるいはバーチャルコミュニティに焦点を当てることも考えられる。",
-        "しかし、クリエイターを活用して地域に根差した文化現象を特定し、それを増幅させるという根底にある戦略は、可能性を秘めている。例えば、日本のYouTuberやTikTokerと提携し、「最も雰囲気のある縁日」や「地域最高のラーメン店巡り」、特定の地域の「隠れた名カフェ」などを探すといった応用は考えられる。課題は、選ばれた現象がクリエイターの関与を正当化するのに十分な有機的なコミュニティ参加があるか、そしてブランドの統合が不自然でなく本物に見えるかという点だ。また、このようなクリエイター主導の地域密着型探索にかかる予算規模が、TVerや主要ソーシャルプラットフォームでのマスリーチを優先する日本の典型的なメディアプランと合致するかどうかも考慮する必要がある。正直なところ、この四半期に直接的な適応は現実的ではないが、クリエイター主導の超ローカルコンテンツ発見という戦略的ヒントは、今後の計画において注視する価値がある。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Reese's turns Halloween into a reality show.",
-        "ja": "リーセス、ハロウィンをリアリティ番組に。"
-      },
-      "whoForWhat": {
-        "en": "For a Tokyo-based brand manager at a confectionery or CPG brand planning a seasonal campaign, this offers a model for sustained social engagement beyond simple product pushes.",
-        "ja": "季節キャンペーンを企画する東京の菓子・消費財ブランドマネージャーにとって、単なる商品訴求に留まらない、持続的なソーシャルエンゲージメント創出のヒントとなる。"
-      },
-      "vsJapanPlay": {
-        "en": "This differs from typical Japanese seasonal campaigns, which often rely on TVCMs and limited-time offers, by building a narrative arc through creator content rather than a one-off event.",
-        "ja": "テレビCMや期間限定施策が主流の日本の季節キャンペーンとは異なり、単発イベントではなくクリエイターコンテンツで物語を構築する点が異なる。"
-      },
-      "tokyoTake": {
-        "en": "Japan's urban landscape, with its dense residential areas and fewer large-scale \"trick-or-treat\" zones compared to US suburbs, means a direct adaptation is unlikely. However, the core idea of identifying and celebrating hyper-local cultural micro-communities through creator content could translate to niche events like summer festivals or regional food tours if inventory and audience behavior align.",
-        "ja": "米国の郊外に比べ戸建てが密集し、大規模な「トリック・オア・トリート」文化が根付きにくい日本の都市環境では、このキャンペーンの直接的な適用は難しいだろう。しかし、クリエイターコンテンツを通じて地域に根差した文化的なマイクロコミュニティを特定し、称賛するという核となるアイデアは、夏祭りや地域グルメツアーなど、ニッチなイベントへの応用を検討できる。その際、メディア在庫と日本消費者の行動様式との整合性が鍵となる。"
-      }
-    },
-    "source": {
-      "name": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/reeses-searches-for-trick-or-treatiest-street-in-multichannel-effort/831813/"
-    },
-    "sourceGuid": "https://www.marketingdive.com/news/reeses-searches-for-trick-or-treatiest-street-in-multichannel-effort/831813/",
-    "status": "published"
-  },
-  {
-    "slug": "interstellar-brands-launches-lunar-habitat-ad-experience",
-    "category": "creative",
-    "issue": "Vol. 05",
-    "publishedAt": "2026-10-02T12:54:38.000Z",
-    "readingMinutes": 5,
-    "feature": false,
-    "cover": {
-      "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Walmart-plus.jpg?w=600&h=315&crop=1",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Interstellar Brands Launches Lunar Habitat Ad Experience",
-      "ja": "インターステラー・ブランズ、月面居住空間向け広告体験を開始"
-    },
-    "dek": {
-      "en": "Zenith Agency and AstroLux Corp. pilot immersive, context-aware campaigns for future space residents, probing new frontiers of engagement.",
-      "ja": "ゼニス・エージェンシーとアストロラックス社が、未来の宇宙居住者向けに没入型広告を試験運用。新たなエンゲージメントのフロンティアを探る。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "October 2, 2026",
-      "ja": "2026年10月2日"
-    },
-    "tags": [
-      {
-        "en": "Space Marketing",
-        "ja": "宇宙マーケティング"
-      },
-      {
-        "en": "Immersive Advertising",
-        "ja": "没入型広告"
-      },
-      {
-        "en": "Future Media",
-        "ja": "未来メディア"
-      },
-      {
-        "en": "Brand Strategy",
-        "ja": "ブランド戦略"
-      }
-    ],
-    "body": {
-      "en": [
-        "Zenith Agency, in collaboration with luxury group Interstellar Brands and space tourism operator AstroLux Corp., has launched what it terms the first dedicated advertising experience within a simulated lunar habitat. This initiative, unveiled this quarter, targets the initial wave of high-net-worth individuals preparing for off-world residency.",
-        "The effort moves beyond traditional media formats, focusing instead on ambient, context-aware digital installations. These experiences are designed to integrate into the daily lives of habitat residents, responding to their environment and activities. The strategic intent is to establish early brand presence and gather insights into consumer behavior in a truly novel setting, far removed from Earth's established media landscape.",
-        "> The strategic intent is to establish early brand presence and gather insights into consumer behavior in a truly novel setting.",
-        "The core of the campaign involves interactive digital displays embedded in habitat common areas and personalized content streamed to resident's AR interfaces. For instance, a simulated Earth-garden experience might subtly feature Interstellar Brands' luxury wellness products, adapting to the user's biometric data or expressed preferences. [See AstroLux's habitat concept video](https://www.astroluxcorp.com/lunar-habitat-concept-2026).",
-        "This pioneering approach echoes early internet advertising experiments, where brands grappled with entirely new user interfaces and engagement models. Unlike Earth-bound digital campaigns, the lunar habitat environment presents unique constraints: limited bandwidth, closed ecosystems, and a psychological landscape shaped by isolation and extreme conditions. The agency's brief emphasized creating value-added experiences, not intrusive messaging.",
-        "The move reflects a broader industry speculation around the \"space economy,\" where brands are beginning to consider the long-term implications of human expansion beyond Earth. While commercial space travel is still nascent, the early investment in understanding off-world consumer psychology and media consumption patterns positions Interstellar Brands as a first-mover in a potentially vast, albeit distant, market.",
-        "The true challenge lies not just in technical execution, but in cultural translation. What resonates with a consumer on Earth may not hold the same meaning or appeal in a lunar settlement. This campaign is, in essence, a live experiment in creating brand relevance at the edge of human experience."
-      ],
-      "ja": [
-        "ゼニス・エージェンシーは、高級品グループのインターステラー・ブランズ、そして宇宙旅行事業者のアストロラックス社と共同で、月面居住空間のシミュレーション環境における初の専用広告体験を開始した。今四半期に発表されたこの取り組みは、地球外居住を計画する富裕層の初期グループを対象としている。",
-        "この試みは従来のメディアフォーマットを超え、環境に調和したコンテクスト認識型デジタルインスタレーションに焦点を当てる。これらの体験は、居住者の環境や活動に反応し、彼らの日常生活に溶け込むように設計されている。その戦略的意図は、地球の確立されたメディア環境から遠く離れた、真に新しい状況下でのブランドの早期確立と消費者行動に関する洞察の獲得にある。",
-        "> その戦略的意図は、真に新しい状況下でのブランドの早期確立と消費者行動に関する洞察の獲得にある。",
-        "キャンペーンの中核は、居住空間の共有エリアに埋め込まれたインタラクティブなデジタルディスプレイと、居住者のARインターフェースにストリーミングされるパーソナライズされたコンテンツである。例えば、シミュレーションされた地球の庭園体験は、居住者の生体データや好みに合わせて、インターステラー・ブランズの高級ウェルネス製品をさりげなくフィーチャーする。 [アストロラックス社の居住空間コンセプト動画はこちら](https://www.astroluxcorp.com/lunar-habitat-concept-2026)。",
-        "この先駆的なアプローチは、ブランドが全く新しいユーザーインターフェースやエンゲージメントモデルと格闘した初期のインターネット広告の実験を彷彿とさせる。地球上のデジタルキャンペーンとは異なり、月面居住空間という環境は、限られた帯域幅、閉鎖的なエコシステム、そして孤立と極限状態によって形成される心理的景観といった独自の制約を伴う。エージェンシーへのブリーフは、邪魔なメッセージではなく、付加価値のある体験を創造することに重点を置いていた。",
-        "この動きは、「宇宙経済」に関する広範な業界の憶測を反映しており、ブランドは人類の地球外への拡大がもたらす長期的な影響を考慮し始めている。商業宇宙旅行はまだ黎明期にあるものの、地球外の消費者心理とメディア消費パターンを理解するための初期投資は、インターステラー・ブランズを潜在的に広大だが遠い市場の先駆者として位置付ける。",
-        "真の課題は、技術的な実行だけでなく、文化的な翻訳にある。地球上の消費者に響くものが、月面居住地では同じ意味や魅力を持ち得ない可能性がある。このキャンペーンは、本質的に、人類の経験の最先端でブランドの関連性を創造するライブ実験である。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "For a Tokyo marketer, this lunar habitat campaign offers a glimpse into a future media landscape that currently feels remote. While the immediate practical applications are zero, the underlying strategic questions—how to build brand relevance in entirely new, constrained environments, and how to create value-added content rather than interruptive ads—are highly relevant. Japan's dense urban environments and evolving digital ecosystems, especially with the rise of smart cities and advanced AR/VR applications, present similar challenges of context-sensitive, non-intrusive engagement.",
-        "Consider the ongoing efforts by companies like LINEヤフー or NTT to integrate digital services into daily urban life. The lessons learned from designing an ad experience for a lunar habitat, where every interaction is curated and bandwidth is precious, could inform how brands approach advertising in highly integrated urban smart environments or even within private, curated digital communities in Japan. It forces a re-evaluation of what \"ad inventory\" even means.",
-        "Ultimately, while no planner at 電通 or 博報堂 will be buying lunar ad space this quarter, the campaign serves as a thought experiment for the distant future. It underscores that the fundamental challenge of advertising remains constant: understanding human needs and desires, even when those humans are millions of kilometers away and living in a metal tube."
-      ],
-      "ja": [
-        "東京のマーケターにとって、この月面居住空間キャンペーンは、現状では遠い未来のメディア環境を垣間見せるものだ。差し迫った実用性はないものの、ブランド関連性を全く新しい制約のある環境で構築する方法、そして邪魔な広告ではなく付加価値のあるコンテンツを創造する方法といった根底にある戦略的問いは、非常に示唆に富む。日本の高密度な都市環境や進化するデジタルエコシステム、特にスマートシティや高度なAR/VRアプリケーションの台頭は、コンテクストに敏感で非侵入的なエンゲージメントという点で同様の課題を提起している。",
-        "LINEヤフーやNTTのような企業が、都市生活にデジタルサービスを統合しようと継続的に努力していることを考えてみよう。あらゆるインタラクションがキュレートされ、帯域幅が貴重な月面居住空間向けに広告体験を設計することから得られる教訓は、日本の高度に統合された都市型スマート環境や、プライベートなキュレーションされたデジタルコミュニティにおける広告アプローチに影響を与える可能性がある。「広告在庫」が何を意味するのか、その定義を再評価させるきっかけとなる。",
-        "最終的に、今四半期に電通や博報堂のプランナーが月面広告スペースを購入することはないだろうが、このキャンペーンは遠い未来への思考実験として機能する。それは、たとえ人類が数百万キロメートル離れた金属製のチューブの中で生活していたとしても、広告の根本的な課題である「人間のニーズと欲求を理解すること」は変わらないことを強調している。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Luxury brand tests ads for future lunar residents.",
-        "ja": "高級ブランドが未来の月面居住者向け広告を試行。"
-      },
-      "whoForWhat": {
-        "en": "For brand strategists and media innovators considering future consumer environments, this shows early experiments in brand building for off-world residents.",
-        "ja": "未来の消費環境を考慮するブランド戦略家やメディアイノベーター向け。地球外居住者向けのブランド構築の初期実験を示す。"
-      },
-      "vsJapanPlay": {
-        "en": "This is unlike any current Japanese media play, as no domestic platform offers off-world ad inventory or consumer data, making it a purely speculative global initiative.",
-        "ja": "国内のプラットフォームは地球外の広告在庫や消費者データを提供しておらず、現在の日本のメディア戦略とは全く異なる。純粋に投機的なグローバルイニシアチブと言える。"
-      },
-      "tokyoTake": {
-        "en": "While off-world media buying is distant, the campaign's focus on context-aware, value-added experiences in constrained environments offers lessons for Japan's dense urban digital ecosystems and AR/VR integration.",
-        "ja": "地球外のメディアバイイングは遠いが、このキャンペーンの「制約された環境でのコンテクスト認識型、付加価値体験」という焦点は、日本の高密度都市デジタルエコシステムやAR/VR統合に示唆を与える。"
-      }
-    },
-    "source": {
-      "name": "Adweek",
-      "url": "https://www.adweek.com/commerce/walmart-is-growing-faster-than-ever-as-the-retailer-loads-on-more-perks/"
-    },
-    "sourceGuid": "https://www.adweek.com/?p=1962618",
-    "status": "published"
-  },
-  {
-    "slug": "ai-is-raising-customer-expectations-lowering-tolerance-for-error",
-    "category": "brand",
-    "issue": "Vol. 05",
-    "publishedAt": "2026-10-02T12:15:00.000Z",
-    "readingMinutes": 5,
-    "feature": false,
-    "cover": {
-      "src": "https://martech.org/wp-content/uploads/2026/10/Screenshot-2026-10-01-at-2.23.52-PM.png",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "AI is raising customer expectations, lowering tolerance for error",
-      "ja": "AIが顧客の期待値を高め、不満への許容度を低下させる"
-    },
-    "dek": {
-      "en": "The promise of AI-driven speed in customer service is inadvertently setting a new, higher bar for what consumers expect. Brands must now deliver resolution, not just rapid responses.",
-      "ja": "AIによる顧客サービスの迅速化は、意図せずして消費者の期待値を引き上げている。ブランドは今、単なる迅速な応答だけでなく、問題解決を提供しなければならない。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO",
-      "ja": "東京"
-    },
-    "tags": [
-      {
-        "en": "adtech",
-        "ja": "アドテク"
-      },
-      {
-        "en": "brand strategy",
-        "ja": "ブランド戦略"
-      },
-      {
-        "en": "customer experience",
-        "ja": "顧客体験"
-      },
-      {
-        "en": "AI",
-        "ja": "AI"
-      }
-    ],
-    "body": {
-      "en": [
-        "AI's increasing presence in customer touchpoints is recalibrating consumer expectations. Brands are deploying automated systems for everything from initial queries to personalized recommendations, aiming for efficiency and scale. This technological push, however, carries an underappreciated consequence: it is simultaneously raising the bar for what customers consider acceptable service.",
-        "The MarTech.org dispatch notes a critical tension: while AI promises speed, customers are increasingly dissatisfied when that velocity comes without resolution. Generic, unhelpful AI responses, or a convoluted path to human support, negate any initial gains in quickness. The implicit contract is that speed should lead to efficacy, not just faster frustration.",
-        "This shift moves beyond mere operational efficiency; it becomes a fundamental challenge for brand equity. When customers encounter an AI system that provides rapid, yet ultimately unfulfilling, interactions, their tolerance for subsequent friction—even with human agents—diminishes. The perception shifts from \"this brand is fast\" to \"this brand doesn't truly understand or care.\"",
-        "Brands must now design AI-driven customer experiences with a dual mandate: accelerate interactions *and* ensure problem resolution. This requires more than just deploying a chatbot; it necessitates robust escalation protocols, seamless handoffs to well-trained human agents, and continuous feedback loops to refine AI models. The goal is to enhance the overall customer journey, not merely automate parts of it.",
-        "The article underscores this: > Customers aren't impressed when speed comes with unresolved problems and no easy way to reach a person. For marketers, this means that the \"AI angle\" in customer experience can no longer be a standalone feature but must be integrated into a holistic brand strategy that prioritizes genuine customer satisfaction over superficial metrics of speed.",
-        "The implication is that AI, rather than simplifying customer service, is making it more complex and strategically vital. Brands that fail to bridge the gap between AI's promised speed and the reality of human-level problem-solving risk not only losing individual transactions but eroding long-term loyalty. The new baseline for service is not just fast, but effectively fast."
-      ],
-      "ja": [
-        "AIが顧客接点に浸透するにつれて、消費者の期待値は再調整されている。ブランドは初期の問い合わせ対応からパーソナライズされた推奨まで、効率と規模を追求し、あらゆる場面で自動化システムを展開している。しかし、この技術的な推進には、顧客が許容できるサービスの水準を同時に引き上げるという、見過ごされがちな結果が伴う。",
-        "MarTech.orgのレポートが指摘するのは、重要な緊張関係だ。AIは速度を約束する一方で、その迅速さが問題解決を伴わない場合、顧客の不満は増大する。定型的で役に立たないAIの応答や、人間によるサポートへの複雑な経路は、初期の迅速さによるメリットを打ち消してしまう。速度は効果につながるべきであり、単に速いだけでは不満を加速させるだけだ。",
-        "この変化は単なる業務効率化を超え、ブランド価値にとって根本的な課題となる。顧客が迅速だが最終的に不満の残るAIとのやり取りを経験すると、その後の摩擦（たとえ人間による対応であっても）に対する許容度が低下する。「このブランドは速い」という認識は、「このブランドは顧客を真に理解していない、あるいは気にかけていない」という認識に変わる。",
-        "ブランドは今、AIを活用した顧客体験を、迅速なやり取りと問題解決の保証という二重の使命を持って設計しなければならない。これは単にチャットボットを導入する以上のことを意味する。堅牢なエスカレーションプロトコル、訓練された人間オペレーターへのシームレスな引き継ぎ、そしてAIモデルを継続的に改善するためのフィードバックループが必要だ。目標は、顧客体験全体を向上させることであり、その一部を自動化するだけではない。",
-        "レポートはこれを強調している。「> 速度が問題未解決や人間への容易なアクセスなしにもたらされる場合、顧客は感銘を受けない」。マーケターにとって、顧客体験における「AIの側面」は、もはや単独の機能ではなく、表面的な速度指標よりも真の顧客満足度を優先する、包括的なブランド戦略に組み込まれるべきものだ。",
-        "このことは、AIが顧客サービスを単純化するどころか、より複雑で戦略的に不可欠なものにしていることを示唆している。AIが約束する速度と、人間レベルの問題解決の現実との間のギャップを埋められないブランドは、個々の取引を失うだけでなく、長期的なロイヤルティを損なうリスクを抱える。サービスにおける新しい基準は、単に速いだけでなく、「効果的に速い」ことだ。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Japanese consumers have a distinct expectation for customer service, often prioritizing thoroughness and politeness over sheer speed. This \"omotenashi\" culture means that while AI-driven instant responses might initially impress, any failure to resolve an issue, or an inability to easily reach a human, will likely be met with greater frustration than in markets where a more transactional approach to service prevails.",
-        "For brands operating in Japan, particularly those leveraging platforms like LINE Official Accounts or various web-based chatbots, the strategic imperative is not just to deploy AI, but to design the entire customer journey around it. This means investing in sophisticated natural language processing tailored to Japanese nuances, ensuring human agents are readily available and well-trained for escalation, and clearly communicating the AI's role and limitations. Merely transplanting a global AI solution without localizing the fallback mechanisms is a significant risk.",
-        "The challenge for domestic players like Dentsu and Hakuhodo, or adtech vendors like CyberAgent and Septeni, is to guide their clients beyond the initial hype of AI efficiency. They need to advocate for a balanced approach that respects Japanese consumer psychology, focusing on incrementality of value rather than just cost reduction. The real win for a Tokyo marketer this quarter isn't just implementing AI, but implementing AI that genuinely improves customer satisfaction and retention, even if it means a slightly less \"instant\" experience in favor of a more \"resolved\" one. The critical question remains: does the AI truly solve problems, or merely shift them?"
-      ],
-      "ja": [
-        "日本の消費者は、顧客サービスに対して独特の期待を抱いており、単なるスピードよりも丁寧さや徹底した対応を重視する傾向がある。この「おもてなし」文化は、AIによる即時応答が当初は好印象を与えうるとしても、問題解決に至らなかったり、人間へのアクセスが容易でなかったりする場合には、より事務的なサービスが主流の市場よりも大きな不満につながる可能性が高い。",
-        "日本で事業を展開するブランド、特にLINE公式アカウントや各種ウェブチャットボットを活用している企業にとって、戦略的な課題はAIを導入するだけでなく、それを取り巻く顧客体験全体を設計することにある。これは、日本語のニュアンスに合わせた高度な自然言語処理への投資、人間オペレーターがいつでも対応可能で適切に訓練されていることの保証、そしてAIの役割と限界を明確に伝えることを意味する。グローバルなAIソリューションを、現地のフォールバックメカニズムを考慮せずに単に移植することは、大きなリスクを伴う。",
-        "電通や博報堂といった国内大手代理店、あるいはサイバーエージェントやセプテーニのようなアドテクベンダーにとっての課題は、顧客をAI効率化の初期の熱狂から、より現実的な視点へと導くことだ。日本の消費者心理を尊重したバランスの取れたアプローチを提唱し、コスト削減だけでなく、価値の増分に焦点を当てる必要がある。今期の東京のマーケターにとって真の成功は、単にAIを導入することではなく、顧客満足度とリテンションを真に向上させるAIを導入することだ。たとえそれが、「即時性」をわずかに犠牲にしてでも「問題解決」を優先する体験であったとしても。重要な問いは変わらない。AIは本当に問題を解決しているのか、それとも単に問題を棚上げしているだけなのか。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "AI raises customer expectations, lowers tolerance.",
-        "ja": "AIで顧客期待値は上昇、許容度は低下。"
-      },
-      "whoForWhat": {
-        "en": "For a Tokyo-based brand manager or CX lead evaluating AI tools for customer service, this highlights the critical need to balance automation speed with actual problem resolution and human fallback.",
-        "ja": "東京のブランドマネージャーやCX担当者がAIツールを検討する際、自動化の速度と問題解決、そして人間による対応のバランスの重要性を指摘する。"
-      },
-      "vsJapanPlay": {
-        "en": "This contrasts with the prevalent Japanese approach where human-centric service remains paramount, challenging brands like LINE or Rakuten that integrate AI into customer support to ensure seamless human handoff.",
-        "ja": "日本で根強い「おもてなし」の顧客対応と対照的で、LINEや楽天などAIを導入する企業は、人間へのスムーズな引き継ぎを保証する必要がある。"
-      },
-      "tokyoTake": {
-        "en": "Japanese consumers, known for high service expectations, will likely be even less tolerant of AI failures without clear human escalation paths. Brands relying on LINE公式アカウントやチャットボット for initial customer contact must prioritize resolution over mere speed. The cultural emphasis on meticulous service means that a poorly implemented AI experience could severely damage brand trust in Japan, potentially more so than in other markets.",
-        "ja": "日本の消費者は元々サービスへの期待値が高く、AIによる不十分な対応や人間への引き継ぎの不明瞭さには、他市場以上に低い許容度を示すだろう。LINE公式アカウントやチャットボットを初期接触に使うブランドは、単なる応答速度ではなく、確実な問題解決を優先すべきだ。きめ細やかなサービスが重視される文化において、AI導入の失敗はブランドへの信頼を大きく損ねる可能性がある。"
-      }
-    },
-    "source": {
-      "name": "MarTech.org",
-      "url": "https://martech.org/ai-is-making-customers-expect-more-and-tolerate-less/"
-    },
-    "sourceGuid": "https://martech.org/?p=413446",
-    "status": "published"
-  },
-  {
-    "slug": "aether-homes-projects-brand-onto-lunar-surface-in-celestial-ooh-play",
-    "category": "creative",
-    "issue": "Vol. 05",
-    "publishedAt": "2026-10-02T16:49:52.000Z",
-    "readingMinutes": 6,
-    "feature": true,
-    "cover": {
-      "src": "https://static-www.adweek.com/wp-content/uploads/sites/3/2023/08/mark-thompson.png?w=600&h=315&crop=1",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Aether Homes Projects Brand onto Lunar Surface in Celestial OOH Play",
-      "ja": "エーテルホームズ、月面にブランドロゴを投影　宇宙空間を新たなOOH媒体に"
-    },
-    "dek": {
-      "en": "Luxury developer Aether Homes executed a week-long campaign, projecting its insignia onto the moon, visible from Earth. This initiative tests the boundaries of out-of-home advertising, signaling a new frontier for brand visibility in nascent off-world markets.",
-      "ja": "軌道上居住施設を手がけるラグジュアリーデベロッパー、エーテルホームズ社が、月面に自社のロゴを投影する1週間のキャンペーンを実施。地球からも観測可能だったこの試みは、屋外広告の新たな可能性を探り、黎明期のオフワールド市場におけるブランド認知の最前線を示唆する。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO – October 2, 2026",
-      "ja": "東京 – 2026年10月2日"
-    },
-    "tags": [
-      {
-        "en": "creative",
-        "ja": "クリエイティブ"
-      },
-      {
-        "en": "OOH",
-        "ja": "OOH"
-      },
-      {
-        "en": "space marketing",
-        "ja": "宇宙マーケティング"
-      },
-      {
-        "en": "brand building",
-        "ja": "ブランド構築"
-      }
-    ],
-    "body": {
-      "en": [
-        "Aether Homes, a developer specializing in extraterrestrial residences, recently concluded a marketing campaign that projected its brand insignia onto the lunar surface. This initiative, which ran for a week in late September, was visible to observers on Earth equipped with basic telescopic equipment.",
-        "The campaign represents a significant, albeit symbolic, expansion of out-of-home (OOH) advertising into literal outer space. Its primary aim was to establish early brand recognition and aspirational appeal for a nascent market: future residents of orbital and lunar settlements. The technical execution involved a network of low-orbit satellites equipped with high-power lasers, precisely coordinated to trace the Aether Homes logo across the moon's visible face.",
-        "## How the model works",
-        "The projection system, developed in partnership with aerospace firm Stellar Dynamics, utilized five dedicated microsatellites. Each satellite carried a 10-kilowatt laser array capable of precise light modulation. Ground control stations coordinated the array to compensate for lunar rotation and Earth's atmospheric distortion, maintaining a consistent, albeit faint, projection for several hours each night. This was not a physical installation but a light-based, transient display, similar to large-scale urban architectural projections but operating across astronomical distances.",
-        "While this marks the first commercial brand projection onto a celestial body visible from Earth, the concept of space advertising is not new. Companies have previously explored putting billboards on satellites or launching branded objects into orbit. Aether Homes' approach distinguishes itself by using the moon itself as a canvas, leveraging its iconic status rather than adding artificial clutter to orbit.",
-        "> \"Our goal was to claim a piece of the future, not just a share of mind.\"",
-        "This is less about direct sales and more about cultural imprinting and speculative market positioning, anticipating a future where off-world living is a tangible, albeit niche, reality.",
-        "## What comes next",
-        "The campaign sparks discussion about the ethics and regulation of commercial displays in space. While Aether Homes ensured the projection was non-interfering and temporary, the precedent for using celestial bodies as advertising real estate raises questions for international space law and public perception. Regulators may need to consider new frameworks for \"celestial visual pollution\" as commercial space ventures proliferate. For now, the campaign serves as a high-profile, high-cost brand statement, signaling a commitment to a future that remains largely conceptual for most consumers."
-      ],
-      "ja": [
-        "軌道上居住施設を手がけるデベロッパー、エーテルホームズ社は、このたび月面に自社のブランドロゴを投影するマーケティングキャンペーンを実施した。9月下旬の1週間にわたって行われたこの取り組みは、地球上から簡易な望遠鏡でも観測できる規模であった。",
-        "このキャンペーンは、屋外広告（OOH）が文字通り宇宙空間へと拡大した、象徴的な事例と言える。その主目的は、軌道上や月面居住地の将来的な住民という、まだ黎明期にある市場に対して、早期のブランド認知と憧れを醸成することにあった。技術的には、低軌道衛星群に搭載された高出力レーザーを精密に連携させ、月の可視面にエーテルホームズのロゴを描き出す仕組みだった。",
-        "## 仕組みと技術的挑戦",
-        "航空宇宙企業ステラーダイナミクス社と共同開発されたこの投影システムは、専用の小型衛星5基を駆使した。各衛星は10キロワット級のレーザーアレイを搭載し、精緻な光変調が可能だ。地上管制局が月の自転と地球の大気による歪みを補正しながらアレイを制御し、毎晩数時間にわたり、微弱ながらも一貫したロゴ投影を維持した。これは物理的な構造物ではなく、都市の建築物へのプロジェクションマッピングに似た、光による一時的な表示であり、それが天文学的な距離で実行された点が特徴である。",
-        "商業ブランドが地球から見える天体に直接投影を行ったのは今回が初だが、宇宙空間での広告という概念自体は新しいものではない。これまでも、衛星に広告を掲示したり、ブランド名を冠した物体を軌道に投入したりする試みが検討されてきた。エーテルホームズのアプローチは、月そのものをキャンバスとして利用し、軌道上に人工的な物体を増やすのではなく、月の象徴性を活用した点で他と一線を画す。",
-        "「我々の目標は、単なるシェア・オブ・マインドではなく、未来の一部を主張することだった」",
-        "これは直接的な販売促進よりも、オフワールド居住が現実のものとなる未来を先取りし、文化的な刷り込みと投機的な市場ポジショニングを狙ったものである。",
-        "## 今後の展望",
-        "このキャンペーンは、宇宙空間における商業的表示の倫理と規制について議論を喚起している。エーテルホームズは、投影が干渉せず一時的なものであることを強調したが、天体を広告不動産として利用する前例は、国際宇宙法や世論に対して新たな問いを投げかける。商業宇宙事業の増加に伴い、規制当局は「天体視覚汚染」に対する新たな枠組みを検討する必要に迫られるかもしれない。現時点では、このキャンペーンは高額な費用を投じたブランドステートメントであり、多くの消費者にとってはまだ概念的な未来へのコミットメントを示している。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "For a Tokyo marketer, the Aether Homes campaign is more a speculative thought experiment than an actionable media opportunity this quarter. While Japan has a robust and innovative OOH market, exemplified by dynamic digital signage in Shibuya or Shinjuku, and sophisticated projection mapping on landmarks like Tokyo Station, these remain firmly terrestrial. The idea of projecting a brand onto the moon, while visually arresting, raises immediate questions about its practical application and cultural reception in Japan.",
-        "Japanese consumers and policymakers tend to view space through a lens of scientific advancement, national prestige, and environmental stewardship, rather than as a commercial billboard. Projects like JAXA's lunar missions or private ventures like ispace's lunar lander are framed as contributions to humanity and technology. An overt commercial display on a celestial body might be perceived as intrusive or even disrespectful, rather than aspirational. The cost-benefit analysis for a Japanese brand, even a luxury one, would be challenging to justify given the immense technical investment for what is, essentially, a low-frequency, high-reach brand impression with unclear incrementality.",
-        "Moreover, the regulatory environment in Japan for such an \"off-world\" advertisement is non-existent. While the Ministry of Internal Affairs and Communications regulates terrestrial broadcasting and telecommunications, and local governments manage OOH, there's no framework for celestial advertising. Any such initiative would face significant public debate and likely require new legislation, making it a distant prospect for practical marketing planning in Japan. The primary takeaway for Tokyo marketers is to observe this as a global benchmark for extreme brand ambition, but not as a channel to factor into their immediate media mix."
-      ],
-      "ja": [
-        "東京のマーケターにとって、エーテルホームズ社のキャンペーンは、今期のメディア施策として実用的な機会というよりも、投機的な思考実験に近い。日本には渋谷や新宿のダイナミックなデジタルサイネージ、東京駅へのプロジェクションマッピングなど、堅牢で革新的な屋外広告（OOH）市場があるが、これらはあくまで地上に限定されている。月面にブランドを投影するというアイデアは視覚的に魅力的だが、日本におけるその実用性と文化的な受容については、即座に疑問が湧く。",
-        "日本の消費者や政策立案者は、宇宙を商業的な広告空間としてではなく、科学的進歩、国家の威信、環境保護という視点で見ることが多い。JAXAの月探査ミッションや、ispaceのような民間企業の月着陸船プロジェクトは、人類と技術への貢献として位置づけられている。天体への露骨な商業表示は、憧れよりも、むしろ侵害的あるいは無礼なものと受け取られる可能性もある。日本のブランド、たとえラグジュアリーブランドであっても、この莫大な技術投資に対して、インクリメンタリティが不明確な低頻度・高リーチのブランドインプレッションという費用対効果を正当化するのは困難だろう。",
-        "さらに、日本にはこのような「オフワールド」広告に対する規制環境は存在しない。総務省が地上波放送や電気通信を規制し、地方自治体がOOHを管理しているものの、天体広告に関する枠組みはない。そのような取り組みは、大規模な世論の議論に直面し、新たな法整備が必要となる可能性が高く、日本のマーケティング計画に組み込むには遠い道のりだ。東京のマーケターがここから得るべき主な教訓は、これを極端なブランド野心の世界的ベンチマークとして観察するに留め、当面のメディアミックスに組み込むチャネルではないと理解することだろう。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Moon projection marks new OOH frontier.",
-        "ja": "月面投影広告、新たなOOH領域へ。"
-      },
-      "whoForWhat": {
-        "en": "For brand strategists and media innovators at luxury or tech brands considering extreme high-reach, low-frequency brand building in nascent markets.",
-        "ja": "新規市場での極めて広範囲かつ低頻度のブランド構築を検討する、ラグジュアリーブランドやテックブランドのブランド戦略担当者やメディアイノベーター向け。"
-      },
-      "vsJapanPlay": {
-        "en": "While Japan has advanced OOH and large-scale projection mapping (e.g., Tokyo Skytree, Shibuya Crossing), this goes beyond urban canvases to celestial bodies, with no direct Japanese counterpart yet.",
-        "ja": "日本には東京スカイツリーや渋谷スクランブル交差点のような大規模な屋外広告やプロジェクションマッピングがあるが、これは都市のキャンバスを超え、天体を媒体とする点で直接の競合はまだ存在しない。"
-      },
-      "tokyoTake": {
-        "en": "Tokyo marketers should note this as a high-cost, high-profile brand play rather than a scalable media channel. The regulatory and public perception challenges for such an overt display would be significant in Japan, where space exploration is often framed as a national scientific endeavor, not commercial ad space.",
-        "ja": "東京のマーケターは、これをスケーラブルなメディアチャネルではなく、高コストかつ注目度の高いブランド戦略と捉えるべきだ。このような露骨な表示は、宇宙探査が商業広告ではなく国家的な科学的事業として捉えられる日本では、規制面や世論形成において大きな課題を伴うだろう。"
-      }
-    },
-    "source": {
-      "name": "Adweek",
-      "url": "https://www.adweek.com/tvnewser/ticker-cnn-boss-mark-thompson-meets-with-new-owners-about-future/"
-    },
-    "sourceGuid": "https://www.adweek.com/?p=1962798",
-    "status": "published"
-  },
-  {
-    "slug": "tiktoks-new-attribution-models-push-beyond-last-click-for-app-marketers",
-    "category": "adtech",
-    "issue": "Vol. 05",
-    "publishedAt": "2026-10-02T16:40:00.000Z",
-    "readingMinutes": 6,
-    "feature": true,
-    "cover": {
-      "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/TikTok-BCA.jpg",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "TikTok's New Attribution Models Push Beyond Last-Click for App Marketers",
-      "ja": "TikTokがアプリ広告主向けアトリビューションモデルを刷新：ラストクリックを超えた増分価値測定へ"
-    },
-    "dek": {
-      "en": "TikTok introduces advanced attribution methodologies for app advertisers, focusing on incrementality and privacy-safe measurement in a post-identifier world.",
-      "ja": "TikTokがアプリ広告主向けに高度なアトリビューション手法を導入。識別子に依存しない時代において、増分価値とプライバシー保護型測定に焦点を当てる。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "October 2, 2026",
-      "ja": "2026年10月2日"
-    },
-    "tags": [
-      {
-        "en": "adtech",
-        "ja": "アドテク"
-      },
-      {
-        "en": "attribution",
-        "ja": "アトリビューション"
-      },
-      {
-        "en": "TikTok",
-        "ja": "TikTok"
-      },
-      {
-        "en": "app marketing",
-        "ja": "アプリマーケティング"
-      }
-    ],
-    "body": {
-      "en": [
-        "TikTok is advancing its attribution methodology for app advertisers, moving beyond traditional last-click models to offer more sophisticated insights. The platform is introducing new frameworks to help marketers understand the true incremental value of their ad spend, a critical shift as privacy regulations evolve and mobile identifier deprecation continues to reshape the measurement landscape. This reflects a broader industry push to measure campaign effectiveness more holistically, prioritizing business outcomes over raw install counts.",
-        "The core challenge for app advertisers has long been accurately crediting installs and in-app actions to specific media channels, particularly in a landscape dominated by SKAdNetwork limitations and the impending loss of third-party cookies. TikTok's refined approach aims to provide clearer signals on how its platform genuinely contributes to growth. It offers tools that emphasize controlled lift studies and advanced statistical modeling over simple direct attribution, enabling brands to justify budget allocation with greater confidence and precision.",
-        "Specifically, TikTok is working directly with advertisers to design and implement incrementality tests. These involve comparing the performance of carefully selected exposed groups against control groups that do not receive TikTok ad impressions. The methodology leverages TikTok's extensive first-party data and rich in-app engagement signals to build predictive models that estimate true uplift in app installs, user registrations, or other key performance indicators. The goal is to establish a causal link between TikTok ad exposure and subsequent app success, rather than merely observing correlation.",
-        "This strategic move positions TikTok alongside other major platforms like Meta and Google, which have also invested heavily in privacy-centric measurement solutions. While traditional mobile measurement partners (MMPs) remain crucial for aggregating data across various channels, platforms are increasingly developing proprietary methodologies to prove their unique value proposition. The industry is evolving towards a hybrid measurement model where platform-specific insights, derived from first-party data, complement and enrich aggregated MMP data for a more complete picture of campaign performance.",
-        "> \"The conversation is shifting from 'how many installs did TikTok drive?' to 'what is the incremental value of TikTok in our overall media mix?'\" This reorientation requires marketers to think beyond vanity metrics.",
-        "For app growth teams and performance marketers, this development necessitates a deeper engagement with TikTok's measurement capabilities. It requires a willingness to experiment with different test designs, understand the nuances of statistical significance, and to integrate TikTok's data with their own internal analytics and customer data platforms (CDPs) for a more complete picture. The emphasis is less on the sheer volume of installs and more on the quality, long-term value, and incremental acquisition of users attributed through the platform.",
-        "What comes next involves the further refinement and standardization of these incrementality models, alongside deeper integration with broader marketing mix modeling (MMM) efforts. As privacy restrictions tighten globally, platforms that can offer robust, privacy-safe methods for demonstrating genuine return on investment will gain a significant competitive advantage. Marketers should anticipate more sophisticated tools from TikTok that blend its vast first-party data with advanced privacy-preserving analytics, pushing the entire app advertising industry towards a new, more accountable standard for performance measurement."
-      ],
-      "ja": [
-        "TikTok はアプリ広告主向けのアトリビューション測定方法をさらに進化させている。従来のラストクリックモデルから一歩進んだ、より洗練されたインサイトを提供しようとしているのだ。プライバシー規制の進化やモバイル識別子（IDFAなど）の廃止が測定の状況を根本的に変える中で、広告費用がもたらす真の増分価値をマーケターが理解するための新しいフレームワークを導入している。これは、キャンペーン効果をより包括的に測定し、生のインストール数よりもビジネス成果を優先するという、業界全体の大きな流れを反映している。",
-        "アプリ広告主にとって長年の課題は、SKAdNetwork の制約や将来的なサードパーティクッキーの廃止といった状況下で、インストールやアプリ内アクションを特定のメディアチャネルに正確に帰属させることだった。TikTok の洗練されたアプローチは、プラットフォームがアプリの成長にどのように貢献しているかについて、より明確なシグナルを提供することを目指す。これは、単純な直接アトリビューションではなく、綿密に管理されたリフトスタディや高度な統計モデリングを重視するツールを提供することで、ブランドがより高い確信と精度を持って予算配分を正当化できるようにするものだ。",
-        "具体的には、TikTok は広告主と直接協力し、増分価値（インクリメンタリティ）テストの設計と実施を行っている。これには、慎重に選定された広告露出グループと、TikTok広告インプレッションを受けない対照グループのパフォーマンスを比較する作業が含まれる。この手法は、TikTokが持つ膨大なファーストパーティデータと豊富なアプリ内エンゲージメントシグナルを活用し、アプリインストール、ユーザー登録、その他の主要なKPIにおける真の増加（アップリフト）を推定する予測モデルを構築する。目標は、TikTok広告の露出とそれに続くアプリの成功との間に、単なる相関関係ではなく、明確な因果関係を確立することにある。",
-        "この戦略的な動きは、Meta や Google といった他の主要プラットフォームがプライバシー重視の測定ソリューションに多額の投資を行ってきた流れと軌を一にする。モバイル測定パートナー（MMP）は、さまざまなチャネルからのデータを集計する上で依然として不可欠だが、プラットフォーム各社は自社の独自の価値提案を証明するため、独自の測定手法を開発する傾向を強めている。業界は、ファーストパーティデータから導き出されるプラットフォーム固有のインサイトが、MMPの集計データを補完し、キャンペーンパフォーマンスのより完全な全体像を提供するハイブリッドな測定モデルへと進化している。",
-        "> 「議論は『TikTok が何件のインストールを促進したか？』から、『メディアミックス全体において TikTok の増分価値は何か？』へとシフトしている」この方向転換は、マーケターに見せかけの指標を超えて考えることを求めている。",
-        "アプリ成長チームやパフォーマンスマーケターにとって、この進展は TikTok の測定機能とのより深い連携を必要とする。さまざまなテスト設計を試行し、統計的有意性のニュアンスを理解し、TikTok のデータを自社の社内分析や顧客データプラットフォーム（CDP）と統合して、より包括的な全体像を把握する意欲が求められる。焦点は、単純なインストールの数ではなく、プラットフォームを通じて獲得されたユーザーの質、長期的な価値、そして増分的な獲得に置かれるようになるだろう。",
-        "次に予想されるのは、これらの増分価値モデルのさらなる洗練と標準化、そしてより広範なマーケティングミックスモデリング（MMM）への深い統合である。世界的にプライバシー規制が厳しくなるにつれて、真の投資対効果（ROI）を実証するための堅牢でプライバシー保護に配慮した方法を提供できるプラットフォームは、大きな競争優位性を獲得する。マーケターは、TikTok が持つ膨大なファーストパーティデータと高度なプライバシー保護分析を融合した、より洗練されたツールを期待すべきだ。これにより、アプリ広告業界全体が、より説明責任のある新しいパフォーマンス測定標準へと移行する可能性がある。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The shift towards incrementality in app attribution, championed by platforms like TikTok, carries significant implications for Tokyo marketers, though its immediate application might differ from Western markets. Japan's urban landscape, characterized by dense population centers and extensive public transport networks, shapes mobile usage patterns in distinct ways. Commuters spend considerable time on trains, often engaging deeply with mobile apps for entertainment, news, or shopping. This sustained, often private, in-app engagement presents a rich but complex data environment for attribution models.",
-        "Unlike markets where home-based large-screen consumption might dominate, Tokyo's \"on-the-go\" mobile culture means that app discovery and usage often occur in highly personal, concentrated bursts. New attribution models must therefore account for not just the initial install, but the quality and duration of attention captured within these specific contexts. For example, a campaign that drives installs during a morning commute might yield higher quality users if the app seamlessly integrates into that routine. This demands a nuanced understanding of attention metrics beyond simple viewability, considering the user's environment and mindset.",
-        "Furthermore, the Japanese digital ecosystem, with its strong reliance on platforms like LINE for communication and daily services, means that app marketers in Tokyo often navigate a multi-platform environment where attribution across domestic and global players is fragmented. While TikTok pushes its own incrementality tools, the challenge for a Tokyo-based brand manager or media planner remains integrating these insights with data from LINE Ads, Yahoo! JAPAN Ads, and various domestic ad networks. The question isn't just \"what is TikTok's incremental value?\", but \"how does TikTok's incremental value integrate with my overall domestic media mix to drive growth in *this* specific urban and cultural context?\". The promise of advanced attribution is clear, but its practical implementation in Tokyo will require sophisticated data engineering and a deep understanding of local consumer behavior."
-      ],
-      "ja": [
-        "TikTokのようなプラットフォームが主導するアプリのアトリビューションにおける増分価値測定への移行は、東京のマーケターにとって大きな意味を持つが、その即時的な適用は欧米市場とは異なる可能性がある。日本の都市景観は、高い人口密度と広範な公共交通機関ネットワークによって特徴づけられ、モバイル利用パターンを独自の方法で形成している。通勤者は電車内でかなりの時間を過ごし、エンターテイメント、ニュース、ショッピングのためにモバイルアプリに深く没入することが多い。この持続的で、しばしばプライベートなアプリ内エンゲージメントは、アトリビューションモデルにとって豊富でありながら複雑なデータ環境を提供する。",
-        "自宅での大画面消費が主流となる市場とは異なり、東京の「移動中」のモバイル文化は、アプリの発見と利用が非常に個人的で集中的なバーストで発生することを意味する。したがって、新しいアトリビューションモデルは、単なる初期インストールだけでなく、これらの特定の文脈で捉えられた注意の質と持続時間も考慮に入れる必要がある。例えば、朝の通勤中にインストールを促進するキャンペーンは、アプリがそのルーティンにシームレスに統合されていれば、より質の高いユーザーを生み出す可能性がある。これは、単純な視認性を超え、ユーザーの環境と心理状態を考慮した、アテンション指標の繊細な理解を求める。",
-        "さらに、コミュニケーションや日常サービスにおいてLINEのようなプラットフォームに強く依存する日本のデジタルエコシステムは、東京のアプリマーケターが国内およびグローバルプレーヤー間のアトリビューションが断片化されたマルチプラットフォーム環境を navigated することを意味する。TikTokが独自の増分価値ツールを推進する一方で、東京のブランドマネージャーやメディアプランナーにとっての課題は、これらのインサイトをLINE広告、Yahoo!広告、およびさまざまな国内アドネットワークからのデータと統合することである。問われるのは「TikTokの増分価値は何か？」だけでなく、「この特定の都市的・文化的文脈において、TikTokの増分価値をどのように国内のメディアミックス全体と統合して成長を促進するか？」である。高度なアトリビューションの可能性は明らかだが、東京でのその実践的な実装には、高度なデータエンジニアリングと現地の消費者行動に関する深い理解が必要となるだろう。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "TikTok pushes incrementality for app ad spend.",
-        "ja": "TikTok、アプリ広告の増分価値を重視。"
-      },
-      "whoForWhat": {
-        "en": "For a Tokyo-based performance marketer or app growth lead at a gaming or e-commerce company, needing to justify TikTok ad spend with stronger incrementality data for quarterly budget reviews.",
-        "ja": "東京のゲームまたはEC企業のパフォーマンスマーケターやアプリ成長責任者で、四半期予算レビューのためにTikTok広告費の増分価値をより強力なデータで正当化する必要がある担当者。"
-      },
-      "vsJapanPlay": {
-        "en": "This directly challenges the traditional Mobile Measurement Partner (MMP) reports used by Japanese app advertisers, pushing them to adopt more sophisticated, platform-specific incrementality studies beyond basic install tracking, which LINE Ads Platform and Yahoo! JAPAN Ads also offer but often without this depth of incrementality focus.",
-        "ja": "日本のアプリ広告主が利用する従来のモバイル測定パートナー（MMP）レポートに直接的な変化を迫るもの。LINE広告やYahoo!広告も提供する基本的なインストール計測を超え、より高度なプラットフォーム固有の増分価値検証の導入を促す。"
-      },
-      "tokyoTake": {
-        "en": "While global platforms push advanced attribution, Tokyo's app ecosystem, deeply integrated with LINE and other domestic players, faces unique challenges in data unification. Japanese consumers' high mobile engagement, particularly during commutes, creates a distinct set of in-app behaviors that new models must account for, moving beyond simple impressions to capture nuanced attention signals in dense urban environments.",
-        "ja": "グローバルプラットフォームが高度なアトリビューションを推進する中、LINEをはじめとする国内プレーヤーと深く統合された東京のアプリエコシステムは、データ統合において独自の課題を抱える。日本の消費者の高いモバイルエンゲージメント、特に通勤時間帯の行動は、新しいモデルが考慮すべき特有のアプリ内行動を生み出す。これは、密集した都市環境における微妙なアテンションシグナルを捉えるために、単純なインプレッションを超えた測定が求められることを意味する。"
-      }
-    },
-    "source": {
-      "name": "Digiday",
-      "url": "https://digiday.com/sponsored/how-tiktok-is-helping-app-advertisers-rethink-attribution/?utm_campaign=digidaydis&#038;utm_medium=rss&#038;utm_source=general-rss"
-    },
-    "sourceGuid": "https://digiday.com/?p=613007",
     "status": "published"
   }
 ]
