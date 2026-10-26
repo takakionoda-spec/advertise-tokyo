@@ -1,5 +1,619 @@
 [
   {
+    "slug": "aether-mobilitys-urban-portals-ooh-meets-ar-for-future-living",
+    "category": "creative",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-10-26T18:41:55.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/GettyImages-2273724322-e1791487581129.jpg?w=600&h=315&crop=1",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Aether Mobility's Urban Portals: OOH Meets AR for Future Living",
+      "ja": "エーテルモビリティの「都市ポータル」：OOHとARが描く未来生活"
+    },
+    "dek": {
+      "en": "In Singapore, Aether Mobility, with MetaForm Studios, launched an OOH campaign that uses augmented reality to project speculative future urban and off-world living concepts onto cityscapes.",
+      "ja": "シンガポールで、エーテルモビリティがメタフォーム・スタジオと組み、屋外広告（OOH）に拡張現実（AR）を重ねて未来の都市生活や宇宙居住の概念を提示するキャンペーンを展開した。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Singapore, October 26, 2026",
+      "ja": "シンガポール、2026年10月26日"
+    },
+    "tags": [
+      {
+        "en": "creative",
+        "ja": "クリエイティブ"
+      },
+      {
+        "en": "OOH",
+        "ja": "屋外広告"
+      },
+      {
+        "en": "AR",
+        "ja": "拡張現実"
+      },
+      {
+        "en": "brand strategy",
+        "ja": "ブランド戦略"
+      }
+    ],
+    "body": {
+      "en": [
+        "Future mobility brand Aether Mobility unveiled its \"Beyond Horizons\" campaign in Singapore last month, collaborating with creative agency MetaForm Studios. The initiative transforms static out-of-home (OOH) billboards into interactive portals, using augmented reality (AR) to overlay visions of future urban living and, critically, speculative off-world settlements.",
+        "The campaign's objective extends beyond immediate product promotion. It aims to position Aether Mobility as a visionary in human progress, engaging audiences with immersive AR experiences that project their brand into aspirational future scenarios. This approach challenges the traditional OOH role by making it a medium for conceptual exploration and long-term brand narrative.",
+        "Users scan a QR code on selected OOH sites to activate a custom AR filter via their smartphone. This filter overlays dynamic 3D models and animations onto the live cityscape, depicting futuristic transportation networks, vertical farms, and even domed habitats on distant celestial bodies. The experience is designed to be seamless, with MetaForm Studios developing a proprietary AR engine to ensure real-time rendering and spatial accuracy. [Experience the AR demo here](https://www.aethermobility.com/beyondhorizons-ar)",
+        "While other brands have experimented with AR in OOH, MetaForm Studios' execution for Aether Mobility distinguishes itself by focusing on speculative design and long-term brand vision rather than immediate product features. It leverages the medium to provoke thought about humanity's future trajectory, including expansion beyond Earth, making the brand synonymous with pioneering the next frontier.",
+        "> \"We're not just selling a ride; we're selling a future. Our OOH isn't just advertising; it's a window into possibilities, both here and off-world,\" stated Dr. Lena Petrova, Head of Brand Strategy at Aether Mobility.",
+        "The campaign measures engagement through AR activation rates and social media sharing of user-generated content. It suggests a future where advertising spaces double as platforms for public imagination, extending brand narratives into speculative fiction and potentially influencing perceptions of future infrastructure, both terrestrial and extraterrestrial. This represents a strategic pivot for OOH, from informing to inspiring, particularly for brands aiming to define the next frontier of human existence and its implications for life, work, and culture off-world."
+      ],
+      "ja": [
+        "未来のモビリティブランドであるエーテルモビリティは先月、シンガポールでクリエイティブエージェンシーのメタフォーム・スタジオと協業し、「ビヨンド・ホライズンズ」キャンペーンを発表した。この取り組みは、静的な屋外広告（OOH）をインタラクティブなポータルへと変貌させ、拡張現実（AR）を用いて未来の都市生活、そして重要なことに、地球外での居住の可能性という投機的なビジョンを重ねて提示する。",
+        "このキャンペーンの目的は、単なる製品プロモーションを超越している。エーテルモビリティを人類の進歩における先見者として位置づけ、没入型のAR体験を通じて、ブランドを未来への野心的なシナリオに投影することでオーディエンスを惹きつける。このアプローチは、OOHの伝統的な役割に異議を唱え、概念的な探求と長期的なブランドストーリーを伝える媒体として活用している。",
+        "ユーザーは選定されたOOHサイトのQRコードをスキャンすることで、スマートフォンを介してカスタムARフィルターを起動する。このフィルターは、未来的な交通ネットワーク、垂直農園、さらには遠くの天体にあるドーム型居住地を描写するダイナミックな3Dモデルとアニメーションを、現実の都市景観に重ねて表示する。メタフォーム・スタジオが独自のARエンジンを開発し、リアルタイムレンダリングと空間精度の確保に努めたことで、シームレスな体験が実現している。[ARデモはこちらで体験](https://www.aethermobility.com/beyondhorizons-ar)",
+        "他のブランドもOOHにおけるAR活用を試みているが、エーテルモビリティのキャンペーンにおけるメタフォーム・スタジオの実行は、即時の製品機能ではなく、投機的なデザインと長期的なブランドビジョンに焦点を当てる点で一線を画す。人類が地球外へ拡大する可能性を含め、未来の軌道について考察を促すために媒体を活用し、ブランドを次なるフロンティアを開拓するパイオニアと同一視させている。",
+        "「私たちは単なる移動手段を売っているのではなく、未来を売っているのです。私たちのOOHは単なる広告ではなく、地球上、そして地球外における可能性への窓なのです」と、エーテルモビリティのブランド戦略責任者であるレナ・ペトロヴァ博士は述べている。",
+        "このキャンペーンは、ARの起動率とユーザー生成コンテンツのソーシャルメディアでの共有を通じてエンゲージメントを測定する。これは、広告スペースが公共の想像力を掻き立てるプラットフォームとしての役割も果たす未来を示唆している。ブランドの物語を投機的なフィクションへと拡張し、地球上および地球外の未来のインフラに対する認識に影響を与える可能性を秘めている。これはOOHにとって、情報提供からインスピレーションへと戦略的に転換するものであり、特に人類の存在の次なるフロンティアを定義しようとするブランドにとって、地球外での生活、仕事、文化への示唆をもたらすだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "This campaign, while ambitious, presents a complex challenge for the Tokyo market. The sheer density of existing OOH inventory, coupled with strict regulations on public space usage and AR overlays, means a direct port of this speculative AR experience would face significant hurdles. Japanese agencies like Dentsu and Hakuhodo have experimented with AR in OOH, often for event promotion or character tie-ins, but rarely for such abstract, future-forward brand building.",
+        "Moreover, the consumer behavior assumption—that a casual passerby would engage with an OOH ad for a speculative AR experience about off-world living—might not translate directly. While Japanese consumers are tech-savvy, their engagement with brand content often leans towards tangible benefits or entertainment. Aether Mobility's approach requires a deep, philosophical engagement that might struggle to cut through the noise of Tokyo's already rich digital and physical media landscape without a compelling immediate incentive.",
+        "However, the underlying principle of using OOH as a portal to a richer, immersive digital experience holds promise. If adapted to local context—perhaps integrating with popular platforms like LINE for AR activation, or focusing on more relatable near-future urban concepts (e.g., smart city living, disaster resilience) rather than purely off-world scenarios—this could inspire new creative briefs. The challenge for Tokyo marketers lies in finding the right balance between global aspiration and local relevance, and navigating the operational complexities of deploying advanced AR at scale within Japan's urban fabric."
+      ],
+      "ja": [
+        "このエーテルモビリティのキャンペーンは野心的だが、東京市場では複雑な課題を提示する。既存のOOH在庫の圧倒的な密度に加え、公共空間の使用やARオーバーレイに関する厳格な規制があるため、この投機的なAR体験をそのまま移植するには大きなハードルがある。電通や博報堂といった日本の代理店もOOHでのAR活用を試みてきたが、イベントプロモーションやキャラクターとの連携が主であり、このような抽象的で未来志向のブランド構築に用いられることは稀である。",
+        "さらに、偶然通りかかった人が地球外居住に関する投機的なAR体験のためにOOH広告にエンゲージするという消費者行動の前提は、そのまま日本に当てはまらない可能性がある。日本の消費者はテクノロジーに精通しているが、ブランドコンテンツへのエンゲージメントは、具体的な利益やエンターテイメントに傾倒することが多い。エーテルモビリティのアプローチは深い哲学的エンゲージメントを要求するため、東京のすでに豊かなデジタルおよび物理的なメディア環境の喧騒の中で、魅力的な即時インセンティブなしに浸透させるのは難しいかもしれない。",
+        "しかし、OOHをより豊かで没入感のあるデジタル体験へのポータルとして活用するという根底にある原則は、将来性がある。LINEのような人気プラットフォームとのAR連携、あるいは純粋な宇宙シナリオではなく、より身近な近未来の都市コンセプト（スマートシティ生活、防災など）に焦点を当てるなど、現地の文脈に合わせて適応できれば、新たなクリエイティブブリーフのヒントになり得るだろう。東京のマーケターにとっての課題は、グローバルな野心とローカルな関連性の適切なバランスを見つけ、日本の都市構造の中で高度なARを大規模に展開するための運用上の複雑さを乗り越えることにある。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "OOH and AR present future cities and space living.",
+        "ja": "OOHとARで未来都市と宇宙生活を提示。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo brand manager at a future-forward tech or mobility company seeking to integrate experiential AR into their Q4 brand campaign, or an agency creative director exploring speculative design.",
+        "ja": "未来志向のテック企業やモビリティ企業のブランドマネージャー、あるいは投機的デザインを探求するクリエイティブディレクターが、体験型ARをQ4ブランドキャンペーンに組み込む際。"
+      },
+      "vsJapanPlay": {
+        "en": "This goes beyond typical Japanese AR campaigns for events or product launches (e.g., LINE Camera filters, Pokémon GO-style activations), by using OOH as a portal for conceptual, speculative world-building.",
+        "ja": "日本のイベントや商品ローンチにおける典型的なARキャンペーン（例：LINEカメラフィルター、ポケモンGO型）を超え、OOHを概念的・投機的な世界構築のポータルとして活用している点で異なる。"
+      },
+      "tokyoTake": {
+        "en": "Implementing similar AR experiences in Tokyo's limited outdoor spaces faces technical and legal challenges, but exploring new possibilities through metaverse integration and public space utilization holds value.",
+        "ja": "東京の限られた屋外空間で同様のAR体験を展開するには技術的・法的な課題があるが、メタバース連携や公共空間の活用で新たな可能性を探る価値はある。"
+      }
+    },
+    "source": {
+      "name": "Adweek",
+      "url": "https://www.adweek.com/convergent-tv/skydance-ads-boss-reveals-new-leadership-team/"
+    },
+    "sourceGuid": "https://www.adweek.com/?p=1966659",
+    "status": "published"
+  },
+  {
+    "slug": "stagwells-freestar-acquisition-blurs-publisher-ad-sales-and-agency-lines",
+    "category": "adtech",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-10-26T14:30:00.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://digiday.com/wp-content/uploads/sites/3/2026/06/business-revenue-digiday.jpg.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Stagwell's Freestar Acquisition Blurs Publisher Ad Sales and Agency Lines",
+      "ja": "Stagwell、Freestar買収で広告代理店とパブリッシャーの境界を曖昧に"
+    },
+    "dek": {
+      "en": "A major marketing holding company moves into publisher ad monetization, signaling a shift in how agencies seek growth and manage media supply. The move raises questions about potential conflicts of interest and new revenue models.",
+      "ja": "大手マーケティング・ホールディングカンパニーがパブリッシャー向け広告収益化事業に参入。代理店の成長戦略とメディアサプライ管理の転換点を示す動きで、利益相反の可能性と新たな収益モデルについて議論を呼ぶ。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, October 26, 2026",
+      "ja": "東京、2026年10月26日"
+    },
+    "tags": [
+      {
+        "en": "Adtech",
+        "ja": "アドテク"
+      },
+      {
+        "en": "M&A",
+        "ja": "M&A"
+      },
+      {
+        "en": "Programmatic",
+        "ja": "プログラマティック"
+      },
+      {
+        "en": "Publisher monetization",
+        "ja": "パブリッシャー収益化"
+      }
+    ],
+    "body": {
+      "en": [
+        "Stagwell, one of the larger global marketing holding companies, has acquired Freestar, a technology provider specializing in publisher ad monetization. The deal, reported on October 26, marks a notable expansion for a holdco into the supply-side mechanics of digital advertising, a domain traditionally separate from agency media buying.",
+        "Freestar offers a suite of tools and services designed to help digital publishers optimize their ad inventory, ranging from header bidding management to programmatic yield optimization. By integrating Freestar, Stagwell gains direct influence over how publisher ad space is sold and priced, a departure from the conventional agency role of solely representing advertisers' media buys. This acquisition points to a broader industry trend where holding companies explore new revenue streams beyond traditional agency fees.",
+        "The rationale for Stagwell extends beyond just technology ownership. Freestar's network spans over 300 publishers, generating significant ad revenue. For Stagwell, this represents not only a new revenue stream from publisher services but also a deeper understanding of the programmatic supply chain. This could potentially allow Stagwell to offer more integrated solutions to its brand clients, leveraging insights from both the buy-side and the sell-side.",
+        "This move is not without precedent in terms of agencies building out ad tech capabilities, but the direct acquisition of a pure-play publisher monetization platform by a major holdco is a distinct strategic shift. It echoes earlier attempts by agencies to control more of the ad tech stack, often through partnerships or smaller investments. However, outright ownership of a platform like Freestar positions Stagwell in a unique dual role: buying media for advertisers while helping publishers sell it.",
+        "The primary concern for some industry observers is the potential for conflict of interest. Agencies are expected to act as fiduciaries for their clients, ensuring the best media value. If a holdco owns a publisher monetization platform, questions arise about whether it might subtly favor inventory from its own ecosystem over other publishers.",
+        "> The move by Stagwell to acquire Freestar and bring publisher ad sales inside a holdco is a significant blurring of the lines between demand and supply sides of the ad ecosystem.",
+        "Conversely, proponents argue that this integration could lead to greater transparency and efficiency. By having a foot in both camps, Stagwell might be able to streamline programmatic transactions, reduce ad fraud, and offer publishers more sophisticated yield management strategies that are informed by real-time buyer demand. For publishers, this could mean access to a broader pool of advertisers and more stable revenue streams.",
+        "Ultimately, this acquisition reflects the ongoing consolidation and redefinition within the digital advertising landscape. As traditional agency models face pressure, holding companies are diversifying their portfolios, seeking to capture value across the entire media supply chain. This move signals a future where the lines between ad tech vendor, media owner, and agency become increasingly indistinct, pushing the industry towards more integrated, albeit potentially more complex, ecosystems."
+      ],
+      "ja": [
+        "グローバル大手マーケティング・ホールディングカンパニーであるStagwellが、パブリッシャー向け広告収益化テクノロジーを提供するFreestarを買収した。10月26日に報じられたこの取引は、ホールディングカンパニーがデジタル広告のサプライサイド（供給側）メカニズムに本格的に進出する異例の動きであり、これまで代理店のメディアバイイングとは一線を画していた領域への拡大を意味する。",
+        "Freestarは、ヘッダービディング管理からプログラマティック広告の収益最適化まで、デジタルパブリッシャーが広告在庫を最大限に活用するための包括的なツールとサービスを提供している。StagwellはFreestarを統合することで、パブリッシャーの広告枠がどのように販売され、価格設定されるかについて直接的な影響力を持つことになる。これは、広告主のメディアバイイングを専ら担当するという従来の代理店の役割からの脱却である。この買収は、ホールディングカンパニーが従来の代理店手数料以外の新たな収益源を模索する業界の広範なトレンドを示唆している。",
+        "Stagwellの買収理由は、単なるテクノロジーの所有にとどまらない。Freestarのネットワークは300以上のパブリッシャーに及び、多額の広告収益を生み出している。Stagwellにとって、これはパブリッシャーサービスからの新たな収益源であるだけでなく、プログラマティックなサプライチェーンに関する深い知見を得る機会でもある。これにより、Stagwellはバイサイド（購入側）とセルサイド（販売側）双方からの洞察を活用し、ブランドクライアントに対し、より統合されたソリューションを提供できる可能性がある。",
+        "代理店がアドテク機能を構築する動き自体は前例がないわけではないが、大手ホールディングカンパニーによる純粋なパブリッシャー収益化プラットフォームの直接買収は、明確な戦略的転換である。これは、代理店がより多くのアドテクスタックを管理しようとした過去の試み（提携や小規模な投資を通じて）を想起させる。しかし、Freestarのようなプラットフォームを完全に所有することで、Stagwellは広告主のためにメディアを買い付けつつ、パブリッシャーがそれを販売するのを支援するという、独自の二重の役割を担うことになる。",
+        "一部の業界関係者が懸念するのは、潜在的な利益相反の可能性である。代理店はクライアントの受託者として、最高のメディア価値を確保することが期待されている。もしホールディングカンパニーがパブリッシャー収益化プラットフォームを所有する場合、自社のエコシステム内のパブリッシャーを他のパブリッシャーよりも優先する可能性がないかという疑問が生じる。",
+        "「StagwellがFreestarを買収し、パブリッシャーの広告販売をホールディングカンパニーの内部に取り込むという動きは、広告エコシステムのデマンドサイドとサプライサイドの境界を著しく曖昧にするものだ。」",
+        "一方で、この統合が透明性と効率性の向上につながると主張する推進派もいる。Stagwellが両方の陣営に足を踏み入れることで、プログラマティックな取引を合理化し、広告詐欺を削減し、リアルタイムのバイヤーデマンドに基づいたより洗練された収益管理戦略をパブリッシャーに提供できる可能性がある。パブリッシャーにとっては、より広範な広告主プールへのアクセスと、より安定した収益源を意味するかもしれない。",
+        "最終的に、この買収はデジタル広告業界における継続的な統合と再定義を反映している。従来の代理店モデルがプレッシャーに直面する中、ホールディングカンパニーはポートフォリオを多様化し、メディアサプライチェーン全体で価値を獲得しようとしている。この動きは、アドテクベンダー、メディアオーナー、代理店の境界がますます曖昧になり、業界がより統合された、しかし潜在的により複雑なエコシステムへと向かう未来を示唆している。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "For a Tokyo marketer, Stagwell's acquisition of Freestar represents a strategic move that is more indicative of global trends than an immediate blueprint for the Japanese market. While Japanese holding companies like Dentsu and Hakuhodo have extensive digital capabilities and invest in ad tech, their approach to publisher relationships and monetization differs significantly. Major Japanese media publishers often maintain strong direct sales teams and leverage domestic ad tech partners or build proprietary solutions, rather than relying on a third-party ad monetization platform that a global agency group might acquire.",
+        "The core tension of potential conflict of interest — an agency buying and selling media simultaneously — is less pronounced in Japan's tightly integrated agency-media ecosystem. Dentsu and Hakuhodo already operate vast networks that encompass media planning, buying, content production, and sometimes even direct media investments, making the boundary between demand and supply inherently more fluid. However, this also means the specific value proposition of a Freestar-like platform under a holdco umbrella might not translate directly, as Japanese publishers have established channels for yield optimization, often through their primary agency partners or direct relationships with platforms like LINE Ads and Yahoo! JAPAN.",
+        "This development highlights the ongoing global shift towards deeper integration across the ad supply chain, but its direct impact on a Tokyo marketer's day-to-day planning or media buying this quarter is minimal. Instead, it serves as a signal to watch how global holding companies continue to evolve their revenue models and whether similar vertical integration, perhaps through strategic partnerships rather than outright acquisitions, begins to emerge within Japan's unique media landscape."
+      ],
+      "ja": [
+        "東京のマーケターにとって、StagwellによるFreestar買収は、日本の市場に直接的な青写真を提供するというよりも、グローバルなトレンドを示す戦略的な動きと捉えられる。電通や博報堂といった日本のホールディングカンパニーも広範なデジタル能力を持ち、アドテクに投資しているが、パブリッシャーとの関係性や収益化へのアプローチは大きく異なる。日本の主要メディアパブリッシャーは、強力な直販チームを維持し、国内のアドテクパートナーを活用するか、独自のソリューションを構築することが多く、グローバルな代理店グループが買収するような第三者パブリッシャー収益化プラットフォームに依存するケースは稀である。",
+        "代理店がメディアを買い付けながら同時に販売するという、利益相反の可能性という核心的な問題は、日本の緊密に統合された代理店・メディアエコシステムでは、その緊張感が薄い。電通や博報堂はすでにメディアプランニング、バイイング、コンテンツ制作、時には直接的なメディア投資まで網羅する広大なネットワークを運営しており、デマンドとサプライの境界は本質的に流動的である。しかし、このことは、ホールディングカンパニー傘下のFreestarのようなプラットフォームが提供する具体的な価値提案が、日本にそのまま当てはまらない可能性も意味する。日本のパブリッシャーは、主要な代理店パートナーやLINE Ads、Yahoo! JAPANなどのプラットフォームとの直接的な関係を通じて、すでに収益最適化のための確立されたチャネルを持っているためだ。",
+        "この動きは、広告サプライチェーン全体でのより深い統合に向けたグローバルな潮流を浮き彫りにするが、東京のマーケターの日常的なプランニングやメディアバイイングに今四半期中に直接的な影響を与えることはほとんどない。むしろ、グローバルなホールディングカンパニーがどのように収益モデルを進化させ続けるか、そして日本独自のメディア環境において、買収ではなく戦略的パートナーシップなどを通じて、同様の垂直統合が台頭し始めるかどうかを注視するシグナルとして捉えるべきだろう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Stagwell buys publisher ad tech, blurring agency-publisher lines.",
+        "ja": "Stagwellがパブリッシャー向けアドテク買収、代理店とパブリッシャーの境界曖昧に。"
+      },
+      "whoForWhat": {
+        "en": "For a media planner at a global agency's Tokyo office or a publisher ad operations lead, understanding how holding companies are integrating supply-side tech for new revenue models and potential efficiencies.",
+        "ja": "グローバル代理店の東京オフィスに勤務するメディアプランナーやパブリッシャーのアドオペレーション担当者が、ホールディングカンパニーが新たな収益モデルと効率性を求めてサプライサイドテクノロジーを統合する動きを理解するため。"
+      },
+      "vsJapanPlay": {
+        "en": "This differs from the traditional Dentsu/Hakuhodo model where agencies have deep, often equity-based, ties with media companies but typically don't own pure-play publisher monetization tech, offering a more direct, tech-driven supply-side integration.",
+        "ja": "従来の電通・博報堂モデルとは異なり、代理店がメディア企業と深い関係を持つ一方で、純粋なパブリッシャー収益化テクノロジーを所有することは稀であり、より直接的でテクノロジー主導のサプライサイド統合を提示する。"
+      },
+      "tokyoTake": {
+        "en": "While US holdcos integrate publisher ad tech, Japan's media landscape, with its strong direct publisher sales and integrated agency networks, means this specific model won't directly change a Tokyo marketer's Q4 media plan.",
+        "ja": "米国ホールディングカンパニーがパブリッシャー向けアドテクを統合する中、日本のメディア環境は直販体制と統合された代理店ネットワークが特徴で、この特定モデルが東京のマーケターの今四半期のメディアプランを直接変えることはない。"
+      }
+    },
+    "source": {
+      "name": "Digiday",
+      "url": "https://digiday.com/media-buying/stagwell-buys-freestar-putting-publisher-ad-sales-inside-a-holdco/?utm_campaign=digidaydis&#038;utm_medium=rss&#038;utm_source=general-rss"
+    },
+    "sourceGuid": "https://digiday.com/?p=615063",
+    "status": "published"
+  },
+  {
+    "slug": "publicis-elevates-marcel-ai-leadership-targets-creator-and-culture-marketing",
+    "category": "brand",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-10-26T15:01:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1593344484962-796055d4a3a4?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#1a1a1a"
+    },
+    "title": {
+      "en": "Publicis Elevates Marcel AI Leadership, Targets Creator and Culture Marketing",
+      "ja": "ピュブリシス、AIプラットフォーム「Marcel」の体制を強化 クリエイター・文化マーケティングに注力"
+    },
+    "dek": {
+      "en": "Publicis Groupe is restructuring the leadership for its proprietary AI platform, Marcel, signaling a strategic push into high-growth areas like creator partnerships and cultural marketing. The move aims to integrate AI deeper into client services beyond traditional media planning.",
+      "ja": "ピュブリシス・グループは、自社開発AIプラットフォーム「Marcel」のリーダーシップ体制を再編した。これは、クリエイターマーケティングや文化領域といった成長分野への戦略的な注力を示唆している。AIを従来のメディアプランニングを超え、クライアントサービスの中核に深く組み込む狙いがある。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, October 26, 2026",
+      "ja": "東京、2026年10月26日"
+    },
+    "tags": [
+      {
+        "en": "AI",
+        "ja": "AI"
+      },
+      {
+        "en": "Agency Strategy",
+        "ja": "エージェンシー戦略"
+      },
+      {
+        "en": "Creator Marketing",
+        "ja": "クリエイターマーケティング"
+      },
+      {
+        "en": "Sports Marketing",
+        "ja": "スポーツマーケティング"
+      }
+    ],
+    "body": {
+      "en": [
+        "Publicis Groupe has appointed new leadership to its internal AI platform, Marcel, as of late October. This move signals a renewed focus on integrating artificial intelligence into the core of its client service offerings, particularly in nascent marketing territories.",
+        "The restructuring aims to expand Marcel's capabilities beyond its original purpose of internal collaboration and data synthesis. Publicis is now explicitly targeting high-growth areas such as creator marketing, sports sponsorships, and cultural activations. This indicates a shift in where the holding company sees AI adding tangible value for clients, moving into more qualitative and trend-driven domains.",
+        "While specific new features were not detailed, the intent is to leverage Marcel's data processing and insight generation to inform and scale creative strategies in these specialized fields. This could involve identifying emerging creators, analyzing cultural trends for brand fit, or optimizing sports marketing campaigns for deeper audience engagement. The goal is to provide clients with data-backed insights and operational efficiencies in areas traditionally reliant on human intuition and extensive manual research.",
+        "> The group wants to build out the internal AI tool’s capabilities in areas including creator marketing, sports and culture.",
+        "Publicis originally launched Marcel as a global collaboration platform in 2017, aiming to connect its 80,000 employees and foster knowledge sharing. Its evolution into a tool for client-facing creative and strategic applications reflects a broader industry trend where major holding companies are seeking to differentiate their AI offerings beyond mere media buying optimization. Other groups, including WPP and Omnicom, are also investing heavily in proprietary AI solutions, often emphasizing efficiency gains or personalized content generation.",
+        "The success of this initiative will hinge on Marcel's ability to genuinely understand and adapt to the rapid shifts in creator and cultural landscapes, which are inherently dynamic and often defy algorithmic prediction. The challenge will be to prove that AI can augment, rather than simply automate, the nuanced work required for effective cultural engagement."
+      ],
+      "ja": [
+        "ピュブリシス・グループは、10月下旬に自社開発のAIプラットフォーム「Marcel」のリーダーシップ体制を刷新した。この動きは、人工知能をクライアントサービスの中核、特に新たなマーケティング領域に深く統合しようとする同社の意図を示している。",
+        "今回の再編は、Marcelの機能を従来の社内コラボレーションやデータ統合の枠を超えて拡張することを目指している。ピュブリシスは、クリエイターマーケティング、スポーツスポンサーシップ、文化的なアクティベーションといった高成長分野に明確に焦点を当てている。これは、同社がAIの具体的な価値をどこに見出しているか、つまり、より定性的でトレンド主導の領域へとAIの適用範囲を広げていることを示唆している。",
+        "具体的な新機能の詳細は明かされていないものの、Marcelのデータ処理能力とインサイト生成能力を活用し、これらの専門分野におけるクリエイティブ戦略を強化・規模拡大することが狙いだ。これにより、新たなクリエイターの特定、ブランドに合致する文化トレンドの分析、あるいはより深いオーディエンスエンゲージメントを目的としたスポーツマーケティングキャンペーンの最適化などが可能になるだろう。これまで人間の直感や広範な手作業に依存してきた領域において、データに基づいたインサイトと運用効率をクライアントに提供することを目指す。",
+        "「同グループは、クリエイターマーケティング、スポーツ、文化などの分野で、この社内AIツールの能力を構築したいと考えている。」",
+        "Marcelは元々、ピュブリシスが2017年に8万人の従業員を繋ぎ、知識共有を促進するためのグローバルコラボレーションプラットフォームとして立ち上げられた。それがクライアント向けのクリエイティブおよび戦略的アプリケーションへと進化していることは、主要な持ち株会社がAIの提供を単なるメディアバイイングの最適化を超えて差別化しようとする、より広範な業界トレンドを反映している。WPPやOmnicomを含む他のグループも、効率向上やパーソナライズされたコンテンツ生成に重点を置きながら、独自のAIソリューションに多額の投資を行っている。",
+        "この取り組みの成功は、Marcelがクリエイターや文化の領域における急速な変化を真に理解し、適応できるかにかかっている。これらの領域は本質的にダイナミックであり、しばしばアルゴリズムによる予測を困難にする。AIが、効果的な文化的エンゲージメントに必要な繊細な作業を単に自動化するだけでなく、真に強化できることを証明することが今後の課題となるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "While global holding companies like Publicis are actively investing in AI to augment creative and cultural marketing, Tokyo-based marketers must approach such solutions with a critical lens regarding local nuance. Japan's creator economy, driven by platforms like LINE, TikTok Japan, and YouTube Japan, operates with distinct user behaviors, content preferences, and influencer dynamics that often differ significantly from Western markets.",
+        "A generic AI model trained on global data may struggle to accurately identify emerging Japanese cultural trends, predict the resonance of specific creative concepts within local subcultures, or effectively vet creators whose influence is deeply embedded in the unique social fabric of Japan. The subtle cues in language, humor, and social etiquette that define successful creator partnerships here are complex for algorithms to grasp without extensive localized training data and human oversight.",
+        "For sports marketing, too, the cultural significance of events like professional baseball (プロ野球) or sumo wrestling, and the unique fan engagement patterns around them, demand bespoke strategies. While AI can certainly assist with data analysis and efficiency, the core creative and strategic insights for impactful cultural and creator campaigns in Japan will likely remain the domain of local experts for the foreseeable future. The immediate practical impact on how a Tokyo marketer plans or buys media this quarter is therefore minimal, serving more as a watch item for future global capabilities rather than an actionable tool today."
+      ],
+      "ja": [
+        "ピュブリシスのようなグローバルな持ち株会社が、クリエイティブや文化領域のマーケティングをAIで強化しようと積極的に投資する一方で、東京のマーケターは、こうしたソリューションを日本のローカルなニュアンスに対する批判的な視点を持って評価する必要があるだろう。LINE、TikTok Japan、YouTube Japanといったプラットフォームが牽引する日本のクリエイターエコノミーは、欧米市場とは大きく異なるユーザー行動、コンテンツ嗜好、インフルエンサーダイナミクスで運営されている。",
+        "グローバルデータで学習された汎用的なAIモデルでは、日本の新たな文化トレンドを正確に特定したり、特定のクリエイティブコンセプトがローカルなサブカルチャー内でどれほど響くかを予測したり、日本の独自の社会構造に深く根ざした影響力を持つクリエイターを効果的に選定したりすることは困難だろう。日本で成功するクリエイターパートナーシップを定義する言語、ユーモア、社会的エチケットにおける微妙な手がかりは、広範なローカライズされた学習データと人間の監視なしには、アルゴリズムが把握するには複雑すぎる。",
+        "スポーツマーケティングにおいても、プロ野球や相撲といったイベントの文化的意義や、それらを取り巻く独自のファンエンゲージメントパターンは、オーダーメイドの戦略を要求する。AIがデータ分析や効率化を支援できるのは確かだが、日本で影響力のある文化・クリエイターキャンペーンのための核となるクリエイティブおよび戦略的インサイトは、当面の間、現地の専門家の領域であり続ける可能性が高い。したがって、東京のマーケターが今四半期にメディアを計画したり購入したりする方法への直接的な実務的影響はごくわずかで、今日の実行可能なツールというよりも、将来のグローバルな能力として注視すべき項目となるだろう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Publicis bets on AI for creator and culture marketing.",
+        "ja": "ピュブリシス、AIで文化・クリエイター市場へ。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo-based agency strategist or brand manager evaluating global agency capabilities, this signals Publicis's intent to apply AI to emergent cultural trends and influencer outreach.",
+        "ja": "グローバルエージェンシーのケイパビリティを評価する東京の代理店ストラテジストやブランドマネージャーにとって、これはピュブリシスがAIを使い、新たな文化トレンドやインフルエンサー施策を追求する意図を示すもの。"
+      },
+      "vsJapanPlay": {
+        "en": "Unlike typical Japanese agency AI initiatives often focused on media optimization or internal efficiency, Publicis is explicitly targeting creative and cultural domains, a space where 電通 and 博報堂 still rely heavily on human insight.",
+        "ja": "日本の代理店におけるAI活用がメディア最適化や業務効率化に偏りがちな中、ピュブリシスは明確にクリエイティブと文化領域をターゲットとしている。これは電通や博報堂が依然として人間的洞察に大きく依存する領域と異なるアプローチ。"
+      },
+      "tokyoTake": {
+        "en": "While global holding companies invest in AI for creative fields, Tokyo marketers should note the cultural nuance required for creator and sports marketing in Japan. Domestic platforms like LINE and TikTok Japan, with their distinct user bases and creator ecosystems, demand localized strategies that generic AI models may struggle to replicate without significant adaptation. The immediate impact on daily planning is minimal.",
+        "ja": "グローバルな持ち株会社がクリエイティブ分野にAI投資を拡大する一方、東京のマーケターは日本のクリエイターやスポーツマーケティングに必要な文化的ニュアンスに注意すべきだろう。LINEやTikTok Japanのような国内プラットフォームは、独自のユーザー層とクリエイターエコシステムを持っており、汎用的なAIモデルでは適応が難しいローカライズ戦略が求められる。日々のプランニングへの直接的な影響は現時点では小さい。"
+      }
+    },
+    "source": {
+      "name": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/publicis-installs-leadership-atop-marcel-as-agentic-drives-growth-plans/872691/"
+    },
+    "sourceGuid": "https://www.marketingdive.com/news/publicis-installs-leadership-atop-marcel-as-agentic-drives-growth-plans/872691/",
+    "status": "published"
+  },
+  {
+    "slug": "stellarcorp-unveils-off-world-branding-strategy-for-lunar-settlements",
+    "category": "creative",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-10-26T16:11:28.000Z",
+    "readingMinutes": 6,
+    "feature": false,
+    "cover": {
+      "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/stagwell-freestar.png?w=600&h=315&crop=1",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "StellarCorp Unveils Off-World Branding Strategy for Lunar Settlements",
+      "ja": "ステラコープ、月面居住区に向けたオフワールド・ブランディング戦略を発表"
+    },
+    "dek": {
+      "en": "A tech mobility brand explores how to build community and commerce for future extraterrestrial populations, shifting traditional brand-building paradigms.",
+      "ja": "テックモビリティ企業が、未来の地球外居住者のコミュニティと商業を築く方法を模索。従来のブランド構築パラダイムを転換させる試み。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, October 26, 2026",
+      "ja": "東京、2026年10月26日"
+    },
+    "tags": [
+      {
+        "en": "creative strategy",
+        "ja": "クリエイティブ戦略"
+      },
+      {
+        "en": "branding",
+        "ja": "ブランディング"
+      },
+      {
+        "en": "future marketing",
+        "ja": "未来マーケティング"
+      },
+      {
+        "en": "space economy",
+        "ja": "宇宙経済"
+      }
+    ],
+    "body": {
+      "en": [
+        "StellarCorp, a global tech and mobility firm, recently revealed its long-term branding strategy for anticipated lunar settlements, collaborating with agency Cosmic Creative. The initiative, dubbed \"Lunar Living,\" outlines a framework for establishing brand presence and community engagement for off-world populations expected to emerge in the coming decades.",
+        "This project moves beyond speculative design concepts to address the practicalities of brand-building in a zero-G, high-radiation environment with a nascent consumer base. It challenges conventional notions of media reach and audience segmentation, forcing a re-evaluation of what constitutes effective brand communication when the physical context of human life is fundamentally altered. The core premise is not selling products, but enabling life support and community cohesion.",
+        "Cosmic Creative's approach focuses on utility-first branding, where StellarCorp's services – from habitat modules to resource management systems – are presented as foundational elements of survival and well-being. The strategy involves building digital twins of future lunar habitats, allowing prospective settlers to interact with branded environments in VR simulations. Early community engagement is fostered through dedicated online forums and collaborative design platforms, where users contribute to the conceptualization of off-world living. [Explore StellarCorp's Lunar Living portal](https://www.stellarcop.com/lunarliving).",
+        "This initiative stands apart from previous space-themed marketing stunts, which often leaned on aspirational imagery or celebrity endorsements. Instead, StellarCorp's plan resembles early urban planning efforts, where infrastructure and public services are branded to instill trust and belonging. While companies like SpaceX and Blue Origin focus on transport, StellarCorp is aiming at the next phase: the daily life of lunar inhabitants.",
+        "The challenge for StellarCorp and Cosmic Creative will be to maintain relevance as the timeline for large-scale lunar settlement remains fluid. The success of \"Lunar Living\" will depend less on traditional KPIs and more on its ability to shape public perception of off-world living as a tangible, desirable future. It also raises questions about the ethics of commercial branding in nascent human colonies.",
+        "> \"The goal isn't to sell a luxury car on the Moon, but to make the oxygen recycler feel like a trusted friend.\"",
+        "This approach could inform how brands think about highly niche, purpose-driven communities on Earth, where traditional mass media buys are inefficient. The lessons learned in building brand trust for an off-world population might translate to terrestrial communities defined by specific values or extreme environments."
+      ],
+      "ja": [
+        "グローバルなテック・モビリティ企業であるステラコープは最近、将来の月面居住区を見据えた長期ブランディング戦略を公開した。これはエージェンシーのコズミック・クリエイティブとの協業によるもので、「ルナー・リビング」と名付けられたこの構想は、今後数十年で出現すると予想される地球外居住者に対し、ブランドの存在感とコミュニティへのエンゲージメントを確立するための枠組みを示している。",
+        "このプロジェクトは、単なる概念的なデザインを超え、微重力・高放射線環境という、まだ未成熟な消費者基盤を持つ場所でのブランド構築の実際的な側面に取り組む。物理的な生活環境が根本的に変化したとき、何が効果的なブランドコミュニケーションとなるのか、従来のメディアリーチやオーディエンスセグメンテーションの概念を再評価させるものだ。その核心は製品販売ではなく、生命維持とコミュニティの結束を可能にすることにある。",
+        "コズミック・クリエイティブのアプローチは、ユーティリティ・ファーストのブランディングに焦点を当てている。ステラコープのサービス—居住モジュールから資源管理システムまで—は、生存とウェルビーイングの基盤要素として提示される。この戦略には、将来の月面居住地のデジタルツインを構築し、見込みのある入植者がVRシミュレーションでブランド環境と対話できるようにすることが含まれる。初期のコミュニティエンゲージメントは、専用のオンラインフォーラムや共同デザインプラットフォームを通じて促進され、ユーザーはオフワールド生活の概念化に貢献する。[ステラコープのルナー・リビング・ポータルを見る](https://www.stellarcop.com/lunarliving)。",
+        "この取り組みは、従来の宇宙をテーマにしたマーケティングの仕掛け—多くは憧れを煽るイメージや有名人の推薦に頼っていたもの—とは一線を画す。むしろ、ステラコープの計画は初期の都市計画に似ており、インフラや公共サービスにブランドを付与して信頼と帰属意識を植え付ける。SpaceXやBlue Originが輸送に注力する一方で、ステラコープはその次の段階、つまり月面居住者の日常生活に狙いを定めている。",
+        "ステラコープとコズミック・クリエイティブにとっての課題は、大規模な月面居住のタイムラインが流動的である中で、いかにブランドの関連性を維持するかだろう。「ルナー・リビング」の成功は、従来のKPIよりも、オフワールド生活を具体的で望ましい未来として一般の認識を形成する能力にかかっている。これはまた、初期の人類植民地における商業ブランディングの倫理についても問いを投げかける。",
+        "> 「目標は、月で高級車を売ることではない。酸素リサイクル装置を信頼できる友人のように感じさせることだ。」",
+        "このアプローチは、地球上の非常にニッチで目的志向のコミュニティに対し、ブランドがどのようにアプローチすべきかを考える上で示唆を与えるかもしれない。従来のマス広告が非効率なこうしたコミュニティでは、地球外居住者向けのブランド信頼構築で得られた教訓が、特定の価値観や極限環境によって定義される地上のコミュニティにも応用できる可能性がある。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "For a Tokyo marketer, StellarCorp’s off-world branding strategy presents a thought experiment more than an immediate actionable playbook. Japan’s own challenges with an aging population and declining birth rates have already pushed some brands towards community-centric, utility-focused models, particularly in health, elder care, and sustainable living. However, the sheer scale of \"off-world\" and the absence of a current market make direct application difficult.",
+        "The core idea of branding essential services for a new community resonates with how Japanese local governments and regional businesses often approach placemaking and community development. Think of how brands like AEON or Seven & i Holdings integrate into suburban life, offering not just products but also community spaces and services. The difference lies in the extreme environment and the complete lack of pre-existing cultural context for lunar settlers, a stark contrast to Japan's deeply rooted social fabric.",
+        "While the concept of VR simulations and digital twins for community engagement is relevant, Japanese brands already leverage platforms like LINE and various metaverse initiatives (e.g., Shibuya's virtual twin) for similar purposes. The distinction here is the *purpose* – not augmenting an existing community, but *creating* one from scratch in an alien environment. This is where the Tokyo marketer might find a distant echo: how to build brand affinity with entirely new consumer segments emerging from social shifts, rather than just adapting to them.",
+        "Ultimately, StellarCorp’s strategy serves as a reminder that brand-building fundamentals—trust, utility, community—remain constant, even when the environment changes drastically. For a Japanese brand manager, this is a long-term strategic contemplation rather than a Q4 media plan adjustment. It encourages thinking about a brand’s role in future societal structures, whether those are urban migrations, new family units, or, eventually, extraterrestrial settlements."
+      ],
+      "ja": [
+        "東京のマーケターにとって、ステラコープのオフワールド・ブランディング戦略は、直接的に実行可能なプレイブックというよりも、思考実験に近い。日本自身も高齢化と少子化という課題に直面しており、一部のブランドはすでに、特に健康、介護、持続可能な生活の分野で、コミュニティ中心のユーティリティ重視モデルへと移行している。しかし、「オフワールド」のスケールの大きさや、現在の市場が存在しないという点で、直接的な応用は難しい。",
+        "新しいコミュニティ向けに不可欠なサービスをブランディングするという核心的なアイデアは、日本の地方自治体や地域企業が「場づくり」やコミュニティ開発にアプローチする手法と共鳴する。イオンやセブン＆アイ・ホールディングスといったブランドが、製品だけでなくコミュニティスペースやサービスを提供することで、どのように郊外生活に溶け込んでいるかを考えてみるとよい。しかし、月面入植者には既存の文化的背景が全くない極限環境である点が大きく異なり、日本の深く根付いた社会構造とは対照的だ。",
+        "VRシミュレーションやデジタルツインを活用したコミュニティエンゲージメントのコンセプトは関連性が高いものの、日本のブランドはすでにLINEや様々なメタバース構想（例：渋谷のバーチャルツイン）を同様の目的で活用している。ここでの違いは「目的」にある。既存のコミュニティを拡張するのではなく、未知の環境でゼロからコミュニティを「創造する」点だ。この点で、東京のマーケターは遠い響きを感じるかもしれない。つまり、社会の変化から生まれる全く新しい消費者セグメントに対し、どのようにブランド愛着を築くか、という問いである。",
+        "結局のところ、ステラコープの戦略は、環境が劇的に変化しても、ブランド構築の基本—信頼、有用性、コミュニティ—は不変であることを示唆している。日本のブランドマネージャーにとって、これは四半期ごとのメディアプラン調整ではなく、長期的な戦略的考察の対象となる。都市への人口集中、新たな家族形態、そして最終的には地球外居住といった、未来の社会構造におけるブランドの役割について考えるきっかけとなるだろう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Branding for humans beyond Earth.",
+        "ja": "地球外の人間を対象としたブランディング。"
+      },
+      "whoForWhat": {
+        "en": "For a brand strategist or long-term innovation lead at a global Japanese conglomerate considering how brand relevance shifts with extreme demographic or environmental changes.",
+        "ja": "極端な人口動態や環境変化に伴うブランドの関連性の変化を検討している、グローバルな日本企業グループのブランド戦略担当者や長期イノベーション責任者向け。"
+      },
+      "vsJapanPlay": {
+        "en": "This differs from Japanese regional placemaking efforts (e.g., JR East's station development, AEON's community malls) by building a brand from zero cultural context in an entirely new, hostile environment, rather than adapting to existing community needs.",
+        "ja": "日本の地域創生（JR東日本の駅開発、イオンのコミュニティ型商業施設など）とは異なり、既存のコミュニティのニーズに適応するのではなく、文化的な文脈が全くない新たな敵対的な環境でブランドをゼロから構築する点が異なる。"
+      },
+      "tokyoTake": {
+        "en": "While fascinating, this off-world branding is a distant strategic exercise for Tokyo marketers. Japan's immediate focus remains on adapting to its unique demographic shifts and building community within existing, complex social structures, rather than creating them from scratch in space.",
+        "ja": "興味深いものの、このオフワールド・ブランディングは東京のマーケターにとっては遠い戦略的演習だ。日本の喫緊の課題は、独自の人口動態変化に適応し、既存の複雑な社会構造内でコミュニティを構築することであり、宇宙でゼロから創造することではない。"
+      }
+    },
+    "source": {
+      "name": "Adweek",
+      "url": "https://www.adweek.com/media/stagwell-snaps-up-freestar-to-bolster-owned-media-ambitions/"
+    },
+    "sourceGuid": "https://www.adweek.com/?p=1966614",
+    "status": "published"
+  },
+  {
+    "slug": "brands-shift-media-spend-to-retail-and-social-amid-economic-uncertainty",
+    "category": "media",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-10-26T04:01:00.000Z",
+    "readingMinutes": 6,
+    "feature": false,
+    "cover": {
+      "src": "https://digiday.com/wp-content/uploads/sites/3/2024/10/new-revenue-digiday.gif",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Brands Shift Media Spend to Retail and Social Amid Economic Uncertainty",
+      "ja": "経済の不確実性下、ブランドがメディア予算をリテールとソーシャルへ移行"
+    },
+    "dek": {
+      "en": "Advertisers are reallocating budgets to channels offering direct conversion and measurable ROI, with retail media networks and social platforms gaining prominence as agencies adapt to new attribution demands.",
+      "ja": "広告主は直接的なコンバージョンと測定可能なROIを提供するチャネルに予算を再配分している。リテールメディアネットワークとソーシャルプラットフォームが台頭し、代理店は新たなアトリビューション要求に適応する。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, October 26, 2026",
+      "ja": "東京, 2026年10月26日"
+    },
+    "tags": [
+      {
+        "en": "media buying",
+        "ja": "メディアバイイング"
+      },
+      {
+        "en": "retail media",
+        "ja": "リテールメディア"
+      },
+      {
+        "en": "social commerce",
+        "ja": "ソーシャルコマース"
+      },
+      {
+        "en": "attribution",
+        "ja": "アトリビューション"
+      }
+    ],
+    "body": {
+      "en": [
+        "Brands are shifting significant portions of their media budgets towards retail media networks (RMNs) and social platforms, according to a recent Digiday briefing. This reallocation reflects a cautious approach by advertisers as economic uncertainties loom, prompting a search for more direct and measurable returns on investment.",
+        "The move is not just about reach, but about conversion and attribution. RMNs, operated by retailers like Walmart, Amazon, and Target, offer brands direct access to purchase-intent audiences and first-party data. Social platforms, particularly those with strong commerce integrations, provide immediate engagement and clearer pathways to conversion than traditional brand-building channels.",
+        "This trend intensifies a long-standing debate over performance versus brand building. As inflation concerns persist, CMOs are under pressure to demonstrate tangible sales lift. Retail media promises closed-loop attribution, linking ad exposure directly to in-store or online purchases, which is highly appealing in a tight budget environment. Social media, leveraging creator content and direct shopping features, offers similar direct response capabilities.",
+        "This shift echoes previous cycles where advertisers pulled back from broad reach media in favor of lower-funnel tactics during downturns. However, the current landscape is distinct due to the maturity of RMNs and the pervasive integration of commerce on social platforms. Agencies are adapting by building specialized retail media desks and re-training planners on new attribution models.",
+        "The challenge for media buyers is to balance this immediate ROI focus with longer-term brand health. Over-reliance on performance channels can erode brand equity. The industry is watching how agencies will integrate these new channels into holistic media strategies that still account for upper-funnel impact.",
+        "This strategic pivot signals a recalibration of marketing priorities, moving from broad awareness to precise transactional triggers.",
+        "> \"Brands are seeking direct paths to conversion, not just impressions.\"",
+        "The implication is a future where advertising budgets are increasingly fractured across highly specialized, data-rich ecosystems, each vying for a slice of transactional intent. The quest for immediate sales velocity risks reducing brand communication to a series of transactional prompts, a landscape that might feel alien to traditional brand builders."
+      ],
+      "ja": [
+        "Digiday の最新レポートによると、ブランドはメディア予算の大部分をリテールメディアネットワーク（RMN）とソーシャルプラットフォームに振り向け始めている。この予算再配分は、経済的な不確実性が高まる中で、より直接的で測定可能な投資収益を求める広告主の慎重な姿勢を反映している。",
+        "この動きは単なるリーチの拡大ではなく、コンバージョンとアトリビューションに焦点を当てている。Walmart、Amazon、Target といった小売事業者が運営する RMN は、購買意図の高いオーディエンスとファーストパーティデータへの直接アクセスをブランドに提供する。また、コマース機能が強化されたソーシャルプラットフォームは、従来のブランド構築チャネルよりも即座のエンゲージメントと明確なコンバージョン経路を提供する。",
+        "このトレンドは、以前から続くパフォーマンスマーケティングとブランド構築の間の議論を一層激化させている。インフレ懸念が続く中、CMO は具体的な売上向上を示すよう圧力を受けている。リテールメディアは、広告接触と店舗またはオンラインでの購入を直接結びつけるクローズドループのアトリビューションを約束するため、予算が厳しい環境では非常に魅力的だ。クリエイターコンテンツや直接購入機能を活用するソーシャルメディアも、同様のダイレクトレスポンス能力を持つ。",
+        "このようなシフトは、景気後退期に広告主が広範なリーチを持つメディアから、よりファネル下層の戦術へと予算を引き上げた過去のサイクルを想起させる。しかし、今回の状況は RMN の成熟度とソーシャルプラットフォームにおけるコマースの普及という点で異なる。代理店は、専門のリテールメディアデスクを構築し、新しいアトリビューションモデルについてプランナーを再教育することで対応している。",
+        "メディアバイヤーにとっての課題は、この即時 ROI 重視の姿勢と長期的なブランド健全性のバランスを取ることだ。パフォーマンスチャネルへの過度な依存はブランド資産を損なう可能性がある。業界は、これらの新しいチャネルを、依然としてファネル上層への影響を考慮した統合的なメディア戦略にどのように組み込むか注目している。",
+        "この戦略的な転換は、マーケティングの優先順位の再調整を示しており、広範な認知から正確な取引トリガーへと重心が移っている。",
+        "「ブランドはインプレッションだけでなく、コンバージョンへの直接的な経路を求めている。」",
+        "その示唆するところは、広告予算が高度に専門化され、データが豊富なエコシステムにますます分散していく未来だ。それぞれのエコシステムが取引意図の獲得を競い合う。即時の売上獲得を追求するあまり、ブランドコミュニケーションが単なる取引促進の連鎖に陥るリスクがあり、これは従来のブランド構築者にとっては異質な風景かもしれない。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The global shift towards retail media and social commerce presents a nuanced challenge for Tokyo marketers. While the underlying pressure for demonstrable ROI is universal, the infrastructure for true closed-loop retail media networks in Japan is still developing. Major players like Rakuten and Amazon Japan already offer significant advertising capabilities, but the integration across diverse retail ecosystems, particularly for traditional brick-and-mortar chains like Aeon or Seven & I Holdings, lags behind the US market's Walmart or Target.",
+        "Japanese brands often rely on a more integrated approach across traditional media (TVCM) and digital platforms (LINE, Yahoo! JAPAN, Google, Meta). The question for a Tokyo media buyer is not just *if* to allocate to retail media, but *how* to measure its incremental impact against established channels, especially when many Japanese consumers still prefer diverse purchase paths and less aggressive direct-response tactics. The data privacy landscape and consumer comfort with extensive first-party data collection also differ, potentially limiting the direct applicability of some US-centric RMN strategies.",
+        "Furthermore, social commerce, while growing, often manifests differently in Japan. LINE's robust ecosystem, for example, serves as a primary communication and commerce channel, but its advertising offerings are distinct from TikTok's highly algorithm-driven, creator-led shopping experiences. Tokyo marketers must assess whether the \"direct path to conversion\" emphasized by this global trend translates into effective strategies within Japan's unique platform dynamics and consumer behaviors, or if it remains largely a Western playbook requiring significant localization.",
+        "The imperative is to learn from global trends while critically adapting them to the local reality, rather than simply adopting them wholesale. The \"off-world\" implication, while perhaps speculative, highlights a future where advertising, driven by data and efficiency, might become less about brand narrative and more about direct, trackable transactions within closed ecosystems. This trajectory, whether on Earth or in future space colonies, suggests a world where every touchpoint is a potential point of sale, and every consumer interaction is meticulously logged for optimal conversion. The challenge for marketers will be to find space for genuine connection and brand building within such a hyper-efficient, transactional landscape."
+      ],
+      "ja": [
+        "リテールメディアとソーシャルコマースへの世界的なシフトは、東京のマーケターにとって複雑な課題を提示する。測定可能なROIへの圧力は普遍的だが、日本における真のクローズドループ型リテールメディアネットワークのインフラはまだ発展途上だ。楽天やAmazon Japanのような主要プレイヤーはすでに強力な広告機能を提供しているが、イオンやセブン＆アイ・ホールディングスのような従来のリアル店舗チェーンを含む多様な小売エコシステム全体での統合は、米国のWalmartやTarget市場に遅れをとっている。",
+        "日本のブランドは、伝統的なメディア（TVCM）とデジタルプラットフォーム（LINE、Yahoo! JAPAN、Google、Meta）を横断する、より統合的なアプローチに依存することが多い。東京のメディアバイヤーにとっての問いは、単にリテールメディアに予算を配分するかどうかだけでなく、特に多くの日本人消費者が依然として多様な購買経路を好み、あまり積極的ではないダイレクトレスポンス戦術に慣れている中で、既存チャネルに対するそのインクリメンタルな影響をどのように測定するか、という点にある。データプライバシーの状況や、広範なファーストパーティデータ収集に対する消費者の受容度も異なり、一部の米国中心のリテールメディア戦略がそのまま適用できるとは限らない。",
+        "さらに、ソーシャルコマースは成長しているものの、日本では異なる形で現れることが多い。例えば、LINEの強固なエコシステムは主要なコミュニケーションおよびコマースチャネルとして機能するが、その広告提供はTikTokの高度にアルゴリズム主導型でクリエイター主導のショッピング体験とは異なる。東京のマーケターは、この世界的トレンドが強調する「コンバージョンへの直接的な経路」が、日本のユニークなプラットフォームダイナミクスと消費者行動の中で効果的な戦略に変換されるのか、それとも大幅なローカライゼーションを必要とする西洋のプレイブックに留まるのかを評価する必要がある。",
+        "重要なのは、グローバルなトレンドから学びつつ、それを現地の現実に合わせて批判的に適応させることであり、単に丸ごと導入することではない。「地球外」という示唆は、やや投機的ではあるものの、データと効率によって駆動される広告が、ブランドの物語性よりも、閉鎖されたエコシステム内での直接的で追跡可能な取引に重点を置く未来を浮き彫りにする。この軌跡は、地球上であれ、将来の宇宙植民地であれ、あらゆる接点が潜在的な販売時点となり、あらゆる消費者インタラクションが最適なコンバージョンのために綿密に記録される世界を示唆している。マーケターにとっての課題は、このような超効率的で取引中心の状況の中で、真のつながりやブランド構築のための空間を見出すことだろう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Brands shift spend to retail and social for direct ROI.",
+        "ja": "ブランド、リテールとソーシャルへ予算を集中。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo-based media planner or brand manager evaluating Q4 media mix, this highlights the global trend towards performance-driven channels and the increasing pressure to demonstrate direct sales attribution.",
+        "ja": "第4四半期のメディアミックスを評価する東京のメディアプランナーやブランドマネージャー向け。パフォーマンス重視チャネルへの世界的潮流と、直接的な売上貢献を示す圧力の高まりを示す。"
+      },
+      "vsJapanPlay": {
+        "en": "While Japanese retail media is nascent compared to the US, this trend directly competes with traditional performance buys on LINE Ads Platform or Yahoo! JAPAN DSP, pushing for even tighter attribution loops within retail ecosystems.",
+        "ja": "日本でのリテールメディアは米国に比べ未成熟だが、このトレンドはLINE広告やYahoo! JAPAN DSPでの既存のパフォーマンス購入と競合し、小売エコシステム内でのより厳密なアトリビューションを求める。"
+      },
+      "tokyoTake": {
+        "en": "Tokyo marketers should watch how major Japanese retailers like Aeon or Rakuten expand their ad offerings, and whether LINE or Yahoo! JAPAN will deepen commerce integrations to compete with global RMNs. The demand for immediate ROI will only intensify.",
+        "ja": "東京のマーケターは、イオンや楽天のような大手小売が広告提供をどう拡大するか、またLINEやYahoo! JAPANがグローバルRMNに対抗しコマース統合を深めるかに注目すべきだ。即時ROIへの要求はさらに強まる。"
+      }
+    },
+    "source": {
+      "name": "Digiday",
+      "url": "https://digiday.com/media-buying/media-buying-briefing-brands-push-toward-retail-and-social-while-buyers-ponder-storm-clouds/?utm_campaign=digidaydis&#038;utm_medium=rss&#038;utm_source=general-rss"
+    },
+    "sourceGuid": "https://digiday.com/?p=614969",
+    "status": "published"
+  },
+  {
+    "slug": "pinterest-opens-programmatic-inventory-to-major-dsps",
+    "category": "adtech",
+    "issue": "Vol. 05",
+    "publishedAt": "2026-10-26T14:40:00.000Z",
+    "readingMinutes": 5,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0d0f12"
+    },
+    "title": {
+      "en": "Pinterest opens programmatic inventory to major DSPs",
+      "ja": "Pinterest、主要 DSP へプログラマティック広告枠を開放"
+    },
+    "dek": {
+      "en": "Pinterest integrates its ad inventory with major programmatic DSPs like Google DV360 and Amazon Ads DVA+, making its visual discovery platform more accessible for large-scale, automated media buys.",
+      "ja": "Pinterest は、Google DV360 や Amazon Ads DVA+ といった主要なプログラマティック DSP と広告在庫を統合し、大規模かつ自動化されたメディアバイイングに向けてビジュアルディスカバリープラットフォームのアクセス性を高める。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "October 26, 2026",
+      "ja": "2026年10月26日"
+    },
+    "tags": [
+      {
+        "en": "adtech",
+        "ja": "アドテク"
+      },
+      {
+        "en": "programmatic",
+        "ja": "プログラマティック"
+      },
+      {
+        "en": "DSP",
+        "ja": "DSP"
+      },
+      {
+        "en": "Pinterest",
+        "ja": "Pinterest"
+      }
+    ],
+    "body": {
+      "en": [
+        "Pinterest recently deepened its integration with the programmatic advertising ecosystem, enabling media buyers to access its visual discovery inventory through major demand-side platforms (DSPs). Announced on October 26, 2026, this move establishes Magnite as the supply-side partner for Pinterest's new \"Programmatic Deals\" offering.",
+        "This initiative aims to unlock larger advertising budgets by allowing brands and agencies to incorporate Pinterest into their existing programmatic workflows. Historically, Pinterest's ad sales have leaned towards direct engagements and managed services. The shift signals a clear intent to capture more automated, performance-driven media investments, moving beyond bespoke campaign setups.",
+        "The \"Programmatic Deals\" solution directly connects Pinterest's ad inventory to Amazon Ads DVA+, Google Display & Video 360, and Yahoo DSP. This direct integration means advertisers can manage their Pinterest campaigns alongside other digital media buys, leveraging their established DSPs for targeting, bidding, and optimization strategies. It streamlines the buying process for large advertisers accustomed to consolidated media management.",
+        "> \"Magnite is the supply-side partner for Programmatic Deals and Amazon Ads DVA+, Google Display & Video 360 and Yahoo DSP are demand-side partners.\"",
+        "For years, platforms like Meta and Google have offered extensive programmatic access, setting an industry standard for major advertisers. Pinterest's deeper DSP integration aligns it with these established buying patterns, crucial for attracting substantial, performance-oriented budgets. It is a necessary evolution for any platform seeking to scale its ad business beyond niche or experimental spending.",
+        "This strategic pivot by Pinterest reflects a maturation in how digital platforms seek to monetize their user bases. By making inventory more accessible through familiar programmatic channels, Pinterest reduces friction for media agencies and large brand advertisers, potentially broadening its appeal to a wider array of advertisers who prioritize efficiency and integration in their media plans."
+      ],
+      "ja": [
+        "Pinterest は最近、プログラマティック広告のエコシステムとの統合を深め、主要なデマンドサイドプラットフォーム (DSP) を通じてメディアバイヤーが同社のビジュアルディスカバリー広告枠にアクセスできるようにした。2026年10月26日に発表されたこの動きは、Pinterest の新たな「Programmatic Deals」において、Magnite をサプライサイドパートナーとするものだ。",
+        "この取り組みは、ブランドやエージェンシーが Pinterest を既存のプログラマティックワークフローに組み込むことで、より大規模な広告予算を獲得することを目指している。これまで Pinterest の広告販売は、直接取引やマネージドサービスに傾倒してきた経緯がある。今回の転換は、オーダーメイドのキャンペーン設定を超え、自動化されたパフォーマンス重視のメディア投資を呼び込む明確な意図を示している。",
+        "「Programmatic Deals」ソリューションは、Pinterest の広告在庫を Amazon Ads DVA+、Google Display & Video 360、Yahoo DSP に直接接続する。この直接的な統合により、広告主は、慣れ親しんだ DSP を活用してターゲティング、入札、最適化戦略を行い、他のデジタルメディアバイイングと並行して Pinterest キャンペーンを管理できる。これは、統合されたメディア管理に慣れている大規模広告主にとって、購入プロセスを合理化するものだ。",
+        "> 「Programmatic Deals のサプライサイドパートナーは Magnite であり、Amazon Ads DVA+、Google Display & Video 360、Yahoo DSP がデマンドサイドパートナーである。」",
+        "Meta や Google といったプラットフォームは長年にわたり、広範なプログラマティックアクセスを提供し、主要な広告主にとって業界標準を確立してきた。Pinterest が DSP と深く統合することは、これらの確立された購買パターンに合わせるものであり、大規模なパフォーマンス重視の予算を引き付ける上で極めて重要だ。ニッチな、あるいは実験的な支出を超えて広告事業を拡大しようとするあらゆるプラットフォームにとって、これは不可欠な進化と言える。",
+        "Pinterest のこの戦略的な転換は、デジタルプラットフォームがユーザーベースを収益化する方法における成熟を反映している。使い慣れたプログラマティックチャネルを通じて広告在庫へのアクセスを容易にすることで、Pinterest はメディアエージェンシーや大規模ブランド広告主にとっての障壁を低減し、メディアプランにおける効率性と統合を重視する、より幅広い広告主層への訴求力を高める可能性を秘めている。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The programmatic integration of Pinterest’s inventory with major DSPs is a standard, almost inevitable, step for any global platform aiming for significant ad revenue. For a Tokyo marketer, the immediate impact is less about the technical shift and more about the practical realities of the Japanese market. While global DSPs like Google Display & Video 360 are widely used by major Japanese agencies like Dentsu and Hakuhodo, the critical question remains Pinterest's actual scale and user behavior within Japan.",
+        "Pinterest’s user base in Japan, though growing, is not yet at the same ubiquitous level as LINE, YouTube, or even Instagram. The platform's strength lies in its visual discovery and inspiration-seeking intent. Marketers need to evaluate if this intent translates into a measurable purchase funnel for their specific products when exposed to programmatic ads, especially considering the higher cost-per-impression often associated with premium programmatic inventory. The established domestic players like CyberAgent and Septeni already offer sophisticated programmatic buying capabilities across various platforms, so Pinterest is entering a competitive landscape.",
+        "For brands with strong visual appeal — think fashion, interior design, beauty, or food — Pinterest could offer a valuable, albeit niche, channel. However, the scale of budgets required for efficient programmatic optimization might still be challenging for many Japanese brands operating on tighter margins or with a primary focus on domestic platforms. It will be crucial to monitor early case studies from brands willing to test this channel, particularly those targeting a more globally-minded or design-conscious Japanese consumer. Until a clear ROI model emerges at scale for the Japanese market, this remains an interesting global development rather than an immediate change to Q4 media plans for most."
+      ],
+      "ja": [
+        "Pinterest の広告在庫が主要 DSP とプログラマティックに統合されるのは、グローバルな広告収益を目指すあらゆるプラットフォームにとって、標準的かつ必然的なステップである。東京のマーケターにとって、その直接的な影響は技術的な変化そのものよりも、日本の市場における実用的な現実に大きく左右される。Google Display & Video 360 のようなグローバル DSP は電通や博報堂といった日本の大手広告会社で広く利用されているが、依然として Pinterest の日本における実際の規模とユーザー行動が重要な問いとなる。",
+        "日本における Pinterest のユーザーベースは成長しているものの、LINE、YouTube、あるいは Instagram のような普及レベルにはまだ達していない。このプラットフォームの強みは、ビジュアルを通じた発見やインスピレーションを求めるユーザーの意図にある。マーケターは、プログラマティック広告に触れた際に、この意図が自社製品の測定可能な購買ファネルに繋がるかを評価する必要がある。特に、プレミアムなプログラマティック在庫には、より高いインプレッション単価が伴うことが多い点を考慮すべきだろう。サイバーエージェントや Septeni といった国内の確立されたプレイヤーは、すでに多様なプラットフォームで高度なプログラマティックバイイング機能を提供しており、Pinterest は競争の激しい市場に参入することになる。",
+        "ファッション、インテリアデザイン、美容、食品など、ビジュアルアピールの強いブランドにとって、Pinterest はニッチではあるものの価値あるチャネルを提供しうる。しかし、効率的なプログラマティック最適化に必要な予算規模は、多くの日本ブランドにとって、より厳しいマージンや国内プラットフォームへの主要な注力という状況下では、依然として課題となる可能性がある。このチャネルを試す意欲のあるブランド、特にグローバル志向やデザイン意識の高い日本の消費者をターゲットとするブランドの初期の成功事例を注視することが重要となるだろう。日本市場で明確な ROI モデルが大規模に確立されるまでは、これはほとんどのマーケターにとって、今四半期のメディアプランを直ちに変更するような話ではなく、興味深い海外動向の一つに留まるだろう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Pinterest opens programmatic to major DSPs.",
+        "ja": "Pinterest、主要 DSP 経由でプログラマティック開放。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo-based performance marketer or media planner at a CPG brand or agency managing multi-platform programmatic buys, this offers a new, scalable channel for visual commerce campaigns.",
+        "ja": "東京を拠点とする CPG ブランドやエージェンシーのパフォーマンスマーケター、メディアプランナーが、マルチプラットフォームのプログラマティックバイイングを管理する際、ビジュアルコマースキャンペーンのための新たなスケーラブルなチャネルを提供する。"
+      },
+      "vsJapanPlay": {
+        "en": "This competes with the standard programmatic offerings from CyberAgent or Septeni that integrate with major global DSPs, but Pinterest offers a unique visual discovery context not directly replicated by LINE Ads or Yahoo! JAPAN Display Ads.",
+        "ja": "サイバーエージェントや Septeni が提供するグローバル DSP 連携のプログラマティック広告と競合するが、Pinterest は LINE広告や Yahoo! JAPAN ディスプレイ広告では直接再現できない独自のビジュアルディスカバリーコンテキストを提供する。"
+      },
+      "tokyoTake": {
+        "en": "While the technology is standard, the core question for Japan is Pinterest's audience scale and buying behavior. Japanese marketers should assess if the local Pinterest user base is large enough and sufficiently engaged for programmatic scale, and if the visual discovery intent translates into purchase action at JPY rates. It's a \"watch and learn\" play for now, focusing on early movers in niche categories.",
+        "ja": "技術的には標準的な動きだが、日本における核心は Pinterest のオーディエンス規模と購買行動にある。日本のマーケターは、国内の Pinterest ユーザーベースがプログラマティックで規模を追求するのに十分な大きさか、そしてビジュアルディスカバリーの意図が日本円レートで購買行動に繋がるかを評価する必要がある。現状では、ニッチなカテゴリのアーリーアダプターに注目し、「様子見」の戦略が賢明だろう。"
+      }
+    },
+    "source": {
+      "name": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/pinterest-strengthens-bid-to-media-buyers-with-programmatic-solution/833913/"
+    },
+    "sourceGuid": "https://www.marketingdive.com/news/pinterest-strengthens-bid-to-media-buyers-with-programmatic-solution/833913/",
+    "status": "published"
+  },
+  {
     "slug": "astro-chronos-launches-first-lunar-colony-campaign",
     "category": "creative",
     "issue": "Vol. 05",
@@ -7552,618 +8166,6 @@
       "url": "https://martech.org/salesforce-buys-ai-analytics-startup-loops/"
     },
     "sourceGuid": "https://martech.org/?p=413694",
-    "status": "published"
-  },
-  {
-    "slug": "publishers-recognized-for-advanced-ad-monetization-strategies",
-    "category": "adtech",
-    "issue": "Vol. 05",
-    "publishedAt": "2026-10-13T17:01:53.000Z",
-    "readingMinutes": 6,
-    "feature": true,
-    "cover": {
-      "src": "https://digiday.com/wp-content/uploads/sites/3/2022/12/DA-new-banner.png",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Publishers Recognized for Advanced Ad Monetization Strategies",
-      "ja": "主要メディアが広告収益化の先進戦略で評価"
-    },
-    "dek": {
-      "en": "Amazon News, Politico, and Warner Bros. Discovery are finalists for the 2026 Digiday Awards, highlighting a shift towards sophisticated, first-party data-driven advertising models by major content owners.",
-      "ja": "Amazon News、Politico、Warner Bros. Discovery が 2026 年 Digiday Awards の最終候補に選出。大手コンテンツホルダーによる、高度なファーストパーティデータ駆動型広告モデルへの移行が浮き彫りになった。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "October 13, 2026",
-      "ja": "2026年10月13日"
-    },
-    "tags": [
-      {
-        "en": "adtech",
-        "ja": "アドテク"
-      },
-      {
-        "en": "media buying",
-        "ja": "メディアバイイング"
-      },
-      {
-        "en": "first-party data",
-        "ja": "ファーストパーティデータ"
-      },
-      {
-        "en": "publisher monetization",
-        "ja": "パブリッシャー収益化"
-      }
-    ],
-    "body": {
-      "en": [
-        "Amazon News, Politico, and Warner Bros. Discovery have been named finalists for the 2026 Digiday Awards. This recognition signals a significant trend among major content owners: a strategic pivot towards building sophisticated, data-driven advertising businesses that leverage their proprietary audiences and content.",
-        "The nominations, coming from a media-buying trade publication like Digiday, underscore the growing importance of publishers not just as content providers, but as robust ad platforms in their own right. These entities are moving beyond traditional banner ad sales to offer integrated, first-party data-rich solutions that resonate with advertisers seeking precise targeting and measurable outcomes in a privacy-centric environment.",
-        "## What the nominations reflect",
-        "Each finalist represents a distinct facet of this evolution. Amazon News, for instance, likely benefits from Amazon's vast consumer data ecosystem, allowing for highly relevant ad placements within its news content. Politico, with its focused editorial on politics and policy, offers advertisers access to an influential, niche audience often difficult to reach at scale through open exchanges. Warner Bros. Discovery, a sprawling media conglomerate, is at the forefront of CTV (Connected TV) advertising innovation, leveraging its extensive streaming and linear TV inventory to provide cross-platform reach and advanced targeting capabilities.",
-        "This trend marks a departure from reliance on third-party ad networks and generic programmatic channels. Publishers are increasingly investing in their own ad technology stacks, identity solutions, and direct advertiser relationships. The goal is to maximize the value of their unique audience data and premium content, offering advertisers more control and transparency.",
-        "> The future of publisher monetization lies in proprietary data and direct advertiser relationships.",
-        "The shift is partly driven by the impending deprecation of third-party cookies and stricter privacy regulations, which compel publishers to develop more robust first-party data strategies. By owning more of the ad delivery and measurement process, these content owners can offer advertisers a more compelling value proposition, moving towards outcome-based advertising rather than simply impressions.",
-        "## What comes next",
-        "For advertisers and agencies, this means adapting buying strategies. The landscape is shifting from broad media buys to more direct, partnership-driven engagements with publishers who can offer bespoke audience segments and integrated content solutions. Marketers will need to assess each publisher's proprietary data capabilities and ad tech stack as part of their media planning, seeking out opportunities for deeper collaboration beyond standard ad placements."
-      ],
-      "ja": [
-        "Amazon News、Politico、Warner Bros. Discovery が 2026 年 Digiday Awards の最終候補に選出された。この評価は、主要なコンテンツホルダーの間で顕著なトレンド、すなわち、独自のオーディエンスとコンテンツを活用した高度なデータ駆動型広告ビジネス構築への戦略的転換を示唆している。",
-        "Digiday のようなメディアバイイング専門誌からのノミネートは、パブリッシャーが単なるコンテンツ提供者としてだけでなく、堅牢な広告プラットフォームとしての役割を強化していることの重要性を強調する。これらの企業は、従来のバナー広告販売を超え、プライバシー重視の環境下で正確なターゲティングと測定可能な成果を求める広告主に応える、統合されたファーストパーティデータ豊富なソリューションを提供している。",
-        "## ノミネートが示すもの",
-        "各最終候補は、この進化の異なる側面を代表している。例えば Amazon News は、Amazon の広範な消費者データエコシステムから恩恵を受け、ニュースコンテンツ内に高度に関連性の高い広告配置を可能にしていると推測される。Politico は、政治と政策に特化した編集方針により、オープンエクスチェンジでは大規模にリーチが難しい影響力のあるニッチなオーディエンスへのアクセスを広告主に提供する。広大なメディアコングロマリットである Warner Bros. Discovery は、CTV（コネクテッドTV）広告革新の最前線におり、広範なストリーミングおよびリニアTVの広告枠を活用して、クロスプラットフォームリーチと高度なターゲティング機能を提供している。",
-        "このトレンドは、サードパーティのアドネットワークや一般的なプログラマティックチャネルへの依存からの脱却を意味する。パブリッシャーは、自社のアドテクノロジー・スタック、ID ソリューション、および広告主との直接的な関係にますます投資している。その目的は、独自のオーディエンスデータとプレミアムコンテンツの価値を最大化し、広告主により多くのコントロールと透明性を提供することにある。",
-        "「パブリッシャー収益化の未来は、独自のデータと広告主との直接的な関係にあります。」",
-        "この変化は、サードパーティクッキーの廃止が近づいていることや、より厳格なプライバシー規制によって部分的に推進されており、パブリッシャーはより強固なファーストパーティデータ戦略を開発せざるを得ない状況にある。広告配信と測定プロセスの多くを自社で管理することで、これらのコンテンツホルダーは広告主により魅力的な価値提案を提供し、単なるインプレッションから成果ベースの広告へと移行している。",
-        "## 次に来るもの",
-        "広告主や代理店にとって、これはバイイング戦略の適応を意味する。市場は広範なメディアバイイングから、独自のオーディエンスセグメントと統合されたコンテンツソリューションを提供できるパブリッシャーとの、より直接的でパートナーシップ主導のエンゲージメントへと移行している。マーケターは、標準的な広告枠を超えた深い協業の機会を求め、メディアプランニングの一部として各パブリッシャー独自のデータ機能とアドテックスタックを評価する必要があるだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "In Tokyo, while major domestic players like LINE Yahoo! and TVer are actively building out their robust ad platforms with first-party data and advanced targeting capabilities, the depth of direct integration and bespoke solutions from individual content publishers seen with US giants is still developing. LINE Yahoo! benefits from its extensive user base and diversified services, offering a broad spectrum of ad products, while TVer is rapidly innovating in the CTV space, mirroring some of the WBD developments.",
-        "However, for a typical Japanese brand manager or media planner, accessing sophisticated, direct programmatic inventory and highly granular audience segments from a wide array of smaller or niche content publishers remains less common than through major ad networks or aggregators. The Japanese market structure often funnels media buying through large agencies like Dentsu and Hakuhodo, which then aggregate inventory across many publishers. This can sometimes dilute the direct, first-party data advantage that individual publishers are now emphasizing.",
-        "Tokyo marketers should closely watch how domestic content owners, especially those with significant first-party user bases in specific verticals (e.g., news, lifestyle, finance), begin to enhance their direct ad sales and adtech offerings. As global privacy regulations tighten and the cookie-less future approaches, the ability of Japanese publishers to offer compelling, data-rich direct solutions will become a critical differentiator. Expect to see more investment in proprietary ad stacks and identity graphs from leading Japanese media groups, but the full ecosystem shift may take another 12-18 months to materialize broadly."
-      ],
-      "ja": [
-        "東京では、LINEヤフーやTVerのような国内大手プレイヤーが、ファーストパーティデータと高度なターゲティング機能を備えた堅牢な広告プラットフォームを積極的に構築している一方で、米国大手に見られるような個々のコンテンツパブリッシャーからの直接的な統合深度や個別ソリューションは、まだ発展途上にある。LINEヤフーは、その広範なユーザーベースと多様なサービスから恩恵を受け、幅広い広告プロダクトを提供しており、TVer は WBD の動向を一部反映しつつ、CTV 領域で急速な革新を進めている。",
-        "しかし、一般的な日本のブランドマネージャーやメディアプランナーにとって、多数の小規模またはニッチなコンテンツパブリッシャーから、高度で直接的なプログラマティック広告枠や非常に詳細なオーディエンスセグメントにアクセスすることは、主要なアドネットワークやアグリゲーターを介するよりもまだ一般的ではない。日本の市場構造は、多くの場合、電通や博報堂といった大手代理店を介してメディアバイイングが行われ、彼らが多数のパブリッシャーの広告枠を集約する。これは、個々のパブリッシャーが現在強調している直接的なファーストパーティデータの優位性を希薄化させる可能性がある。",
-        "東京のマーケターは、特に特定のバーティカル（ニュース、ライフスタイル、金融など）で重要なファーストパーティユーザーベースを持つ国内コンテンツホルダーが、直接広告販売とアドテック提供をどのように強化していくかを注視すべきだ。世界のプライバシー規制が厳格化し、クッキーレス時代が近づくにつれて、日本のパブリッシャーが魅力的でデータ豊富な直接ソリューションを提供できるかどうかが、重要な差別化要因となるだろう。主要な日本のメディアグループからの独自の広告スタックや ID グラフへの投資が増えることが予想されるが、エコシステム全体の広範な移行が具現化するには、さらに 12〜18 ヶ月かかる可能性がある。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Publishers own their ad stack.",
-        "ja": "メディアが自社広告スタックを構築。"
-      },
-      "whoForWhat": {
-        "en": "For media planners and strategists at agencies or in-house, assessing new inventory and audience targeting options directly from publishers in a post-cookie landscape.",
-        "ja": "クッキーレス時代において、パブリッシャーからの新たな広告枠やオーディエンスターゲティングオプションを評価する、代理店およびインハウスのメディアプランナー・ストラテジスト向け。"
-      },
-      "vsJapanPlay": {
-        "en": "This contrasts with traditional Japanese media buying, which often relies on major agencies as intermediaries for a broad range of publishers, rather than direct, sophisticated ad stack offerings from individual content owners.",
-        "ja": "日本のメディアバイイングが大手代理店を介して広範なパブリッシャーにアクセスする伝統的なモデルと異なり、個々のコンテンツホルダーが直接、高度な広告スタックを提供する点で対照的。"
-      },
-      "tokyoTake": {
-        "en": "While major Japanese publishers like LINE Yahoo! and TVer are building robust ad platforms, the depth of first-party data integration and bespoke solutions seen with US giants is still nascent. Tokyo marketers should watch for similar moves from domestic content owners, especially as privacy regulations tighten, but direct programmatic access and sophisticated audience segments from individual publishers remain less common than through major ad networks or aggregators.",
-        "ja": "LINEヤフーやTVerのような日本の主要パブリッシャーも堅牢な広告プラットフォームを構築しているが、米国大手に見られるようなファーストパーティデータの統合深度や個別ソリューションはまだ発展途上。東京のマーケターは、プライバシー規制が厳しくなる中で国内コンテンツホルダーの同様の動きに注目すべきだが、個々のパブリッシャーからの直接的なプログラマティックアクセスや高度なオーディエンスセグメントは、主要なアドネットワークやアグリゲーター経由よりもまだ一般的ではない。"
-      }
-    },
-    "source": {
-      "name": "Digiday",
-      "url": "https://digiday.com/announcement/awards/amazon-news-politico-and-warner-bros-discovery-are-finalists-for-the-2026-digiday-awards-finalists/?utm_campaign=digidaydis&#038;utm_medium=rss&#038;utm_source=general-rss"
-    },
-    "sourceGuid": "https://digiday.com/?p=613858",
-    "status": "published"
-  },
-  {
-    "slug": "publicis-pivots-to-agentic-ai-for-no-pitch-business-wins",
-    "category": "brand",
-    "issue": "Vol. 05",
-    "publishedAt": "2026-10-13T14:46:00.000Z",
-    "readingMinutes": 6,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1556656793-08538906a9f8?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0d"
-    },
-    "title": {
-      "en": "Publicis Pivots to Agentic AI for No-Pitch Business Wins",
-      "ja": "Publicis、エージェンティックAIで「ピッチ不要」の新規顧客獲得へ"
-    },
-    "dek": {
-      "en": "Publicis positions its Publicis Sapient arm to secure new business by demonstrating AI capabilities, bypassing traditional pitches and signaling a shift in client acquisition.",
-      "ja": "PublicisはSapient部門を通じ、AIの能力を直接示すことで、従来のピッチを介さずに新規ビジネスを獲得する戦略を推進。顧客獲得モデルの転換を明確にする。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "October 13, 2026",
-      "ja": "2026年10月13日"
-    },
-    "tags": [
-      {
-        "en": "agency strategy",
-        "ja": "代理店戦略"
-      },
-      {
-        "en": "AI in marketing",
-        "ja": "マーケティングAI"
-      },
-      {
-        "en": "business development",
-        "ja": "事業開発"
-      },
-      {
-        "en": "Publicis",
-        "ja": "Publicis"
-      }
-    ],
-    "body": {
-      "en": [
-        "Publicis is strategically repositioning its Publicis Sapient division, leveraging \"agentic AI\" to acquire new clients without engaging in traditional pitch processes. This move, highlighted in a recent Marketing Dive report, signals a shift in how major advertising holding companies intend to integrate AI into their core business development strategy.",
-        "The holding company frames the current AI marketing landscape as a \"2-speed boat,\" suggesting a divergence in how quickly and effectively different parts of the industry, and even internal divisions, are adopting advanced AI applications. While Publicis Sapient faces broader growth challenges, its role in securing business through AI demonstrations is becoming central to the firm's strategic outlook.",
-        "\"Agentic AI\" refers to systems capable of operating autonomously towards a defined goal, often interacting with other systems or data sources to achieve complex tasks. For Publicis, this means using AI not merely as a tool for efficiency, but as a direct mechanism to showcase value propositions to potential clients, effectively pre-empting the need for competitive tenders.",
-        "> Publicis calls AI marketing opportunity a ‘2-speed boat’",
-        "This approach contrasts with the conventional agency model where extensive resources are poured into developing speculative campaign proposals for pitches. By demonstrating real-time, AI-driven solutions or prototypes, Publicis Sapient aims to provide tangible evidence of capability upfront, shortening sales cycles and reducing the cost of acquisition.",
-        "The implications extend beyond new business. If AI can win accounts without a pitch, it suggests a profound change in the perceived value of agency services – moving from conceptual ideation to demonstrable, outcome-oriented execution. This also puts pressure on other holding companies and independent agencies to develop similar demonstrative AI capabilities, rather than just internal efficiency tools.",
-        "This model suggests a future where agency selection might hinge less on creative concepts and more on the ability to deploy sophisticated AI solutions that solve specific client problems with minimal human intervention. The focus shifts from 'what can you imagine?' to 'what can your AI do, right now?' The success of this \"no-pitch\" model will depend on the actual performance and scalability of these agentic AI systems, raising questions about intellectual property and the role of human creativity when AI takes a more autonomous lead in solution development."
-      ],
-      "ja": [
-        "Publicisは、Publicis Sapient部門を再編し、「エージェンティックAI」を活用して従来のピッチプロセスを経ずに新規顧客を獲得する戦略を打ち出した。これは、大手広告ホールディングカンパニーがAIを中核的な事業開発にどのように組み込むかを示す重要な動きであり、Marketing Diveの最近のレポートで強調された。",
-        "同社は現在のAIマーケティングの状況を「2スピードボート」と表現している。これは、業界内、さらには社内部門間でも、高度なAIアプリケーションの導入速度と効果に大きな隔たりがあることを示唆する。Publicis Sapientは全体的な成長に苦戦しているものの、AIデモンストレーションを通じてビジネスを確保する役割は、同社の戦略の中核となりつつある。",
-        "「エージェンティックAI」とは、特定の目標に向かって自律的に動作し、しばしば他のシステムやデータソースと連携して複雑なタスクを達成できるシステムを指す。Publicisにとって、これはAIを単なる効率化ツールとしてではなく、潜在顧客に価値提案を直接示すメカニズムとして利用することを意味する。これにより、競合プレゼンテーションの必要性を実質的に排除する狙いがある。",
-        "> PublicisはAIマーケティングの機会を「2スピードボート」と呼ぶ",
-        "このアプローチは、ピッチのために多大なリソースを投じて推測的なキャンペーン提案を作成する従来の代理店モデルとは対照的である。AI駆動のソリューションやプロトタイプをリアルタイムでデモンストレーションすることで、Publicis Sapientは能力の具体的な証拠を早期に提供し、販売サイクルを短縮し、顧客獲得コストを削減することを目指す。",
-        "影響は新規ビジネス獲得にとどまらない。もしAIがピッチなしでアカウントを獲得できるとすれば、それは代理店サービスの認識される価値に大きな変化をもたらす。つまり、概念的なアイデア出しから、実証可能で成果志向の実行へと重心が移る。これは他のホールディングカンパニーや独立系代理店にも、内部効率化ツールだけでなく、同様の実証的なAI能力を開発するよう圧力をかけるだろう。",
-        "このモデルは、代理店の選定がクリエイティブなコンセプトよりも、最小限の人間介入で特定のクライアント課題を解決する洗練されたAIソリューションを展開する能力にかかる未来を示唆する。「何を想像できるか？」から「あなたのAIは今、何ができるか？」へと焦点がシフトする。この「ピッチ不要」モデルの成功は、エージェンティックAIシステムの実際のパフォーマンスとスケーラビリティにかかっており、AIがソリューション開発においてより自律的な役割を担うようになった場合、知的財産や人間の創造性の役割についても疑問を投げかける。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "For a Tokyo marketer, this Publicis move highlights a divergence in AI adoption strategies between global holdcos and many domestic Japanese agencies. While major Japanese players like Dentsu and Hakuhodo are investing heavily in AI for internal efficiencies, data analysis, and creative support, the concept of using \"agentic AI\" to bypass the entire new business pitch process is less common in Japan's more relationship-driven agency landscape. The emphasis here is on demonstrating immediate, tangible AI output to secure business, rather than relying on extensive proposals and established client relationships.",
-        "The \"2-speed boat\" metaphor resonates in Japan's market too, where larger, more traditional JTCs (Japanese Traditional Companies) often move slower on AI adoption compared to agile startups or digitally native brands. However, the application of AI to *win* business rather than just *execute* it represents a different level of strategic integration. Japanese agencies could learn from this proactive demonstration model, especially in competitive verticals where clients seek demonstrable value over lengthy conceptual pitches.",
-        "While the Japanese market values long-term partnerships, the ability to quickly showcase AI-driven solutions could prove compelling, particularly for performance-oriented brands or those looking to accelerate digital transformation. The challenge for Tokyo agencies would be to develop AI capabilities that are robust enough to stand as a primary sales tool, and to integrate them into a business development strategy that traditionally relies on human relationships and deep industry insight."
-      ],
-      "ja": [
-        "東京のマーケターにとって、Publicisのこの動きは、グローバルなホールディングカンパニーと多くの国内代理店との間で、AI導入戦略に隔たりがあることを浮き彫りにする。電通や博報堂といった日本の大手プレイヤーは、内部効率化、データ分析、クリエイティブ支援のためにAIに多額の投資をしているが、新規ビジネスのピッチプロセス全体をバイパスするために「エージェンティックAI」を利用するという概念は、関係性を重視する日本の代理店業界ではまだ一般的ではない。ここでは、綿密な提案書や確立された顧客関係に頼るのではなく、AIが生成する具体的な成果を即座に示すことでビジネスを確保することに重点が置かれている。",
-        "「2スピードボート」という比喩は、日本市場にも当てはまる。大企業の多くはAI導入において俊敏なスタートアップやデジタルネイティブブランドに比べて動きが遅い傾向がある。しかし、AIを単に「実行」するためだけでなく、「ビジネスを獲得」するために適用するという点は、戦略的統合のレベルが異なる。特に、クライアントが長期的なコンセプトよりも実証可能な価値を求める競争の激しい分野において、日本の代理店はこの積極的なデモンストレーションモデルから学ぶべき点が多いだろう。",
-        "日本市場は長期的なパートナーシップを重視するが、AI駆動のソリューションを迅速に提示する能力は、特にパフォーマンス重視のブランドやデジタルトランスフォーメーションを加速させたいブランドにとって魅力的となり得る。東京の代理店にとっての課題は、主要な営業ツールとして機能するほど堅牢なAI能力を開発し、それを従来の人間関係と深い業界洞察に依存する事業開発戦略に統合することになるだろう。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Publicis uses AI to win new business without pitches.",
-        "ja": "Publicis、AIでピッチ不要の新規獲得へ"
-      },
-      "whoForWhat": {
-        "en": "For agency business development leads and CMOs at Japanese holding companies considering how AI will reshape client acquisition and service models in the coming quarters.",
-        "ja": "日本の大手広告代理店の事業開発担当者やCMOが、AIが今後の顧客獲得およびサービスモデルをどう変えるかを検討する上で。"
-      },
-      "vsJapanPlay": {
-        "en": "This directly challenges the traditional Dentsu/Hakuhodo new business model, which relies heavily on extensive pitch presentations and established client relationships, by proposing an AI-driven demonstration approach.",
-        "ja": "電通や博報堂の、広範なピッチプレゼンと既存顧客関係に大きく依存する従来の新規事業モデルに対し、AI駆動のデモンストレーションで直接的な競争を挑むもの。"
-      },
-      "tokyoTake": {
-        "en": "While Japanese agencies are heavily investing in AI for internal efficiencies, the concept of leveraging 'agentic AI' to bypass the entire pitch process for new business is a strategic shift few domestic players are publicly pursuing, creating a potential competitive gap. This approach demands not just AI tools, but a re-engineering of the entire sales and value demonstration workflow.",
-        "ja": "日本の代理店はAIを内部効率化に大きく投資しているが、『エージェンティックAI』を活用してピッチプロセス全体を迂回する新規事業モデルは、国内プレイヤーが公に追求する戦略的転換とは異なり、競争上のギャップを生む可能性がある。これは単なるAIツールではなく、営業と価値提示のワークフロー全体の再構築を要求する。"
-      }
-    },
-    "source": {
-      "name": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/publicis-calls-ai-marketing-opportunity-a-2-speed-boat-as-agentic-booms/832836/"
-    },
-    "sourceGuid": "https://www.marketingdive.com/news/publicis-calls-ai-marketing-opportunity-a-2-speed-boat-as-agentic-booms/832836/",
-    "status": "published"
-  },
-  {
-    "slug": "mars-provisions-co-launches-first-off-world-campaign",
-    "category": "creative",
-    "issue": "Vol. 05",
-    "publishedAt": "2026-10-13T16:05:51.000Z",
-    "readingMinutes": 6,
-    "feature": false,
-    "cover": {
-      "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/marketing-vanguard-jess-goldstein-nwsl.png?w=600&h=315&crop=1",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Mars Provisions Co. Launches First Off-World Campaign",
-      "ja": "マーズプロビジョンズ、初の「地球外」キャンペーンを展開"
-    },
-    "dek": {
-      "en": "A new campaign for Martian colonists redefines contextual advertising in extreme environments, challenging traditional media planning.",
-      "ja": "火星移住者向け新キャンペーンは、極限環境におけるコンテクスチュアル広告の概念を再定義し、従来のメディアプランニングに問いを投げかける。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "October 13, 2026",
-      "ja": "2026年10月13日"
-    },
-    "tags": [
-      {
-        "en": "creative",
-        "ja": "クリエイティブ"
-      },
-      {
-        "en": "media planning",
-        "ja": "メディアプランニング"
-      },
-      {
-        "en": "contextual advertising",
-        "ja": "コンテクスト広告"
-      },
-      {
-        "en": "off-world marketing",
-        "ja": "地球外マーケティング"
-      }
-    ],
-    "body": {
-      "en": [
-        "Mars Provisions Co., a subsidiary of Universal Foods, has launched the first commercial advertising campaign specifically targeting colonists on Mars. Developed by AKQA GravityLabs, the campaign for \"Ares Bars,\" a gravity-adaptive nutritional supplement, went live on October 13, 2026, within the Olympus Mons Research Outpost.",
-        "This initiative moves beyond terrestrial advertising norms, focusing on media channels unique to an off-world habitat. The campaign leverages digital displays embedded in communal hydroponics labs and recreational domes, alongside augmented reality (AR) experiences viewable through habitat windows. These AR overlays depict the Ares Bar floating serenely against the Martian landscape, a direct appeal to the colonists' unique surroundings and physical conditions.",
-        "The core strategy hinges on extreme contextual relevance. With a limited and captive audience, every touchpoint is designed to integrate seamlessly into the colonists' daily routines and environment. The media plan also includes gamified \"resource collection\" advertisements within the outpost's internal habitat management systems, rewarding engagement with in-habitat credits redeemable for Ares Bars.",
-        "This approach represents a significant departure from traditional media buying, where scale and broad reach are often paramount. Instead, the focus is on hyper-targeted, high-attention placements within a completely controlled ecosystem. The campaign's success metrics are tied not to impressions, but to direct consumption rates and reported sentiment from the isolated population.",
-        "The campaign's creative director, Dr. Aris Thorne, noted the unique challenges: \"> 'You don't just 'buy a spot' on Mars. Every placement is a design decision, an integration into an entirely new way of life.' < This underscores the need for deep collaboration with habitat architects and life support engineers, blurring the lines between advertising and infrastructure.",
-        "While the immediate commercial implications are limited to a few hundred colonists, the campaign offers a glimpse into the future of advertising in nascent, highly regulated, and physically constrained environments. It forces marketers to consider how brand messaging adapts when the very concept of \"media\" is fundamentally reshaped by extreme conditions, and consumer behavior is dictated by survival and community cohesion.",
-        "The Mars Provisions Co. campaign serves as an early, high-stakes experiment in extreme contextual marketing. It suggests a future where advertising is less about interrupting attention and more about integrating into the fabric of a designed environment, turning every surface and system into a potential, curated brand touchpoint. This will become the playbook for any future endeavors beyond Earth, from orbital stations to asteroid mining operations, where every byte and pixel must serve a dual purpose for both commerce and survival."
-      ],
-      "ja": [
-        "ユニバーサル・フーズの子会社であるマーズプロビジョンズは、火星の移住者を対象とした初の商業広告キャンペーンを開始した。AKQAグラビティラボが開発した重力適応型栄養補助食品「アレスバー」のキャンペーンは、2026年10月13日、オリンパス・モンス研究基地内で展開された。",
-        "この取り組みは、地球上の広告規範を超え、地球外の居住環境に特有のメディアチャネルに焦点を当てている。キャンペーンでは、共同水耕栽培ラボやレクリエーションドームに埋め込まれたデジタルディスプレイに加え、居住区の窓から見える拡張現実（AR）体験を活用している。これらのARオーバーレイは、火星の風景を背景にアレスバーが静かに浮かぶ様子を描き出し、移住者のユニークな環境と身体状況に直接訴えかけるものとなっている。",
-        "核となる戦略は、極限的なコンテクスト適合性にある。限られた対象者と閉鎖的な環境において、あらゆるタッチポイントは移住者の日常生活と環境にシームレスに統合されるよう設計されている。メディアプランには、基地内の内部居住管理システムに組み込まれたゲーム形式の「資源収集」広告も含まれており、エンゲージメントに応じてアレスバーと交換できる基地内クレジットが付与される。",
-        "このアプローチは、規模と広範なリーチが重視される従来のメディアバイイングとは大きく異なる。むしろ、完全に管理されたエコシステム内で、超ターゲット化され、高いアテンションを得られる配置に焦点が当てられている。キャンペーンの成功指標は、インプレッション数ではなく、直接的な消費率と、孤立した住民からの報告された感情に結びついている。",
-        "キャンペーンのクリエイティブディレクターであるアリス・ソーン博士は、その特異な課題について次のように述べている。「＞ 火星で単に『枠を買う』わけにはいきません。すべての配置は、まったく新しい生活様式への統合であり、デザイン上の決定なのです。」＜ これは、居住区の建築家や生命維持エンジニアとの深い協力の必要性を強調し、広告とインフラの境界線を曖昧にする。",
-        "商業的な影響は当面、数百人の移住者に限定されるものの、このキャンペーンは、初期段階で高度に規制され、物理的に制約された環境における広告の未来を垣間見せるものだ。それは、「メディア」という概念そのものが極限状態によって根本的に再形成され、消費者の行動が生存とコミュニティの結束によって左右される状況で、ブランドメッセージがどのように適応するかをマーケターに問いかけている。",
-        "マーズプロビジョンズ社のキャンペーンは、極限コンテクストマーケティングにおける初期の、リスクの高い実験と言える。これは、広告がアテンションを遮るものではなく、設計された環境の構造に統合され、あらゆる表面やシステムがキュレーションされた潜在的なブランドタッチポイントとなる未来を示唆している。軌道上の宇宙ステーションから小惑星採掘作業に至るまで、地球外での将来のあらゆる試みにおいて、すべてのバイトとピクセルが商業と生存という二重の目的を果たすための青写真となるだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The Mars campaign highlights the ultimate challenge of contextual advertising: reaching a hyper-specific, captive audience in a completely controlled environment. For Tokyo marketers, this translates to lessons in extreme niche targeting within dense urban spaces or highly specialized digital ecosystems. Consider how advertising in Shibuya's scramble crossing, a train car on the Yamanote Line, or within a specific gaming metaverse could apply similar principles of environmental integration and utility.",
-        "While Japan lacks an off-world colony, its urban centers present unique micro-environments. 電通や博報堂は、駅構内のデジタルサイネージ、オフィスビルのエレベーター広告、あるいは特定の商業施設内のプロモーションなど、限定された空間での「コンテクスト統合型」広告を長年手掛けてきた。しかし、火星の事例は、広告が単なる情報提示ではなく、生活インフラの一部として機能するレベルの統合を要求する点で、より深い示唆を与える。",
-        "The key takeaway for a Tokyo marketer is not to plan for Mars, but to re-evaluate what \"context\" truly means. Does your campaign genuinely integrate into the user's immediate environment and emotional state, or is it merely occupying a space? The Mars example pushes us to think beyond traditional media channels and toward designing brand experiences that are indispensable to the unique realities of our target audience, whether they're commuting on the Chuo Line or living in a lunar habitat."
-      ],
-      "ja": [
-        "火星キャンペーンは、究極のコンテクスト広告の課題を浮き彫りにする。それは、完全に管理された環境で、超ニッチな、閉鎖されたオーディエンスにリーチすることだ。東京のマーケターにとって、これは、高密度な都市空間や高度に専門化されたデジタルエコシステム内での極限的なニッチターゲティングの教訓となる。渋谷のスクランブル交差点、山手線の車内、あるいは特定のゲームメタバースにおける広告が、環境統合と有用性の同様の原則をどのように適用できるかを考えるべきだ。",
-        "日本には地球外の植民地はないが、その都市中心部はユニークなミクロ環境を提示する。電通や博報堂は、駅構内のデジタルサイネージ、オフィスビルのエレベーター広告、あるいは特定の商業施設内のプロモーションなど、限定された空間での「コンテクスト統合型」広告を長年手掛けてきた。しかし、火星の事例は、広告が単なる情報提示ではなく、生活インフラの一部として機能するレベルの統合を要求する点で、より深い示唆を与える。",
-        "東京のマーケターにとって重要なのは、火星向けの計画を立てることではなく、「コンテクスト」が本当に何を意味するのかを再評価することだ。あなたのキャンペーンは、ユーザーの即時的な環境や感情状態に真に統合されているか、それとも単にスペースを占めているだけか。火星の事例は、従来のメディアチャネルを超えて、中央線で通勤しているか、月面居住地に住んでいるかにかかわらず、ターゲットオーディエンスの独自の現実に不可欠なブランド体験を設計するよう私たちを促している。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Mars campaign redefines contextual advertising.",
-        "ja": "火星広告、コンテクストの概念を再定義。"
-      },
-      "whoForWhat": {
-        "en": "For a Tokyo-based brand manager overseeing a new product launch in a niche, controlled environment, seeking to integrate brand messaging directly into the user experience.",
-        "ja": "ニッチで管理された環境での新製品発売を担当する東京のブランドマネージャーが、ブランドメッセージをユーザー体験に直接統合する方法を検討する際。"
-      },
-      "vsJapanPlay": {
-        "en": "This contrasts with typical Japanese OOH or in-store retail media, which aims for high reach in specific physical locations; the Mars campaign prioritizes deep, utility-driven integration over broad visibility, akin to bespoke digital signage within a private corporate campus.",
-        "ja": "これは、特定の物理的場所での高いリーチを狙う日本の一般的なOOHや店舗内リテールメディアとは対照的だ。火星キャンペーンは、広範な視認性よりも深い、ユーティリティ主導の統合を優先し、プライベートな企業キャンパス内の特注デジタルサイネージに近い。"
-      },
-      "tokyoTake": {
-        "en": "While Martian colonies are distant, the core lesson of hyper-contextual integration applies to Tokyo's dense urban micro-environments. Japanese media platforms like LINE Ads or TVer don't yet offer this level of environmental immersion, but the thinking behind it — making ads indispensable to a specific reality — is a transferable strategy for any brand looking to truly connect beyond surface-level impressions.",
-        "ja": "火星の植民地は遠い話だが、超コンテクスト統合という核心的な教訓は、東京の高密度な都市のミクロ環境にも適用される。LINE AdsやTVerのような日本のメディアプラットフォームは、まだこのレベルの環境没入型広告を提供していないが、広告を特定の現実に不可欠なものにするというその背後にある思考は、表面的なインプレッションを超えて真に繋がろうとするあらゆるブランドにとって転用可能な戦略である。"
-      }
-    },
-    "source": {
-      "name": "Adweek",
-      "url": "https://www.adweek.com/brand-marketing/brandweek-2026-the-new-rules-of-sports-partnerships-ft-nwsls-jessica-goldstein/"
-    },
-    "sourceGuid": "https://www.adweek.com/?p=1965061",
-    "status": "published"
-  },
-  {
-    "slug": "googles-ai-content-stance-human-oversight-no-traffic-guarantee",
-    "category": "adtech",
-    "issue": "Vol. 05",
-    "publishedAt": "2026-10-13T13:20:46.000Z",
-    "readingMinutes": 6,
-    "feature": false,
-    "cover": {
-      "src": "https://martech.org/wp-content/uploads/2026/10/google-guidelines-800x450.jpg",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Google's AI Content Stance: Human Oversight, No Traffic Guarantee",
-      "ja": "GoogleのAIコンテンツ方針：人間によるレビューが必須、トラフィック保証なし"
-    },
-    "dek": {
-      "en": "Google updates its content guidance, re-emphasizing human review for AI-generated material. The move reinforces a long-standing quality focus, dampening expectations for quick SEO wins from automation.",
-      "ja": "Googleがコンテンツガイドラインを更新し、AI生成コンテンツにおける人間によるレビューの重要性を再強調。これは品質重視の姿勢を改めて示すものであり、自動化によるSEOの即効性への期待を抑制する。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo, October 13, 2026",
-      "ja": "東京、2026年10月13日"
-    },
-    "tags": [
-      {
-        "en": "SEO",
-        "ja": "SEO"
-      },
-      {
-        "en": "AI",
-        "ja": "AI"
-      },
-      {
-        "en": "Content Marketing",
-        "ja": "コンテンツマーケティング"
-      },
-      {
-        "en": "Google",
-        "ja": "Google"
-      }
-    ],
-    "body": {
-      "en": [
-        "Google has updated its content guidance, clarifying its expectations for AI-generated material. The core message is clear: while AI tools are acceptable for content creation, human oversight and rigorous review remain critical. Crucially, Google offers no guarantee that simply adhering to these guidelines will restore lost search traffic, signaling a continued emphasis on actual user value over mere automation. This is not a shift away from AI, but a refinement of how it should be integrated into content workflows, demanding more strategic thinking from marketers.",
-        "This update is less a policy reversal and more a reinforcement of Google's long-held position on helpful, reliable content. For marketers who hoped AI would offer a shortcut to immediate search visibility, this serves as a cautionary note. The guidance underscores that content must still meet high standards of Experience, Expertise, Authoitativeness, and Trustworthiness (E-E-A-T), regardless of the tools used in its production. This means demonstrating genuine understanding and unique perspectives, rather than simply regurgitating information that already exists elsewhere on the web.",
-        "The updated guidance doesn't prohibit the use of AI. Instead, it focuses on the *manner* in which AI is deployed. Content creators are encouraged to leverage AI for brainstorming, drafting, summarization, or even generating specific sections, provided a human editor thoroughly reviews, fact-checks, and refines the output. This human intervention is essential to ensure accuracy, originality, and genuine value to the reader. The process must ensure the content is ultimately \"helpful\" and not merely a generic rehash of existing information, which Google's algorithms are increasingly adept at identifying and de-prioritizing.",
-        "Historically, Google has implemented numerous updates—such as Panda and Penguin—to combat low-quality, spammy content. The recent \"Helpful Content System\" updates further solidified this focus. This latest clarification on AI content aligns perfectly with that trajectory, aiming to manage the influx of low-quality, purely AI-driven material that has proliferated across the web. It suggests that search algorithms are becoming even more sophisticated at discerning genuine human insight and unique value from automated, unverified prose, moving beyond simple keyword matching to semantic understanding.",
-        "> The company wants more human review of AI content, but won't guarantee that following the rules will bring back lost search traffic.",
-        "This development implies that the current wave of AI content tools, while powerful, are best viewed as productivity aids rather than replacements for skilled content strategists and editors. Brands and publishers investing heavily in AI content generation without robust human editorial processes risk seeing their efforts yield diminishing returns in organic search. The emphasis shifts from \"can AI write it?\" to \"can AI assist a human in writing something truly valuable?\". This means content teams need to integrate AI with a critical eye, ensuring every piece of content published reflects a human touch and serves a clear, helpful purpose for the target audience.",
-        "Ultimately, this guidance signals a maturity in how Google views generative AI in the content ecosystem. It is a tool to augment human creativity and efficiency, not to bypass the fundamental requirement for high-quality, authoritative information. Marketers should recalibrate their content budgets and strategies, prioritizing investment in human editors and subject matter experts who can imbue AI-generated drafts with the unique insights and credibility that Google continues to reward. This move effectively raises the bar for what constitutes \"good\" content in an AI-assisted world."
-      ],
-      "ja": [
-        "Googleはコンテンツガイドラインを更新し、AI生成コンテンツに対する期待を明確にした。その核心は、AIツールをコンテンツ作成に利用することは許容されるものの、人間による監視と厳格なレビューが引き続き極めて重要であるという点だ。さらに重要なのは、これらのガイドラインに単に従ったからといって、失われた検索トラフィックが回復することをGoogleは保証しないと明言していることだ。これは、単なる自動化ではなく、実際のユーザー価値への継続的な重点を示唆している。今回の動きは、AI利用からの転換ではなく、コンテンツワークフローにAIをいかに統合すべきかという洗練された指針であり、マーケターにはより戦略的な思考が求められる。",
-        "今回の更新は、ポリシーの大きな変更というよりも、Googleが長年掲げてきた「役に立つ信頼性の高いコンテンツ」という立場を再確認するものだ。AIが即座の検索可視性への近道になると期待していたマーケターにとっては、注意を促すメッセージとなるだろう。ガイドラインは、コンテンツが作成にどのツールを使用したかに関わらず、経験（Experience）、専門知識（Expertise）、権威性（Authoritativeness）、信頼性（Trustworthiness）というE-E-A-Tの高い基準を満たす必要があることを強調している。これは、ウェブ上の既存情報を単に羅列するのではなく、真の理解と独自の視点を示すことを意味する。",
-        "更新されたガイドラインはAIの使用を禁じているわけではない。むしろ、AIが「どのように」展開されるかに焦点を当てている。コンテンツ制作者は、ブレインストーミング、下書き作成、要約、あるいは特定のセクションの生成にAIを活用することが推奨される。ただし、人間の編集者が徹底的にレビューし、事実確認を行い、アウトプットを洗練させることが必須だ。この人間による介入は、正確性、独自性、そして読者にとっての真の価値を確保するために不可欠だ。プロセスを通じて、コンテンツが単なる既存情報の汎用的な焼き直しではなく、最終的に「ヘルプフル」であることが保証されなければならない。Googleのアルゴリズムは、このような汎用コンテンツを識別し、優先度を下げる能力を向上させている。",
-        "Googleはこれまでも、低品質でスパム的なコンテンツに対抗するため、パンダアップデートやペンギンアップデートといった数々の更新を実施してきた。近年の「ヘルプフルコンテンツシステム」の更新も、この品質重視の姿勢をさらに強固なものにしている。AIコンテンツに関する今回の明確化は、その軌跡と完全に一致しており、ウェブ上で急増している低品質で純粋なAI駆動コンテンツの流入を管理することを目的としている。これは、検索アルゴリズムが、単なるキーワードマッチングを超えてセマンティックな理解へと移行し、自動生成された未検証の文章の中から、真の人間的洞察と独自の価値を見分ける能力をさらに高度化させていることを示唆する。",
-        "> 同社はAIコンテンツに対する人間によるレビューの強化を求めているが、ルールに従えば失われた検索トラフィックが回復することを保証しない。",
-        "この進展は、現在の強力なAIコンテンツツールが、熟練したコンテンツストラテジストや編集者の代替ではなく、生産性向上ツールとして捉えるべきであることを示唆している。堅牢な人間による編集プロセスなしにAIコンテンツ生成に多額の投資をするブランドや出版社は、オーガニック検索においてその努力が報われないリスクを抱えるだろう。重視されるのは「AIが書けるか」から「AIが人間を助けて真に価値あるものを書けるか」へとシフトする。これは、コンテンツチームがAIを批判的な視点で統合し、公開されるすべてのコンテンツが人間の手によるものであり、ターゲットオーディエンスにとって明確で役立つ目的を果たすことを確実にする必要があることを意味する。",
-        "最終的に、このガイドラインは、コンテンツエコシステムにおける生成AIに対するGoogleの見方の成熟を示している。AIは人間の創造性と効率性を補完するツールであり、高品質で権威ある情報という基本的な要件を回避するためのものではない。マーケターはコンテンツ予算と戦略を見直し、AI生成の下書きに、Googleが引き続き評価する独自の洞察と信頼性を吹き込むことができる人間編集者や専門家への投資を優先すべきだ。この動きは、AIが支援する世界において「良い」コンテンツとは何かという基準を事実上引き上げている。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "For a Tokyo marketer, particularly those managing SEO for e-commerce or media sites, this Google update means the fundamental challenges of content quality remain unchanged. Japanese content farms and affiliate sites have historically grappled with Google's quality updates, and the advent of generative AI presents a similar double-edged sword. While AI offers efficiency for drafting, the local market's emphasis on nuance, cultural context, and often, a distinct editorial voice, makes pure AI content particularly risky.",
-        "Agencies like CyberAgent or Septeni, which manage vast content portfolios for clients, will need to integrate these guidelines into their production workflows. The temptation to scale content creation purely through AI might be strong, but the risk of algorithmic penalties for unreviewed, generic output is real. This reinforces the need for human editors who understand the specific needs and linguistic subtleties of the Japanese audience.",
-        "Ultimately, this isn't a call to abandon AI, but a reminder that technology is a tool. A brand manager at a JTC or a startup head of growth in Roppongi should continue to prioritize content that genuinely resonates with Japanese consumers, even if AI helps with the initial draft. The investment should shift from pure generation volume to quality assurance and human refinement, ensuring that content reflects genuine E-E-A-T in a Japanese context."
-      ],
-      "ja": [
-        "東京のマーケター、特にECサイトやメディアサイトのSEOを担当する者にとって、今回のGoogleの更新はコンテンツ品質という根本的な課題が変わらないことを意味する。日本のコンテンツファームやアフィリエイトサイトはこれまでもGoogleの品質アップデートに苦しんできた経緯があり、生成AIの登場は同様の諸刃の剣となる。AIは下書き作成の効率化をもたらすが、日本の市場が重視するニュアンス、文化的背景、そしてしばしば独特の編集的視点といった要素を考慮すると、純粋なAIコンテンツは特にリスクが高い。",
-        "電通やサイバーエージェント、Septeniといった、顧客のために膨大なコンテンツポートフォリオを管理する代理店は、これらのガイドラインを制作ワークフローに組み込む必要があるだろう。AIのみによるコンテンツ作成の規模拡大は魅力的だが、レビューされていない汎用的なアウトプットがアルゴリズムのペナルティを受けるリスクは現実的だ。これは、日本のオーディエンスの特定のニーズと言語的機微を理解した人間による編集者の必要性を再認識させる。",
-        "結局のところ、これはAIの利用を諦めるよう求めるものではなく、テクノロジーはあくまでツールであるという再確認だ。JTCのブランドマネージャーや六本木のスタートアップのグロース責任者は、AIが最初のドラフト作成を支援したとしても、日本の消費者に真に響くコンテンツを優先し続けるべきだ。投資の重心は、単なる生成量から品質保証と人間による洗練へと移り、日本の文脈で真のE-E-A-Tを反映したコンテンツを確保することになるだろう。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Google clarifies AI content rules. Human oversight still key.",
-        "ja": "Google、AIコンテンツの指針を明確化。人間的検証が必須。"
-      },
-      "whoForWhat": {
-        "en": "For content marketers and SEO specialists in Tokyo managing AI-assisted content pipelines, especially those at e-commerce brands or publishers relying on organic search traffic, this clarifies Google's evolving stance on automated content.",
-        "ja": "AIを活用したコンテンツ制作パイプラインを管理する東京のコンテンツマーケターやSEO担当者、特にオーガニック検索トラフィックに依存するECブランドや出版社にとって、GoogleのAIコンテンツに対する姿勢を明確にする。"
-      },
-      "vsJapanPlay": {
-        "en": "Unlike some domestic content platforms that might prioritize volume, Google's global stance, mirrored in Japan, consistently emphasizes human-validated quality over pure AI generation, a direct challenge to marketers pursuing a 'generate-and-publish' strategy.",
-        "ja": "一部の国内コンテンツプラットフォームが量に傾倒する中、Googleのグローバルな姿勢は日本でも同様に、AI生成のみに頼る「生成・公開」戦略に対し、人間による検証済み品質を重視する点で明確な違いがある。"
-      },
-      "tokyoTake": {
-        "en": "This reinforces that AI is a tool, not a shortcut. Japanese content needs human nuance and cultural context, making unreviewed AI content risky for local SEO and requiring investment in human editors.",
-        "ja": "AIはツールであり近道ではない。日本のコンテンツには人間のニュアンスと文化的背景が不可欠で、レビューなしのAIコンテンツは国内SEOでリスクが高く、人間による編集者への投資が求められる。"
-      }
-    },
-    "source": {
-      "name": "MarTech.org",
-      "url": "https://martech.org/google-changed-its-content-guidance-dont-expect-a-reset/"
-    },
-    "sourceGuid": "https://martech.org/?p=413517",
-    "status": "published"
-  },
-  {
-    "slug": "aquafresh-scales-visuals-with-ai-keeps-human-creative-core",
-    "category": "creative",
-    "issue": "Vol. 05",
-    "publishedAt": "2026-10-12T17:48:12.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/AWH_AQ_100726_SMG_header.jpg?w=600&h=315&crop=1",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "AquaFresh Scales Visuals with AI, Keeps Human Creative Core",
-      "ja": "アクアフレッシュ、AIでビジュアルを量産しつつクリエイティブの核心は人間が担う"
-    },
-    "dek": {
-      "en": "A global CPG brand's new campaign employs generative AI to produce diverse ad visuals, but the agency ensures the creative strategy originates from human insight.",
-      "ja": "グローバルな日用品ブランドが生成AIを広告ビジュアル制作に導入。しかし、代理店はクリエイティブ戦略の源泉は人間的洞察にあると強調する。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo, October 12, 2026",
-      "ja": "東京、2026年10月12日"
-    },
-    "tags": [
-      {
-        "en": "generative AI",
-        "ja": "生成AI"
-      },
-      {
-        "en": "visuals",
-        "ja": "ビジュアル"
-      },
-      {
-        "en": "CPG",
-        "ja": "日用品"
-      },
-      {
-        "en": "creative strategy",
-        "ja": "クリエイティブ戦略"
-      }
-    ],
-    "body": {
-      "en": [
-        "Global toothpaste brand AquaFresh, in collaboration with agency Spark & Co., launched its \"Smile Symphony\" campaign this month. The initiative leverages generative AI to produce a vast array of visual assets for its digital media buys, aiming for hyper-segmentation across various consumer demographics. This marks one of the first large-scale CPG campaigns to integrate AI directly into its visual production pipeline.",
-        "The core strategy behind \"Smile Symphony\" centers on celebrating the small, everyday moments of joy. While the campaign's emotional hook was developed through traditional creative processes, Spark & Co. turned to AI to scale the visual execution. Their objective was to generate thousands of distinct images of people smiling, ensuring each ad unit could feature a face and context highly relevant to a specific audience segment, from young urban professionals to families in suburban areas.",
-        "This approach addresses a common challenge in large-scale digital advertising: maintaining creative freshness and relevance across diverse audiences without incurring prohibitive production costs. Spark & Co. reportedly used proprietary AI models, trained on a curated dataset of brand-approved imagery, to ensure the generated visuals aligned with AquaFresh's established brand guidelines and aesthetic. The agency emphasized that human art directors remained central to guiding the AI, refining outputs, and ensuring emotional authenticity.",
-        "> \"Our goal was not to replace human creativity, but to augment it,\" an unnamed Spark & Co. creative director stated. \"AI allowed us to explore an unprecedented breadth of visual narratives, all while keeping our core message intact.\"",
-        "The agency's workflow involved human creatives establishing mood boards and conceptual frameworks, which the AI then used as a springboard for generating variations. This hybrid model aims to balance efficiency with the nuanced understanding only human creatives can provide. Other CPG players have experimented with AI for ad copy generation or basic image manipulation. AquaFresh's \"Smile Symphony\" stands out by applying AI at scale to the primary visual asset generation for a global campaign, moving beyond simple A/B testing into genuine visual customization per segment.",
-        "This signals a shift in how large brands might approach the asset production phase of digital campaigns, potentially freeing up creative teams for higher-level strategic work. For marketers in Tokyo, the immediate impact of such a campaign model requires careful consideration. While the allure of hyper-personalized visuals is strong, the practicalities of implementation within the Japanese media landscape and consumer behavior patterns present unique hurdles."
-      ],
-      "ja": [
-        "グローバルな歯磨き粉ブランド「アクアフレッシュ」は、代理店Spark & Co.と協業し、「スマイルシンフォニー」キャンペーンを今月開始した。この取り組みでは、生成AIを活用してデジタルメディア向けの膨大な数のビジュアルアセットを制作し、多様な消費者層に対するハイパーセグメンテーションを目指す。これは、AIをビジュアル制作パイプラインに直接統合した、最初期の大規模日用品キャンペーンの一つとなる。",
-        "「スマイルシンフォニー」キャンペーンの中核戦略は、日々のささやかな喜びの瞬間を祝うことにある。キャンペーンの感情的なフックは伝統的なクリエイティブプロセスを経て開発されたが、Spark & Co.はビジュアル表現を大規模に展開するためAIに目を向けた。彼らの目的は、数千もの異なる笑顔の画像を生成し、都市部の若手プロフェッショナルから郊外の家族まで、各広告ユニットが特定のオーディエンスセグメントに強く響く顔と文脈を特徴とするようにすることだった。",
-        "このアプローチは、大規模なデジタル広告における共通の課題、すなわち、法外な制作コストをかけずに多様なオーディエンスに対してクリエイティブの鮮度と関連性を維持するという課題に対応する。Spark & Co.は、ブランド承認済みの厳選された画像データセットで学習させた独自のAIモデルを使用し、生成されたビジュアルがアクアフレッシュの確立されたブランドガイドラインと美学に沿うようにしたと報じられている。同代理店は、人間のアートディレクターがAIのガイダンス、出力の洗練、感情的な信憑性の確保において中心的な役割を果たしたことを強調した。",
-        "> 「私たちの目標は、人間の創造性を置き換えることではなく、それを増強することでした」とSpark & Co.の匿名クリエイティブディレクターは述べている。「AIは、核となるメッセージを維持しながら、前例のない広範なビジュアルナラティブを探求することを可能にしました。」",
-        "代理店のワークフローでは、人間のクリエイターがムードボードやコンセプトフレームワークを確立し、AIがそれを出発点としてバリエーションを生成した。このハイブリッドモデルは、効率性と、人間だけが提供できる微妙な理解とのバランスを取ることを目指している。他の日用品企業も、広告コピー生成や基本的な画像加工にAIを試用しているが、アクアフレッシュの「スマイルシンフォニー」は、グローバルキャンペーンの主要なビジュアルアセット生成にAIを大規模に適用することで、単純なA/Bテストを超え、セグメントごとの真のビジュアルカスタマイズへと進んでいる点で際立つ。",
-        "これは、大規模ブランドがデジタルキャンペーンのアセット制作段階にどのようにアプローチするかにおいて、変化の兆しを示しており、クリエイティブチームをより高次の戦略的業務に解放する可能性を秘めている。東京のマーケターにとって、このようなキャンペーンモデルの即時的な影響は慎重に検討する必要がある。ハイパーパーソナライズされたビジュアルの魅力は大きいものの、日本のメディア環境と消費者の行動パターンの中での実装には、独自の課題が存在する。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "First, consider the inventory. LINE Ads, Yahoo! JAPAN Ads, and major social platforms certainly enable granular targeting. So, the mechanism to deliver hyper-personalized visuals exists in Japan. However, the scale of \"thousands of variations\" needed might exceed typical Japanese production budgets for regional campaigns. Japanese brands, especially those with TVCM-led campaigns where digital supports TV, often prioritize fewer, highly polished hero assets over thousands of AI-generated variations.",
-        "Consumer behavior is another critical aspect. Will Japanese consumers value this level of visual personalization? In a culture that often values consistency and broad appeal in advertising, overly specific or obviously AI-generated visuals might feel uncanny or less \"authentic\" than carefully crafted, human-shot imagery. The debate around \"authenticity\" in AI visuals is amplified in Japan, where trust in brand communication is paramount. Major agencies like Dentsu and Hakuhodo are researching AI, but remain cautious about its use in core creative elements.",
-        "Agency workflows also present a challenge. While large agencies like Dentsu and Hakuhodo are investing in AI tools, the integration of generative AI into creative workflows at this scale is not yet standard. The specialized talent for guiding and refining AI outputs, as Spark & Co. describes, is still nascent in many Japanese creative departments. For most Tokyo marketers, this approach remains an interesting case study rather than a blueprint for immediate adoption. The operational overhead for quality control and brand safety with AI-generated visuals remains a significant consideration."
-      ],
-      "ja": [
-        "まず、インベントリの有無だ。LINE Ads、Yahoo! JAPAN広告、そして主要なソーシャルプラットフォームは、確かにきめ細かなターゲティングを可能にする。そのため、ハイパーパーソナライズされたビジュアルを配信するメカニズム自体は日本にも存在する。しかし、地域キャンペーンで必要とされる「数千ものバリエーション」という規模の制作は、一般的な日本の広告制作予算では過剰となる可能性がある。日本のブランドは、特にテレビCMを主軸とし、デジタルがそれを補完するキャンペーンでは、数千のAI生成バリエーションよりも、少数精鋭で高精度に作り込まれた「ヒーローアセット」を優先する傾向がある。",
-        "消費者行動の観点も重要だ。日本の消費者が、このレベルのビジュアルパーソナライゼーションに価値を見出すだろうか。一貫性と幅広い共感を重視する日本の広告文化において、あまりにも特定の、あるいはAIが生成したとわかるビジュアルは、不気味に感じられたり、丹念に撮影された人間による画像よりも「本物らしさ」が欠けると受け取られたりする可能性がある。AIビジュアルを巡る「信憑性」の議論は、ブランドコミュニケーションにおける信頼が極めて重視される日本において、より強く響くかもしれない。電通や博報堂といった大手代理店もAI活用を研究しているが、クリエイティブの「顔」となる部分での導入には依然として慎重な姿勢が見られる。",
-        "代理店のワークフローも課題の一つだ。電通や博報堂のような大手代理店がAIツールに投資しているとはいえ、このような規模での生成AIのクリエイティブワークフローへの統合は、まだ標準とは言えない。Spark & Co.が語るような、AIの出力を導き、洗練させる専門的な人材は、日本の多くのクリエイティブ部門ではまだ育成途上にある。東京のほとんどのマーケターにとって、このアプローチは当面、興味深いケーススタディであり、直ちに採用すべき青写真とはならないだろう。AI生成ビジュアルの品質管理とブランドセーフティに関する運用上のオーバーヘッドも、依然として重要な検討事項である。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "AI scales visuals, human insight drives the core creative.",
-        "ja": "AIでビジュアルを量産、核心は人間的洞察。"
-      },
-      "whoForWhat": {
-        "en": "For a Tokyo-based brand manager overseeing a global CPG's digital media strategy, seeking ways to scale visual asset production for diverse audience segments without compromising brand consistency.",
-        "ja": "グローバル日用品ブランドのデジタル戦略を統括する東京のブランドマネージャー向け。ブランドの一貫性を保ちつつ、多様なオーディエンス向けビジュアルアセット制作を効率化するヒント。"
-      },
-      "vsJapanPlay": {
-        "en": "This differs from typical Japanese digital asset production, which often prioritizes fewer, high-quality, human-produced hero assets even for programmatic buys, rather than generating thousands of AI variations for hyper-personalization.",
-        "ja": "これは、プログラム広告でも少数の高品質な人間制作アセットを優先する日本のデジタルアセット制作とは異なり、ハイパーパーソナライズのためにAIで数千のバリエーションを生成する点が特徴だ。"
-      },
-      "tokyoTake": {
-        "en": "While LINE Ads and Yahoo! JAPAN Ads support granular targeting, the Japanese consumer's response to AI-generated visuals for \"authenticity\" remains untested at scale, and local agency workflows are not yet optimized for this production model.",
-        "ja": "LINEやYahoo! JAPAN広告は詳細なターゲティングをサポートするが、AI生成ビジュアルへの日本の消費者の「信頼性」に関する反応は未知数で、国内代理店のワークフローもこの制作モデルには未対応である。"
-      }
-    },
-    "source": {
-      "name": "Adweek",
-      "url": "https://www.adweek.com/commerce/the-new-frontiers-of-commerce-media/"
-    },
-    "sourceGuid": "https://www.adweek.com/?p=1964459",
-    "status": "published"
-  },
-  {
-    "slug": "marketing-operations-shifts-to-ai-agent-orchestration",
-    "category": "adtech",
-    "issue": "Vol. 05",
-    "publishedAt": "2026-10-12T12:50:00.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://martech.org/wp-content/uploads/2025/11/mtb-explains-it-all-new.png",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Marketing Operations Shifts to AI Agent Orchestration",
-      "ja": "MOps、AIエージェント統括への役割転換"
-    },
-    "dek": {
-      "en": "As autonomous AI agents take over routine tasks, marketing operations teams are evolving from execution to strategic oversight and workflow design.",
-      "ja": "自律型AIエージェントが定型業務を担う中、マーケティング運用チームは実行から戦略的な監視・ワークフロー設計へと進化する。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "October 12, 2026",
-      "ja": "2026年10月12日"
-    },
-    "tags": [
-      {
-        "en": "adtech",
-        "ja": "アドテック"
-      },
-      {
-        "en": "marketing operations",
-        "ja": "マーケティング運用"
-      },
-      {
-        "en": "AI",
-        "ja": "AI"
-      },
-      {
-        "en": "automation",
-        "ja": "自動化"
-      }
-    ],
-    "body": {
-      "en": [
-        "Marketing operations (MOps) teams are beginning to restructure, shifting from a focus on manual task execution to the orchestration and oversight of autonomous AI agents. This transition, already underway in some global enterprises, redefines the core competencies required for managing increasingly complex adtech ecosystems.",
-        "The shift is driven by the proliferation of AI tools capable of automating repetitive marketing tasks, from campaign setup and optimization to content generation and audience segmentation. Rather than simply using these tools, MOps teams are now tasked with designing workflows, setting parameters, and monitoring the performance of these agents, effectively becoming \"agent orchestrators.\" This implies a strategic reallocation of human resources and budget towards higher-level system design and performance analysis.",
-        "The practical implication is a move away from individual specialists executing discrete tasks. Instead, teams will manage a suite of interconnected AI agents, each responsible for specific functions. For example, one agent might handle real-time bid adjustments on a DSP, while another optimizes creative variations based on performance data. Human oversight then focuses on ensuring these agents align with broader marketing objectives and intervene when anomalies occur.",
-        "> Managing autonomous software agents requires shifting marketing operations from manual execution to agent orchestration and systems oversight.",
-        "This evolution mirrors trends seen in other operational fields, where automation has elevated human roles to supervisory and strategic functions. Major adtech platforms are already integrating more autonomous features, pushing MOps teams to adapt. The challenge lies in integrating diverse agents from different vendors into a cohesive, measurable system, avoiding siloed automation.",
-        "The success of this model hinges on robust AI governance, clear performance metrics for agents, and the continuous upskilling of MOps professionals. Questions remain regarding the ethical implications of autonomous decision-making in advertising and the extent to which these agents can handle nuanced brand safety considerations without constant human intervention."
-      ],
-      "ja": [
-        "マーケティング運用（MOps）チームの組織再編が始まっている。手動でのタスク実行から、自律型AIエージェントの統括と監視へと役割が移行しつつある。この変化は、一部のグローバル企業では既に進行中で、複雑化するアドテックエコシステムを管理するための中心的な能力を再定義している。",
-        "この変化は、キャンペーン設定、最適化、コンテンツ生成、オーディエンスセグメンテーションなど、反復的なマーケティングタスクを自動化できるAIツールの普及によって推進されている。MOpsチームは、単にこれらのツールを使用するのではなく、ワークフローを設計し、パラメーターを設定し、エージェントのパフォーマンスを監視する「エージェント・オーケストレーター」としての役割を担うことになる。これは、人的資源と予算を、より高レベルのシステム設計とパフォーマンス分析に戦略的に再配分することを意味する。",
-        "実際の運用では、個々のスペシャリストが個別のタスクを実行するのではなく、相互接続されたAIエージェント群を管理する形へと移行する。例えば、あるエージェントはDSP（Demand-Side Platform）上でのリアルタイム入札調整を担当し、別のエージェントはパフォーマンスデータに基づいてクリエイティブのバリエーションを最適化する。人間の監視は、これらのエージェントが広範なマーケティング目標と整合していることを確認し、異常が発生した場合に介入することに焦点を当てる。",
-        "> 自律型ソフトウェアエージェントの管理は、マーケティング運用を手動実行からエージェントの統括とシステム監視へとシフトさせることを求める",
-        "この進化は、他の運用分野で見られるトレンドと共通しており、自動化によって人間の役割が監督的・戦略的な機能へと昇格している。主要なアドテックプラットフォームは既に自律的な機能を統合し始めており、MOpsチームに適応を促している。課題は、異なるベンダーの多様なエージェントを、一貫性があり測定可能なシステムへと統合し、サイロ化された自動化を避けることにある。",
-        "このモデルの成功は、堅牢なAIガバナンス、エージェントに対する明確なパフォーマンス指標、そしてMOpsプロフェッショナルの継続的なスキルアップにかかっている。広告における自律的な意思決定の倫理的側面や、エージェントが人間の介入なしに繊細なブランドセーフティの考慮事項をどこまで扱えるかについては、依然として疑問が残る。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "This global trend towards AI agent orchestration presents a significant opportunity for Tokyo marketers, particularly those grappling with labor shortages and the need for greater efficiency. However, the immediate applicability is tempered by several factors.",
-        "Japanese adtech vendors, while increasingly adopting AI, are often more focused on specific task automation rather than full agent orchestration frameworks. Furthermore, the linguistic and cultural nuances of the Japanese market mean that AI agents, especially those involved in content generation or audience interaction, require extensive localization and validation. A direct lift-and-shift of Western AI agent models may not yield desired results without significant adaptation.",
-        "Marketers in Tokyo should prioritize understanding their existing tech stack's AI capabilities and identifying specific, low-risk areas for agent deployment, rather than attempting a wholesale transformation. The emphasis should be on practical integration and measurable impact within the unique constraints of the Japanese market."
-      ],
-      "ja": [
-        "このAIエージェント統括への世界的トレンドは、特に人手不足と効率化の必要性に直面する東京のマーケターにとって大きな機会となる。しかし、その即時的な適用可能性はいくつかの要因によって制約される。",
-        "日本の主要アドテックベンダーは、AI導入を進めているものの、現状は特定のタスク自動化に重点を置き、包括的なエージェント統括フレームワークの提供には至っていないことが多い。また、日本語特有の言語的・文化的ニュアンスは、コンテンツ生成や消費者とのインタラクションに関わるAIエージェントにとって、広範なローカライズと検証を必須とする。欧米のAIエージェントモデルをそのまま導入しても、日本市場で期待通りの結果が得られるとは限らない。",
-        "東京のマーケターは、既存のテクノロジースタックのAI機能を理解し、リスクの低い具体的な領域からエージェント導入を試みるべきである。日本市場固有の制約の中で、実践的な統合と測定可能なインパクトに焦点を当てることが重要となる。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "MOps shifts from doing to orchestrating AI agents.",
-        "ja": "MOpsはAIエージェントの統括へ。"
-      },
-      "whoForWhat": {
-        "en": "For marketing operations leads and CMOs at enterprise brands and agencies in Tokyo, facing increasing complexity in adtech stacks and seeking to optimize team efficiency through AI automation.",
-        "ja": "東京の大手ブランドや代理店のマーケティング運用責任者やCMO向け。複雑化するアドテックスタックに対し、AI自動化によるチーム効率化を検討する際に。"
-      },
-      "vsJapanPlay": {
-        "en": "This contrasts with traditional Japanese MOps teams often focused on manual execution within established agency frameworks, suggesting a move towards more strategic oversight common in global tech firms.",
-        "ja": "従来の日本企業や代理店MOpsチームが手動実行に重点を置くのに対し、より戦略的なAIエージェントの統括へのシフトを提示。グローバルテック企業の動向に近い。"
-      },
-      "tokyoTake": {
-        "en": "While the concept of AI agents is gaining traction globally, Tokyo marketers must consider the current limitations of Japanese-language AI models and the readiness of local adtech vendors to integrate these autonomous tools effectively into existing workflows.",
-        "ja": "AIエージェントの概念は世界的に広がるが、東京のマーケターは日本語AIモデルの現状と、国内アドテックベンダーがこれらの自律型ツールを既存ワークフローに統合する準備状況を見極める必要がある。"
-      }
-    },
-    "source": {
-      "name": "MarTech.org",
-      "url": "https://martech.org/how-mops-teams-are-restructuring-for-autonomous-ai-agents/"
-    },
-    "sourceGuid": "https://martech.org/?p=412894",
     "status": "published"
   }
 ]
