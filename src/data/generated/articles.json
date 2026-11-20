@@ -1,5 +1,623 @@
 [
   {
+    "slug": "stellar-brew-uses-generative-ai-for-cosmic-coffee-origin-stories",
+    "category": "creative",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-11-19T18:09:52.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0e0f12"
+    },
+    "title": {
+      "en": "Stellar Brew Uses Generative AI for Cosmic Coffee Origin Stories",
+      "ja": "Stellar Brew、生成AIでコーヒーの「宇宙の起源」を語る"
+    },
+    "dek": {
+      "en": "A new campaign blends generative AI with astronomical data to create bespoke origin narratives, projected in planetariums and public spaces, aiming for artisanal feel over mass production.",
+      "ja": "新キャンペーンは生成AIと天文データを融合させ、プラネタリウムや公共空間でコーヒーの個別起源物語を投影。大量生産ではなく、職人技のような体験を目指す。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, November 19, 2026",
+      "ja": "東京、2026年11月19日"
+    },
+    "tags": [
+      {
+        "en": "creative",
+        "ja": "クリエイティブ"
+      },
+      {
+        "en": "AI",
+        "ja": "AI"
+      },
+      {
+        "en": "brand experience",
+        "ja": "ブランド体験"
+      },
+      {
+        "en": "immersive",
+        "ja": "没入型"
+      }
+    ],
+    "body": {
+      "en": [
+        "Premium coffee brand Stellar Brew, in collaboration with agency Cosmic Creatives, recently launched \"Orbital Origins,\" a campaign utilizing generative AI to craft personalized origin stories for its coffee beans. The initiative marks a deliberate effort to elevate AI's role beyond mere content generation, focusing instead on immersive brand experience.",
+        "The core of the campaign involved projecting these unique, AI-generated narratives onto planetarium domes and public screens in major cities. This strategy aimed to merge the scalability of artificial intelligence with the perceived artisanal quality of bespoke storytelling, offering consumers a deeper, more imaginative connection to their coffee's journey from seed to cup.",
+        "## How the model works",
+        "Cosmic Creatives developed a custom AI model, specifically trained on a vast dataset combining astronomical phenomena, cosmic mythology, and detailed coffee lore. Through precise prompt engineering, the system was able to generate distinct visual and narrative sequences for each batch of coffee beans, reflecting its specific terroir and processing methods through a celestial lens. The objective was to ensure that while the output was AI-driven, it felt curated and unique, avoiding the generic aesthetic often associated with early generative AI applications.",
+        "This approach positions the campaign as a counterpoint to many current AI-driven marketing efforts that prioritize efficiency and broad personalization. Instead, \"Orbital Origins\" emphasizes a bespoke craft, challenging the industry to reconsider what constitutes creative authorship and artisanal quality in an age of advanced computational tools. The campaign suggests that AI can serve as a sophisticated creative partner, rather than just a production engine.",
+        "> The goal was not just to generate content, but to curate a cosmic journey for each cup.",
+        "The broader implication of Stellar Brew's work is its potential to set a new benchmark for how premium brands might leverage AI to enrich brand narratives and deliver truly immersive experiences. It underscores a shift towards using AI to deepen emotional connections and elevate brand perception, moving beyond superficial engagement.",
+        "## Off-world implications",
+        "The \"Orbital Origins\" campaign, with its overt celestial theme, hints at a future where brand narratives might extend beyond terrestrial confines. As humanity contemplates the establishment of lunar bases, Martian settlements, or even orbital habitats, brands will face the challenge of connecting with consumers in multi-planetary environments. Experiential marketing, particularly through advanced technologies like generative AI and immersive projections, could become crucial for forging emotional ties in these new frontiers. A coffee's \"origin\" might one day literally be extraterrestrial, demanding new forms of storytelling that resonate with a cosmic human experience."
+      ],
+      "ja": [
+        "プレミアムコーヒーブランド「Stellar Brew」は、エージェンシー「Cosmic Creatives」との協業により、生成AIを活用したキャンペーン「Orbital Origins」を開始した。このキャンペーンは、コーヒー豆の個別化された起源物語を創作するもので、AIの役割を単なるコンテンツ生成から、没入型ブランド体験の創出へと昇華させる意図がある。",
+        "キャンペーンの核は、AIが生成したユニークな物語を、主要都市のプラネタリウムドームや公共スクリーンに投影することだった。この戦略は、AIが持つ拡張性と、手作業のような職人技の物語性を融合させることを目指し、消費者にコーヒーの起源からカップに至るまでの旅路を、より深く想像力豊かに体験させることを狙った。",
+        "## モデルの仕組み",
+        "Cosmic Creativesは、天文現象、宇宙神話、詳細なコーヒーの伝承を組み合わせた膨大なデータセットで特別にトレーニングされたカスタムAIモデルを開発した。精密なプロンプトエンジニアリングを通じて、このシステムは各コーヒー豆のバッチに対し、そのテロワールや加工方法を天体のレンズを通して反映した、独自の視覚的・物語的シーケンスを生成した。AI駆動でありながら、初期の生成AIにありがちな汎用的な美学を避け、キュレーションされたユニークな体験となるよう設計された。",
+        "このアプローチは、効率性や広範なパーソナライゼーションを優先する多くの既存のAIマーケティング施策とは一線を画す。むしろ、「Orbital Origins」は職人技のような手触りを強調し、高度な計算ツールが普及する時代におけるクリエイティブな著作権と職人技の品質とは何かを業界に問いかけている。AIが単なる制作エンジンではなく、洗練されたクリエイティブパートナーとして機能する可能性を示唆するキャンペーンと言える。",
+        "「単にコンテンツを生成するのではなく、一杯のコーヒーごとに宇宙の旅をキュレートすることが目標だった。」",
+        "Stellar Brewのこの取り組みが持つより広範な意味は、プレミアムブランドがAIを活用してブランド物語を豊かにし、真に没入型の体験を提供する新たな基準を打ち立てる可能性にある。これは、AIを使って感情的なつながりを深め、ブランド認知度を高める方向への転換を示唆しており、表面的なエンゲージメントを超えた価値提供を目指している。",
+        "## 地球外への示唆",
+        "「Orbital Origins」キャンペーンの明白な天体テーマは、ブランド物語が地球の境界を越えて広がる未来を示唆している。人類が月面基地や火星への入植、あるいは軌道上の居住空間の設立を検討するにつれ、ブランドは多惑星環境の消費者とどのように繋がるかという課題に直面するだろう。生成AIや没入型プロジェクションのような先進技術を用いた体験型マーケティングは、これらの新たなフロンティアで感情的な絆を築く上で不可欠となるかもしれない。コーヒーの「起源」が文字通り地球外となる日も遠くない未来において、宇宙的な人間体験と共鳴する新たな物語形式が求められるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "For a Tokyo marketer, the \"Orbital Origins\" campaign offers a useful lens on how to approach generative AI for premium branding. While the direct application of planetarium projections might be niche in Japan, the core principle of using AI to create highly bespoke, emotionally resonant narratives for high-value products is directly transferable. Many Japanese brands, particularly in luxury goods or artisanal food and beverage sectors, struggle to differentiate their AI use beyond efficiency gains or basic personalization.",
+        "The challenge for Tokyo agencies like Dentsu or Hakuhodo, or even specialized creative shops, would be to move beyond templated AI solutions and invest in the deep prompt engineering and custom model training required to achieve this level of craft. It implies a shift in budget allocation from purely media buying to significant creative technology development. The question is whether Japanese consumers, known for their discernment, would perceive and value this \"artisanal AI\" as genuinely premium, or if the novelty would wear off quickly without tangible product benefits.",
+        "Furthermore, integrating such immersive experiences into Tokyo's urban landscape would require navigating complex public space regulations and securing prime digital OOH or event spaces. While platforms like TVer or LINE Ads could theoretically carry AI-generated short-form content, the experiential depth of \"Orbital Origins\" demands physical presence. The true test for a Tokyo marketer would be convincing stakeholders that the investment in bespoke AI creative and unique physical activations justifies the potential incremental brand value, especially in a market where ROI is often measured by immediate sales lift."
+      ],
+      "ja": [
+        "東京のマーケターにとって、「Orbital Origins」キャンペーンは、プレミアムブランドにおける生成AIの活用法について有用な視点を提供する。プラネタリウムでの直接的な投影は日本ではニッチかもしれないが、AIを用いて高価値製品のために高度に個別化され、感情に訴えかける物語を創出するという核となる原則は、直接的に応用可能だ。特に高級品や職人技を売りにする食品・飲料分野の多くの日本ブランドは、AI活用を効率化や基本的なパーソナライゼーションの域を超えて差別化することに苦慮している。",
+        "電通や博報堂、あるいは専門的なクリエイティブエージェンシーにとっての課題は、テンプレート化されたAIソリューションから脱却し、このレベルの職人技を実現するために必要な深いプロンプトエンジニアリングとカスタムモデルのトレーニングに投資することだろう。これは、予算配分を純粋なメディアバイイングから、重要なクリエイティブテクノロジー開発へとシフトさせることを意味する。鑑識眼の高いことで知られる日本の消費者が、この「職人技AI」を真にプレミアムなものとして認識し、価値を見出すか、あるいは具体的な製品メリットがなければ目新しさがすぐに薄れるか、が問われる。",
+        "さらに、このような没入型体験を東京の都市景観に統合するには、複雑な公共空間規制をクリアし、一等地にあるデジタルOOHやイベントスペースを確保する必要がある。TVerやLINE Adsのようなプラットフォームは、理論的にはAI生成のショートフォームコンテンツを配信できるが、「Orbital Origins」の体験的な深さは物理的な存在感を要求する。東京のマーケターにとって真の試練は、特にROIが即時の売上向上で測られることの多い市場において、オーダーメイドのAIクリエイティブとユニークな物理的アクティベーションへの投資が、潜在的なブランド価値の増大を正当化できるとステークホルダーを説得することだろう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Blending AI and astronomy for coffee's cosmic story.",
+        "ja": "AIと天文でコーヒーの起源を語る新キャンペーン。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo-based CPG brand manager evaluating how to use generative AI for immersive brand experiences without losing an artisanal feel, particularly for premium products.",
+        "ja": "プレミアムブランドの没入型体験にAI活用を検討する東京のCPGブランドマネージャー。"
+      },
+      "vsJapanPlay": {
+        "en": "This contrasts with typical Japanese AI-driven campaigns that often prioritize efficiency over bespoke craft, offering a model for how agencies like Hakuhodo or Dentsu could elevate AI creative beyond mere content generation.",
+        "ja": "効率優先の国内AIキャンペーンと異なり、博報堂や電通がAIクリエイティブの質を高めるヒントとなる。"
+      },
+      "tokyoTake": {
+        "en": "While planetarium-based activations are niche, the core idea of AI-driven bespoke content could translate to digital OOH or interactive installations in Tokyo. The challenge remains the cost of bespoke AI development vs. off-the-shelf solutions and whether Japanese consumers value \"artisanal AI\" over clear product benefits.",
+        "ja": "プラネタリウムはニッチだが、AIによる個別化コンテンツは東京のデジタルOOHやインタラクティブ設置に転用可能。課題は、AI開発コストと日本消費者が「職人技AI」に価値を見出すか。"
+      }
+    },
+    "source": {
+      "name": "Adweek",
+      "url": "https://www.adweek.com/tvnewser/week-of-nov-9-2026-cable-news-ratings/"
+    },
+    "sourceGuid": "https://www.adweek.com/?p=1970855",
+    "status": "published"
+  },
+  {
+    "slug": "ai-personas-need-psychology-to-predict-unfamiliar-behavior",
+    "category": "adtech",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-11-19T12:42:00.000Z",
+    "readingMinutes": 5,
+    "feature": true,
+    "cover": {
+      "src": "https://martech.org/wp-content/uploads/2025/10/ChatGPT-Image-Personas-vs-behavioral-segmentation-800x450.png",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "AI Personas Need Psychology to Predict Unfamiliar Behavior",
+      "ja": "AIペルソナ、未知の行動予測には心理学が不可欠"
+    },
+    "dek": {
+      "en": "Beyond simulating basic interactions, AI customer personas require embedded psychological principles to accurately anticipate human responses in novel or complex situations.",
+      "ja": "基本的な対話シミュレーションを超え、AI顧客ペルソナが未知の複雑な状況で人間行動を正確に予測するには、心理学的原則の組み込みが求められる。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, November 19, 2026",
+      "ja": "東京、2026年11月19日"
+    },
+    "tags": [
+      {
+        "en": "AI",
+        "ja": "AI"
+      },
+      {
+        "en": "Customer Personas",
+        "ja": "顧客ペルソナ"
+      },
+      {
+        "en": "Behavioral Science",
+        "ja": "行動科学"
+      },
+      {
+        "en": "MarTech",
+        "ja": "マーケティングテクノロジー"
+      }
+    ],
+    "body": {
+      "en": [
+        "MarTech.org recently explored how integrating psychological principles can enhance the utility of AI-generated customer personas, moving beyond simple conversational models to predict behavior in complex, unfamiliar scenarios. This discussion, published on November 19, 2026, highlights a conceptual shift in how marketers might leverage AI for deeper audience understanding.",
+        "Current AI personas often excel at simulating typical customer interactions or synthesizing existing data patterns. However, their predictive power diminishes when faced with new product launches, unexpected market shifts, or abstract brand messaging. Incorporating psychological frameworks—like cognitive biases, decision-making models, or personality archetypes—aims to give these personas a more robust, human-like predictive capacity. This is about moving from descriptive to truly anticipatory models.",
+        "The article posits that by embedding psychological theories into the underlying algorithms, AI personas could simulate more nuanced responses. For instance, understanding loss aversion might help predict how a persona reacts to a price increase, or how confirmation bias influences their engagement with polarized content. This is not a specific software release but a methodological proposal for developers and marketers building these tools. It suggests a layer of human behavioral science over large language models (LLMs) used for persona generation.",
+        "> Anticipating how they'd act in unfamiliar situations requires a deeper understanding of human behavior.",
+        "The current landscape of AI-driven marketing tools frequently generates personas based on demographic data, past purchase history, and online behavior. While useful for segmentation and basic content targeting, these lack the depth to model complex emotional or irrational decision-making. The discussion implicitly critiques the limitations of purely data-driven persona generation, suggesting that a purely statistical approach misses the 'why' behind consumer actions. Many platforms, from Salesforce's Marketing Cloud to Adobe Experience Cloud, offer persona-building tools, but the depth of psychological integration varies.",
+        "For this approach to become practical, AI developers would need to systematically translate psychological theories into quantifiable parameters and integrate them into model training. Marketers would then need new interfaces to define these psychological traits or validate the AI's predictions against real-world human studies. The challenge lies in operationalizing abstract psychological concepts into actionable AI inputs and outputs, and proving their incremental value over existing data-driven methods.",
+        "Extending this concept to off-world environments, the development of psychologically-informed AI personas could be critical for designing habitats or services for future space colonists. Understanding how human psychology adapts to extreme isolation, resource scarcity, or novel social structures in space would allow AI to simulate reactions to unprecedented conditions, aiding in the creation of resilient extraterrestrial communities and sustainable off-world economies."
+      ],
+      "ja": [
+        "MarTech.org は最近、AIが生成する顧客ペルソナの有用性を、心理学的原則を取り入れることでいかに高められるかについて考察した。単なる会話モデルを超え、複雑な未知の状況における行動予測へとAIを活用する可能性を示唆するこの議論は、2026年11月19日に公開され、マーケターがより深い顧客理解のためにAIを活用する方法における概念的な転換を意味する。",
+        "現在のAIペルソナは、典型的な顧客との対話や既存のデータパターンを合成する能力に優れている。しかし、新製品の投入、予期せぬ市場変動、あるいは抽象的なブランドメッセージといった状況に直面すると、その予測能力は低下する。認知バイアス、意思決定モデル、パーソナリティの原型といった心理学的フレームワークを組み込むことで、これらのペルソナはより堅牢で人間らしい予測能力を持つことを目指す。これは、記述的なモデルから真に予測的なモデルへの移行を意味する。",
+        "記事は、心理学の理論をAIの基盤となるアルゴリズムに組み込むことで、よりニュアンスのある反応をシミュレートできると指摘する。例えば、損失回避の心理を理解することで、価格上昇に対するペルソナの反応を予測したり、確証バイアスが偏ったコンテンツへのエンゲージメントにどう影響するかをモデル化できる。これは特定のソフトウェアのリリースではなく、AIツールを構築する開発者やマーケターに向けた方法論的な提案である。大規模言語モデル（LLM）を用いたペルソナ生成に、人間行動科学の層を追加する発想だ。",
+        "> 馴染みのない状況で彼らがどのように行動するかを予測するには、人間行動のより深い理解が必要となる。",
+        "現在のAI駆動型マーケティングツールは、人口統計データ、過去の購買履歴、オンライン行動に基づいてペルソナを生成することが多い。これらはセグメンテーションや基本的なコンテンツターゲティングには有用だが、複雑な感情的または非合理的な意思決定をモデル化する深さに欠ける。この議論は、純粋なデータ駆動型ペルソナ生成の限界を暗に批判し、統計的アプローチだけでは消費者の行動の「なぜ」を見逃す可能性を示唆している。Salesforce Marketing Cloud や Adobe Experience Cloud など、多くのプラットフォームがペルソナ構築ツールを提供しているが、心理学的統合の深さは様々だ。",
+        "このアプローチを実用化するには、AI開発者が心理学理論を定量化可能なパラメータに体系的に変換し、モデルトレーニングに統合する必要がある。そしてマーケターは、これらの心理的特性を定義したり、AIの予測を現実世界の人間の研究と照合して検証するための新しいインターフェースを必要とするだろう。課題は、抽象的な心理学的概念を実行可能なAIの入力と出力に落とし込み、既存のデータ駆動型手法に対するその増分価値を証明することにある。",
+        "この概念を地球外環境に拡張すると、心理学的に情報に基づいたAIペルソナの開発は、将来の宇宙入植者のための居住地やサービスの設計において極めて重要になる可能性がある。宇宙での極度の孤立、資源の希少性、あるいは新しい社会構造に人間の心理がどう適応するかを理解することで、AIは前例のない状況に対する反応をシミュレートし、強靭な地球外コミュニティと持続可能な地球外経済の創造を支援するだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "For marketers operating in Tokyo, the promise of AI-driven personas that truly anticipate complex human behavior is appealing. However, the immediate practical application of integrating deep psychological models into existing AI persona tools faces several hurdles. Japanese consumer behavior, influenced by unique social norms, group dynamics, and cultural context, often requires a different lens than generalized Western psychological frameworks might offer.",
+        "While major Japanese agencies like 電通 and 博報堂 have extensive consumer research divisions and leverage vast proprietary data for persona development, their methodologies are typically rooted in observed behavior and market trends rather than explicit, deeply embedded psychological theories within AI models. Tools from domestic players like LINEヤフー also focus on behavioral patterns derived from platform usage. The challenge for a psychologically-informed AI persona in Japan would be to accurately model concepts like `honne` (true feelings) and `tatemae` (public facade), or the subtle influence of `wa` (harmony), which are critical for effective communication in this market.",
+        "Furthermore, the adoption curve for such advanced, theoretically-driven AI tools might be slower in Japan. Many marketers still grapple with optimizing basic performance marketing or integrating first-party data. The incremental value of a \"psychologically aware\" AI persona needs to be clearly demonstrated against the established, data-heavy approaches. Without specific Japanese psychological datasets or models trained on local cultural nuances, these global advancements remain an interesting academic discussion rather than an actionable tool for a Tokyo brand manager this quarter."
+      ],
+      "ja": [
+        "東京のマーケターにとって、複雑な人間行動を真に予測するAI駆動型ペルソナの可能性は魅力的だ。しかし、既存のAIペルソナツールに深い心理学モデルを統合するというアイデアが、すぐに実用化されるにはいくつかの課題がある。日本の消費者行動は、独自の社会規範、集団力学、文化的背景に影響されており、一般的な欧米の心理学的フレームワークだけでは捉えきれない側面が多い。",
+        "電通や博報堂といった日本の大手広告会社は、広範な消費者調査部門を持ち、膨大な独自データを活用してペルソナ開発を行っているが、その手法は通常、AIモデルに明示的に深く組み込まれた心理学理論というよりも、観察された行動や市場トレンドに基づいている。LINEヤフーのような国内プレイヤーのツールも、プラットフォーム利用から導き出される行動パターンに焦点を当てている。日本において心理学的に情報に基づいたAIペルソナを構築する上での課題は、「本音」と「建前」、あるいは「和」の微妙な影響といった、この市場で効果的なコミュニケーションに不可欠な概念を正確にモデル化することだろう。",
+        "さらに、このような高度で理論主導型のAIツールの導入は、日本では緩やかなペースになる可能性がある。多くのマーケターは、まだ基本的なパフォーマンスマーケティングの最適化や、ファーストパーティデータの統合に取り組んでいる段階だ。「心理学的に意識された」AIペルソナの増分価値は、確立されたデータ重視のアプローチに対して明確に実証される必要がある。日本の文化的ニュアンスに基づいて学習された特定の心理学的データセットやモデルがなければ、これらのグローバルな進展は、今四半期に東京のブランドマネージャーが利用できる実用的なツールというよりも、興味深い学術的議論に留まるだろう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "AI personas need psychology for true prediction.",
+        "ja": "AIペルソナに心理学で行動予測を。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo-based brand strategist or product manager evaluating AI tools for audience insights, this piece explains how to move beyond basic demographic personas to predict complex consumer reactions.",
+        "ja": "東京のブランド戦略担当者やプロダクトマネージャーが、オーディエンスインサイト向けAIツールを評価する際、基本的なデモグラフィックペルソナを超え、複雑な消費者反応を予測する方法を解説する。"
+      },
+      "vsJapanPlay": {
+        "en": "This concept extends beyond current Japanese persona tools like those offered by 電通's Data Artist or 博報堂's consumer insight divisions, which primarily leverage vast data sets but are less explicit about embedded psychological models.",
+        "ja": "電通の Data Artist や博報堂の消費者インサイト部門が提供する既存の日本のペルソナツールは、膨大なデータセットを活用するが、心理学的モデルの組み込みについては明示的ではない点で異なる。"
+      },
+      "tokyoTake": {
+        "en": "While the idea of psychologically-rich AI personas is compelling, its immediate impact on Tokyo marketers is limited. Japanese consumer behavior often has unique cultural nuances not easily captured by Western psychological models, requiring significant localization or local data integration.",
+        "ja": "心理学を取り入れたAIペルソナのアイデアは魅力的だが、東京のマーケターへの即座の影響は限定的だ。日本の消費者行動は独自の文化的ニュアンスを持つことが多く、欧米の心理学モデルでは容易に捉えられないため、大幅なローカライズか日本独自のデータ統合が不可欠となる。"
+      }
+    },
+    "source": {
+      "name": "MarTech.org",
+      "url": "https://martech.org/how-psychology-can-make-ai-powered-customer-personas-more-useful/"
+    },
+    "sourceGuid": "https://martech.org/?p=414625",
+    "status": "published"
+  },
+  {
+    "slug": "streaming-tv-advertising-grapples-with-fragmented-measurement",
+    "category": "media",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-11-19T20:17:05.000Z",
+    "readingMinutes": 6,
+    "feature": true,
+    "cover": {
+      "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/tv-revenue-digiday.webp",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Streaming TV Advertising Grapples with Fragmented Measurement",
+      "ja": "ストリーミング広告：断片化された測定基準が課題に"
+    },
+    "dek": {
+      "en": "As media spend shifts from linear television to streaming platforms, advertisers face inconsistent measurement standards, hindering true cross-platform attribution and budget optimization.",
+      "ja": "リニアテレビからストリーミングプラットフォームへの広告費シフトが進む中、広告主は一貫性のない測定基準に直面し、真のクロスプラットフォームアトリビューションと予算最適化が阻害されている。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "November 19, 2026",
+      "ja": "2026年11月19日"
+    },
+    "tags": [
+      {
+        "en": "media buying",
+        "ja": "メディアバイイング"
+      },
+      {
+        "en": "streaming TV",
+        "ja": "ストリーミングTV"
+      },
+      {
+        "en": "measurement",
+        "ja": "測定"
+      },
+      {
+        "en": "CTV",
+        "ja": "CTV"
+      }
+    ],
+    "body": {
+      "en": [
+        "The advertising industry is confronting significant challenges in accurately measuring the impact of campaigns across the increasingly fragmented streaming television landscape. While the promise of precise targeting and granular data has driven substantial investment into connected TV (CTV) and video-on-demand (VOD) platforms, the lack of unified measurement standards is making it difficult for marketers to confidently attribute outcomes and optimize spend.",
+        "This issue stems from a proliferation of proprietary metrics and walled gardens. Each major streaming platform — from global giants like Netflix and YouTube to regional players — often provides its own set of audience and performance data. This fragmentation complicates the ability to compare campaign effectiveness across different channels, leaving media buyers without a clear, apples-to-apples view of their media investments. The result is a persistent uncertainty over how streaming spend truly contributes to business objectives.",
+        "Industry bodies and major media buyers are now actively pushing for a more standardized approach. The focus is on developing cross-platform identity solutions and common measurement currencies that can transcend individual platform data. The goal is to move beyond basic impressions and viewability to more meaningful metrics such as attention, engagement, and ultimately, incrementality — proving that an ad actually drove a specific business outcome.",
+        "This push represents a necessary correction to what many perceive as an imperfect shift. Linear TV, despite its limitations, offered a relatively unified ratings system for decades. Streaming, while offering unprecedented targeting capabilities, has yet to mature into a similarly transparent and verifiable ecosystem for advertisers.",
+        "> \"The industry needs a common language to understand what is actually working across screens, not just within a single platform's silo.\"",
+        "The development of new attribution models that can integrate data from various streaming sources, alongside traditional digital and offline channels, is critical. This involves leveraging advanced analytics and potentially machine learning to stitch together disparate data points, providing a holistic view of the customer journey and ad exposure. Without such frameworks, the risk of misallocating budgets or underestimating the true value of streaming investments remains high.",
+        "Looking ahead, the market will likely see increased pressure on streaming publishers to adopt independent, third-party verification for their audience and performance data. Media buyers will continue to demand greater transparency and interoperability between platforms. This evolution is essential for streaming to fully realize its potential as a measurable and accountable advertising channel, moving beyond its current state of fragmented promise to a more unified reality."
+      ],
+      "ja": [
+        "広告業界は、ますます断片化するストリーミングテレビの状況において、キャンペーンの効果を正確に測定するという大きな課題に直面している。コネクテッドTV（CTV）やビデオオンデマンド（VOD）プラットフォームへの精密なターゲティングと詳細なデータという期待は多大な投資を呼び込んだものの、統一された測定基準の欠如が、マーケターが自信を持って成果を評価し、支出を最適化することを困難にしている。",
+        "この問題は、独自の測定基準とウォールドガーデン（特定のプラットフォーム内で閉じたデータ環境）が乱立していることに起因する。NetflixやYouTubeのような世界的プラットフォームから、地域ごとのプレイヤーに至るまで、主要なストリーミングプラットフォームはそれぞれ独自のオーディエンスおよびパフォーマンスデータを提供している。この断片化により、異なるチャネル間でのキャンペーン効果の比較が複雑になり、メディアバイヤーはメディア投資の明確な比較検討ができない状態にある。結果として、ストリーミング広告費が事業目標にどのように貢献しているかについて、不確実性が残る。",
+        "業界団体や主要なメディアバイヤーは現在、より標準化されたアプローチを積極的に推進している。焦点は、個々のプラットフォームのデータを超えて機能する、クロスプラットフォームのIDソリューションと共通の測定通貨の開発にある。目標は、基本的なインプレッションやビューアビリティを超え、アテンション、エンゲージメント、そして最終的にはインクリメンタリティ（広告が実際に特定のビジネス成果を促進したことを証明する指標）といった、より意味のある指標へと移行することだ。",
+        "この動きは、多くの人が不完全な移行と見なすものに対する必要な修正を意味する。リニアテレビは、その限界にもかかわらず、何十年もの間、比較的統一された視聴率システムを提供してきた。ストリーミングは、前例のないターゲティング機能を提供する一方で、広告主にとって同様に透明で検証可能なエコシステムへと成熟するには至っていない。",
+        "> 「業界は、単一プラットフォームのサイロ内だけでなく、あらゆるスクリーンで何が実際に機能しているかを理解するための共通言語を必要としている。」",
+        "様々なストリーミングソースからのデータを、従来のデジタルチャネルやオフラインチャネルと統合できる新しいアトリビューションモデルの開発が極めて重要だ。これには、高度なアナリティクスと機械学習を活用して、異なるデータポイントを結合し、顧客ジャーニーと広告露出の全体像を提供することが含まれる。このようなフレームワークがなければ、予算の誤配分やストリーミング投資の真の価値を過小評価するリスクは依然として高い。",
+        "今後、市場では、ストリーミング配信事業者がオーディエンスおよびパフォーマンスデータについて独立した第三者検証を採用するよう、さらに圧力がかかる可能性が高い。メディアバイヤーは、プラットフォーム間の透明性と相互運用性の向上を要求し続けるだろう。この進化は、ストリーミングが測定可能で説明責任のある広告チャネルとしての可能性を最大限に引き出すために不可欠であり、現在の断片的な状態から、より統一された現実に移行するための鍵となる。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "The challenges of fragmented streaming measurement highlighted in global reports resonate strongly within the Tokyo market. While the pace of linear TV budget shift to streaming may be slower in Japan compared to the US, platforms like TVer, ABEMA, YouTube, and Netflix all operate with their own distinct data sets and measurement methodologies. This creates a similar, if not more complex, landscape for Japanese brand managers and media planners trying to optimize their video investments.",
+        "Local specifics add another layer of complexity. LINE Ads Platform and Yahoo! JAPAN Ads, significant players in the Japanese digital ecosystem, also offer video inventory with their own unique ID graphs and attribution models. Integrating these into a cohesive cross-platform view requires sophisticated data infrastructure and analytical capabilities that many domestic agencies and in-house teams are still building. The adoption of global attention metrics and independent verification is nascent, often requiring custom solutions or reliance on agency-specific frameworks.",
+        "For a Tokyo marketer, this means pushing for greater transparency and demanding robust incrementality studies from their agency partners like Dentsu or Hakuhodo. It's not enough to simply shift budgets; understanding the true value of each streaming dollar requires a proactive approach to measurement strategy, including evaluating third-party verification tools and advocating for unified reporting standards that go beyond basic impressions to actual business outcomes. The emphasis should be on building a clear, defensible argument for streaming's role in the overall media mix, grounded in data that transcends platform silos."
+      ],
+      "ja": [
+        "グローバルレポートで指摘されるストリーミング測定の断片化という課題は、東京市場においても強く響いている。リニアTVからストリーミングへの予算シフトのペースは米国に比べて日本では緩やかかもしれないが、TVer、ABEMA、YouTube、Netflixといったプラットフォームはすべて、独自のデータセットと測定手法で運用されている。これは、日本のブランドマネージャーやメディアプランナーが動画投資を最適化しようとする際に、同様に、あるいはより複雑な状況を作り出している。",
+        "日本特有の事情がさらなる複雑さを加えている。日本のデジタルエコシステムにおける主要プレイヤーであるLINE広告やYahoo! JAPAN広告も、独自のIDグラフとアトリビューションモデルを持つ動画広告枠を提供している。これらを統一されたクロスプラットフォームビューに統合するには、多くの国内代理店やインハウスチームがまだ構築中の高度なデータインフラと分析能力が必要となる。グローバルなアテンション指標や独立した検証の採用はまだ初期段階であり、多くの場合、カスタムソリューションや代理店独自のフレームワークに依存しているのが現状だ。",
+        "東京のマーケターにとって、これは電通や博報堂のような代理店パートナーに対し、より高い透明性を求め、堅牢なインクリメンタリティ調査を要求することを意味する。単に予算をシフトするだけでは不十分であり、ストリーミング広告費の真の価値を理解するためには、測定戦略に対する積極的なアプローチが必要だ。これには、第三者検証ツールの評価や、単なるインプレッションを超えて実際のビジネス成果につながる統一されたレポーティング基準を提唱することが含まれる。プラットフォームのサイロを超えたデータに基づき、メディアミックス全体におけるストリーミングの役割について、明確で説得力のある根拠を構築することに重点を置くべきだろう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Streaming TV measurement needs a common currency.",
+        "ja": "ストリーミング測定、共通通貨が急務。"
+      },
+      "whoForWhat": {
+        "en": "For media planners and brand managers at Japanese CPG or retail brands who are shifting TV budgets to streaming and need to justify cross-platform spend with reliable attribution.",
+        "ja": "日本のCPGや小売ブランドのメディアプランナー、ブランドマネージャー向け。TV予算をストリーミングに移行し、信頼できるアトリビューションでクロスプラットフォーム支出を正当化する必要がある。"
+      },
+      "vsJapanPlay": {
+        "en": "This directly challenges current agency-specific or platform-specific measurement approaches common in Japan (e.g., TVer's proprietary data, LINE Ads metrics), pushing for a unified standard beyond individual walled gardens.",
+        "ja": "日本の代理店やプラットフォーム固有の測定アプローチ（TVerの独自データ、LINE広告指標など）に直接対抗し、個々のウォールドガーデンを超えた統一基準を求める動き。"
+      },
+      "tokyoTake": {
+        "en": "Japanese marketers face similar measurement fragmentation across TVer, ABEMA, and local digital giants like LINE and Yahoo! JAPAN. The challenge is less about technology availability and more about driving industry-wide adoption of unified metrics and independent verification.",
+        "ja": "日本のマーケターはTVer、ABEMA、LINE、Yahoo! JAPANといったプラットフォーム間で同様の測定断片化に直面する。課題は技術の有無よりも、統一指標と第三者検証の業界全体での採用推進にある。"
+      }
+    },
+    "source": {
+      "name": "Digiday",
+      "url": "https://digiday.com/sponsored/correcting-the-tv-ad-markets-imperfect-shift-to-streaming/?utm_campaign=digidaydis&#038;utm_medium=rss&#038;utm_source=general-rss"
+    },
+    "sourceGuid": "https://digiday.com/?p=616955",
+    "status": "published"
+  },
+  {
+    "slug": "coca-cola-shifts-from-ai-visuals-to-human-connection-for-holiday-campaign",
+    "category": "creative",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-11-19T18:23:00.000Z",
+    "readingMinutes": 5,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1717501218385-55bc3a95be94?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0a0a0a"
+    },
+    "title": {
+      "en": "Coca-Cola Shifts From AI Visuals to Human Connection for Holiday Campaign",
+      "ja": "コカ・コーラ、ホリデー広告でAIから人間らしさへ回帰"
+    },
+    "dek": {
+      "en": "Following consumer backlash to its previous AI-generated holiday spots, Coca-Cola has pivoted its 2026 holiday advertising strategy, opting for traditional live-action visuals that feature family and friends in its new “Enjoy Joy” campaign.",
+      "ja": "2026年のホリデーキャンペーンで、コカ・コーラは生成AIによる広告に対する消費者の反発を受け、戦略を転換した。「Enjoy Joy」と題された新キャンペーンでは、家族や友人が登場する伝統的な実写映像を採用している。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "Tokyo, November 19, 2026",
+      "ja": "東京、2026年11月19日"
+    },
+    "tags": [
+      {
+        "en": "brand strategy",
+        "ja": "ブランド戦略"
+      },
+      {
+        "en": "creative production",
+        "ja": "クリエイティブ制作"
+      },
+      {
+        "en": "generative AI",
+        "ja": "生成AI"
+      },
+      {
+        "en": "consumer sentiment",
+        "ja": "消費者感情"
+      }
+    ],
+    "body": {
+      "en": [
+        "Coca-Cola has adjusted its 2026 holiday advertising strategy, moving away from visuals created with generative AI. The brand's new “Enjoy Joy” campaign instead features traditional live-action scenes of family and friends engaged in seasonal activities, marking a clear pivot from its previous approach.",
+        "This shift follows significant consumer backlash to earlier holiday ads that utilized AI-generated content. For a brand like Coca-Cola, whose holiday messaging is deeply rooted in nostalgia and emotional connection, the reception to AI-generated visuals proved problematic. The decision to revert to conventional production methods signals a pragmatic response to audience sentiment and a re-prioritization of perceived authenticity.",
+        "The core mechanism of the new campaign involves relatable human interactions. Instead of the sometimes uncanny aesthetics of AI, the “Enjoy Joy” spots focus on genuine smiles, shared meals, and festive gatherings. This creative direction aims to re-establish the direct emotional resonance that is a hallmark of Coca-Cola's holiday branding, which has historically relied on iconic imagery and heartfelt storytelling.",
+        "## What the pivot signals",
+        "The move indicates that even for large global brands with substantial innovation budgets, the novelty of generative AI may not outweigh the imperative for emotional connection in high-stakes seasonal campaigns. While AI tools offer efficiency and scale in creative production, their application in brand-building moments that require deep human empathy remains a delicate balance. This is particularly true for campaigns tied to holidays, where consumer expectations for warmth and authenticity are elevated.",
+        "Other brands continue to experiment with AI in various capacities, from personalized ad copy to background asset generation. However, Coca-Cola's experience suggests a cautionary tale for deploying AI in foreground creative, especially when brand equity is tied to human-centric values. The budget signal here is a re-allocation from experimental AI production back to established, if more resource-intensive, live-action shoots.",
+        "> After facing backlash for holiday ads that used generative AI, “Enjoy Joy” spots show family and friends partaking in seasonal activities.",
+        "## What comes next",
+        "This course correction by a major global advertiser provides a tangible data point for marketers evaluating generative AI's role in their own strategies. Brands may become more discerning, reserving AI for back-end efficiencies or niche applications rather than core brand messaging during critical periods. The focus for the upcoming quarters will likely be on how other CPGs and emotionally-driven brands balance technological innovation with consumer expectations for genuine connection, particularly as the holiday season approaches again."
+      ],
+      "ja": [
+        "コカ・コーラは2026年のホリデー広告戦略を調整し、生成AIによるビジュアル制作から転換した。新しい「Enjoy Joy」キャンペーンでは、家族や友人が季節の活動に参加する伝統的な実写シーンを特徴としており、これまでのアプローチからの明確な転換を示している。",
+        "この方針転換は、生成AIコンテンツを用いた以前のホリデー広告に対する消費者からの強い反発を受けたものだ。コカ・コーラのような、ホリデーメッセージが郷愁と感情的なつながりに深く根ざしているブランドにとって、AI生成ビジュアルへの反応は問題含みであった。従来の制作手法に戻すという決定は、オーディエンスの感情に対する実用的な対応であり、認識される真正性の再優先を意味する。",
+        "新キャンペーンの核となるのは、共感を呼ぶ人間の交流だ。時に不気味の谷現象を引き起こすAIの美学ではなく、「Enjoy Joy」のスポットは、心からの笑顔、食卓を囲む時間、そして祝祭的な集まりに焦点を当てている。このクリエイティブな方向性は、コカ・コーラのホリデーブランドの象徴である直接的な感情的共鳴を再確立することを目指している。これは歴史的に、象徴的なイメージと心温まるストーリーテリングに依存してきたものだ。",
+        "## この転換が示すもの",
+        "この動きは、多額のイノベーション予算を持つ世界的な大ブランドであっても、生成AIの目新しさが、重要な季節キャンペーンにおける感情的なつながりの必要性を上回るものではないことを示唆している。AIツールはクリエイティブ制作における効率性と規模を提供する一方で、深い人間的共感を必要とするブランド構築の場面での適用は、デリケートなバランスを要する。特に、温かさと真正性に対する消費者の期待が高まるホリデーシーズンに関連するキャンペーンでは、その傾向が顕著だ。",
+        "他のブランドは、パーソナライズされた広告コピーから背景アセットの生成まで、さまざまな能力でAIを試し続けている。しかし、コカ・コーラの経験は、ブランドの資産が人間中心の価値観と結びついている場合、AIを前面に出したクリエイティブに展開することへの警告となる。ここでの予算シグナルは、実験的なAI制作から、より資源集約的ではあるが確立された実写撮影へと再配分されたことを示唆している。",
+        "「生成AIを使用したホリデー広告が反発を受けた後、『Enjoy Joy』スポットでは、家族や友人が季節の活動に参加する様子が描かれている。」",
+        "## 次に来るもの",
+        "この大手グローバル広告主による方針転換は、自社の戦略における生成AIの役割を評価するマーケターにとって具体的なデータポイントとなる。ブランドはより慎重になり、重要な期間の核となるブランドメッセージングではなく、バックエンドの効率化やニッチな用途にAIを留保するかもしれない。今後数四半期の焦点は、他のCPGブランドや感情に訴えかけるブランドが、技術革新と消費者の本物への期待とのバランスをどのように取るか、特に再びホリデーシーズンが近づくにつれて、注視されるだろう。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Japanese brands often approach new technologies with a mix of curiosity and caution. While generative AI tools are rapidly being integrated into creative workflows by agencies like Dentsu and Hakuhodo for efficiency in asset creation or concept exploration, their deployment in high-profile, mass-market emotional campaigns remains largely experimental or confined to specific digital channels. This Coca-Cola pivot underscores a global sentiment that resonates strongly in Japan: for core brand-building, especially during culturally significant periods, authenticity derived from human connection often outweighs the novelty of AI.",
+        "The Japanese consumer, much like their global counterparts, places a high value on authenticity and traditional values, particularly during holiday seasons such as New Year's, Obon, or even Western-influenced Christmas. A campaign featuring AI-generated visuals, if perceived as lacking genuine human warmth or evoking the 'uncanny valley' effect, could easily alienate an audience seeking heartfelt connection. Japanese brands typically lean on established celebrity talent, beloved animated characters, or meticulously crafted live-action narratives to build that emotional bridge, a playbook that has proven reliable over decades.",
+        "For a Tokyo-based marketer, this means that while exploring AI for creative assistance is prudent, pushing it into the foreground of a major seasonal campaign without extensive consumer testing carries significant risk. The existing media landscape in Japan, with its strong emphasis on traditional TVCMs and influencer marketing (often featuring highly curated human content), is not yet primed for a full embrace of AI-generated primary creative for emotional messaging. The investment in human-led production, though potentially higher, still offers a more predictable return on emotional engagement in the Japanese market."
+      ],
+      "ja": [
+        "日本のブランドは、新しいテクノロジーに対して好奇心と慎重さの両方でアプローチすることが多い。電通や博報堂のような代理店では、アセット作成やコンセプト探索の効率化のために生成AIツールが急速にクリエイティブワークフローに統合されているが、大規模な感情的キャンペーンでの展開は、依然として実験的であるか、特定のデジタルチャネルに限定されている。このコカ・コーラの転換は、日本でも強く響く世界的な感情を浮き彫りにしている。つまり、主要なブランド構築、特に文化的に重要な時期においては、人間とのつながりから生まれる真正性がAIの目新しさを上回ることが多いということだ。",
+        "日本の消費者は、世界の他の地域と同様に、正月やお盆、あるいは欧米の影響を受けたクリスマスのようなホリデーシーズンにおいて、真正性と伝統的価値観を高く評価する。もしAI生成ビジュアルのキャンペーンが、本物の人間的な温かさに欠ける、あるいは「不気味の谷」効果を引き起こすと認識されれば、心からのつながりを求めるオーディエンスを容易に遠ざけてしまう可能性がある。日本のブランドは通常、著名なタレント、愛されるアニメキャラクター、あるいは綿密に作られた実写の物語に頼って感情的な橋を築いており、これは何十年にもわたって信頼されてきた戦略である。",
+        "東京のマーケターにとって、これはAIをクリエイティブアシスタンスとして探求することは賢明であるものの、広範な消費者テストなしに主要な季節キャンペーンの前面に押し出すことは大きなリスクを伴うことを意味する。日本の既存のメディア環境は、従来のTVCMやインフルエンサーマーケティング（多くの場合、厳選された人間コンテンツを特徴とする）に重点を置いており、感情的なメッセージングのためのAI生成の主要クリエイティブを全面的に受け入れる準備はまだできていない。人間主導の制作への投資は、費用が高くなる可能性はあるが、日本の市場では感情的なエンゲージメントにおいてより予測可能なリターンをもたらすだろう。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Coke shifts from AI visuals to human connection for holidays.",
+        "ja": "コカ・コーラ、ホリデー広告でAIから人間らしさへ回帰。"
+      },
+      "whoForWhat": {
+        "en": "For brand managers at large CPGs planning global seasonal campaigns, this illustrates the tangible risks of misjudging consumer sentiment around emerging creative technologies.",
+        "ja": "グローバルな季節キャンペーンを計画する大手CPGのブランドマネージャーにとって、これは新興クリエイティブ技術に対する消費者の感情を誤解する具体的なリスクを示唆する。"
+      },
+      "vsJapanPlay": {
+        "en": "This contrasts with the cautious, often experimental approach of Japanese brands like Suntory or Kirin, who typically deploy AI for internal efficiency or niche digital activations rather than mass-market emotional campaigns, preferring established celebrity talent or animation for broad appeal.",
+        "ja": "これは、サントリーやキリンのような日本ブランドの慎重かつ実験的なアプローチとは対照的だ。彼らは通常、AIを内部効率化やニッチなデジタル施策に使い、マス向け感情キャンペーンでは確立されたタレントやアニメーションを好む。"
+      },
+      "tokyoTake": {
+        "en": "Tokyo marketers should note that while AI tools are accelerating creative workflows, the core challenge of emotional resonance remains. Japanese consumers, like their global counterparts, prioritize authenticity in holiday messaging, suggesting a similar cautious approach to AI in high-stakes brand moments is warranted, particularly given the strong cultural emphasis on connection.",
+        "ja": "東京のマーケターは、AIツールがクリエイティブワークフローを加速する一方で、感情的共鳴という核となる課題が残ることに留意すべきだ。日本の消費者は、海外と同様にホリデーメッセージにおける真正性を重視しており、つながりへの強い文化的重点を考慮すると、重要なブランドモーメントでのAIへの同様の慎重なアプローチが妥当である。"
+      }
+    },
+    "source": {
+      "name": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/coca-cola-pivots-from-divisive-ai-generated-ads-for-holiday-campaign/875215/"
+    },
+    "sourceGuid": "https://www.marketingdive.com/news/coca-cola-pivots-from-divisive-ai-generated-ads-for-holiday-campaign/875215/",
+    "status": "published"
+  },
+  {
+    "slug": "aether-mobilitys-skyward-dreams-campaign-uses-generative-ai-for-adaptive-ooh",
+    "category": "creative",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-11-19T17:50:49.000Z",
+    "readingMinutes": 6,
+    "feature": false,
+    "cover": {
+      "src": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=2200&q=80",
+      "tone": "#0c0d0f"
+    },
+    "title": {
+      "en": "Aether Mobility's 'Skyward Dreams' Campaign Uses Generative AI for Adaptive OOH",
+      "ja": "Aether Mobility、「Skyward Dreams」で生成AI活用した適応型OOH展開"
+    },
+    "dek": {
+      "en": "A new urban air mobility concept campaign deploys generative AI to create real-time, context-aware OOH and digital creative, moving beyond traditional dynamic optimization.",
+      "ja": "都市型エアモビリティ構想のキャンペーンが生成AIを導入し、リアルタイムで文脈に応じたOOHおよびデジタルクリエイティブを生成。従来の動的最適化から一歩進んだ試み。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "November 19, 2026",
+      "ja": "2026年11月19日"
+    },
+    "tags": [
+      {
+        "en": "Generative AI",
+        "ja": "生成AI"
+      },
+      {
+        "en": "OOH",
+        "ja": "OOH"
+      },
+      {
+        "en": "Creative",
+        "ja": "クリエイティブ"
+      },
+      {
+        "en": "Automotive",
+        "ja": "自動車"
+      }
+    ],
+    "body": {
+      "en": [
+        "Aether Mobility, the future-focused automotive and tech innovator, has launched its \"Skyward Dreams\" campaign, developed by agency Ignite Creative. The global initiative promotes Aether's urban air mobility (UAM) concept, distinguishing itself through the extensive use of generative AI to tailor OOH and digital creative in real-time. This approach moves beyond traditional dynamic creative optimization, aiming to reflect individual aspirations for future transport directly.",
+        "The core of the campaign lies in its adaptive creative engine. Instead of cycling through pre-produced variations, the system employs a proprietary generative AI model. This model analyzes real-time urban data, including traffic patterns, weather conditions, local event schedules, and even anonymized demographic trends, to produce bespoke visual and textual advertisements. For instance, an OOH billboard in a busy financial district might display visuals of seamless executive transport, while one near a residential area could show family leisure flights, all rendered on the fly.",
+        "Ignite Creative's role involved training the AI with Aether's brand guidelines, visual identity, and core messaging. The agency established parameters for tonality and aesthetic, ensuring the AI-generated outputs remained consistent with the brand's premium, forward-looking image. The system currently operates across key launch markets including Los Angeles, Dubai, and Singapore, with plans for broader deployment. This marks a shift from reactive A/B testing to proactive, context-aware content generation.",
+        "This \"Skyward Dreams\" approach echoes earlier attempts at hyper-localized advertising but significantly elevates the execution. Previous dynamic creative solutions often relied on rule-based systems or large libraries of pre-approved assets. Aether Mobility's campaign, however, leverages AI to synthesize entirely new creative elements—visuals, headlines, and calls to action—that are genuinely unique to the moment and location. The ambition is to create a more resonant connection by visualizing a future that feels personally relevant to each viewer.",
+        "The campaign also subtly weaves in broader implications for human mobility, hinting at a future beyond terrestrial travel. While primarily focused on urban air solutions, the \"Skyward Dreams\" narrative often features design cues and atmospheric elements that evoke lunar exploration or orbital living. The AI, in its creative iterations, sometimes generates scenes that blend urban skylines with distant celestial bodies, positioning Aether Mobility as a visionary for movement not just between cities, but potentially between worlds.",
+        "> The ambition is to create a more resonant connection by visualizing a future that feels personally relevant to each viewer.",
+        "The challenge for Aether and Ignite Creative will be to maintain a cohesive brand narrative amidst such high variability. While personalization can drive engagement, an overly fragmented message risks diluting brand recognition. The success of this model will depend on the AI's ability to consistently deliver on the brand's promise without sacrificing creative integrity."
+      ],
+      "ja": [
+        "未来志向の自動車・テクノロジー企業であるAether Mobilityは、Ignite Creativeとの協業により「Skyward Dreams」キャンペーンを開始した。このグローバルキャンペーンは、同社の都市型エアモビリティ（UAM）構想を推進するもので、特に生成AIを駆使し、OOH（屋外広告）やデジタルクリエイティブをリアルタイムで最適化する点が特徴だ。従来の動的クリエイティブ最適化を超え、未来の交通に対する個人の願望を直接反映させることを目指している。",
+        "キャンペーンの核心は、その適応型クリエイティブエンジンにある。事前に制作された多数のバリエーションを循環させるのではなく、独自の生成AIモデルが採用された。このモデルは、交通パターン、気象条件、地域イベントのスケジュール、さらには匿名化された人口統計データといったリアルタイムの都市データを分析し、その場限りのビジュアルとテキスト広告を生成する。例えば、金融街の賑やかなOOH広告はシームレスな役員輸送のビジュアルを表示する一方、住宅地近くでは家族のレジャー飛行を示すなど、すべてがリアルタイムでレンダリングされる。",
+        "Ignite Creativeの役割は、Aetherのブランドガイドライン、ビジュアルアイデンティティ、そして主要なメッセージをAIに学習させることだった。同社はトーンと美学に関するパラメータを設定し、AI生成アウトプットがブランドのプレミアムで先進的なイメージと一貫性を保つよう努めた。このシステムは現在、ロサンゼルス、ドバイ、シンガポールといった主要なローンチ市場で稼働しており、今後さらに展開が予定されている。これは、反応的なA/Bテストから、能動的で状況認識型のコンテンツ生成への転換を示している。",
+        "「Skyward Dreams」のアプローチは、過去の超地域最適化広告の試みを踏まえつつ、その実行レベルを大幅に引き上げている。従来の動的クリエイティブソリューションは、ルールベースのシステムや、事前に承認されたアセットの膨大なライブラリに依存することが多かった。しかし、Aether Mobilityのキャンペーンは、AIを活用してビジュアル、ヘッドライン、行動喚起といった全く新しいクリエイティブ要素を合成する。これらはその瞬間、その場所に合わせて真に独自のものであり、視聴者一人ひとりに個人的に関連性の高い未来を視覚化することで、より深い共鳴を生み出すことを狙う。",
+        "このキャンペーンはまた、人間移動のより広範な意味合いをさりげなく織り交ぜ、地球上の移動を超えた未来を示唆している。都市型エアモビリティソリューションが主軸ではあるものの、「Skyward Dreams」の物語はしばしば月面探査や軌道上での生活を想起させるデザイン要素や雰囲気を取り入れている。AIは、そのクリエイティブな反復の中で、都市のスカイラインと遠くの天体を融合させたシーンを生成することもあり、Aether Mobilityを都市間だけでなく、潜在的には「世界間」の移動の先駆者として位置づけている。",
+        "> 視聴者一人ひとりに個人的に関連性の高い未来を視覚化することで、より深い共鳴を生み出すことを狙う。",
+        "AetherとIgnite Creativeにとっての課題は、これほどの高い変動性の中で、いかに一貫したブランドストーリーを維持するかだろう。パーソナライゼーションはエンゲージメントを促進する一方で、メッセージが過度に断片化されるとブランド認知を希薄化させるリスクがある。このモデルの成功は、クリエイティブの整合性を犠牲にすることなく、ブランドの約束をAIが常に果たせるかにかかっている。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "Tokyo's urban fabric, a dense tapestry of digital screens and an early adopter culture for advanced technology, presents a compelling paradox for campaigns like Aether Mobility's \"Skyward Dreams.\" While the sheer volume of digital OOH inventory, from Shibuya Crossing to JR station concourses, offers ample canvas, the underlying adtech infrastructure for real-time generative creative is still nascent. Japanese media owners, such as JR East and various private rail operators, have made significant strides in digital OOH and programmatic capabilities, but these largely focus on dynamic content delivery from pre-approved asset libraries. The leap to on-the-fly AI synthesis, where visuals and copy are created in milliseconds based on live data, demands a more profound integration of generative models directly into media platforms.",
+        "Moreover, the cultural nuance of aspiration in Japan differs. While the \"Skyward Dreams\" campaign taps into a universal human desire for future possibilities, the Japanese consumer often values subtle, well-crafted narratives over overtly bold, individually tailored visions. An AI generating highly personalized future scenarios would need careful tuning to avoid feeling intrusive or overly speculative. The focus might shift from individualistic dreams to collective progress or harmonious integration of technology into daily life, reflecting a distinct cultural lens.",
+        "From a budget perspective, the development and deployment of such a sophisticated AI-driven creative system would represent a substantial investment. While global brands might absorb these costs, a typical Japanese brand manager or agency planner would need to demonstrate a clear incrementality case. However, with major holding companies like Dentsu and Hakuhodo actively investing in AI and data science capabilities, it is plausible that bespoke versions of this technology could emerge for key clients, especially those with global ambitions or a strong focus on future-tech branding. The challenge remains in scaling such a complex, real-time creative solution across the fragmented and often vertically integrated Japanese media landscape."
+      ],
+      "ja": [
+        "東京の都市構造は、デジタルスクリーンが織りなす緻密なタペストリーであり、先進技術への早期受容文化を持つ。これはAether Mobilityの「Skyward Dreams」のようなキャンペーンにとって、魅力的ながらもパラドックスをはらむ。渋谷スクランブル交差点からJR駅構内まで、膨大なデジタルOOH広告枠が存在する一方で、リアルタイムの生成クリエイティブを支える基盤となるアドテックインフラはまだ発展途上にある。JR東日本をはじめとする日本のメディアオーナーは、デジタルOOHやプログラマティック機能において大きな進歩を遂げたが、これらは主に事前承認されたアセットライブラリからの動的コンテンツ配信に焦点を当てている。ライブデータに基づいてビジュアルやコピーをミリ秒単位で生成する、オンザフライのAI合成への飛躍には、生成モデルをメディアプラットフォームに直接深く統合する必要がある。",
+        "さらに、日本における「願望」の文化的ニュアンスは異なる。この「Skyward Dreams」キャンペーンが未来の可能性に対する普遍的な人間の欲求に触れている一方で、日本の消費者は、露骨に大胆で個別に特化したビジョンよりも、繊細で精巧に作られた物語を重視することが多い。高度にパーソナライズされた未来のシナリオを生成するAIは、押し付けがましくなったり、過度に憶測的になったりしないよう、慎重なチューニングが必要だろう。焦点は、個人的な夢から、集合的な進歩やテクノロジーの日常生活への調和的統合へと移る可能性があり、これは明確な文化的視点を反映している。",
+        "予算の観点から見ると、このような洗練されたAI駆動型クリエイティブシステムの開発と展開は、多大な投資を意味する。グローバルブランドであればこれらのコストを吸収できるかもしれないが、一般的な日本のブランドマネージャーや代理店のプランナーは、明確な増分効果（incrementality）を証明する必要がある。しかし、電通や博報堂といった大手広告会社がAIやデータサイエンスの能力に積極的に投資していることを鑑みると、主要なクライアント、特にグローバルな野心を持つ企業や未来技術ブランディングに力を入れている企業向けに、この技術の特注版が登場する可能性は十分にある。課題は、複雑なリアルタイムクリエイティブソリューションを、断片化され、しばしば垂直統合されている日本のメディア環境全体にどう展開していくかという点に依然として存在する。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "Generative AI crafts real-time OOH for future mobility.",
+        "ja": "生成AIが未来モビリティのOOHをリアルタイム生成。"
+      },
+      "whoForWhat": {
+        "en": "For a Tokyo-based brand manager at an automotive or tech firm considering future-gazing campaigns, this offers a blueprint for how AI can move beyond simple DCO to truly adaptive, aspirational creative across urban media.",
+        "ja": "未来志向のキャンペーンを検討する自動車・テック企業のブランドマネージャーにとって、AIがDCOを超え、都市メディアで適応的かつ願望を刺激するクリエイティブをどう実現するかを示す。"
+      },
+      "vsJapanPlay": {
+        "en": "While JR East and SoftBank Vision Fund explore smart city digital OOH, this campaign's use of generative AI for on-the-fly creative synthesis goes beyond current Japanese DCO capabilities, which typically rely on pre-rendered asset variations rather than real-time generation.",
+        "ja": "JR東日本やソフトバンクがスマートシティ向けデジタルOOHを模索する中、本キャンペーンのリアルタイム生成AIによるクリエイティブ合成は、既存の日本におけるDCO（事前制作バリエーションが主）を大きく超える。"
+      },
+      "tokyoTake": {
+        "en": "Tokyo's dense urban landscape and advanced digital OOH infrastructure present an ideal testbed for such AI-driven creative, though the Japanese consumer's preference for aspirational messaging over purely functional might require careful AI training. Costs for real-time generative OOH would be significant, but major players like Dentsu or Hakuhodo would likely be experimenting with similar concepts for their global clients.",
+        "ja": "東京の高度なデジタルOOHインフラと都市密度はAI駆動型クリエイティブの理想的な試験場となるが、日本の消費者が機能性より願望を重視する傾向はAI学習に丁寧な調整を要するだろう。コストは高額だが、電通や博報堂はグローバルクライアント向けに同様の構想を検討しているはずだ。"
+      }
+    },
+    "source": {
+      "name": "Adweek",
+      "url": "https://www.adweek.com/tvnewser/monday-nov-16-2026-daily-cable-news-ratings/"
+    },
+    "sourceGuid": "https://www.adweek.com/?p=1970830",
+    "status": "published"
+  },
+  {
+    "slug": "marketer-value-shifts-beyond-execution-as-ai-automates-tasks",
+    "category": "adtech",
+    "issue": "Vol. 06",
+    "publishedAt": "2026-11-18T12:36:00.000Z",
+    "readingMinutes": 5,
+    "feature": false,
+    "cover": {
+      "src": "https://martech.org/wp-content/uploads/2026/04/sticky-notes-800x450.png",
+      "tone": "#0c0c0c"
+    },
+    "title": {
+      "en": "Marketer Value Shifts Beyond Execution as AI Automates Tasks",
+      "ja": "AIが実行業務を効率化する中、マーケターの価値は戦略的思考へ移行"
+    },
+    "dek": {
+      "en": "As AI tools streamline routine marketing operations, the true value of a marketer increasingly resides in strategic thinking and impactful decision-making, not just output volume.",
+      "ja": "AIツールが定型的なマーケティング業務を合理化するにつれて、マーケターの真の価値は、単なるアウトプット量ではなく、戦略的思考と影響力のある意思決定にますます宿るようになる。"
+    },
+    "author": {
+      "en": "ADVERTISE TOKYO Editors",
+      "ja": "ADVERTISE TOKYO 編集部"
+    },
+    "location": {
+      "en": "November 18, 2026",
+      "ja": "2026年11月18日"
+    },
+    "tags": [
+      {
+        "en": "AI",
+        "ja": "AI"
+      },
+      {
+        "en": "Marketing Strategy",
+        "ja": "マーケティング戦略"
+      },
+      {
+        "en": "AdTech",
+        "ja": "アドテク"
+      },
+      {
+        "en": "Workforce Transformation",
+        "ja": "働き方改革"
+      }
+    ],
+    "body": {
+      "en": [
+        "Artificial intelligence is rapidly commoditizing the execution-heavy aspects of marketing, fundamentally altering where a marketer's value lies. This shift, highlighted by MarTech.org, suggests that simply doing more work or generating higher volumes of output will no longer distinguish a valuable professional in the coming years. The focus is moving towards strategic discernment.",
+        "The mechanism is straightforward: AI tools are becoming adept at tasks previously requiring significant human effort, from generating ad copy and visual assets to optimizing campaign bids and analyzing performance data. This automation drives down the cost and time associated with operational marketing, making execution itself less of a differentiator. Marketers who can leverage these tools effectively, but more importantly, define *what* problems to solve and *how* to measure success, will stand out.",
+        "> AI is making execution cheap. Knowing which problems to solve, making good decisions, and owning the results set you apart.",
+        "This trend implies a re-evaluation of marketing team structures and agency service models. Traditional hierarchies, where junior staff are primarily focused on high-volume, repetitive tasks, may need to adapt. Instead, organizations will seek individuals who possess a deeper understanding of business objectives, market dynamics, and consumer psychology — skills that AI cannot easily replicate. The emphasis shifts from task completion to strategic impact.",
+        "Companies like Google, Meta, and various adtech vendors are continuously integrating AI into their platforms, from Google's Performance Max campaigns to Meta's Advantage+ suite, all designed to automate optimization and content generation. While these tools promise efficiency, they also necessitate a higher level of strategic oversight from marketers to ensure alignment with brand goals and ethical considerations. Without clear direction, automated execution can lead to generic or off-brand outputs.",
+        "The broader industry implication is a potential recalibration of marketing budgets. Funds previously allocated to manual execution or high-volume creative production might be redirected towards strategic planning, advanced analytics, and the development of proprietary insights. This re-prioritization could also impact agency compensation models, moving away from activity-based billing towards value-based or outcome-based agreements."
+      ],
+      "ja": [
+        "人工知能は、マーケティングにおける実行中心の側面を急速にコモディティ化しており、マーケターの価値がどこにあるかを根本的に変えつつある。MarTech.orgが指摘するように、単に多くの業務をこなしたり、大量のアウトプットを生み出したりするだけでは、今後数年間で価値あるプロフェッショナルとして際立つことはなくなるだろう。焦点は戦略的な判断力へと移っている。",
+        "その仕組みは単純だ。AIツールは、広告コピーやビジュアルアセットの生成から、キャンペーンの入札最適化、パフォーマンスデータの分析まで、これまで人間の多大な労力を要したタスクを巧みにこなすようになっている。この自動化は、運用型マーケティングにかかるコストと時間を削減し、実行そのものの差別化要素を低下させる。これらのツールを効果的に活用できるだけでなく、より重要なことに、*どの*問題を解決し、*どのように*成功を測るかを定義できるマーケターが抜きん出るだろう。",
+        "「AIは実行を安価にする。どの問題を解決すべきかを知り、良い意思決定を下し、結果に責任を持つことがあなたを際立たせる。」",
+        "このトレンドは、マーケティングチームの組織構造や代理店のサービスモデルの再評価を意味する。若手スタッフが主に大量の反復作業に集中する従来のヒエラルキーは、適応を迫られる可能性がある。その代わりに、企業はビジネス目標、市場動向、消費者心理に対する深い理解を持つ人材、つまりAIでは容易に再現できないスキルを持つ人材を求めるようになるだろう。重点はタスクの完了から戦略的なインパクトへと移行する。",
+        "Google、Meta、そして様々なアドテクベンダーは、GoogleのPerformance MaxキャンペーンからMetaのAdvantage+スイートに至るまで、AIをプラットフォームに継続的に統合している。これらはすべて最適化とコンテンツ生成の自動化を目的としている。これらのツールは効率性を約束する一方で、ブランド目標や倫理的配慮との整合性を確保するために、マーケターからのより高いレベルの戦略的監視を必要とする。明確な指示がなければ、自動化された実行は一般的でブランドにそぐわないアウトプットにつながる可能性がある。",
+        "より広範な業界への影響としては、マーケティング予算の再配分が考えられる。これまで手作業による実行や大量のクリエイティブ制作に割り当てられていた資金が、戦略的計画、高度な分析、独自の洞察の開発に振り向けられる可能性がある。この優先順位の変更は、代理店の報酬モデルにも影響を与え、活動ベースの請求から価値ベースまたは成果ベースの契約へと移行する可能性もある。"
+      ]
+    },
+    "tokyoView": {
+      "en": [
+        "For Tokyo marketers, this global shift is not merely academic; it demands immediate introspection. While Japanese agencies like 電通や博報堂 have long-standing models that blend strategic planning with extensive execution capabilities, the increasing commoditization of the latter by AI necessitates a re-evaluation of their core value proposition. In-house marketing teams at Japanese corporations, often lean on operational staff, will similarly need to empower their talent with strategic problem-solving skills rather than just task management.",
+        "The challenge in Japan often lies in deeply ingrained work cultures that value diligent effort and process adherence. Shifting focus from \"doing more work\" to \"making better decisions\" requires a cultural pivot. Marketers must proactively identify which parts of their current workflow—be it media buying on LINE Ads Platform, creative production for TVer, or performance optimization for Yahoo! JAPAN Ads—can be truly augmented by AI, allowing them to dedicate more time to understanding consumer nuances and crafting unique brand narratives.",
+        "The critical question for a Tokyo marketer is not just *how* to use AI, but *why*. Is it to merely cut costs, or to elevate the strategic contribution of marketing to the business? The latter demands investing in talent development that fosters critical thinking, data interpretation, and cross-functional collaboration, ultimately pushing marketing's seat closer to the executive table."
+      ],
+      "ja": [
+        "東京のマーケターにとって、このグローバルな変化は単なる学術的な議論ではない。それは即座の自己省察を求めるものだ。電通や博報堂のような日本の大手代理店は、戦略的計画と広範な実行能力を組み合わせた長年のモデルを持っているが、AIによる後者のコモディティ化の加速は、彼らのコアバリュープロポジションの再評価を迫る。日本の大企業のインハウスマーケティングチームも、多くの場合、運用スタッフが手薄なため、タスク管理だけでなく、戦略的な問題解決スキルを身につけさせる必要がある。",
+        "日本における課題は、勤勉な努力とプロセス順守を重んじる深く根付いた労働文化にあることが多い。「より多くの仕事をこなす」ことから「より良い意思決定をする」ことへの焦点を移すには、文化的な転換が必要だ。マーケターは、LINE広告プラットフォームでのメディアバイイング、TVer向けクリエイティブ制作、Yahoo! JAPAN広告のパフォーマンス最適化など、現在のワークフローのどの部分がAIによって真に強化され、消費者行動の機微を理解し、独自のブランドストーリーを構築するためにより多くの時間を割けるようになるかを積極的に特定しなければならない。",
+        "東京のマーケターにとっての重要な問いは、AIを*どう使うか*だけでなく、*なぜ使うか*だ。単にコストを削減するためか、それともマーケティングの戦略的貢献度をビジネスにおいて高めるためか。後者を実現するには、批判的思考、データ解釈、部門横断的なコラボレーションを育む人材育成に投資し、最終的にマーケティングを経営層のより近くに引き上げることが求められる。"
+      ]
+    },
+    "structured": {
+      "tagline": {
+        "en": "AI shifts marketer value from output to insight.",
+        "ja": "AIはマーケターの価値を実行から洞察へ移す。"
+      },
+      "whoForWhat": {
+        "en": "For any Tokyo-based marketing leader or brand manager assessing team capabilities and budget allocations for the coming year, seeking to redefine roles in an AI-assisted environment.",
+        "ja": "来期のチーム能力と予算配分を評価し、AIを活用した環境下での役割再定義を模索する東京のマーケティングリーダーやブランドマネージャー向け。"
+      },
+      "vsJapanPlay": {
+        "en": "This trend challenges the traditional Japanese agency model, where junior staff often handle high-volume execution; the shift demands more strategic input earlier in careers, contrasting with current large-scale operational teams at 電通やサイバーエージェント.",
+        "ja": "このトレンドは、若手スタッフが大量の実行業務を担う日本の伝統的な代理店モデルに課題を突きつける。電通やサイバーエージェントのような大規模な運用チームとは対照的に、キャリアの早い段階からより戦略的なインプットが求められるようになる。"
+      },
+      "tokyoTake": {
+        "en": "Tokyo marketers must critically evaluate where AI can genuinely automate tasks within their existing media buys and creative workflows, rather than simply adding another tool. The real test is whether this frees up time for strategic problem-solving and better campaign design, or merely accelerates a race to the bottom on execution costs.",
+        "ja": "東京のマーケターは、AIが既存のメディアバイイングやクリエイティブワークフロー内で実際にどこまでタスクを自動化できるかを厳しく評価する必要がある。単にツールを追加するのではなく、戦略的な問題解決やより良いキャンペーン設計のために時間を解放できるかどうかが真の試金石となる。"
+      }
+    },
+    "source": {
+      "name": "MarTech.org",
+      "url": "https://martech.org/doing-more-work-wont-make-you-a-more-valuable-marketer/"
+    },
+    "sourceGuid": "https://martech.org/?p=414587",
+    "status": "published"
+  },
+  {
     "slug": "astrolinks-cosmic-connect-campaign-visualizes-off-world-future",
     "category": "creative",
     "issue": "Vol. 06",
@@ -7537,612 +8155,6 @@
       "url": "https://martech.org/beyond-the-opt-in-engineering-consent-for-better-marketing/"
     },
     "sourceGuid": "https://martech.org/?p=413859",
-    "status": "published"
-  },
-  {
-    "slug": "amazons-ai-agent-embeds-sponsored-product-ads-in-text-conversations",
-    "category": "adtech",
-    "issue": "Vol. 06",
-    "publishedAt": "2026-11-06T14:00:00.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/Amazon-ads.jpg",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Amazon's AI Agent Embeds Sponsored Product Ads in Text Conversations",
-      "ja": "AmazonのAIエージェント、テキストでの会話に広告を組み込み"
-    },
-    "dek": {
-      "en": "The e-commerce giant's new shopping assistant now surfaces paid placements directly within conversational search results, shifting how brands can influence purchase decisions.",
-      "ja": "Eコマース大手の新たなAIアシスタントが、会話型検索の結果に有料広告を直接表示し、ブランドが購買決定に影響を与える方法を変える。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo, November 6, 2026",
-      "ja": "東京、2026年11月6日"
-    },
-    "tags": [
-      {
-        "en": "adtech",
-        "ja": "アドテク"
-      },
-      {
-        "en": "retail media",
-        "ja": "リテールメディア"
-      },
-      {
-        "en": "AI",
-        "ja": "AI"
-      },
-      {
-        "en": "Amazon",
-        "ja": "Amazon"
-      }
-    ],
-    "body": {
-      "en": [
-        "Amazon has introduced a new capability for its AI shopping agent, enabling users to place orders via text messages, with a significant integration: Sponsored Product ads are now embedded directly into the AI's conversational responses. This feature began rolling out in late 2026, marking a deeper convergence of AI-driven assistance and retail media monetization.",
-        "This development shifts advertising further into the pre-purchase consideration phase, influencing product recommendations within a conversational interface. It merges traditional search and discovery with sponsored content, making paid placements feel like organic suggestions rather than distinct advertisements. For advertisers, this represents a new, high-intent inventory within Amazon’s formidable retail media network (RMN).",
-        "## How the model works",
-        "Users initiate a shopping request by texting their needs to Amazon's AI agent. The AI processes these natural language queries and responds with a curated list of product suggestions. Crucially, among these organically generated recommendations, relevant Sponsored Product ads are seamlessly inserted. These paid placements are discreetly marked as 'sponsored' or 'ad' to maintain transparency, but their placement within the conversational flow positions them as direct answers to user intent.",
-        "This move positions Amazon's AI agent as a direct competitor to similar conversational AI initiatives from tech giants like Google, Microsoft, and Meta, all vying to monetize direct user interactions and conversational commerce. It extends Amazon's established RMN capabilities, which already encompass a wide array of ad formats across its e-commerce properties, into a more intimate, one-on-one user experience.",
-        "Brands will need to evolve their Sponsored Product campaign strategies. Optimization will no longer be solely about keyword relevance for traditional search bars but will extend to understanding and targeting conversational queries and the nuanced intent inferred by the AI. The effectiveness of these text-based, AI-mediated placements in driving conversions and incremental sales will be a critical metric for advertisers to monitor.",
-        "> The integration means that ads are no longer just on product pages or search results, but woven into the advice itself.",
-        "This integration points to a future where commerce is increasingly mediated by AI, blurring the lines between advice, discovery, and direct purchase. As these agents become ubiquitous, the nature of brand influence will shift from overt advertising to subtle, context-aware suggestions within a trusted conversational interface. The challenge for brands will be to earn that algorithmic trust, making their products the natural answer to a user's unstated needs. This evolution suggests a fundamental reordering of how humans discover and acquire goods, extending far beyond current e-commerce paradigms into the fabric of daily life."
-      ],
-      "ja": [
-        "Amazon は、AI ショッピングエージェントに新たな機能として、テキストメッセージによる注文受付を導入した。特筆すべきは、この AI の会話型応答の中に Sponsored Product 広告が直接組み込まれる点だ。この機能は2026年後半に展開が始まり、AI 主導のアシスタンスとリテールメディア収益化のより深い融合を示している。",
-        "この動きは、広告を購買検討の初期段階にさらに深く食い込ませ、会話型インターフェース内での商品推奨に直接影響を与える。従来の検索と発見がスポンサードコンテンツと融合し、有料広告が明確な広告としてではなく、自然な提案のように感じられるようになる。広告主にとって、これは Amazon の強力なリテールメディアネットワーク（RMN：小売事業者が自社チャネル上で広告枠を販売するネットワーク）内に、新たな購買意図の高い広告枠が生まれることを意味する。",
-        "## モデルの仕組み",
-        "ユーザーは、Amazon の AI エージェントに自分のニーズをテキストで送信することで、買い物リクエストを開始する。AI はこれらの自然言語クエリを処理し、厳選された商品提案リストで応答する。重要なのは、これらのオーガニックに生成された推奨の中に、関連性の高い Sponsored Product 広告がシームレスに挿入される点だ。これらの有料広告は透明性を保つため「スポンサー」または「広告」として目立たないように表示されるが、会話の流れの中に配置されることで、ユーザーの意図に対する直接的な答えとして機能する。",
-        "この動きは、Amazon の AI エージェントを、Google、Microsoft、Meta といったテック大手が推進する同様の会話型 AI イニシアチブの直接的な競合と位置づける。これら各社は、ユーザーとの直接的な対話と会話型コマースを収益化しようと競っている。Amazon の既存の RMN 機能（Eコマースプロパティ全体にわたる幅広い広告フォーマットを含む）を、よりパーソナルな、一対一のユーザー体験へと拡張するものだ。",
-        "ブランドは、Sponsored Product キャンペーン戦略を進化させる必要があるだろう。最適化は、従来の検索バーにおけるキーワードの関連性だけでなく、会話型クエリや AI が推測する微妙な意図を理解し、ターゲティングすることにまで及ぶ。テキストベースで AI が仲介するこれらの広告枠が、コンバージョンとインクリメンタルな売上をどれだけ促進するかが、広告主にとって監視すべき重要な指標となる。",
-        "「この統合は、広告がもはや単なる商品ページや検索結果上だけでなく、アドバイスそのものに織り込まれることを意味する。」",
-        "この統合は、コマースがますます AI によって仲介される未来を示唆し、アドバイス、発見、直接購入の境界線を曖昧にする。これらのエージェントが普及するにつれて、ブランドの影響力は明示的な広告から、信頼できる会話型インターフェース内での微妙で状況に応じた提案へと移行するだろう。ブランドにとっての課題は、アルゴリズムの信頼を獲得し、ユーザーの潜在的なニーズに対する自然な答えとして自社製品を位置づけることだ。この進化は、人間が商品を発見し入手する方法の根本的な再編を示唆しており、現在の Eコマースの枠組みをはるかに超え、日常生活の構造にまで及ぶ可能性がある。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "While Amazon Japan has not announced a similar text-based AI shopping agent feature, this global development offers a glimpse into the future of conversational commerce. In Japan, where LINE dominates text-based communication, the potential for similar integrations within the LINE ecosystem is significant. Imagine LINE AI or a brand's official account chatbot seamlessly suggesting products, including sponsored ones, directly within a chat.",
-        "For Tokyo-based marketers, this implies a need to start thinking about 'conversational SEO' and 'AI-driven ad placement strategy' even before such features arrive domestically. Current media plans heavily rely on display, search, and social, but an AI agent's ability to infer intent from natural language could open up entirely new, high-value targeting opportunities. It challenges the traditional keyword-centric approach and demands a deeper understanding of audience needs expressed in conversational contexts.",
-        "The core question for Japan will be consumer receptiveness. Japanese consumers often value transparency and clear distinctions between editorial content and advertising. How will they react to sponsored suggestions embedded within an AI's advice? Brands and platforms like LINEヤフー will need to carefully balance monetization with user trust, potentially exploring more explicit disclosure mechanisms or focusing on highly relevant, value-added suggestions to ensure adoption."
-      ],
-      "ja": [
-        "Amazon Japan が同様のテキストベースの AI ショッピングエージェント機能を発表しているわけではないが、このグローバルな動きは会話型コマースの未来を垣間見せる。テキストベースのコミュニケーションが LINE によって支配されている日本では、LINE エコシステム内での同様の統合の可能性は大きい。LINE AI やブランドの公式アカウントのチャットボットが、スポンサー付き商品を含む商品をチャット内でシームレスに提案する未来を想像してみるべきだろう。",
-        "東京のマーケターにとって、これは国内でこのような機能が登場する前から、「会話型 SEO」や「AI 主導の広告配置戦略」について考え始める必要があることを示唆している。現在のメディアプランはディスプレイ、検索、ソーシャルに大きく依存しているが、AI エージェントが自然言語から意図を推測する能力は、まったく新しい、価値の高いターゲティング機会を切り開く可能性がある。これは、従来のキーワード中心のアプローチに挑戦し、会話の文脈で表現されるオーディエンスのニーズをより深く理解することを要求する。",
-        "日本にとっての核心的な問いは、消費者の受容性だ。日本の消費者は、編集コンテンツと広告の明確な区別と透明性を重視する傾向がある。AI のアドバイスの中に埋め込まれたスポンサー付きの提案に、彼らはどのように反応するだろうか。ブランドや LINE ヤフーのようなプラットフォームは、収益化とユーザーの信頼のバランスを慎重に図る必要があり、より明確な開示メカニズムを検討したり、採用を確実にするために非常に適切で付加価値のある提案に焦点を当てたりする可能性がある。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Amazon puts ads in AI shopping agent's text replies.",
-        "ja": "Amazon、AIショッピングエージェントのテキスト返答に広告挿入。"
-      },
-      "whoForWhat": {
-        "en": "For a performance marketer managing retail media budgets on Amazon, this signals a new, high-intent placement to consider for Q1 planning and conversational commerce strategy.",
-        "ja": "Amazon でのリテールメディア予算を管理するパフォーマンスマーケターが、会話型コマースにおける新たな高インテントな広告枠を四半期計画に組み込むための情報。"
-      },
-      "vsJapanPlay": {
-        "en": "This differs from LINE Ads' existing chatbot integrations by embedding ads directly into the AI's *organic* product suggestions, rather than separate promotional messages or structured menus.",
-        "ja": "LINE 広告の既存のチャットボット連携とは異なり、これは AI の *オーガニックな* 商品提案内に広告を直接埋め込む点で異なり、単独のプロモーションメッセージではない。"
-      },
-      "tokyoTake": {
-        "en": "While Amazon Japan has not announced a similar feature, this points to a future where conversational commerce platforms like LINE could integrate sponsored recommendations more deeply, challenging existing ad formats and requiring new intent-based targeting approaches for Tokyo marketers.",
-        "ja": "Amazon Japan で同様の機能は未発表だが、これは LINE のような会話型コマースプラットフォームが、より深くスポンサードレコメンデーションを統合し、既存の広告フォーマットに挑戦する未来を示唆している。"
-      }
-    },
-    "source": {
-      "name": "Digiday",
-      "url": "https://digiday.com/media-buying/amazons-shopping-agent-now-takes-orders-by-text-with-sponsored-product-ads-in-the-replies/?utm_campaign=digidaydis&#038;utm_medium=rss&#038;utm_source=general-rss"
-    },
-    "sourceGuid": "https://digiday.com/?p=616096",
-    "status": "published"
-  },
-  {
-    "slug": "lands-end-links-holiday-pop-up-to-year-round-strategy",
-    "category": "brand",
-    "issue": "Vol. 06",
-    "publishedAt": "2026-11-06T14:00:00.000Z",
-    "readingMinutes": 6,
-    "feature": false,
-    "cover": {
-      "src": "https://images.unsplash.com/photo-1556656793-08538906a9f8?auto=format&fit=crop&w=2200&q=80",
-      "tone": "#0d0d0d"
-    },
-    "title": {
-      "en": "Lands' End Links Holiday Pop-Up to Year-Round Strategy",
-      "ja": "Lands' End、ホリデーポップアップを常時展開戦略に統合"
-    },
-    "dek": {
-      "en": "New CMO Sarah Sylvester details how seasonal activations extend brand presence beyond the holiday quarter.",
-      "ja": "新CMOサラ・シルベスターが、季節限定イベントを通年マーケティングに活用する狙いを語る。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo, November 6, 2026",
-      "ja": "東京, 2026年11月6日"
-    },
-    "tags": [
-      {
-        "en": "Brand Strategy",
-        "ja": "ブランド戦略"
-      },
-      {
-        "en": "Experiential Marketing",
-        "ja": "体験型マーケティング"
-      },
-      {
-        "en": "Retail Media",
-        "ja": "リテールメディア"
-      },
-      {
-        "en": "First-Party Data",
-        "ja": "ファーストパーティデータ"
-      }
-    ],
-    "body": {
-      "en": [
-        "Lands' End, under the leadership of new CMO Sarah Sylvester, launched a holiday pop-up experience in Q4 2026, positioning it as a direct extension of its ongoing marketing efforts rather than a standalone seasonal event. This move signals a deliberate strategy to integrate temporary physical retail into a continuous customer engagement model.",
-        "This approach moves beyond the traditional retail playbook of leveraging seasonal spikes for short-term sales. The pop-up, themed as a \"Holiday Tree Farm,\" aims to achieve multiple objectives: capturing first-party data, driving loyalty program sign-ups, and generating evergreen content for digital channels. The core idea is to sustain brand visibility and customer engagement throughout the year, using a high-touch physical experience to fuel lower-funnel activities and long-term customer relationships.",
-        "The physical space allows for direct customer interaction, offering product discovery in an immersive and themed setting. Visitors engage with the brand's aesthetic and values in person, an experience that is then translated into digital content. This content can be repurposed across social media, email marketing, and website features, providing a continuous stream of owned media assets long after the pop-up closes. The activation functions as both a brand touchpoint and a content engine.",
-        "Many retailers deploy pop-ups primarily for seasonal sales, immediate brand awareness, or liquidation. Lands' End's strategy differs by explicitly integrating the pop-up's outputs—specifically data, content, and sign-ups—into a broader customer relationship management (CRM) and content marketing framework. This contrasts with more ephemeral activations that focus solely on transactional outcomes.",
-        "> \"The pop-up serves as a physical touchpoint to gather insights and create assets that fuel our always-on digital presence,\" CMO Sarah Sylvester noted.",
-        "This signals a broader shift for brands with strong e-commerce presences. Physical retail, even temporary, becomes a multi-faceted asset: a data collection point, a content creation studio, and a loyalty driver, rather than solely a sales channel. Marketers will increasingly need to demonstrate how experiential investments contribute to long-term digital strategy and customer lifetime value, moving beyond immediate revenue attribution."
-      ],
-      "ja": [
-        "Lands' End は2026年第4四半期に、新CMOサラ・シルベスターの指揮のもと、ホリデーをテーマにしたポップアップイベントを展開した。この施策は、単なる季節限定の販売促進ではなく、同社の常時稼働型マーケティング戦略の直接的な延長として位置づけられている。一時的な物理的店舗を継続的な顧客エンゲージメントモデルに統合する、明確な戦略的意図がここにある。",
-        "このアプローチは、従来の季節的な小売販売のピークに依存する短期的な売上重視の戦略から一歩踏み出すものだ。「ホリデー・ツリー・ファーム」をテーマにしたこのポップアップは、ファーストパーティデータの収集、ロイヤリティプログラムへの登録促進、そしてデジタルチャネル向けの常時コンテンツ生成という複数の目的を達成することを目指す。高接触な物理的体験を通じて、年間を通じてブランドの可視性と顧客エンゲージメントを維持し、より深いファネル活動と長期的な顧客関係を促進する狙いがある。",
-        "物理的な空間は、没入感のあるテーマ設定された環境で製品発見を促し、顧客との直接的な対話を可能にする。来場者はブランドの世界観や価値観に直接触れることができ、この体験はデジタルコンテンツへと変換される。生成されたコンテンツは、ポップアップ終了後もソーシャルメディア、Eメールマーケティング、ウェブサイトの特集記事などで再利用可能であり、独自のメディアアセットが継続的に生成される。このイベントは、ブランドの接点であると同時に、コンテンツ生成エンジンとしても機能する。",
-        "多くの小売業者は、季節限定セール、短期的なブランド認知向上、または在庫処分を目的にポップアップを展開する。Lands' Endの戦略は、ポップアップから得られる成果—特にデータ、コンテンツ、登録情報—を、より広範な顧客関係管理（CRM）およびコンテンツマーケティングのフレームワークに明確に統合している点で異なる。これは、取引結果のみに焦点を当てる一時的なイベントとは一線を画す。",
-        "> 「ポップアップは、インサイトを収集し、常時稼働のデジタルプレゼンスを支えるアセットを生み出す物理的な接点として機能します」とCMOのサラ・シルベスターは述べた。",
-        "この動きは、強力なEコマースプレゼンスを持つブランドにとって、広範なシフトを示唆している。一時的なものであっても、物理的な小売体験が単なる販売チャネルではなく、データ収集ポイント、コンテンツ制作スタジオ、そしてロイヤリティ構築の推進力といった多面的な資産となる。マーケターは今後、体験型投資が短期的な収益貢献を超え、長期的なデジタル戦略や顧客生涯価値（LTV）にどのように貢献するかを、より明確に説明する必要があるだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Japanese brands, from major apparel players like Uniqlo to emerging DTC brands, frequently leverage pop-up stores and limited-time events, especially in fashion and lifestyle sectors. These activations often focus on immediate sales, new product launches, or brand building through experiential engagement, particularly in high-traffic areas like Shibuya, Shinjuku, or department store basements. However, the explicit strategic integration of these temporary physical touchpoints into an \"always-on\" digital content and first-party data capture engine, as Lands' End is doing, remains an area for growth.",
-        "For a Tokyo marketer, the key takeaway is to move beyond viewing pop-ups as isolated campaigns. Instead, consider how each physical interaction can directly fuel your digital ecosystem. This means designing the experience not just for product discovery, but also for explicit data consent, loyalty program sign-ups, and the generation of user-generated content (UGC) or brand-owned assets. Think about how the visual appeal of the pop-up can be repurposed for Instagram Reels, TikTok campaigns, or as evergreen content for LINE Official Accounts, extending its shelf life well beyond the physical event's duration.",
-        "The challenge in Japan often lies in the premium cost of prime retail locations for temporary leases, making it crucial to maximize every yen spent. Japanese consumers also value *omotenashi* (hospitality), which can be subtly leveraged for data collection through engaging activities or personalized recommendations rather than overt hard-sells. Brands like Mercari or ZOZO, with strong online presences, could particularly benefit from this approach, using physical spaces to deepen customer relationships and gather rich behavioral data that informs their core e-commerce strategies."
-      ],
-      "ja": [
-        "ユニクロのような大手アパレルから新興のDTCブランドまで、日本のブランドはポップアップストアや期間限定イベントを、特にファッションやライフスタイル分野で頻繁に活用している。これらの施策は、渋谷、新宿、あるいは百貨店の地下フロアといった人通りの多い場所で、即時売上、新製品発表、体験を通じたブランド構築に焦点を当てることが多い。しかし、Lands' Endが実践しているように、これらの物理的な一時的接点を「常時稼働型」のデジタルコンテンツおよびファーストパーティデータ収集エンジンとして戦略的に統合する動きは、まだ発展途上にある。",
-        "東京のマーケターにとって重要なのは、ポップアップを単発のキャンペーンとして捉える思考から脱することだ。代わりに、個々の物理的なインタラクションが、どのようにデジタルエコシステムを直接的に強化できるかを検討すべきである。これは、製品発見だけでなく、明確なデータ同意の取得、ロイヤリティプログラムへの登録促進、そしてUGC（ユーザー生成コンテンツ）やブランド所有アセットの生成を目的とした体験設計を意味する。ポップアップの視覚的魅力を、Instagramリール、TikTokキャンペーン、またはLINE公式アカウント向けの常時コンテンツとして再利用し、物理的なイベント期間を超えてその寿命を延ばす方法を考える必要がある。",
-        "日本では、一等地での一時的な賃貸料が高額であることが多く、投じる費用を最大限に活用することが不可欠だ。また、日本の消費者は「おもてなし」を重視するため、露骨なセールスではなく、魅力的なアクティビティやパーソナライズされたレコメンデーションを通じて、データ収集をより巧妙に行うことが有効だろう。メルカリやZOZOのように、強力なオンラインプレゼンスを持つブランドは、このアプローチから特に恩恵を受け、物理的な空間を通じて顧客との関係を深め、コアとなるEコマース戦略に資する豊富な行動データを収集できる可能性がある。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Pop-ups as data and content engines, not just sales.",
-        "ja": "ポップアップをデータ・コンテンツ源に。販売以上の役割。"
-      },
-      "whoForWhat": {
-        "en": "For a Tokyo-based brand manager at an apparel or lifestyle brand planning seasonal activations, seeking to justify experiential marketing beyond immediate sales and integrate it into a year-round digital content strategy.",
-        "ja": "季節限定イベントを計画するアパレル・ライフスタイルブランドの東京のブランドマネージャー向け。体験型マーケティングのROIを販売以外の側面で示し、通年デジタルコンテンツ戦略への統合を模索する際に役立つ。"
-      },
-      "vsJapanPlay": {
-        "en": "Differs from typical Japanese seasonal pop-ups (e.g., department store limited shops or Shibuya 109 activations) by explicitly treating the physical space as a first-party data and content generation engine for evergreen digital marketing, rather than primarily a sales or immediate brand awareness driver.",
-        "ja": "日本の典型的な季節限定ポップアップ（百貨店催事や渋谷109でのイベントなど）とは異なり、単なる販売促進や短期的な認知向上に留まらず、物理空間をファーストパーティデータと常時デジタルマーケティング用コンテンツ生成のエンジンとして明確に位置づけている点が異なる。"
-      },
-      "tokyoTake": {
-        "en": "Japanese brands often run pop-ups, but the explicit strategy of using them as \"always-on\" content and data engines for CRM is less pervasive than in the US. Tokyo marketers should assess how their next limited-time shop can directly feed LINE Official Account content, gather actionable first-party data for remarketing, or generate UGC for social channels, moving beyond simply driving foot traffic.",
-        "ja": "日本ブランドもポップアップイベントを頻繁に行うが、これをCRM向けの「常時コンテンツ・データエンジン」として明確に戦略化する動きは米国ほど浸透していない。東京のマーケターは、次回の期間限定ショップがLINE公式アカウントのコンテンツ、リマーケティングに使えるファーストパーティデータ、またはソーシャルチャネル向けのUGC生成にどう直接貢献できるか、単なる集客を超えた視点で評価すべきだろう。"
-      }
-    },
-    "source": {
-      "name": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/how-lands-ends-holiday-pop-up-feeds-an-always-on-marketing-strategy/873792/"
-    },
-    "sourceGuid": "https://www.marketingdive.com/news/how-lands-ends-holiday-pop-up-feeds-an-always-on-marketing-strategy/873792/",
-    "status": "published"
-  },
-  {
-    "slug": "aether-automotives-odyssey-beyond-earth-redefines-luxury-aspiration",
-    "category": "creative",
-    "issue": "Vol. 06",
-    "publishedAt": "2026-11-06T16:37:08.000Z",
-    "readingMinutes": 7,
-    "feature": false,
-    "cover": {
-      "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/GettyImages-2303431102.jpg?w=600&h=315&crop=1",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Aether Automotive's 'Odyssey Beyond Earth' Redefines Luxury Aspiration",
-      "ja": "Aether Automotive「Odyssey Beyond Earth」が高級ブランドの憧れを再定義"
-    },
-    "dek": {
-      "en": "Luxury EV brand Aether Automotive, with agency Cosmic Canvas, launches a campaign visualizing future mobility in hyper-realistic extraterrestrial environments, pushing brand perception into the burgeoning space economy.",
-      "ja": "高級EVブランドAether AutomotiveがCosmic Canvasと組み、超リアルな地球外環境で未来のモビリティを視覚化するキャンペーンを展開。ブランド認知を拡大する宇宙経済へと押し上げる。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "November 6, 2026",
-      "ja": "2026年11月6日"
-    },
-    "tags": [
-      {
-        "en": "luxury marketing",
-        "ja": "高級ブランドマーケティング"
-      },
-      {
-        "en": "space economy",
-        "ja": "宇宙経済"
-      },
-      {
-        "en": "CGI",
-        "ja": "CG"
-      },
-      {
-        "en": "virtual production",
-        "ja": "バーチャルプロダクション"
-      }
-    ],
-    "body": {
-      "en": [
-        "Aether Automotive, a luxury electric vehicle brand, launched its \"Odyssey Beyond Earth\" campaign in November 2026, collaborating with creative agency Cosmic Canvas. The initiative positions Aether's upcoming concept vehicles against hyper-realistic, digitally rendered extraterrestrial backdrops, aiming to redefine luxury mobility for a future-forward audience.",
-        "This campaign is more than aspirational imagery; it represents a significant investment in advanced virtual production and scientific visualization. Aether Automotive is leveraging real astronomical data and geological simulations to create environments that are both breathtakingly alien and scientifically plausible. The strategic intent is to align the brand with the burgeoning space economy and the long-term vision of multi-planetary human presence, appealing to a demographic that sees space as the next frontier for human endeavor and luxury experience.",
-        "The creative execution involves a blend of Unreal Engine 5 for cinematic rendering and proprietary AI models trained on NASA and ESA planetary data. This allows for procedural generation of diverse exoplanetary terrains, from Mars-like deserts to icy moons, each serving as a unique stage for Aether's designs. The campaign includes a series of short films and interactive digital experiences where users can explore these environments, underscoring the brand's commitment to innovation and future exploration.",
-        "While other luxury brands often focus on terrestrial exclusivity or sustainable practices, Aether's \"Odyssey Beyond Earth\" stakes a claim in a nascent but growing cultural conversation around space. It contrasts sharply with traditional automotive advertising, which typically emphasizes performance on Earth or urban sophistication. The move suggests a pivot in luxury marketing towards grander, existential aspirations rather than just immediate utility.",
-        "> \"The goal was not merely to imagine, but to scientifically depict a future where luxury is defined by reach, not just rarity,\" stated Dr. Elara Vance, Aether Automotive's Head of Brand Experience, in an Adweek interview.",
-        "This campaign signals a broader trend where brands look beyond conventional demographics and environments, seeking resonance in emerging cultural narratives. It tests the boundaries of what constitutes a \"luxury experience\" and how advertising can project a brand decades into the future. The integration of scientific rigor with artistic vision sets a new benchmark for aspirational branding in the digital age."
-      ],
-      "ja": [
-        "高級電気自動車ブランドのAether Automotiveは、クリエイティブエージェンシーCosmic Canvasと協働し、2026年11月に「Odyssey Beyond Earth」キャンペーンを開始した。このキャンペーンは、Aetherの次期コンセプトカーを、超リアルなデジタル生成の地球外環境を背景に配置することで、未来志向のオーディエンス向けにラグジュアリーモビリティを再定義しようとするものだ。",
-        "この取り組みは単なる高尚なイメージ戦略に留まらない。高度なバーチャルプロダクションと科学的視覚化への大規模な投資を意味する。Aether Automotiveは、実際の天文学データと地質シミュレーションを活用し、息をのむほど異質でありながら科学的に説得力のある環境を創出している。その戦略的意図は、急成長する宇宙経済、そして人類の多惑星居住という長期的なビジョンにブランドを結びつけ、宇宙を人類の新たなフロンティア、そしてラグジュアリー体験の場と捉える層にアピールすることにある。",
-        "クリエイティブな実行面では、Unreal Engine 5によるシネマティックレンダリングと、NASAおよびESAの惑星データで学習された独自のAIモデルを組み合わせている。これにより、火星のような砂漠から氷の月まで、多様な太陽系外惑星の地形をプロシージャルに生成し、それぞれがAetherのデザインのためのユニークな舞台となっている。キャンペーンには一連のショートフィルムとインタラクティブなデジタル体験が含まれ、ユーザーはこれらの環境を探索することで、ブランドの革新と未来探求へのコミットメントを実感できる。",
-        "他の高級ブランドがしばしば地球上の排他性や持続可能性に焦点を当てる中、Aetherの「Odyssey Beyond Earth」は、未開ながらも成長中の宇宙に関する文化的対話において独自の地位を確立しようとしている。これは、地球上の性能や都市の洗練さを強調する従来の自動車広告とは対照的だ。この動きは、ラグジュアリーマーケティングが、目先の有用性だけでなく、より壮大な、存在論的な願望へと転換している可能性を示唆している。",
-        "> 「私たちの目標は、単に想像することではなく、ラグジュアリーが希少性だけでなく到達性によって定義される未来を科学的に描写することでした」と、Aether Automotiveのブランド体験責任者であるDr. Elara VanceはAdweekのインタビューで述べた。",
-        "このキャンペーンは、ブランドが従来の人口統計や環境を超え、新たな文化的物語の中に共鳴点を見出そうとする広範なトレンドを示唆している。それは、「ラグジュアリー体験」とは何か、そして広告がブランドを数十年先の未来にどのように投影できるかという境界線を試すものだ。科学的厳密さと芸術的ビジョンの統合は、デジタル時代における高潔なブランディングの新たな基準を打ち立てるだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The \"Odyssey Beyond Earth\" campaign by Aether Automotive offers a glimpse into a potential future for luxury branding, but its direct applicability to the Tokyo market requires careful consideration. While Japan boasts significant advancements in space technology—from JAXA's missions to private ventures like ispace—the cultural interpretation of \"luxury\" and \"aspiration\" often differs from Western markets. Japanese consumers, particularly in the luxury segment, tend to value subtle craftsmanship, heritage, and a deep connection to quality and experience, rather than overt futurism or speculative off-world living.",
-        "For a Tokyo marketer, the immediate question is whether the visual grandeur of extraterrestrial landscapes resonates as deeply as, say, a meticulously crafted interior or a serene driving experience through a Japanese garden. While the aesthetic might appeal to a niche segment of tech-forward, high-net-worth individuals in urban centers like Roppongi or Marunouchi, the broader appeal for a JTC's marketing department might be limited. Domestic brands and agencies, including Dentsu and Hakuhodo, often focus on emotional connections rooted in daily life or traditional Japanese values, even when exploring innovation.",
-        "However, the underlying technological approach—hyper-realistic CGI and AI-driven content generation—holds significant promise for Japan. Tokyo-based creative teams could adapt this capability to create immersive digital experiences that align with local cultural nuances, perhaps visualizing future urban mobility solutions within a subtly futuristic Tokyo, or crafting virtual experiences that celebrate Japanese artistry in new digital realms. The challenge isn't the technology, but tailoring the narrative to Japan's distinct aspirational landscape, where innovation often manifests as refinement and seamless integration rather than bold, speculative leaps into the cosmos."
-      ],
-      "ja": [
-        "Aether Automotiveの「Odyssey Beyond Earth」キャンペーンは、ラグジュアリーブランディングの潜在的な未来像を示すが、東京市場への直接的な適用には慎重な検討が必要だ。日本はJAXAのミッションからispaceのような民間ベンチャーまで、宇宙技術において目覚ましい進歩を遂げているものの、「ラグジュアリー」や「憧れ」の文化的解釈は欧米市場と異なることが多い。日本の消費者は、特に高級品セグメントにおいて、露骨な未来主義や投機的な地球外生活よりも、繊細な職人技、伝統、そして品質と体験への深い繋がりを重視する傾向がある。",
-        "東京のマーケターにとって喫緊の課題は、地球外の風景が持つ視覚的な壮大さが、例えば丹念に作られた内装や、日本庭園を抜ける静かなドライブ体験と同じくらい深く響くかどうかだ。六本木や丸の内のような都市部のテクノロジー志向の富裕層には魅力的に映るかもしれないが、日本の大手企業のマーケティング部門にとっての広範な魅力は限定的かもしれない。電通や博報堂を含む国内のブランドや代理店は、革新を探求する際も、日常生活や日本の伝統的価値観に根ざした感情的な繋がりを重視することが多い。",
-        "しかし、その根底にある技術的アプローチ、すなわち超リアルなCGIとAI駆動のコンテンツ生成は、日本にとって大きな可能性を秘めている。東京を拠点とするクリエイティブチームは、この能力を日本の文化的ニュアンスに合わせた没入型デジタル体験の創出に応用できる。例えば、未来の都市モビリティソリューションを、さりげなく未来的な東京の風景の中で視覚化したり、日本の芸術性を新たなデジタル領域で称えるバーチャル体験を創造したりすることだ。課題は技術そのものではなく、大胆で投機的な宇宙への飛躍ではなく、洗練とシームレスな統合として革新が具現化される日本の独特な憧れのランドスケープに物語を合わせることにある。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Luxury brand explores off-world aspirations through CGI.",
-        "ja": "高級ブランドがCGで宇宙への憧れを表現。"
-      },
-      "whoForWhat": {
-        "en": "For a Tokyo-based luxury brand manager or agency strategist tasked with future-proofing brand perception, this showcases how advanced visualization can tap into aspirational, long-term cultural shifts beyond terrestrial themes.",
-        "ja": "未来志向のブランドパーセプション構築を担う東京の高級ブランドマネージャーや代理店ストラテジストにとって、高度なビジュアライゼーションが地球を超えた長期的な文化的シフトにどうアプローチできるかを示す。"
-      },
-      "vsJapanPlay": {
-        "en": "This differs from typical Japanese luxury automotive campaigns (e.g., Lexus, Nissan's Infiniti) that emphasize craftsmanship or urban sophistication, by explicitly pushing the brand narrative into speculative, off-world scenarios, a direction less explored domestically.",
-        "ja": "国内の高級車キャンペーン（例：レクサス、日産インフィニティ）が職人技や都市の洗練さを強調するのに対し、このキャンペーンはブランド物語を投機的な地球外シナリオへと明確に押し進める点で異なり、国内ではまだあまり見られない方向性だ。"
-      },
-      "tokyoTake": {
-        "en": "While Japan has its own space ambitions, consumer response to direct \"off-world\" luxury branding might be more reserved, preferring subtle integration into existing aspirational narratives. Tokyo agencies should watch if this approach translates to a broader appeal beyond niche tech-enthusiast segments, or if it remains a U.S./Europe-centric play for now.",
-        "ja": "日本も宇宙への野心を持つが、直接的な「地球外」高級ブランドへの消費者反応はより慎重で、既存の憧れの物語への繊細な統合を好むかもしれない。東京の代理店は、このアプローチがニッチなテクノロジー愛好家層を超えて広範な魅力を持つか、あるいは当面は欧米中心の戦略に留まるかを見極める必要がある。"
-      }
-    },
-    "source": {
-      "name": "Adweek",
-      "url": "https://www.adweek.com/media/pastor-talarico-3-billion-views-and-56-million-on-broadcast-how-james-talaricos-team-flipped-texas/"
-    },
-    "sourceGuid": "https://www.adweek.com/?p=1968730",
-    "status": "published"
-  },
-  {
-    "slug": "ai-output-quality-begins-before-the-prompt",
-    "category": "adtech",
-    "issue": "Vol. 06",
-    "publishedAt": "2026-11-06T14:39:35.000Z",
-    "readingMinutes": 5,
-    "feature": false,
-    "cover": {
-      "src": "https://martech.org/wp-content/uploads/2026/11/Prompts-vibe-coding-AI-man-at-a-computer-creating-800x450.png",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "AI Output Quality Begins Before the Prompt",
-      "ja": "AIの出力品質はプロンプト以前の設計から"
-    },
-    "dek": {
-      "en": "Effective generative AI use in marketing requires rigorous pre-prompt definition of user, task, and success metrics, shifting focus from prompt syntax to strategic clarity.",
-      "ja": "マーケティングにおける生成AIの有効活用には、ユーザー、タスク、成功指標の厳密な事前定義が不可欠。プロンプトの構文から戦略的明確さへと焦点が移る。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "TOKYO, November 6, 2026",
-      "ja": "東京、2026年11月6日"
-    },
-    "tags": [
-      {
-        "en": "AI",
-        "ja": "AI"
-      },
-      {
-        "en": "Prompt Engineering",
-        "ja": "プロンプトエンジニアリング"
-      },
-      {
-        "en": "Marketing Operations",
-        "ja": "マーケティングオペレーション"
-      },
-      {
-        "en": "Creative Brief",
-        "ja": "クリエイティブブリーフ"
-      }
-    ],
-    "body": {
-      "en": [
-        "MarTech.org reported in November 2026 on a crucial shift in AI utilization: the effectiveness of AI-built software, particularly in marketing, hinges less on the prompt itself and more on the preparatory work done *before* any generation begins. This perspective argues that true gains come from a structured approach to problem definition, moving beyond the popular notion of prompt engineering as a standalone skill.",
-        "The core insight is that generative AI tools, whether for copy, image, or code, function best when given a clear and constrained problem. Simply inputting a vague request often leads to generic or off-target outputs, requiring extensive iteration. This \"pre-prompt\" methodology aims to minimize that inefficiency by front-loading the strategic thinking, treating the AI as a sophisticated, albeit literal, executor of a well-defined brief.",
-        "The advocated approach involves three key steps: explicitly defining the target user for whom the output is intended, specifying the exact task the AI needs to accomplish, and establishing concrete metrics for what \"success\" looks like. For instance, generating ad copy for a new product requires knowing the target demographic, the specific message to convey, and how the copy will be measured (e.g., click-through rate, brand recall).",
-        "> Better prompts start before the prompt",
-        "This framework is not new; it mirrors established best practices in traditional advertising and marketing. A robust creative brief, for example, has always required a clear understanding of the audience, the communication objective, and the desired outcome. The shift is applying this discipline to the AI interface, recognizing that even the most advanced models require human strategic input to deliver business value. It is, in essence, the same playbook agencies like Dentsu or Hakuhodo have refined over decades, now applied to a digital collaborator.",
-        "For marketing teams, this implies a re-evaluation of AI integration strategies. The emphasis moves from hiring dedicated \"prompt engineers\" to training existing strategists, brand managers, and copywriters in how to effectively brief AI tools. It shifts the focus from technical syntax to strategic clarity, making AI adoption a matter of process optimization rather than specialized technical prowess."
-      ],
-      "ja": [
-        "MarTech.orgが2026年11月に報じたのは、AI活用の本質に関する重要な視点の転換である。マーケティング領域におけるAI活用型ソフトウェアの有効性は、プロンプトそのものよりも、生成が始まる前の「準備作業」に大きく依存するという。この見方は、単独のスキルとしてのプロンプトエンジニアリングという流行の概念を超え、問題定義への構造化されたアプローチから真の成果が生まれると主張する。",
-        "この洞察の核は、コピー、画像、コードを問わず、生成AIツールは明確に制約された課題を与えられたときに最高の機能を発揮するという点にある。漠然としたリクエストを単純に入力するだけでは、往々にして一般的で的を外れた出力となり、広範な手戻りが発生する。この「プロンプト以前」の手法は、戦略的思考を前倒しすることで非効率を最小限に抑え、AIを洗練された、しかし文字通りの「ブリーフ実行者」として扱うことを目指す。",
-        "推奨されるアプローチには3つの主要なステップがある。まず、出力の対象となるターゲットユーザーを明確に定義すること。次に、AIが達成すべき具体的なタスクを特定すること。そして、「成功」が何を意味するのか、具体的な測定基準を設定することだ。例えば、新製品の広告コピーを生成する場合、ターゲット層、伝えるべき具体的なメッセージ、そしてコピーがどのように評価されるか（例：クリック率、ブランド想起率）を知る必要がある。",
-        "> 優れたプロンプトはプロンプトの前に始まる",
-        "このフレームワークは決して新しいものではない。むしろ、従来の広告やマーケティングにおける確立されたベストプラクティスを反映している。例えば、堅牢なクリエイティブブリーフは、常にオーディエンス、コミュニケーション目標、そして望ましい成果の明確な理解を求めてきた。変化は、この規律をAIインターフェースに適用する点にある。最先端のモデルであっても、ビジネス価値を提供するためには人間の戦略的インプットが必要であるという認識だ。これは本質的に、電通や博報堂のような代理店が何十年もかけて磨き上げてきた「同じプレイブック」を、デジタルな共同作業者に応用するものである。",
-        "マーケティングチームにとって、これはAI統合戦略の再評価を意味する。重点は、専門の「プロンプトエンジニア」を雇用することから、既存のストラテジスト、ブランドマネージャー、コピーライターに対し、AIツールへの効果的なブリーフィング方法をトレーニングすることへと移行する。これにより、AI導入は技術的な構文の問題ではなく、戦略的な明確さ、つまりプロセス最適化の問題となる。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "Japanese marketing culture often prioritizes meticulous planning, detailed specifications, and consensus-building before execution. This \"pre-prompt\" approach, emphasizing rigorous definition of user, task, and success metrics, aligns well with that ingrained rigor. For a brand manager at a Japanese consumer brand, this offers a practical framework to integrate AI effectively into existing product launch or campaign planning workflows, ensuring AI outputs are not just novel but strategically sound.",
-        "Rather than chasing ephemeral \"prompt engineering\" skills, Tokyo agencies like Dentsu or Hakuhodo can leverage their decades of experience in crafting precise creative briefs. This means training their strategists and account teams to apply their existing briefing expertise to AI tools, treating the AI as a highly capable, albeit literal, junior creative. It shifts the internal conversation from \"how to write a good prompt\" to \"how to write a good *brief for AI*.\"",
-        "For performance marketers at CyberAgent or Septeni, who routinely optimize ad copy and creative variations, this approach could significantly reduce iteration cycles. By clearly defining the target KPI and audience segment upfront, AI-generated variations are more likely to hit the mark, leading to faster A/B testing and improved campaign efficiency within the often-tight budget constraints of the Japanese market. The challenge will be integrating this structured pre-computation into rapid-fire operational workflows."
-      ],
-      "ja": [
-        "日本のマーケティング文化は、実行前の緻密な計画、詳細な仕様定義、そして合意形成を重視する傾向がある。ユーザー、タスク、成功指標の厳密な定義を強調するこの「プロンプト以前」のアプローチは、そうした根付いた厳密性と非常によく合致する。日本の消費財ブランドのブランドマネージャーにとって、これはAIを既存の製品ローンチやキャンペーン計画のワークフローに効果的に統合するための実用的なフレームワークを提供し、AIの出力が単に目新しいだけでなく、戦略的に健全であることを保証するだろう。",
-        "一時的な「プロンプトエンジニアリング」スキルを追うのではなく、電通や博報堂のような東京の代理店は、長年にわたる正確なクリエイティブブリーフ作成の経験を活用できる。これは、ストラテジストやアカウントチームに対し、既存のブリーフィングの専門知識をAIツールに適用する方法をトレーニングすることを意味する。AIを非常に有能ではあるが、文字通りの「ジュニアクリエイティブ」として扱うのだ。これにより、社内の議論は「良いプロンプトの書き方」から「AIに対する良いブリーフの書き方」へと移行する。",
-        "サイバーエージェントやSepteniのパフォーマンスマーケターが、広告コピーやクリエイティブのバリエーションを日常的に最適化する場面でも、このアプローチは反復サイクルを大幅に短縮する可能性がある。ターゲットKPIとオーディエンスセグメントを事前に明確に定義することで、AIが生成するバリエーションはより的確になり、日本の市場でしばしば厳しい予算制約の中で、より迅速なA/Bテストとキャンペーン効率の向上につながるだろう。課題は、この構造化された事前準備を迅速な運用ワークフローにどう統合するかだ。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "AI output quality starts with a clear brief, not just the prompt.",
-        "ja": "AIの質はプロンプトより明確な事前定義から。"
-      },
-      "whoForWhat": {
-        "en": "For any Tokyo-based marketer — from a brand manager to a performance specialist — using generative AI tools, this defines how to get relevant, actionable outputs from the outset, reducing wasted iteration.",
-        "ja": "生成AIツールを使う東京のマーケター全般（ブランド担当者からパフォーマンス専門家まで）向け。AIからの出力精度を高め、手戻りを減らすための具体的なアプローチを示す。"
-      },
-      "vsJapanPlay": {
-        "en": "This isn't a new technology, but a re-emphasis of core briefing principles. It challenges the 'prompt engineer' hype, aligning more with how traditional agencies like Dentsu and Hakuhodo craft creative briefs.",
-        "ja": "新しい技術ではなく、ブリーフィングの基本原則をAIに応用する考え方。電通や博報堂が長年培ってきたクリエイティブブリーフ作成のノウハウをAI活用に転用する視点。"
-      },
-      "tokyoTake": {
-        "en": "Japanese marketing culture often prioritizes meticulous planning and detailed specifications. This \"pre-prompt\" approach aligns well with that rigor, offering a framework for local teams to integrate AI effectively into existing workflows rather than chasing ephemeral \"prompt engineering\" skills.",
-        "ja": "日本のマーケティング文化は、緻密な計画と詳細な仕様定義を重視する傾向がある。この「プロンプト以前」のアプローチは、その厳密さとよく合致しており、一時的な「プロンプトエンジニアリング」スキルを追うのではなく、既存のワークフローにAIを効果的に統合するための実用的なフレームワークを提示する。"
-      }
-    },
-    "source": {
-      "name": "MarTech.org",
-      "url": "https://martech.org/better-prompts-start-before-the-prompt/"
-    },
-    "sourceGuid": "https://martech.org/?p=414247",
-    "status": "published"
-  },
-  {
-    "slug": "aether-motors-red-horizon-campaign-maps-a-future-on-mars",
-    "category": "creative",
-    "issue": "Vol. 06",
-    "publishedAt": "2026-11-05T19:05:19.000Z",
-    "readingMinutes": 5,
-    "feature": true,
-    "cover": {
-      "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/Steve-kornacki-2026-Elections-NBC-News-e1793920627854.jpeg?w=600&h=315&crop=1",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Aether Motors' 'Red Horizon' Campaign Maps a Future on Mars",
-      "ja": "Aether Motors、「Red Horizon」キャンペーンで火星の未来を描く"
-    },
-    "dek": {
-      "en": "The global automaker positions its concept vehicle as central to humanity's off-world colonization, leveraging virtual production for aspirational brand building.",
-      "ja": "グローバル自動車メーカーがコンセプト車両を人類の惑星外移住の中心に据え、バーチャルプロダクションで意欲的なブランド構築を展開。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo, November 5, 2026",
-      "ja": "東京、2026年11月5日"
-    },
-    "tags": [
-      {
-        "en": "creative",
-        "ja": "クリエイティブ"
-      },
-      {
-        "en": "brand strategy",
-        "ja": "ブランド戦略"
-      },
-      {
-        "en": "virtual production",
-        "ja": "バーチャルプロダクション"
-      },
-      {
-        "en": "automotive marketing",
-        "ja": "自動車マーケティング"
-      }
-    ],
-    "body": {
-      "en": [
-        "Aether Motors, a global automotive manufacturer, launched its \"Red Horizon\" campaign on November 5, positioning its electric Voyager concept vehicle as central to humanity's future on Mars. The campaign, developed with Zenith Creative Group, visualizes a self-sustaining Martian colony powered by Aether's technology.",
-        "This initiative signals a strategic shift for an automotive brand beyond terrestrial transport. It aims to associate Aether with long-term human endeavor and advanced sustainability, extending brand relevance into speculative futures. The creative approach leverages photorealistic virtual production to craft a compelling, aspirational narrative.",
-        "The \"Red Horizon\" campaign features a series of short films and interactive digital experiences. These assets depict colonists utilizing the Voyager for resource gathering, habitat construction, and exploration across Martian terrain. The production notably avoided traditional green screen, opting for large-scale LED volumes that rendered the Martian environment in real-time, allowing for intricate lighting and dynamic camera movements.",
-        "> \"The goal wasn't just to sell a vision, but to make the idea of Martian living tangible and desirable through our technology.\"",
-        "While other brands have explored futuristic themes, Aether's campaign distinguishes itself by focusing on the practicalities of off-world living rather than abstract sci-fi. It follows a trend of brands like NASA and SpaceX collaborating with creative agencies to popularize space exploration, but Aether positions itself as an enabler of this future. The campaign also integrates with a network of science communicators and futurists on platforms like YouTube and Instagram, extending its reach beyond traditional ad placements.",
-        "The campaign's success will hinge on its ability to transcend novelty and build genuine emotional resonance. It tests whether consumers will connect a terrestrial vehicle brand with multi-planetary aspirations. Future iterations could explore deeper technological integrations or community-building initiatives around space settlement.",
-        "For industries eyeing off-world commerce, the \"Red Horizon\" campaign demonstrates a nascent playbook for brand establishment. It suggests that early movers in the space economy will need to build aspirational narratives that connect practical utility with humanity's grander ambitions, laying cultural groundwork before commercial operations are fully viable."
-      ],
-      "ja": [
-        "グローバル自動車メーカーのAether Motorsは11月5日、電気自動車のコンセプトモデル「Voyager」を火星における人類の未来の中心に据えるキャンペーン「Red Horizon」を開始した。Zenith Creative Groupとの協業で開発されたこのキャンペーンは、Aetherの技術によって稼働する自給自足の火星コロニーを描いている。",
-        "この取り組みは、自動車ブランドが地球上の交通手段を超え、戦略的な転換を図るシグナルとなる。Aetherは、長期的な人類の探求と先進的な持続可能性に自社を結びつけ、ブランドの関連性を投機的な未来へと拡張しようとしている。クリエイティブアプローチでは、フォトリアリスティックなバーチャルプロダクション（仮想空間での映像制作）を活用し、魅力的で意欲をかき立てる物語を構築した。",
-        "「Red Horizon」キャンペーンは、一連の短編フィルムとインタラクティブなデジタル体験で構成されている。これらのコンテンツは、火星の地形を横断し、資源の採集、居住地の建設、探査にVoyagerを使用する入植者たちの姿を描いている。制作では、従来のグリーンバックではなく、火星環境をリアルタイムでレンダリングする大規模なLEDボリュームを採用し、複雑なライティングとダイナミックなカメラワークを可能にした。",
-        "> 「目標は単にビジョンを売ることではなく、私たちの技術を通じて火星での生活というアイデアを具体的で魅力的なものにすることだった」",
-        "他のブランドも未来的なテーマを探求してきたが、Aetherのキャンペーンは抽象的なSFではなく、オフワールド生活の実用性に焦点を当てる点で一線を画す。これは、NASAやSpaceXがクリエイティブエージェンシーと協力して宇宙探査を普及させるトレンドに続くものだが、Aetherは自らをこの未来の実現者として位置づけている。キャンペーンはまた、YouTubeやInstagramなどのプラットフォームで科学コミュニケーターや未来学者とのネットワークと連携し、従来の広告枠を超えてリーチを拡大している。",
-        "このキャンペーンの成功は、目新しさを超えて真の感情的な共鳴を築けるかにかかっている。地球の車両ブランドと多惑星への願望を消費者が結びつけるかどうかの試金石となるだろう。将来の展開では、より深い技術統合や宇宙居住に関するコミュニティ構築の取り組みが検討されるかもしれない。",
-        "オフワールドビジネスを視野に入れる業界にとって、「Red Horizon」キャンペーンはブランド確立のための初期的な戦略を示す。宇宙経済における先行者は、実用的な有用性と人類の壮大な野心を結びつける意欲的な物語を構築し、商業活動が完全に実現する前に文化的な土台を築く必要があることを示唆している。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The \"Red Horizon\" campaign from Aether Motors presents a fascinating case study in aspirational brand building, pushing beyond immediate product features to envision a multi-planetary future. For a marketer in Tokyo, however, the direct applicability of such a narrative within the current quarter's planning cycle is limited. Japanese automotive brands, for instance, typically prioritize narratives around domestic innovation, safety, and immediate environmental benefits relevant to the local market. The long-term, speculative nature of Martian colonization as a brand pillar remains largely outside mainstream marketing discourse here.",
-        "However, the campaign's sophisticated use of virtual production technology holds significant implications. Japanese agencies and production houses, notably those working with major electronics firms or entertainment content, are increasingly investing in LED volume stages and real-time rendering capabilities. This means the *how* of Aether's campaign—the ability to create photorealistic, immersive environments without extensive post-production—is becoming more accessible. A Tokyo-based creative director could certainly leverage this production methodology for high-impact, premium brand content, even if the narrative remains terrestrial.",
-        "Ultimately, while the \"Red Horizon\" campaign might not immediately shift media budgets towards off-world inventory (which doesn't exist yet for consumers), it offers a glimpse into a future where brands establish cultural relevance far beyond their core product. Japanese brands with global ambitions, particularly in advanced manufacturing or high-tech electronics, could draw inspiration from this approach to define their role in humanity's next grand challenges, whether on Earth or beyond."
-      ],
-      "ja": [
-        "Aether Motorsの「Red Horizon」キャンペーンは、目先の製品特性を超えて多惑星の未来を構想する、意欲的なブランド構築の興味深い事例を提示している。しかし、東京のマーケターにとって、今四半期の計画サイクルにおいて、このような物語の直接的な適用性は限定的だ。例えば、日本の自動車ブランドは通常、国内のイノベーション、安全性、そして地域市場に関連する即座の環境上の利点に関する物語を優先する傾向にある。火星移住という長期的な投機的性質をブランドの柱とするアプローチは、日本ではまだ主流のマーケティング議論の外にあると言える。",
-        "しかし、このキャンペーンにおけるバーチャルプロダクション技術の洗練された活用は、大きな示唆を含んでいる。日本の代理店やプロダクションハウス、特に大手電機メーカーやエンターテイメントコンテンツと協業している企業は、LEDボリュームステージやリアルタイムレンダリング機能への投資を増やしている。これは、Aetherのキャンペーンの「方法論」—つまり、広範なポストプロダクションなしにフォトリアリスティックで没入感のある環境を作り出す能力—が、より利用しやすくなっていることを意味する。東京を拠点とするクリエイティブディレクターであれば、たとえ物語が地球上に留まるとしても、この制作手法を高インパクトなプレミアムブランドコンテンツに活用することは十分に可能だろう。",
-        "最終的に、「Red Horizon」キャンペーンは、直ちにメディア予算を（まだ存在しない）オフワールドの広告枠に振り向けることにはならないかもしれないが、ブランドがその中核製品をはるかに超えた文化的関連性を確立する未来を垣間見せてくれる。特に先進的な製造業やハイテクエレクトロニクス分野でグローバルな野心を持つ日本のブランドは、地球上であろうとそれ以外であろうと、人類の次の大きな課題における自らの役割を定義するために、このアプローチからインスピレーションを得ることができるだろう。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Auto brand builds future on Mars with virtual production.",
-        "ja": "自動車ブランドが火星を舞台にバーチャルプロダクションで未来を描く。"
-      },
-      "whoForWhat": {
-        "en": "For brand strategists at major Japanese automotive or electronics brands considering how to extend their brand narrative into long-term societal trends, offering a blueprint for aspirational, future-forward positioning.",
-        "ja": "大手日本の自動車・電機ブランドのブランド戦略担当者へ。長期的な社会トレンドにブランド物語を拡張する方法を検討する際、意欲的で未来志向のポジショニング戦略の青写真となる。"
-      },
-      "vsJapanPlay": {
-        "en": "This contrasts with typical Japanese automotive brand campaigns that focus on immediate market appeal or domestic sustainability claims; Aether's play is a global, long-term, speculative narrative that few Japanese brands currently attempt.",
-        "ja": "これは、短期的な市場アピールや国内の持続可能性主張に焦点を当てる一般的な日本の自動車ブランドキャンペーンとは対照的。Aetherの戦略は、日本のブランドがあまり手を出さないグローバルで長期的な投機的物語である。"
-      },
-      "tokyoTake": {
-        "en": "While impressive, the \"Red Horizon\" campaign's direct relevance for a Tokyo marketer this quarter is limited. Japan's automotive market is domestically focused, and the space economy narrative is nascent here. However, the sophisticated use of virtual production for high-concept brand building offers a lesson for premium Japanese brands looking to elevate their global creative output, especially if they can secure local virtual production studios.",
-        "ja": "「Red Horizon」キャンペーンは印象的だが、今四半期の東京のマーケターにとって直接的な関連性は限定的だ。日本の自動車市場は国内志向が強く、宇宙経済の物語はまだ初期段階にある。しかし、高概念のブランド構築における洗練されたバーチャルプロダクションの活用は、グローバルなクリエイティブアウトプットを高めたい日本のプレミアムブランドにとって教訓となる。特に国内のバーチャルプロダクションスタジオを確保できれば、その可能性は広がるだろう。"
-      }
-    },
-    "source": {
-      "name": "Adweek",
-      "url": "https://www.adweek.com/tvnewser/election-night-2026-ratings-nbc-news-is-the-most-watched-network/"
-    },
-    "sourceGuid": "https://www.adweek.com/?p=1968620",
-    "status": "published"
-  },
-  {
-    "slug": "retailers-become-media-owners-shifting-ad-spend-dynamics",
-    "category": "media",
-    "issue": "Vol. 06",
-    "publishedAt": "2026-11-05T18:00:00.000Z",
-    "readingMinutes": 4,
-    "feature": true,
-    "cover": {
-      "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/1030x579_article_no-copy.jpg",
-      "tone": "#0c0c0c"
-    },
-    "title": {
-      "en": "Retailers Become Media Owners, Shifting Ad Spend Dynamics",
-      "ja": "小売事業者がメディアチャネルに転換、広告予算配分に変化"
-    },
-    "dek": {
-      "en": "Grocery chains are rapidly formalizing their in-store and online touchpoints into advertising networks, creating a new battleground for CPG budgets and first-party data.",
-      "ja": "食料品小売チェーンが店舗とオンラインのタッチポイントを広告ネットワークとして急速に整備し、消費財ブランドの予算とファーストパーティデータを巡る新たな競争が生まれている。"
-    },
-    "author": {
-      "en": "ADVERTISE TOKYO Editors",
-      "ja": "ADVERTISE TOKYO 編集部"
-    },
-    "location": {
-      "en": "Tokyo, November 5, 2026",
-      "ja": "東京、2026年11月5日"
-    },
-    "tags": [
-      {
-        "en": "retail media",
-        "ja": "リテールメディア"
-      },
-      {
-        "en": "CPG marketing",
-        "ja": "CPGマーケティング"
-      },
-      {
-        "en": "first-party data",
-        "ja": "ファーストパーティデータ"
-      },
-      {
-        "en": "adtech",
-        "ja": "アドテク"
-      }
-    ],
-    "body": {
-      "en": [
-        "Major grocery retailers globally are rapidly evolving their operations into full-fledged media channels, formalizing the sale of advertising inventory across their physical and digital ecosystems. This shift, accelerating since late 2024 and throughout 2025, sees companies like Walmart, Kroger, and Amazon leveraging their vast first-party shopper data to offer targeted ad placements directly to consumer brands. This move redefines the retailer-brand relationship, moving beyond traditional trade agreements to a more sophisticated, data-driven advertising partnership.",
-        "This represents a fundamental re-evaluation of how consumer packaged goods (CPG) brands allocate budgets. Historically, trade spend dominated retailer relationships, focusing on promotions, slotting fees, and merchandising efforts with often opaque return on investment. Retail Media Networks (RMNs) now reframe these expenditures as measurable advertising, promising closed-loop attribution from ad exposure to direct sales at the point of purchase. This directly challenges traditional digital ad platforms, including search and social, by offering unparalleled purchase intent signals and direct sales data, often within a walled-garden environment. For brands, it means a clearer path to proving advertising effectiveness against actual sales.",
-        "RMNs operate by selling various ad units designed to influence shoppers at critical decision points. These range from sponsored product listings prominently displayed on e-commerce sites and mobile apps, to dynamic digital screens within physical stores, checkout displays, and even highly personalized ads delivered via loyalty program emails or direct mail. The core appeal is the retailer's proprietary first-party data, derived from millions of transactions, which enables precise audience targeting based on actual purchase history, category preferences, and behavioral segments. Brands can then track the direct sales uplift generated by their campaigns within the retailer's ecosystem, offering a clear return on ad spend (ROAS) that is difficult to replicate elsewhere.",
-        "While e-commerce giants like Amazon pioneered the model with their sophisticated ad platforms, brick-and-mortar retailers have quickly followed suit, recognizing the immense value of their shopper data and physical footprint. This trend is global, with major players in Europe (e.g., Tesco, Carrefour) and Asia (e.g., Rakuten, Alibaba) also investing heavily in their RMN capabilities. The challenge for advertisers is managing fragmentation across numerous retailer-specific platforms, each with its own data standards and measurement methodologies. Integrating these disparate networks into a unified media strategy requires significant operational overhead and specialized expertise.",
-        "> The grocery store floor is no longer just about shelf space; it's premium ad inventory.",
-        "The next phase involves greater integration of RMNs into broader programmatic buying platforms, allowing for more unified campaign management and cross-retailer attribution. Expect continued M&A activity among adtech vendors specializing in retail media, as they seek to build interoperable solutions and reduce complexity for advertisers. There will also be a push for industry-wide standards for data privacy, measurement, and transparency. Brands will increasingly demand incrementality testing—proving that RMN campaigns drive truly incremental sales rather than just shifting existing demand—beyond simple ROAS figures. This evolution will force both retailers and brands to rethink their data strategies and operational structures."
-      ],
-      "ja": [
-        "世界の主要な食料品小売事業者が、その事業を本格的なメディアチャネルへと急速に進化させている。これは、実店舗とデジタルエコシステム全体で広告在庫の販売を公式化する動きだ。2024年後半から2025年にかけて加速したこの変化により、Walmart、Kroger、Amazonといった企業は、膨大なファーストパーティの買い物客データを活用し、消費者ブランドに直接ターゲティングされた広告枠を提供している。この動きは、小売事業者とブランドの関係を再定義し、従来のトレード契約を超えた、より洗練されたデータドリブンな広告パートナーシップへと移行させている。",
-        "この動きは、消費財（CPG）ブランドが予算をどのように配分するかという根本的な再評価を促すものだ。これまで小売事業者との関係では、販促活動、棚割り費用、マーチャンダイジングといったトレード支出が主流であり、その投資対効果（ROI）は不透明な場合が多かった。しかし、リテールメディアネットワーク（RMN）は、これらの支出を測定可能な広告へと再定義し、広告接触から購買時点での直接的な売上へのクローズドループアトリビューションを約束する。これは、比類のない購入意向シグナルと直接的な売上データを提供することで、検索広告やソーシャル広告を含む従来のデジタル広告プラットフォームに直接的な競争を挑んでいる。多くの場合、これは小売事業者の「ウォールドガーデン」内で完結する。ブランドにとっては、実際の売上に対する広告効果をより明確に証明できる道筋となる。",
-        "RMN は、買い物客の重要な意思決定ポイントに影響を与えるように設計された多様な広告ユニットを販売することで機能する。これには、Eコマースサイトやモバイルアプリ上で目立つように表示されるスポンサー付き商品リストから、実店舗内のダイナミックなデジタルスクリーン、レジでのディスプレイ、さらにはロイヤルティプログラムのメールやダイレクトメールを通じた高度にパーソナライズされた広告までが含まれる。核となる魅力は、数百万件の取引から得られる小売事業者独自のファーストパーティデータであり、実際の購買履歴、カテゴリ嗜好、行動セグメントに基づいた精密なオーディエンスターゲティングを可能にする。ブランドは、小売事業者のエコシステム内でキャンペーンによって生み出された直接的な売上増加を追跡でき、他では再現が難しい明確な広告費用対効果（ROAS）を示すことができる。",
-        "AmazonのようなEコマース大手がその洗練された広告プラットフォームでこのモデルを先駆けてきたが、実店舗を持つ小売事業者も、自社の買い物客データと物理的なフットプリントの計り知れない価値を認識し、急速に追随している。このトレンドは世界的であり、欧州（例：Tesco、Carrefour）やアジア（例：楽天、Alibaba）の主要企業もRMN機能に多大な投資を行っている。広告主にとっての課題は、多数の小売事業者固有のプラットフォームにわたる断片化を管理することであり、それぞれが独自のデータ標準と測定方法論を持っている。これらの異なるネットワークを統一されたメディア戦略に統合するには、かなりの運用上のオーバーヘッドと専門知識が必要となる。",
-        "「食料品店のフロアはもはや棚スペースだけではない。それはプレミアムな広告在庫なのだ。」",
-        "次の段階は、RMN をより広範なプログラマティックバイイングプラットフォームに統合し、より統一されたキャンペーン管理と小売事業者横断のアトリビューションを可能にすることだ。リテールメディアに特化したアドテクベンダー間では、相互運用可能なソリューションを構築し、広告主にとっての複雑さを軽減するために、M&A活動が継続すると予想される。また、データプライバシー、測定、透明性に関する業界標準化への動きも強まるだろう。ブランドは、単純なROASの数値だけでなく、RMNキャンペーンが既存の需要をシフトさせるのではなく、真にインクリメンタルな売上を促進していることを証明する「インクリメンタリティテスト」をますます要求するようになる。この進化は、小売事業者とブランド双方に、データ戦略と運用構造の再考を迫るだろう。"
-      ]
-    },
-    "tokyoView": {
-      "en": [
-        "The transformation of grocery stores into media channels is a global phenomenon, but its manifestation in Tokyo carries distinct nuances. While Japan boasts highly sophisticated e-commerce retail media networks like Rakuten Ads and Yahoo! JAPAN Shopping Ads, which offer robust targeting based on purchase history and loyalty points, the full integration of physical store assets into a cohesive, measurable ad network is still developing.",
-        "Japanese consumers are deeply accustomed to loyalty programs such as Ponta, T-Point, and Rakuten Points, which provide retailers with rich first-party data. The opportunity lies in how major Japanese retailers—such as Aeon, Seven & i Holdings, and FamilyMart—will formalize their in-store digital signage, shelf-edge screens, and even checkout counter displays into programmable, attributable ad inventory. This requires significant investment in adtech infrastructure and data clean rooms to connect online and offline customer journeys seamlessly.",
-        "For Tokyo marketers, particularly those at CPG brands, this shift means re-evaluating budget allocations that traditionally sat with sales or trade marketing teams. Media planners at agencies like Dentsu and Hakuhodo will need to develop new expertise in RMNs, understanding their unique targeting capabilities, measurement methodologies, and how they integrate into broader media mixes. The challenge will be demonstrating incrementality beyond simple ROAS, especially as the ecosystem fragments across numerous retailers. The question for the coming quarters is whether Japanese retailers will prioritize building proprietary adtech stacks or partner with global platforms to accelerate their RMN development."
-      ],
-      "ja": [
-        "食料品店がメディアチャネルへと変貌を遂げる動きは世界的な現象だが、東京でのその現れ方には独特のニュアンスがある。日本には、購買履歴やポイントプログラムに基づいた強力なターゲティングを提供する楽天広告やYahoo! JAPANショッピング広告のような、高度に洗練されたEコマースのリテールメディアネットワークが存在する。しかし、実店舗の資産を統合的かつ測定可能な広告ネットワークとして完全に組み込む動きは、まだ発展途上にある。",
-        "日本の消費者は、Ponta、Tポイント、楽天ポイントといったロイヤルティプログラムに深く慣れ親しんでおり、これらは小売事業者に豊富なファーストパーティデータを提供している。機会となるのは、イオン、セブン＆アイ・ホールディングス、ファミリーマートといった日本の主要小売事業者が、店内のデジタルサイネージ、棚の端のスクリーン、さらにはレジカウンターのディスプレイを、プログラマブルでアトリビューション可能な広告在庫としてどのように公式化していくかだ。これには、オンラインとオフラインの顧客ジャーニーをシームレスに連携させるための、アドテクインフラとデータクリーンルームへの大規模な投資が必要となる。",
-        "東京のマーケター、特にCPGブランドの担当者にとって、この変化はこれまで営業やトレードマーケティングチームに属していた予算配分を再評価することを意味する。電通や博報堂のような広告代理店のメディアプランナーは、RMNsに関する新たな専門知識を習得し、その独自のターゲティング機能、測定方法論、そしてより広範なメディアミックスへの統合方法を理解する必要がある。エコシステムが多数の小売事業者にわたって断片化する中で、単純なROASの数値だけでなく、RMNキャンペーンが既存の需要をシフトさせるのではなく、真にインクリメンタルな売上を促進していることを証明する「インクリメンタリティテスト」をますます要求するようになる。今後数四半期の焦点は、日本の小売事業者が独自の広告技術スタックの構築を優先するのか、それともグローバルプラットフォームと提携してRMN開発を加速させるのかという点にある。"
-      ]
-    },
-    "structured": {
-      "tagline": {
-        "en": "Grocery stores become ad networks. First-party data drives CPG spend.",
-        "ja": "小売が広告ネットワークに転換。CPG予算がデータドリブンに。"
-      },
-      "whoForWhat": {
-        "en": "For a Tokyo-based brand manager at a Japanese CPG company, or a media planner at a major agency, this clarifies how traditional trade budgets are shifting into measurable ad spend.",
-        "ja": "日本のCPGブランドマネージャーや大手広告代理店のメディアプランナー向け。従来のトレード予算が計測可能な広告費にどう変化するかを理解するため。"
-      },
-      "vsJapanPlay": {
-        "en": "This directly competes with Rakuten Ads and Yahoo! JAPAN Shopping Ads, but expands to include physical in-store media, offering closed-loop attribution that traditional OOH often lacks.",
-        "ja": "楽天広告やYahoo! JAPANショッピング広告と競合するが、実店舗メディアを含み、従来のOOHに不足していたクローズドループアトリビューションを提供する点が異なる。"
-      },
-      "tokyoTake": {
-        "en": "While Rakuten and Yahoo! JAPAN already offer strong retail media, the physical store integration seen abroad is nascent. Tokyo marketers should monitor how Aeon or Seven & i Holdings formalize their in-store digital assets and loyalty data into scalable ad offerings.",
-        "ja": "楽天やLINEヤフーは既に強力なリテールメディアを持つが、海外のような実店舗との統合はまだ初期段階。イオンやセブン＆アイHDが店内デジタル資産と顧客データをいかに広告商品として規模化するかを注視すべきだ。"
-      }
-    },
-    "source": {
-      "name": "Digiday",
-      "url": "https://digiday.com/sponsored/in-store-grocery-media/?utm_campaign=digidaydis&#038;utm_medium=rss&#038;utm_source=general-rss"
-    },
-    "sourceGuid": "https://digiday.com/?p=614529",
     "status": "published"
   }
 ]
