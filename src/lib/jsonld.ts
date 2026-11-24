@@ -2,9 +2,7 @@ import type { Article } from "@/data/articles";
 import type { Lang } from "@/lib/i18n";
 import { siteConfig } from "@/site.config";
 
-const SITE_URL =
-  (typeof process !== "undefined" && process.env.NEXT_PUBLIC_SITE_URL) ||
-  siteConfig.brand.siteUrl;
+const SITE_URL = siteConfig.brand.siteUrl;
 
 export function buildArticleJsonLd(article: Article, lang: Lang) {
   return {
