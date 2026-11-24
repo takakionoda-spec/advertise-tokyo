@@ -18,7 +18,7 @@ const subject = siteConfig.brand.subject.en;
 const seoDescription = subject.charAt(0).toUpperCase() + subject.slice(1) + ".";
 
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? brand.siteUrl),
+  metadataBase: new URL(brand.siteUrl),
   title: {
     default: `${brand.name} — ${aboutHeadline}`,
     template: `%s · ${brand.name}`
