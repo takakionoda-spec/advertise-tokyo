@@ -94,6 +94,12 @@ export type AffiliateLink = {
    The configuration object itself.
    ------------------------------------------------------------------------- */
 export const siteConfig = {
+  /* -------------------------------------------------------------- ANALYTICS */
+  analytics: {
+    /** GA4 measurement ID (G-XXXXXXXXXX). Empty string = no tag rendered.
+     *  NEXT_PUBLIC_GA_ID, when set, takes precedence. */
+    gaMeasurementId: "G-X7M477MR4F"
+  },
   /* ------------------------------------------------------------------ BRAND */
   brand: {
     name: "ADVERTISE TOKYO",
@@ -101,7 +107,7 @@ export const siteConfig = {
     /** Canonical site URL — vercel.app subdomain until the custom domain
      *  arrives (swap to https://www.advertise-tokyo.com — or whatever final
      *  domain — once registered, and update Vercel NEXT_PUBLIC_SITE_URL). */
-    siteUrl: "https://advertise-tokyo.vercel.app",
+    siteUrl: "https://www.advertise-tokyo.com",
     subject: {
       en: "the world's cutting-edge marketing — delivered to every marketer in Japan, in both English and Japanese, every morning, for free",
       ja: "世界の最先端マーケティングを、東京にいながら実感できる無料のバイリンガル WEB メディア。すべての日本のマーケッターへ毎朝お届けします"
